@@ -1,0 +1,32 @@
+name: Prolonger le jeton Instagram
+
+# Le jeton Instagram expire au bout de 60 jours. Ce workflow le prolonge le 1er et le 15 de chaque mois
+# et met à jour le secret automatiquement (nécessite le secret GH_PAT, voir GUIDE.md).
+on:
+  schedule:
+    - cron: "0 4 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  jeton:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pyyaml
+      - name: Prolonger et enregistrer
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          NOUVEAU=$(python -c "from curioza import instagram; print(instagram.rafraichir_jeton())")
+          echo "::add-mask::$NOUVEAU"
+          if [ -n "$GH_TOKEN" ]; then
+            gh secret set IG_ACCESS_TOKEN --body "$NOUVEAU" --repo "$GITHUB_REPOSITORY"
+            echo "Jeton prolongé et secret mis à jour."
+          else
+            echo "Jeton prolongé côté Instagram. Ajoute le secret GH_PAT pour la mise à jour automatique du secret."
+          fi

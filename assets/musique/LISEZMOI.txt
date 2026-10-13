@@ -1,0 +1,9 @@
+Dépose ici des musiques libres de droits au format .mp3 (5 à 15 morceaux suffisent).
+Le montage des Reels en choisit une au hasard pour chaque vidéo.
+
+Où les trouver gratuitement (usage commercial autorisé) :
+ - Bibliothèque audio YouTube (studio.youtube.com > Bibliothèque audio), filtre « Attribution non requise »
+ - Pixabay Music (pixabay.com/music)
+
+Sans fichier ici, le système crée une nappe d'ambiance synthétique (libre de droits).
+Rappel : les Reels publiés par l'API ne peuvent pas utiliser la bibliothèque musicale d'Instagram.

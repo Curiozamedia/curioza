@@ -1,0 +1,158 @@
+"""Génération des images IA.
+
+Chaque type d'image a sa chaîne de modèles dans config.yaml (ia_image) : le premier disponible
+est utilisé, les suivants servent de secours.
+  - Cloudflare Workers AI : gratuit jusqu'à ~170 images/jour (CF_ACCOUNT_ID + CF_API_TOKEN)
+  - Google (Gemini API) : Nano Banana ~0,039 $ l'image, qualité haut de gamme (GEMINI_API_KEY)
+  - Replicate : facultatif, mêmes modèles via un intermédiaire (REPLICATE_API_TOKEN)
+Sans aucune clé : fonds d'aperçu procéduraux (mode démo).
+"""
+from __future__ import annotations
+
+import base64
+import io
+import os
+import time
+
+import requests
+from PIL import Image
+
+from . import rendu
+
+STYLE_COMMUN = (
+    "photorealistic, cinematic lighting, ultra detailed, vivid saturated colors, shallow depth of field, "
+    "shot on 35mm, dramatic composition, vertical 4:5 framing, main subject in the upper two thirds, "
+    "empty darker area at the bottom for a caption, no text, no letters, no watermark, no logo"
+)
+STYLE_DEVINETTE = (
+    "photorealistic, natural light, clean simple composition, smartphone photo look, vertical 9:16, no watermark"
+)
+
+
+def _cloudflare_dispo() -> bool:
+    return bool(os.environ.get("CF_ACCOUNT_ID") and os.environ.get("CF_API_TOKEN"))
+
+
+def _replicate_dispo() -> bool:
+    return bool(os.environ.get("REPLICATE_API_TOKEN"))
+
+
+def _google_dispo() -> bool:
+    return bool(os.environ.get("GEMINI_API_KEY"))
+
+
+def _google(prompt: str, modele: str, ratio: str) -> Image.Image:
+    """Nano Banana directement chez Google (Gemini API, clé créée sur aistudio.google.com)."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modele}:generateContent"
+    corps = {"contents": [{"parts": [{"text": prompt}]}],
+             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": ratio}}}
+    r = requests.post(url, headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, json=corps, timeout=180)
+    if r.status_code == 429:
+        time.sleep(20)
+    r.raise_for_status()
+    for cand in r.json().get("candidates", []):
+        for part in cand.get("content", {}).get("parts", []):
+            donnees = (part.get("inlineData") or part.get("inline_data") or {}).get("data")
+            if donnees:
+                return Image.open(io.BytesIO(base64.b64decode(donnees)))
+    raise RuntimeError(f"Pas d'image dans la réponse Google : {r.text[:300]}")
+
+
+def mode_apercu() -> bool:
+    return not (_cloudflare_dispo() or _replicate_dispo() or _google_dispo())
+
+
+class QuotaEpuise(RuntimeError):
+    pass
+
+
+_cloudflare_epuise = False  # une fois le quota gratuit du jour atteint, on passe directement au secours
+
+
+def _cloudflare(prompt: str, modele: str) -> Image.Image:
+    url = (f"https://api.cloudflare.com/client/v4/accounts/{os.environ['CF_ACCOUNT_ID']}"
+           f"/ai/run/{modele}")
+    r = requests.post(url, headers={"Authorization": f"Bearer {os.environ['CF_API_TOKEN']}"},
+                      json={"prompt": prompt[:2000], "steps": 4}, timeout=120)
+    if r.status_code == 429 or "neurons" in r.text.lower() and not r.ok:
+        raise QuotaEpuise(r.text[:200])
+    r.raise_for_status()
+    data = r.json()
+    if not data.get("success", True):
+        raise RuntimeError(str(data.get("errors"))[:300])
+    img_b64 = data["result"]["image"]
+    return Image.open(io.BytesIO(base64.b64decode(img_b64)))
+
+
+def _entree_modele(modele: str, prompt: str, ratio: str) -> dict:
+    if "flux" in modele:
+        return {"prompt": prompt, "aspect_ratio": ratio, "output_format": "jpg", "output_quality": 95,
+                "num_outputs": 1, "go_fast": True}
+    # nano-banana et modèles similaires
+    return {"prompt": prompt, "aspect_ratio": ratio, "output_format": "jpg"}
+
+
+def _vers_image(sortie) -> Image.Image:
+    if isinstance(sortie, (list, tuple)):
+        sortie = sortie[0]
+    if hasattr(sortie, "read"):
+        return Image.open(io.BytesIO(sortie.read()))
+    url = str(sortie)
+    r = requests.get(url, timeout=120)
+    r.raise_for_status()
+    return Image.open(io.BytesIO(r.content))
+
+
+def _replicate(prompt: str, modele: str, ratio: str) -> Image.Image:
+    import replicate  # importé ici pour que le mode démo fonctionne sans la librairie
+    sortie = replicate.run(modele, input=_entree_modele(modele, prompt, ratio))
+    return _vers_image(sortie)
+
+
+def chaine_pour(cfg: dict, role: str) -> list[str]:
+    """Liste ordonnée « fournisseur:modèle » pour un rôle (couverture, slide, devinette)."""
+    ia = cfg["ia_image"]
+    return ia.get(role) or ia.get("slide") or ["cloudflare:@cf/black-forest-labs/flux-1-schnell"]
+
+
+def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinette: bool = False,
+            texte_dans_image: bool = False, role: str | None = None) -> Image.Image:
+    """Renvoie une image PIL. Sans aucune clé : fond d'aperçu procédural.
+    `role` choisit la chaîne de modèles : « couverture » (qualité maximale), « slide », « devinette »."""
+    taille = tuple(cfg["style"]["format_reel" if ratio == "9:16" else "format"])
+    if mode_apercu():
+        return rendu.fond_apercu(graine, taille, libelle="aperçu — l'image IA viendra ici")
+
+    role = role or ("devinette" if devinette else "slide")
+    style = STYLE_DEVINETTE if devinette else STYLE_COMMUN
+    if texte_dans_image:
+        style = style.replace("no text, no letters, ", "")
+    prompt_complet = f"{prompt}. {style}"
+    derniere_erreur = None
+
+    global _cloudflare_epuise
+    for entree in chaine_pour(cfg, role):
+        fournisseur, _, modele = entree.partition(":")
+        if fournisseur == "cloudflare" and (not _cloudflare_dispo() or _cloudflare_epuise):
+            continue
+        if fournisseur == "replicate" and not _replicate_dispo():
+            continue
+        if fournisseur == "google" and not _google_dispo():
+            continue
+        for essai in range(3):
+            try:
+                if fournisseur == "cloudflare":
+                    return _cloudflare(prompt_complet, modele).convert("RGB")
+                if fournisseur == "google":
+                    return _google(prompt_complet, modele, ratio).convert("RGB")
+                return _replicate(prompt_complet, modele, ratio).convert("RGB")
+            except QuotaEpuise as e:
+                _cloudflare_epuise = True
+                derniere_erreur = e
+                break
+            except Exception as e:  # modèle indisponible, filtre, réseau…
+                derniere_erreur = e
+                time.sleep(4 * (essai + 1))
+    if isinstance(derniere_erreur, QuotaEpuise):
+        raise derniere_erreur
+    raise RuntimeError(f"Génération d'image impossible avec tous les fournisseurs : {derniere_erreur}")

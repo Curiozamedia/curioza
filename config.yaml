@@ -1,0 +1,101 @@
+# ============================================================
+#  CURIOZA — configuration du système (nom provisoire)
+#  Tout ce qui se règle sans toucher au code est ici.
+# ============================================================
+
+compte:
+  nom: "CURIOZA"                 # nom affiché en haut de chaque visuel
+  pseudo: "curiozamedia"         # ton @ Instagram (sans le @)
+  thematique: "culture générale, curiosités, absurde et nostalgie, version divertissement"
+  langue: "fr"
+
+# ---------- Identité visuelle (même recette qu'Opulancia) ----------
+style:
+  format: [1080, 1350]           # carrousel 4:5
+  format_reel: [1080, 1920]      # Reel 9:16
+  couleur_accent: "#F4B400"      # jaune doré des mots-clés
+  couleur_texte: "#FFFFFF"
+  couleur_texte_encadre: "#111111"   # texte noir dans l'encadré doré
+  hauteur_degrade: 0.55          # part de l'image couverte par le dégradé noir (bas)
+  police_titre: "assets/fonts/Anton-Regular.ttf"
+  police_texte: "assets/fonts/Montserrat.ttf"
+  # Ta petite signature (pour ne pas être un clone) :
+  signature: "bande"             # "bande" = fine ligne dorée sous le nom, "aucune" pour désactiver
+
+# ---------- Rythme de publication (heures de Paris) ----------
+# Phase démarrage pendant les premières semaines, puis rythme d'Opulancia.
+rythme:
+  date_lancement: "2026-10-14"   # lundi de la 1re semaine publiée
+  semaines_demarrage: 0          # 0 = rythme complet dès le lancement (mettre 2 pour une montée progressive)
+  demarrage:
+    carrousels: ["08:00", "11:00", "17:00"]
+    reels: ["21:00"]
+  normal:
+    carrousels: ["08:00", "11:00", "14:00", "17:00", "20:00"]
+    reels: ["13:00", "21:00"]
+
+# Reels : "manuel" = le système prépare la vidéo SANS musique ; tu la publies depuis l'app Instagram
+#          en ajoutant un son tendance (30 s par Reel). C'est ce que fait Opulancia.
+#          "auto"  = publication automatique avec une musique libre de droits (assets/musique).
+reels_publication: "manuel"
+
+# true = un post n'est publié que si tu l'as passé en "ok" dans le planning.
+# false = tout ce qui n'est pas "refuse" part automatiquement.
+validation_requise: true
+
+# ---------- Contenus ----------
+categories:
+  absurde:
+    poids: 3
+    description: "Concept visuel absurde et dérangeant-drôle. Ex : 'On a mis des dents humaines à des animaux… on a regretté direct'. Chaque slide montre une variante du concept."
+  nostalgie:
+    poids: 2
+    description: "'Il y a 30 ans, on trouvait ça normal' : objets, habitudes, pubs, école, années 80-2000 en France."
+  anecdote:
+    poids: 2
+    description: "Histoires surprenantes derrière des inventions, objets du quotidien ou phénomènes connus. Faits solides et vérifiables uniquement."
+  pays:
+    poids: 2
+    description: "Série récurrente 'France vs <pays> : où choisirais-tu de vivre ?' ou '5 choses que <pays> fait mieux que la France'. Mêmes deux personnages à chaque épisode."
+  vie:
+    poids: 1
+    description: "Leçons de vie / psychologie / conseils : 'Apprends ces 6 valeurs à ton enfant…', 'Ton cerveau sous-estime…'."
+
+slides_par_carrousel: [6, 8]     # min, max (couverture + contenu + slide finale)
+hashtags_par_post: 5
+
+# Règles de sécurité appliquées à toutes les générations
+interdits:
+  - "personnes réelles identifiables (célébrités, politiques, patrons)"
+  - "logos, marques, mascottes ou personnages protégés"
+  - "violence graphique, contenu sexuel, drames réels"
+  - "fausses informations présentées comme vraies"
+
+# Les deux personnages récurrents de la série "pays" (décrits pour l'IA image)
+personnages_serie_pays:
+  francais: "un Français de 30 ans, cheveux bruns en bataille, barbe de 3 jours, béret noir, chemise bleu marine, souriant et chambreur"
+  etranger: "un homme de 30 ans habillé de façon typique et élégante du pays comparé, sourire complice"
+
+# ---------- Fournisseurs ----------
+ia_texte:
+  modele: "claude-haiku-5-5"     # API Claude (console.anthropic.com)
+ia_image:
+  # Format « fournisseur:modèle ». Le premier disponible est utilisé, les suivants servent de secours.
+  # Couverture = la slide qui fait arrêter le scroll : qualité maximale (Nano Banana chez Google, ~0,039 $ l'image).
+  couverture: ["google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
+  # Slides intérieures : qualité maximale aussi (mettre la ligne « économique » pour ~gratuit).
+  slide: ["google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
+  # slide: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "google:gemini-2.5-flash-image"]   # économique
+  # Décor des devinettes : simple, le modèle gratuit suffit.
+  devinette: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "replicate:black-forest-labs/flux-schnell"]
+
+radar_reddit:
+  actif: true
+  subreddits: ["aivideo", "midjourney", "StableDiffusion", "interestingasfuck", "nostalgia"]
+  nb_titres: 40
+
+# Hébergement des médias : GitHub Pages (gratuit). Adresse de ton site Pages :
+# https://<ton-pseudo-github>.github.io/<nom-du-depot>/
+url_pages: "https://curiozamedia.github.io/curioza/"
+depot_github: "Curiozamedia/curioza"   # pour les liens "modifier" du calendrier
+fuseau: "Europe/Paris"
