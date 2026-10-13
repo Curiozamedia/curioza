@@ -22,6 +22,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           VERTEX_API_KEY: ${{ secrets.VERTEX_API_KEY }}
           VERTEX_PROJECT: ${{ secrets.VERTEX_PROJECT }}
+          VERTEX_SA_JSON: ${{ secrets.VERTEX_SA_JSON }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: python tester_cles.py

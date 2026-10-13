@@ -49,6 +49,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           VERTEX_API_KEY: ${{ secrets.VERTEX_API_KEY }}
           VERTEX_PROJECT: ${{ secrets.VERTEX_PROJECT }}
+          VERTEX_SA_JSON: ${{ secrets.VERTEX_SA_JSON }}
           URL_PAGES: ${{ vars.URL_PAGES }}
           SITE_DIR: ${{ github.workspace }}/_site
         run: |

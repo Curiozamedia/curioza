@@ -43,7 +43,29 @@ def _google_dispo() -> bool:
 
 
 def _vertex_dispo() -> bool:
-    return bool(os.environ.get("VERTEX_API_KEY"))
+    return bool(os.environ.get("VERTEX_API_KEY") or os.environ.get("VERTEX_SA_JSON"))
+
+
+_jeton_vertex: dict = {}
+
+
+def _entetes_vertex() -> tuple[dict, str]:
+    """Renvoie (en-têtes d'authentification, identifiant du projet).
+    Deux façons : clé de compte de service JSON (VERTEX_SA_JSON) ou clé API (VERTEX_API_KEY)."""
+    brut = os.environ.get("VERTEX_SA_JSON", "").strip()
+    if brut:
+        import json
+        from google.oauth2 import service_account
+        from google.auth.transport.requests import Request
+        infos = json.loads(brut)
+        if not _jeton_vertex.get("cred"):
+            _jeton_vertex["cred"] = service_account.Credentials.from_service_account_info(
+                infos, scopes=["https://www.googleapis.com/auth/cloud-platform"])
+        cred = _jeton_vertex["cred"]
+        if not cred.valid:
+            cred.refresh(Request())
+        return {"Authorization": f"Bearer {cred.token}"}, os.environ.get("VERTEX_PROJECT", "").strip() or infos["project_id"]
+    return {"x-goog-api-key": os.environ["VERTEX_API_KEY"]}, os.environ.get("VERTEX_PROJECT", "").strip()
 
 
 def _extraire_image(r: requests.Response, nom: str) -> Image.Image:
@@ -57,8 +79,8 @@ def _extraire_image(r: requests.Response, nom: str) -> Image.Image:
 
 def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
     """Nano Banana via Vertex AI (Google Cloud) : utilise le crédit d'essai de 300 $.
-    VERTEX_API_KEY = clé API Google Cloud ; VERTEX_PROJECT (facultatif) = identifiant du projet."""
-    projet = os.environ.get("VERTEX_PROJECT", "").strip()
+    VERTEX_SA_JSON = contenu du fichier JSON du compte de service (ou VERTEX_API_KEY = clé API liée)."""
+    entetes, projet = _entetes_vertex()
     region = os.environ.get("VERTEX_REGION", "global").strip() or "global"
     hote = "aiplatform.googleapis.com" if region == "global" else f"{region}-aiplatform.googleapis.com"
     chemin = (f"projects/{projet}/locations/{region}/publishers/google/models/{modele}" if projet
@@ -66,7 +88,7 @@ def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
     corps = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
              "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": ratio}}}
     r = requests.post(f"https://{hote}/v1/{chemin}:generateContent",
-                      headers={"x-goog-api-key": os.environ["VERTEX_API_KEY"]}, json=corps, timeout=180)
+                      headers=entetes, json=corps, timeout=180)
     if r.status_code == 429:
         time.sleep(20)
     if not r.ok:
