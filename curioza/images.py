@@ -43,7 +43,8 @@ def _google_dispo() -> bool:
 
 
 def _vertex_dispo() -> bool:
-    return bool(os.environ.get("VERTEX_API_KEY") or os.environ.get("VERTEX_SA_JSON"))
+    return bool(os.environ.get("VERTEX_API_KEY") or os.environ.get("VERTEX_SA_JSON")
+                or os.environ.get("GOOGLE_APPLICATION_CREDENTIALS"))
 
 
 _jeton_vertex: dict = {}
@@ -65,6 +66,19 @@ def _entetes_vertex() -> tuple[dict, str]:
         if not cred.valid:
             cred.refresh(Request())
         return {"Authorization": f"Bearer {cred.token}"}, os.environ.get("VERTEX_PROJECT", "").strip() or infos["project_id"]
+    if os.environ.get("GOOGLE_APPLICATION_CREDENTIALS") and not os.environ.get("VERTEX_API_KEY"):
+        # Fédération d'identité GitHub → Google (sans clé) : identifiants fournis par google-github-actions/auth.
+        import google.auth
+        from google.auth.transport.requests import Request
+        if not _jeton_vertex.get("cred"):
+            cred, projet = google.auth.default(scopes=["https://www.googleapis.com/auth/cloud-platform"])
+            _jeton_vertex["cred"], _jeton_vertex["projet"] = cred, projet
+        cred = _jeton_vertex["cred"]
+        if not cred.valid:
+            cred.refresh(Request())
+        projet = (os.environ.get("VERTEX_PROJECT", "").strip() or os.environ.get("GOOGLE_CLOUD_PROJECT", "")
+                  or _jeton_vertex.get("projet") or "")
+        return {"Authorization": f"Bearer {cred.token}"}, projet
     return {"x-goog-api-key": os.environ["VERTEX_API_KEY"]}, os.environ.get("VERTEX_PROJECT", "").strip()
 
 

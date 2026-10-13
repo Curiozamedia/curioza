@@ -23,6 +23,7 @@ concurrency:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   planifier:
@@ -35,6 +36,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Connexion Google Cloud (sans clé)
+        id: google
+        continue-on-error: true
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WIF_PROVIDER }}
+          service_account: ${{ vars.GCP_SERVICE_ACCOUNT }}
       - run: pip install -r requirements.txt
       - name: Récupérer le site (calendrier + médias)
         env:
