@@ -57,6 +57,15 @@ def main() -> None:
     else:
         resultats["Google (Nano Banana)"] = "absente (pas encore branchée)"
 
+    # Diagnostic de forme (jamais la valeur) : aide à repérer un mauvais copier-coller.
+    for k in ("CF_API_TOKEN", "CF_ACCOUNT_ID", "GEMINI_API_KEY"):
+        v = os.environ.get(k, "")
+        if v:
+            lignes = v.splitlines()
+            resultats[f"forme {k}"] = (f"{len(v)} caractères, {len(lignes)} ligne(s), "
+                                       f"longueurs par ligne {[len(l) for l in lignes][:6]}, "
+                                       f"commence par une commande : {v.lower().startswith(('curl', 'http'))}")
+
     for k in ("IG_USER_ID", "IG_ACCESS_TOKEN"):
         resultats[k] = "présent" if os.environ.get(k) else "absent (pas encore branché)"
 
