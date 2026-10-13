@@ -47,6 +47,8 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          VERTEX_API_KEY: ${{ secrets.VERTEX_API_KEY }}
+          VERTEX_PROJECT: ${{ secrets.VERTEX_PROJECT }}
           URL_PAGES: ${{ vars.URL_PAGES }}
           SITE_DIR: ${{ github.workspace }}/_site
         run: |

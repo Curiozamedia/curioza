@@ -66,6 +66,12 @@ def main() -> None:
                                        f"longueurs par ligne {[len(l) for l in lignes][:6]}, "
                                        f"commence par une commande : {v.lower().startswith(('curl', 'http'))}")
 
+    if images._vertex_dispo():
+        resultats["Vertex AI (crédit 300 $)"] = tester_image(
+            "vertex", lambda: images._vertex(PROMPT, "gemini-2.5-flash-image", "4:5"))
+    else:
+        resultats["Vertex AI (crédit 300 $)"] = "absente (pas encore branchée)"
+
     for k in ("IG_USER_ID", "IG_ACCESS_TOKEN"):
         resultats[k] = "présent" if os.environ.get(k) else "absent (pas encore branché)"
 

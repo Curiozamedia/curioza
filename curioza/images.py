@@ -3,6 +3,7 @@
 Chaque type d'image a sa chaîne de modèles dans config.yaml (ia_image) : le premier disponible
 est utilisé, les suivants servent de secours.
   - Cloudflare Workers AI : gratuit jusqu'à ~170 images/jour (CF_ACCOUNT_ID + CF_API_TOKEN)
+  - Vertex AI (Google Cloud) : même Nano Banana, payé avec le crédit d'essai de 300 $ (VERTEX_API_KEY)
   - Google (Gemini API) : Nano Banana ~0,039 $ l'image, qualité haut de gamme (GEMINI_API_KEY)
   - Replicate : facultatif, mêmes modèles via un intermédiaire (REPLICATE_API_TOKEN)
 Sans aucune clé : fonds d'aperçu procéduraux (mode démo).
@@ -41,6 +42,38 @@ def _google_dispo() -> bool:
     return bool(os.environ.get("GEMINI_API_KEY"))
 
 
+def _vertex_dispo() -> bool:
+    return bool(os.environ.get("VERTEX_API_KEY"))
+
+
+def _extraire_image(r: requests.Response, nom: str) -> Image.Image:
+    for cand in r.json().get("candidates", []):
+        for part in cand.get("content", {}).get("parts", []):
+            donnees = (part.get("inlineData") or part.get("inline_data") or {}).get("data")
+            if donnees:
+                return Image.open(io.BytesIO(base64.b64decode(donnees)))
+    raise RuntimeError(f"Pas d'image dans la réponse {nom} : {r.text[:300]}")
+
+
+def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
+    """Nano Banana via Vertex AI (Google Cloud) : utilise le crédit d'essai de 300 $.
+    VERTEX_API_KEY = clé API Google Cloud ; VERTEX_PROJECT (facultatif) = identifiant du projet."""
+    projet = os.environ.get("VERTEX_PROJECT", "").strip()
+    region = os.environ.get("VERTEX_REGION", "global").strip() or "global"
+    hote = "aiplatform.googleapis.com" if region == "global" else f"{region}-aiplatform.googleapis.com"
+    chemin = (f"projects/{projet}/locations/{region}/publishers/google/models/{modele}" if projet
+              else f"publishers/google/models/{modele}")
+    corps = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
+             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": ratio}}}
+    r = requests.post(f"https://{hote}/v1/{chemin}:generateContent",
+                      headers={"x-goog-api-key": os.environ["VERTEX_API_KEY"]}, json=corps, timeout=180)
+    if r.status_code == 429:
+        time.sleep(20)
+    if not r.ok:
+        raise RuntimeError(f"Vertex {r.status_code} : {r.text[:400]}")
+    return _extraire_image(r, "Vertex")
+
+
 def _google(prompt: str, modele: str, ratio: str) -> Image.Image:
     """Nano Banana directement chez Google (Gemini API, clé créée sur aistudio.google.com)."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modele}:generateContent"
@@ -50,16 +83,11 @@ def _google(prompt: str, modele: str, ratio: str) -> Image.Image:
     if r.status_code == 429:
         time.sleep(20)
     r.raise_for_status()
-    for cand in r.json().get("candidates", []):
-        for part in cand.get("content", {}).get("parts", []):
-            donnees = (part.get("inlineData") or part.get("inline_data") or {}).get("data")
-            if donnees:
-                return Image.open(io.BytesIO(base64.b64decode(donnees)))
-    raise RuntimeError(f"Pas d'image dans la réponse Google : {r.text[:300]}")
+    return _extraire_image(r, "Google")
 
 
 def mode_apercu() -> bool:
-    return not (_cloudflare_dispo() or _replicate_dispo() or _google_dispo())
+    return not (_cloudflare_dispo() or _replicate_dispo() or _google_dispo() or _vertex_dispo())
 
 
 class QuotaEpuise(RuntimeError):
@@ -139,12 +167,16 @@ def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinett
             continue
         if fournisseur == "google" and not _google_dispo():
             continue
+        if fournisseur == "vertex" and not _vertex_dispo():
+            continue
         for essai in range(3):
             try:
                 if fournisseur == "cloudflare":
                     return _cloudflare(prompt_complet, modele).convert("RGB")
                 if fournisseur == "google":
                     return _google(prompt_complet, modele, ratio).convert("RGB")
+                if fournisseur == "vertex":
+                    return _vertex(prompt_complet, modele, ratio).convert("RGB")
                 return _replicate(prompt_complet, modele, ratio).convert("RGB")
             except QuotaEpuise as e:
                 _cloudflare_epuise = True

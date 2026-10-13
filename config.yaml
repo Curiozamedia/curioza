@@ -80,11 +80,12 @@ personnages_serie_pays:
 ia_texte:
   modele: "claude-haiku-5-5"     # API Claude (console.anthropic.com)
 ia_image:
+  # vertex = Google Cloud (crédit d'essai 300 $), google = clé AI Studio (payant), cloudflare = gratuit.
   # Format « fournisseur:modèle ». Le premier disponible est utilisé, les suivants servent de secours.
   # Couverture = la slide qui fait arrêter le scroll : qualité maximale (Nano Banana chez Google, ~0,039 $ l'image).
-  couverture: ["google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
+  couverture: ["vertex:gemini-2.5-flash-image", "google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
   # Slides intérieures : qualité maximale aussi (mettre la ligne « économique » pour ~gratuit).
-  slide: ["google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
+  slide: ["vertex:gemini-2.5-flash-image", "google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
   # slide: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "google:gemini-2.5-flash-image"]   # économique
   # Décor des devinettes : simple, le modèle gratuit suffit.
   devinette: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "replicate:black-forest-labs/flux-schnell"]
