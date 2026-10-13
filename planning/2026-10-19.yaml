@@ -1,0 +1,153 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-10-19'
+phase: normal
+tout_valider: false
+genere_le: 2026-10-13T01:31
+posts:
+- id: 2026-10-19_0800_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: 08:00
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 36 column 6 (char 3466)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1100_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '11:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1300_devin
+  jour: lundi
+  date: '2026-10-19'
+  heure: '13:00'
+  type: reel_devinette
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1400_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '14:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 2223)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1700_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '17:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-19_2000_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '20:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting value: line 1 column 1 (char 0)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_2100_diapo
+  jour: lundi
+  date: '2026-10-19'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: aucun carrousel ce jour-là pour faire le diaporama
+  medias: []
+  legende: ''
+- id: 2026-10-20_0800_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: 08:00
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-20_1100_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '11:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-20_1300_devin
+  jour: mardi
+  date: '2026-10-20'
+  heure: '13:00'
+  type: reel_devinette
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-20_1400_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '14:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-20_1700_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '17:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 31 column 6 (char 2639)'
+  medias: []
+  legende: ''
+- id: 2026-10-20_2000_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '20:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 2495)'
+  medias: []
+  legende: ''
+- id: 2026-10-20_2100_diapo
+  jour: mardi
+  date: '2026-10-20'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: aucun carrousel ce jour-là pour faire le diaporama
+  medias: []
+  legende: ''
