@@ -87,7 +87,8 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
     categories = _categories_semaine(cfg, nb_carrousels, lundi.isoformat())
     a_faire = set(jours) if jours is not None else {c[0] for c in creneaux}
     conserves = [p for p in (existant or {}).get("posts", []) if date.fromisoformat(p["date"]) not in a_faire]
-    deja = [p.get("sujet", "") for p in conserves] + idees.sujets_deja_traites()
+    deja = ([p.get("concept", "") for p in conserves if p.get("concept")] + [p.get("sujet", "") for p in conserves]
+            + idees.sujets_deja_traites())
     inspiration = idees.radar_reddit(cfg) if not idees.mode_demo() else []
     journal(f"Semaine du {lundi} — phase {h['phase']} — jours générés : "
             f"{', '.join(sorted(d.isoformat() for d in a_faire))} "
@@ -117,6 +118,8 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
             if typ == "carrousel":
                 post = {**base, **_construire_carrousel(cfg, cat, k, deja, inspiration, dossier, ident)}
                 deja.insert(0, post["sujet"])
+                if post.get("concept"):
+                    deja.insert(0, post["concept"])
                 carrousels_du_jour.setdefault(jour.isoformat(), []).append(post)
             elif typ == "reel_devinette":
                 post = {**base, **_construire_devinette(cfg, dossier, ident)}
@@ -207,7 +210,8 @@ def creer_semaine_partielle(cfg: dict, lundi: date, data: dict, ident: str) -> d
     base["statut"] = "a_valider"
     graine = ident + datetime.now().isoformat()
     if p["type"] == "carrousel":
-        deja = [x.get("sujet", "") for x in posts] + idees.sujets_deja_traites()
+        deja = ([x.get("concept", "") for x in posts if x.get("concept")] + [x.get("sujet", "") for x in posts]
+                + idees.sujets_deja_traites())
         neuf = _construire_carrousel(cfg, p.get("categorie") or "absurde", random.randint(0, 99), deja, [], dossier, graine)
     elif p["type"] == "reel_devinette":
         neuf = _construire_devinette(cfg, dossier, graine)
@@ -261,7 +265,7 @@ def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Pa
             dossier / f"{i:02d}.jpg"))
     fichiers.append(rendu.enregistrer_jpeg(rendu.slide_fin(dernier_fond, cfg, c["question_fin"]),
                                            dossier / f"{len(fichiers) + 1:02d}.jpg"))
-    return {"categorie": categorie, "sujet": c["sujet"], "legende": idees.legende_carrousel(cfg, c),
+    return {"categorie": categorie, "concept": c.get("concept", ""), "sujet": c["sujet"], "legende": idees.legende_carrousel(cfg, c),
             "medias": [_rel(p) for p in fichiers], "couverture": _rel(fichiers[0])}
 
 

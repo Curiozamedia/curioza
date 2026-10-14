@@ -46,7 +46,7 @@ validation_requise: true
 # ---------- Contenus ----------
 categories:
   absurde:
-    poids: 3
+    poids: 4
     description: "Un concept visuel « et si… » original et surprenant, drôle ou légèrement dérangeant, décliné en variantes (une par slide). Thèmes à explorer librement : échelles absurdes, objets ou lieux détournés, métiers impossibles, lois de la physique inversées, mondes miniatures, animaux dans des situations inattendues (sans parties de corps humain), inventions farfelues."
   nostalgie:
     poids: 2
@@ -55,7 +55,7 @@ categories:
     poids: 2
     description: "Histoires vraies et vérifiables derrière des inventions, des mots, des expressions françaises, des lieux, des traditions ou des phénomènes naturels. Faits solides uniquement."
   pays:
-    poids: 2
+    poids: 1
     description: "Série récurrente CURIOZA : « Le duel » — un Français et un habitant d'un autre pays comparent une habitude précise du quotidien (repas, école, travail, logement, politesse, transports…). Mêmes deux personnages à chaque épisode, humour bienveillant, sans clichés blessants."
   vie:
     poids: 1

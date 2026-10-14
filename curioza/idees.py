@@ -59,10 +59,15 @@ def sujets_deja_traites(limite: int = 200) -> list[str]:
     return sujets[:limite]
 
 
-def prochain_pays() -> str:
-    deja = [s for s in sujets_deja_traites(500) if s.startswith("France vs")]
+def prochain_pays(recents: list[str] | None = None) -> str:
+    """Un pays différent à chaque épisode : on évite tous ceux déjà vus (semaine en cours + historique)."""
+    deja = [s for s in (list(recents or []) + sujets_deja_traites(500)) if "France vs" in s]
     restants = [p for p in PAYS_SERIE if not any(p in s for s in deja)]
-    return (restants or PAYS_SERIE)[0]
+    if restants:
+        return restants[0]
+    # tous faits : on reprend le pays le moins récemment traité
+    dernier = {p: max((i for i, s in enumerate(reversed(deja)) if p in s), default=-1) for p in PAYS_SERIE}
+    return min(PAYS_SERIE, key=lambda p: dernier[p])
 
 
 # ------------------------------------------------------------------ appel Claude
@@ -191,6 +196,10 @@ def choisir_concept(cfg: dict, categorie: str, deja: list[str]) -> str | None:
         if mots and sum(m in recents for m in mots) >= 2:
             p *= 0.15
         choix.append(texte); poids.append(p)
+    # jamais deux fois le même concept dans la même semaine
+    libres = [(c, p) for c, p in zip(choix, poids) if c not in deja]
+    if libres:
+        choix, poids = [c for c, _ in libres], [p for _, p in libres]
     return random.choices(choix, weights=poids, k=1)[0]
 
 
@@ -198,7 +207,7 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     desc = cfg["categories"][categorie]["description"]
     consigne = f"Catégorie : {categorie} — {desc}\n"
     if categorie == "pays":
-        pays = prochain_pays()
+        pays = prochain_pays(deja)
         perso = cfg["personnages_serie_pays"]
         consigne += (f"Épisode de la série « Le duel » : France vs {pays}, sur UNE habitude précise du quotidien "
                      f"(jamais « où vivre » ni « ce que {pays} fait mieux »). Le sujet commence par 'Le duel France vs {pays}'. "
@@ -216,6 +225,7 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     consigne += (f"Nombre de slides de contenu : exactement {nb_slides_contenu}.\n"
                  f"Sujets déjà traités (à NE PAS refaire) : {'; '.join(deja[:120]) or 'aucun'}\n\n{FORMAT_JSON}")
     brouillon = _claude_json(cfg, SYSTEME, consigne, SCHEMA_CARROUSEL)
+    brouillon["concept"] = concept or ""
 
     relecture = (
         "Relis ce carrousel comme un rédacteur exigeant. Corrige : faits douteux (reformule-les en opinion ou supprime-les), "
@@ -225,6 +235,7 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     )
     try:
         corrige = _claude_json(cfg, SYSTEME, relecture, SCHEMA_CARROUSEL)
+        corrige["concept"] = concept or ""
         return corrige if len(corrige.get("slides", [])) >= len(brouillon["slides"]) - 1 else brouillon
     except Exception:
         return brouillon

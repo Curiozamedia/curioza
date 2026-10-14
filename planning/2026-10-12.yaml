@@ -469,7 +469,7 @@ posts:
   date: '2026-10-16'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   sujet: 'Le duel France vs Italie : le travail et les pauses'
   legende: 'Pause café ou pause déj longue : qui gagne le duel ? ☕
@@ -505,6 +505,7 @@ posts:
   - medias/2026-10-12/2026-10-16_2000_carro/07.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-16_2000_carro/01.jpg
+  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-16_2100_diapo
   jour: vendredi
   date: '2026-10-16'
@@ -589,7 +590,7 @@ posts:
   date: '2026-10-17'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   sujet: 'Le duel France vs Italie : la politesse et les salutations'
   legende: 'Bise, main sur le cœur ou simple signe : qui salue le mieux ? 👋
@@ -623,6 +624,7 @@ posts:
   - medias/2026-10-12/2026-10-17_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-17_1100_carro/01.jpg
+  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-17_1300_devin
   jour: samedi
   date: '2026-10-17'
@@ -736,7 +738,7 @@ posts:
   date: '2026-10-17'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   sujet: 'Le duel France vs Italie : le petit-déjeuner, angle surprenant'
   legende: 'Ton petit-déj en dit plus sur toi que ton horoscope 🥐
@@ -771,6 +773,7 @@ posts:
   - medias/2026-10-12/2026-10-17_2000_carro/06.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-17_2000_carro/01.jpg
+  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-17_2100_diapo
   jour: samedi
   date: '2026-10-17'

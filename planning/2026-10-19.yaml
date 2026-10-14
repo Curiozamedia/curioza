@@ -56,7 +56,7 @@ posts:
   date: '2026-10-19'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Gravité inversée une minute dans le quotidien
   legende: 'Une minute de gravité inversée et ta vie devient n''importe quoi 🙃
@@ -92,6 +92,7 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
+  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
