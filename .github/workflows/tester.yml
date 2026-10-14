@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   id-token: write
 
 jobs:
@@ -36,7 +36,13 @@ jobs:
           VERTEX_SA_JSON: ${{ secrets.VERTEX_SA_JSON }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-        run: python tester_cles.py || true; python diagnostic.py
+        run: |
+          python tester_cles.py 2>&1 | tee resultat.txt || true
+          python diagnostic.py 2>&1 | tee -a resultat.txt || true
+          git config user.name "curioza-bot"; git config user.email "curioza-bot@users.noreply.github.com"
+          git checkout -q --orphan diagnostic
+          git rm -rq --cached . ; git add resultat.txt test_cles 2>/dev/null || git add resultat.txt
+          git commit -qm "Diagnostic" && git push -fq origin diagnostic
       - uses: actions/upload-artifact@v4
         if: always()
         with:
