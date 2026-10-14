@@ -330,6 +330,12 @@ def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Pa
 
 def _construire_devinette(cfg, dossier: Path, ident: str) -> dict:
     d = devinettes.generer(ident)
+    if images._vertex_dispo():
+        # Dans une scène dessinée par l'IA, le signe « ÷ » est souvent mal tracé : on prend un calcul sans division.
+        n = 0
+        while "÷" in d["expression"] and n < 50:
+            n += 1
+            d = devinettes.generer(f"{ident}-{n}")
     scene = None
     if not idees.mode_demo() and images._vertex_dispo():
         # Version premium : Nano Banana écrit l'opération dans une vraie scène, puis on vérifie qu'elle est exacte.
@@ -376,6 +382,7 @@ def _construire_video(cfg, source: dict, dossier: Path, ident: str) -> dict:
         clips, premiere = [], None
         for i, plan in enumerate(sc["plans"][:2]):
             depart = images.generer(plan["prompt_image"], cfg, graine=f"{ident}v{i}", ratio="9:16", role="couverture")
+            depart = rendu.ajuster_cadre(depart, tuple(cfg["style"]["format_reel"]))
             premiere = premiere or depart
             clips.append(images.generer_video(f"{plan['mouvement']}. Photorealistic, cinematic, smooth motion, no text.",
                                               depart, dossier / f"plan{i + 1}.mp4", cfg))

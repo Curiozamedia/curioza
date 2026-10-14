@@ -175,6 +175,18 @@ def calque_accroche(accroche: str, cfg: dict) -> Image.Image:
     return calque
 
 
+def _detecter_bandes(clip: Path) -> str:
+    """Renvoie un filtre « crop=…, » qui enlève les bandes noires détectées (ou une chaîne vide)."""
+    import re
+    r = subprocess.run(["ffmpeg", "-i", str(clip), "-vf", "cropdetect=24:2:0", "-t", "4", "-f", "null", "-"],
+                       capture_output=True, text=True)
+    trouves = re.findall(r"crop=(\d+):(\d+):(\d+):(\d+)", r.stderr)
+    if not trouves:
+        return ""
+    w, hh, x, y = map(int, trouves[-1])
+    return f"crop={w}:{hh}:{x}:{y}," if w > 100 and hh > 100 else ""
+
+
 def video_ia(clips: list[Path], accroche: str, cfg: dict, sortie: Path) -> Path:
     """Enchaîne les plans vidéo IA (9:16), ajoute l'accroche en haut et une piste muette
     (le son tendance est choisi dans l'app Instagram)."""
@@ -184,7 +196,9 @@ def video_ia(clips: list[Path], accroche: str, cfg: dict, sortie: Path) -> Path:
         normes = []
         for i, c in enumerate(clips):
             n = tmp / f"n{i}.mp4"
-            _ffmpeg("-i", str(c), "-vf", f"scale={l}:{h}:force_original_aspect_ratio=increase,crop={l}:{h},fps={FPS},format=yuv420p",
+            # retire d'éventuelles bandes noires incrustées par le modèle vidéo, puis remplit tout l'écran 9:16
+            rogne = _detecter_bandes(Path(c))
+            _ffmpeg("-i", str(c), "-vf", f"{rogne}scale={l}:{h}:force_original_aspect_ratio=increase,crop={l}:{h},fps={FPS},format=yuv420p",
                     "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "19", str(n))
             normes.append(n)
         liste = tmp / "liste.txt"
