@@ -103,7 +103,7 @@ posts:
   date: '2026-10-19'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -126,6 +126,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-19_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-19_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-19_1400_carro
   jour: lundi
   date: '2026-10-19'
@@ -384,7 +385,7 @@ posts:
   date: '2026-10-20'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -407,6 +408,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-20_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-20_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-20_1400_carro
   jour: mardi
   date: '2026-10-20'
@@ -665,7 +667,7 @@ posts:
   date: '2026-10-21'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -688,6 +690,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-21_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-21_1400_carro
   jour: mercredi
   date: '2026-10-21'

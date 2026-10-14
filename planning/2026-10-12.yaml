@@ -146,7 +146,7 @@ posts:
   date: '2026-10-15'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -169,6 +169,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-15_1400_carro
   jour: jeudi
   date: '2026-10-15'
@@ -468,7 +469,7 @@ posts:
   date: '2026-10-16'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -491,6 +492,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-16_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-16_1400_carro
   jour: vendredi
   date: '2026-10-16'
@@ -749,7 +751,7 @@ posts:
   date: '2026-10-17'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -772,6 +774,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-17_1400_carro
   jour: samedi
   date: '2026-10-17'
@@ -1026,7 +1029,7 @@ posts:
   date: '2026-10-18'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -1049,6 +1052,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-18_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_1300_devin/couverture.jpg
+  erreur: nouvelle version Nano Banana
 - id: 2026-10-18_1400_carro
   jour: dimanche
   date: '2026-10-18'
