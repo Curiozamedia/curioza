@@ -78,6 +78,13 @@ concepts:
     - "Des inventions totalement inutiles mais magnifiques"
     - "La météo d'une autre planète vue depuis une ville française"
     - "Des objets du quotidien vivants avec des émotions humaines (expressions de visage seulement)"
+    - "Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)"
+    - "Des insectes agrandis à taille humaine dans des scènes banales du quotidien (dérangeant-drôle)"
+    - "Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée, plumes…)"
+    - "Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)"
+    - "Des objets du quotidien fabriqués dans la pire matière possible (chaise en gelée, parapluie en papier, casque en verre…)"
+    - "Des paysages célèbres reconstruits en nourriture, à taille réelle"
+    - "Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer solide)"
     - {texte: "Des animaux ou objets avec un trait humain inattendu (format qui marche chez Opulancia, sujet neuf obligatoire)", inspire: true}
   nostalgie:
     - "Les règles de la cour de récré que tout le monde connaissait"
@@ -113,7 +120,7 @@ concepts:
     - "Petites habitudes qui changent une journée (avec explication simple)"
     - "Ce que ton corps fait sans que tu le saches"
     - "Les règles de politesse invisibles que tout le monde suit"
-    - "Ce que les gens heureux font différemment (idées, pas de stats inventées)"
+    - "Les petites choses que ton cerveau fait pour te protéger sans te prévenir"
     - {texte: "Les valeurs à transmettre à un enfant (format qui marche chez Opulancia, formulation neuve)", inspire: true}
 
 slides_par_carrousel: [6, 8]     # min, max (couverture + contenu + slide finale)
