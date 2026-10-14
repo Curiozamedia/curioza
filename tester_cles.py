@@ -31,6 +31,8 @@ def tester_image(nom, fonction) -> str:
     try:
         img = fonction()
     except Exception as e:  # on affiche l'erreur sans jamais afficher la clé
+        if "daily free allocation" in str(e) or isinstance(e, images.QuotaEpuise):
+            return "OK — quota gratuit du jour déjà utilisé (revient à 2 h, heure de Paris)"
         return f"ÉCHEC — {str(e)[:300]}"
     SORTIE.mkdir(exist_ok=True)
     img.convert("RGB").save(SORTIE / f"{nom}.jpg", quality=92)
