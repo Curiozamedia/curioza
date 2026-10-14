@@ -232,3 +232,61 @@ def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinett
     if isinstance(derniere_erreur, QuotaEpuise):
         raise derniere_erreur
     raise RuntimeError(f"Génération d'image impossible avec tous les fournisseurs : {derniere_erreur}")
+
+
+# ------------------------------------------------------------------ vidéo IA (Veo, Vertex AI)
+
+
+def video_dispo() -> bool:
+    return _vertex_dispo()
+
+
+def generer_video(prompt: str, image: Image.Image, sortie, cfg: dict, duree: int = 8) -> "Path":
+    """Anime une image fixe 9:16 en un plan vidéo de `duree` secondes avec Veo (image vers vidéo, sans son :
+    le son tendance est ajouté dans l'app Instagram). Payé par le crédit Google Cloud."""
+    from pathlib import Path
+    modele = (cfg.get("ia_video") or {}).get("modele", "veo-3.0-fast-generate-001")
+    region = (cfg.get("ia_video") or {}).get("region", "us-central1")
+    entetes, projet = _entetes_vertex()
+    if not projet:
+        raise RuntimeError("Projet Google Cloud inconnu pour Veo")
+    base = (f"https://{region}-aiplatform.googleapis.com/v1/projects/{projet}/locations/{region}"
+            f"/publishers/google/models/{modele}")
+    tampon = io.BytesIO()
+    image.convert("RGB").save(tampon, format="JPEG", quality=92)
+    corps = {
+        "instances": [{"prompt": prompt,
+                       "image": {"bytesBase64Encoded": base64.b64encode(tampon.getvalue()).decode(),
+                                 "mimeType": "image/jpeg"}}],
+        "parameters": {"aspectRatio": "9:16", "sampleCount": 1, "durationSeconds": duree,
+                       "generateAudio": False, "resolution": "1080p", "personGeneration": "allow_adult"},
+    }
+    for attente in (0, 30, 60, 90):
+        if attente:
+            time.sleep(attente)
+        r = requests.post(f"{base}:predictLongRunning", headers=entetes, json=corps, timeout=120)
+        if r.status_code not in (429, 500, 503):
+            break
+    if not r.ok:
+        raise RuntimeError(f"Veo {r.status_code} : {r.text[:300]}")
+    operation = r.json()["name"]
+    debut = time.time()
+    while time.time() - debut < 600:
+        time.sleep(15)
+        rr = requests.post(f"{base}:fetchPredictOperation", headers=_entetes_vertex()[0],
+                           json={"operationName": operation}, timeout=120)
+        if not rr.ok:
+            continue
+        etat = rr.json()
+        if not etat.get("done"):
+            continue
+        if etat.get("error"):
+            raise RuntimeError(f"Veo : {str(etat['error'])[:300]}")
+        videos = (etat.get("response") or {}).get("videos") or []
+        if not videos or not videos[0].get("bytesBase64Encoded"):
+            raise RuntimeError(f"Veo : vidéo refusée ou vide ({str(etat.get('response'))[:200]})")
+        sortie = Path(sortie)
+        sortie.parent.mkdir(parents=True, exist_ok=True)
+        sortie.write_bytes(base64.b64decode(videos[0]["bytesBase64Encoded"]))
+        return sortie
+    raise RuntimeError("Veo : délai dépassé")

@@ -162,3 +162,40 @@ def video_diaporama(slides: list[Path], cfg: dict, sortie: Path, graine: str, pa
         _ffmpeg("-i", str(video), *audio, "-c:v", "copy", "-c:a", "aac", "-shortest",
                 "-movflags", "+faststart", str(sortie))
     return sortie
+
+
+def calque_accroche(accroche: str, cfg: dict) -> Image.Image:
+    """Accroche du Reel vidéo : en haut, dans la zone sûre d'Instagram, avec un dégradé sombre pour la lisibilité."""
+    l, h = cfg["style"]["format_reel"]
+    calque = Image.new("RGBA", (l, h), (0, 0, 0, 0))
+    calque.alpha_composite(rendu.degrade_haut((l, h), part=0.36, opacite_max=200))
+    rendu.dessiner_entete(calque, cfg, y=150)
+    bloc, _ = rendu.bloc_titre(accroche, cfg, l, taille_max=86, lignes_max=3, taille_min=74)
+    calque.alpha_composite(bloc, ((l - bloc.width) // 2, 260))
+    return calque
+
+
+def video_ia(clips: list[Path], accroche: str, cfg: dict, sortie: Path) -> Path:
+    """Enchaîne les plans vidéo IA (9:16), ajoute l'accroche en haut et une piste muette
+    (le son tendance est choisi dans l'app Instagram)."""
+    l, h = cfg["style"]["format_reel"]
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        normes = []
+        for i, c in enumerate(clips):
+            n = tmp / f"n{i}.mp4"
+            _ffmpeg("-i", str(c), "-vf", f"scale={l}:{h}:force_original_aspect_ratio=increase,crop={l}:{h},fps={FPS},format=yuv420p",
+                    "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "19", str(n))
+            normes.append(n)
+        liste = tmp / "liste.txt"
+        liste.write_text("".join(f"file '{p}'\n" for p in normes))
+        brut = tmp / "brut.mp4"
+        _ffmpeg("-f", "concat", "-safe", "0", "-i", str(liste), "-c", "copy", str(brut))
+        texte = tmp / "accroche.png"
+        calque_accroche(accroche, cfg).save(texte)
+        sortie.parent.mkdir(parents=True, exist_ok=True)
+        _ffmpeg("-i", str(brut), "-i", str(texte), "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
+                "-filter_complex", "[0:v][1:v]overlay=0:0,format=yuv420p[v]", "-map", "[v]", "-map", "2:a",
+                "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-c:a", "aac", "-shortest",
+                "-movflags", "+faststart", str(sortie))
+    return sortie

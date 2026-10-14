@@ -152,6 +152,13 @@ ia_image:
   # Décor des devinettes : simple, le modèle gratuit suffit.
   devinette: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "vertex:gemini-2.5-flash-image", "replicate:black-forest-labs/flux-schnell"]
 
+# Reel du soir : "reel_video" = vraie vidéo IA (Veo 3 Fast, ~1,50 € par Reel sur le crédit Google)
+#                "reel_diaporama" = slides du carrousel animées (gratuit)
+reel_soir: "reel_video"
+ia_video:
+  modele: "veo-3.0-fast-generate-001"
+  region: "us-central1"
+
 radar_reddit:
   actif: true
   subreddits: ["aivideo", "midjourney", "StableDiffusion", "interestingasfuck", "nostalgia"]

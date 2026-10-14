@@ -130,7 +130,8 @@ def _claude_json(cfg: dict, systeme: str, message: str, schema: dict, max_tokens
                 messages=[{"role": "user", "content": message}],
             )
             for b in rep.content:
-                if getattr(b, "type", "") == "tool_use" and isinstance(b.input, dict) and b.input.get("slides"):
+                if getattr(b, "type", "") == "tool_use" and isinstance(b.input, dict) and all(
+                        k in b.input for k in schema.get("required", [])):
                     return b.input
             derniere = ValueError(f"Réponse incomplète ({rep.stop_reason})")
         except Exception as e:
@@ -329,3 +330,38 @@ def contenu_demo(categorie: str, numero: int) -> dict:
 
 def mode_demo() -> bool:
     return not os.environ.get("ANTHROPIC_API_KEY")
+
+
+SCHEMA_REEL = {
+    "type": "object",
+    "properties": {
+        "accroche": {"type": "string"},
+        "plans": {"type": "array", "items": {"type": "object", "properties": {
+            "prompt_image": {"type": "string"}, "mouvement": {"type": "string"}},
+            "required": ["prompt_image", "mouvement"]}},
+        "legende_accroche": {"type": "string"},
+        "question": {"type": "string"},
+        "hashtags": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["accroche", "plans", "legende_accroche", "question", "hashtags"],
+}
+
+
+def script_reel(cfg: dict, source: dict) -> dict:
+    """Script d'un Reel vidéo IA à partir du carrousel du jour : 2 plans courts, très visuels, qui bougent."""
+    c = source.get("contenu") or {}
+    resume = source.get("sujet", "")
+    if c:
+        resume += " — " + " | ".join(s.get("titre", "") for s in c.get("slides", []))
+    consigne = (
+        "Écris le script d'un Reel Instagram vertical de 16 secondes, fait de 2 plans vidéo IA de 8 secondes, "
+        f"tiré de ce carrousel : {resume}\n"
+        "- accroche : titre balisé ([mot] encadré doré, *mot* doré), 4 à 9 mots, qui donne envie de regarder jusqu'au bout ;\n"
+        "- chaque plan : prompt_image en ANGLAIS (image de départ photoréaliste verticale 9:16, une seule scène, sujet "
+        "centré, aucun texte) et mouvement en ANGLAIS (ce qui bouge et comment la caméra bouge pendant 8 s : action "
+        "absurde ou surprenante clairement visible, mouvement fluide, pas de coupe) ;\n"
+        "- le 2e plan doit être plus fort que le 1er (montée en puissance) ;\n"
+        "- legende_accroche : 1 ligne + emoji ; question : question qui pousse à commenter ; 5 hashtags sans #.\n"
+        "Mêmes règles : aucune personne réelle, aucune marque, rien de choquant."
+    )
+    return _claude_json(cfg, SYSTEME, consigne, SCHEMA_REEL, max_tokens=2000)

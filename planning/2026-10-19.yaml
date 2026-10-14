@@ -16,7 +16,7 @@ posts:
   date: '2026-10-19'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Maisons construites dans des endroits impossibles
   legende: 'Ta maison préférée est peut-être au bord du vide 🏚️
@@ -51,12 +51,14 @@ posts:
   - medias/2026-10-19/2026-10-19_0800_carro/06.jpg
   - medias/2026-10-19/2026-10-19_0800_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-19_1100_carro
   jour: lundi
   date: '2026-10-19'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
     sans marque
@@ -94,6 +96,8 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
@@ -127,7 +131,7 @@ posts:
   date: '2026-10-19'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Inventions totalement inutiles mais magnifiques
   legende: 'Un génie qui ne sert à rien, et pourtant on le veut chez soi ✨
@@ -162,12 +166,14 @@ posts:
   - medias/2026-10-19/2026-10-19_1400_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1400_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-19_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-19_1700_carro
   jour: lundi
   date: '2026-10-19'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des métiers qui n'existent pas mais qu'on aimerait voir
   sujet: Métiers impossibles qu'on aimerait voir
@@ -203,12 +209,14 @@ posts:
   - medias/2026-10-19/2026-10-19_1700_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1700_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-19_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-19_2000_carro
   jour: lundi
   date: '2026-10-19'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: La météo d'une autre planète vue depuis une ville française
   sujet: La météo d'une autre planète vue depuis la France
@@ -247,12 +255,14 @@ posts:
   - medias/2026-10-19/2026-10-19_2000_carro/07.jpg
   - medias/2026-10-19/2026-10-19_2000_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-19_2100_diapo
   jour: lundi
   date: '2026-10-19'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -285,12 +295,13 @@ posts:
   - medias/2026-10-19/2026-10-19_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
   source: 2026-10-19_0800_carro
+  erreur: passage en vraie vidéo IA
 - id: 2026-10-20_0800_carro
   jour: mardi
   date: '2026-10-20'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: vie
   sujet: Raccourcis mentaux qui trompent ton cerveau
   legende: 'Ton cerveau a des raccourcis, et il ne te demande pas ton avis 🧠
@@ -324,12 +335,14 @@ posts:
   - medias/2026-10-19/2026-10-20_0800_carro/05.jpg
   - medias/2026-10-19/2026-10-20_0800_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-20_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-20_1100_carro
   jour: mardi
   date: '2026-10-20'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Et si les objets du quotidien avaient la taille d'un immeuble (un concept, une ville différente par slide)
   sujet: Objets du quotidien géants comme des immeubles
@@ -364,6 +377,8 @@ posts:
   - medias/2026-10-19/2026-10-20_1100_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1100_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-20_1300_devin
   jour: mardi
   date: '2026-10-20'
@@ -397,7 +412,7 @@ posts:
   date: '2026-10-20'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des aliments géants posés au milieu de paysages naturels
   sujet: Aliments géants posés dans des paysages naturels
@@ -432,12 +447,14 @@ posts:
   - medias/2026-10-19/2026-10-20_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-20_1700_carro
   jour: mardi
   date: '2026-10-20'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des animaux ou objets avec un trait humain inattendu (format qui marche chez Opulancia, sujet neuf obligatoire)
   sujet: Animaux et objets avec un trait humain inattendu
@@ -472,12 +489,14 @@ posts:
   - medias/2026-10-19/2026-10-20_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1700_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-20_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-20_2000_carro
   jour: mardi
   date: '2026-10-20'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
   sujet: Animaux qui exercent des métiers humains avec sérieux
@@ -514,12 +533,14 @@ posts:
   - medias/2026-10-19/2026-10-20_2000_carro/07.jpg
   - medias/2026-10-19/2026-10-20_2000_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-20_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-20_2100_diapo
   jour: mardi
   date: '2026-10-20'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -552,12 +573,13 @@ posts:
   - medias/2026-10-19/2026-10-20_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
   source: 2026-10-20_1100_carro
+  erreur: passage en vraie vidéo IA
 - id: 2026-10-21_0800_carro
   jour: mercredi
   date: '2026-10-21'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Aliments qui ressemblent à autre chose que ce qu'ils sont
   legende: 'Ta nourriture te regarde aussi, tu l''as pas remarqué 🥐
@@ -592,12 +614,14 @@ posts:
   - medias/2026-10-19/2026-10-21_0800_carro/06.jpg
   - medias/2026-10-19/2026-10-21_0800_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-21_1100_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des objets d'autrefois réinventés en version futuriste absurde
   sujet: Objets d'autrefois réinventés en version futuriste absurde
@@ -634,6 +658,8 @@ posts:
   - medias/2026-10-19/2026-10-21_1100_carro/07.jpg
   - medias/2026-10-19/2026-10-21_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-21_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-21_1300_devin
   jour: mercredi
   date: '2026-10-21'
@@ -667,7 +693,7 @@ posts:
   date: '2026-10-21'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   concept: Des maisons construites dans des endroits impossibles
   sujet: Maisons construites dans des endroits impossibles
@@ -702,12 +728,14 @@ posts:
   - medias/2026-10-19/2026-10-21_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1400_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-21_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-21_1700_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: anecdote
   concept: Phénomènes de la nature qui semblent truqués mais sont réels
   sujet: Phénomènes naturels qui semblent truqués mais sont réels
@@ -742,12 +770,14 @@ posts:
   - medias/2026-10-19/2026-10-21_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-21_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-21_2000_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   concept: 'Le duel : les fêtes et anniversaires'
   sujet: 'Le duel France vs Allemagne : fêtes et anniversaires'
@@ -782,12 +812,14 @@ posts:
   - medias/2026-10-19/2026-10-21_2000_carro/05.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-21_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-21_2100_diapo
   jour: mercredi
   date: '2026-10-21'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -820,3 +852,4 @@ posts:
   - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
   source: 2026-10-21_0800_carro
+  erreur: passage en vraie vidéo IA

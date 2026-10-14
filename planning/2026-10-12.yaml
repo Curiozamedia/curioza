@@ -16,7 +16,7 @@ posts:
   date: '2026-10-15'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005
   legende: 'Tu as forcément entendu l''une de ces phrases, avoue 😏
@@ -51,13 +51,15 @@ posts:
   - medias/2026-10-12/2026-10-15_0800_carro/06.jpg
   - medias/2026-10-12/2026-10-15_0800_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-15_1100_carro
   jour: jeudi
   date: '2026-10-15'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
-  categorie: vie
+  statut: erreur
+  categorie: absurde
   sujet: Ce que les gens heureux font différemment au quotidien
   legende: 'Le bonheur ne tombe pas du ciel, il se cultive un peu chaque jour 😊
 
@@ -91,6 +93,7 @@ posts:
   - medias/2026-10-12/2026-10-15_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-15_1100_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-15_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
 - id: 2026-10-15_1300_devin
   jour: jeudi
   date: '2026-10-15'
@@ -124,7 +127,7 @@ posts:
   date: '2026-10-15'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   sujet: 'Le duel France vs Italie : le petit-déjeuner'
   legende: 'Café debout ou tartine assise ? ☕
@@ -159,12 +162,14 @@ posts:
   - medias/2026-10-12/2026-10-15_1400_carro/06.jpg
   - medias/2026-10-12/2026-10-15_1400_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-15_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-15_1700_carro
   jour: jeudi
   date: '2026-10-15'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: anecdote
   sujet: Phénomènes naturels qui semblent truqués mais sont réels
   legende: 'Non, c''est pas du Photoshop 😳
@@ -198,12 +203,14 @@ posts:
   - medias/2026-10-12/2026-10-15_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-15_1700_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-15_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-15_2000_carro
   jour: jeudi
   date: '2026-10-15'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
   legende: 'Tu te souviens de ce que tu faisais chez mamie ? 👵
@@ -237,12 +244,14 @@ posts:
   - medias/2026-10-12/2026-10-15_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-15_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-15_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-15_2100_diapo
   jour: jeudi
   date: '2026-10-15'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance nostalgique (tube des années 90-2000 de la bibliothèque Instagram) — dans l''app
     : choisis un son marqué d''une flèche ↗ (tendance)'
@@ -275,12 +284,13 @@ posts:
   - medias/2026-10-12/2026-10-15_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
   source: 2026-10-15_0800_carro
+  erreur: passage en vraie vidéo IA
 - id: 2026-10-16_0800_carro
   jour: vendredi
   date: '2026-10-16'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Métiers qui n'existent pas mais qu'on aimerait voir
   legende: 'Ton CV est prêt pour ces jobs imaginaires ? 💼
@@ -315,12 +325,14 @@ posts:
   - medias/2026-10-12/2026-10-16_0800_carro/06.jpg
   - medias/2026-10-12/2026-10-16_0800_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-16_1100_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: 'Galères technologiques d''avant : attendre, rembobiner, charger'
   legende: 'Tu te souviens de ces galères d''avant ? 📼
@@ -355,6 +367,8 @@ posts:
   - medias/2026-10-12/2026-10-16_1100_carro/06.jpg
   - medias/2026-10-12/2026-10-16_1100_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-16_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-16_1300_devin
   jour: vendredi
   date: '2026-10-16'
@@ -388,7 +402,7 @@ posts:
   date: '2026-10-16'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: vie
   sujet: 'Ce que ton corps fait sans que tu le saches : petits mécanismes automatiques'
   legende: 'Ton corps bosse en secret, et tu ne le remercies jamais 🫀
@@ -424,12 +438,14 @@ posts:
   - medias/2026-10-12/2026-10-16_1400_carro/07.jpg
   - medias/2026-10-12/2026-10-16_1400_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-16_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-16_1700_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Et si la gravité s'inversait une minute dans des lieux du quotidien
   legende: 'Imagine : la gravité lâche tout pendant 60 secondes 🙃
@@ -464,12 +480,14 @@ posts:
   - medias/2026-10-12/2026-10-16_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-16_1700_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-16_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-16_2000_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   concept: 'Le duel : le supermarché'
   sujet: 'Le duel France vs Suisse : le supermarché'
@@ -504,12 +522,14 @@ posts:
   - medias/2026-10-12/2026-10-16_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-16_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-16_2100_diapo
   jour: vendredi
   date: '2026-10-16'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -542,12 +562,13 @@ posts:
   - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
   source: 2026-10-16_0800_carro
+  erreur: passage en vraie vidéo IA
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Aliments géants posés dans des paysages naturels
   legende: 'Imagine un citron de la taille d''une dune 🍋
@@ -583,12 +604,14 @@ posts:
   - medias/2026-10-12/2026-10-17_0800_carro/07.jpg
   - medias/2026-10-12/2026-10-17_0800_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-17_1100_carro
   jour: samedi
   date: '2026-10-17'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   concept: 'Le duel : les transports du quotidien'
   sujet: 'Le duel France vs Espagne : les transports du quotidien'
@@ -625,6 +648,8 @@ posts:
   - medias/2026-10-12/2026-10-17_1100_carro/07.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-17_1300_devin
   jour: samedi
   date: '2026-10-17'
@@ -658,7 +683,7 @@ posts:
   date: '2026-10-17'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: Choses normales il y a 20-30 ans, aujourd'hui disparues
   legende: 'Tu te souviens de ça ? 📼
@@ -692,12 +717,14 @@ posts:
   - medias/2026-10-12/2026-10-17_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1400_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-17_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-17_1700_carro
   jour: samedi
   date: '2026-10-17'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: anecdote
   sujet: Inventions nées d'un accident ou d'une erreur, angle surprenant
   legende: 'Une erreur, et hop, une invention 🤯
@@ -733,12 +760,14 @@ posts:
   - medias/2026-10-12/2026-10-17_1700_carro/07.jpg
   - medias/2026-10-12/2026-10-17_1700_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-17_2000_carro
   jour: samedi
   date: '2026-10-17'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: pays
   concept: 'Le duel : le petit-déjeuner'
   sujet: 'Le duel France vs Canada : le petit-déjeuner'
@@ -773,12 +802,14 @@ posts:
   - medias/2026-10-12/2026-10-17_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-17_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-17_2100_diapo
   jour: samedi
   date: '2026-10-17'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -811,12 +842,13 @@ posts:
   - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
   source: 2026-10-17_0800_carro
+  erreur: passage en vraie vidéo IA
 - id: 2026-10-18_0800_carro
   jour: dimanche
   date: '2026-10-18'
   heure: 08:00
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: Métiers et commerces disparus de nos rues (1985-2005)
   legende: 'Ces métiers ont disparu sans prévenir 🏚️
@@ -852,12 +884,14 @@ posts:
   - medias/2026-10-12/2026-10-18_0800_carro/07.jpg
   - medias/2026-10-12/2026-10-18_0800_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-18_0800_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-18_1100_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '11:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: anecdote
   sujet: Lieux de France aux histoires étonnantes, angle surprenant
   legende: 'Tu crois connaître la France ? Pas sûr 🗺️
@@ -891,6 +925,8 @@ posts:
   - medias/2026-10-12/2026-10-18_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-18_1100_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-18_1100_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-18_1300_devin
   jour: dimanche
   date: '2026-10-18'
@@ -924,7 +960,7 @@ posts:
   date: '2026-10-18'
   heure: '14:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: absurde
   sujet: Lieux célèbres du monde transformés en matière inattendue
   legende: 'Et si les monuments du monde étaient en gelée ? 🍮
@@ -958,12 +994,14 @@ posts:
   - medias/2026-10-12/2026-10-18_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-18_1400_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-18_1700_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '17:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: vie
   sujet: Mécanismes automatiques de ton corps, expliqués simplement
   legende: 'Pendant que tu lis cette phrase, ton corps bosse déjà 🫀
@@ -999,12 +1037,14 @@ posts:
   - medias/2026-10-12/2026-10-18_1700_carro/07.jpg
   - medias/2026-10-12/2026-10-18_1700_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-18_1700_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-18_2000_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '20:00'
   type: carrousel
-  statut: a_valider
+  statut: erreur
   categorie: nostalgie
   sujet: Objets de chambre d'ado nés entre 1985 et 2005
   legende: 'Tu avais forcément un de ces objets dans ta chambre 😏
@@ -1039,12 +1079,14 @@ posts:
   - medias/2026-10-12/2026-10-18_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-18_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-18_2000_carro/01.jpg
+  erreur: nouvelle mise en page (grille fixe)
+  garder_sujet: true
 - id: 2026-10-18_2100_diapo
   jour: dimanche
   date: '2026-10-18'
   heure: '21:00'
-  type: reel_diaporama
-  statut: a_valider
+  type: reel_video
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -1077,3 +1119,4 @@ posts:
   - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
   source: 2026-10-18_1400_carro
+  erreur: passage en vraie vidéo IA

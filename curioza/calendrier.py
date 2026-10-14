@@ -68,7 +68,7 @@ pre{white-space:pre-wrap;font:14px/1.5 Montserrat,sans-serif;background:var(--ca
 const DONNEES = __DONNEES__;
 const DEPOT = "__DEPOT__";
 const NOMS = {a_valider:"à valider", ok:"validé", refuse:"refusé", publie:"publié", erreur:"erreur"};
-const TYPES = {carrousel:"Carrousel", reel_devinette:"Reel devinette", reel_diaporama:"Reel diaporama"};
+const TYPES = {carrousel:"Carrousel", reel_devinette:"Reel devinette", reel_diaporama:"Reel diaporama", reel_video:"Reel vidéo IA"};
 const sel = document.getElementById('semaine'), grille = document.getElementById('grille'), dlg = document.getElementById('dlg');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function statutEffectif(s, p){ return (s.tout_valider && p.statut === 'a_valider') ? 'ok' : p.statut; }

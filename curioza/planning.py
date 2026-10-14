@@ -80,7 +80,7 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
         for heure in h["carrousels"]:
             creneaux.append((jour, heure, "carrousel"))
         for i, heure in enumerate(h["reels"]):
-            creneaux.append((jour, heure, "reel_devinette" if i == 0 else "reel_diaporama"))
+            creneaux.append((jour, heure, "reel_devinette" if i == 0 else cfg.get("reel_soir", "reel_video")))
     creneaux.sort(key=lambda c: (c[0], c[1]))
 
     nb_carrousels = sum(1 for c in creneaux if c[2] == "carrousel")
@@ -123,6 +123,9 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
                 carrousels_du_jour.setdefault(jour.isoformat(), []).append(post)
             elif typ == "reel_devinette":
                 post = {**base, **_construire_devinette(cfg, dossier, ident)}
+            elif typ == "reel_video":
+                source = _choisir_source_diaporama(carrousels_du_jour.get(jour.isoformat(), []))
+                post = {**base, **_construire_video(cfg, source, dossier, ident)}
             else:
                 source = _choisir_source_diaporama(carrousels_du_jour.get(jour.isoformat(), []))
                 post = {**base, **_construire_diaporama(cfg, source, dossier, ident)}
@@ -183,7 +186,7 @@ def reparer_erreurs(cfg: dict, debut: date, fin: date, journal=print) -> None:
             rates = [p["id"] for p in data["posts"] if p.get("statut") == "erreur"
                      and debut.isoformat() <= p["date"] <= fin.isoformat()]
             # les diaporamas en dernier : ils réutilisent les carrousels du jour
-            rates.sort(key=lambda i: ("diapo" in i, i))
+            rates.sort(key=lambda i: (i[:10], "diapo" in i or "video" in i, i))  # jour par jour, Reels du soir en dernier
             for ident in rates:
                 if temps_ecoule():
                     journal("  Temps écoulé : réparations reportées au prochain passage.")
@@ -219,7 +222,10 @@ def creer_semaine_partielle(cfg: dict, lundi: date, data: dict, ident: str) -> d
         neuf = _construire_devinette(cfg, dossier, graine)
     else:
         jour = [x for x in posts if x["date"] == p["date"] and x["type"] == "carrousel"]
-        neuf = _construire_diaporama(cfg, _choisir_source_diaporama(jour), dossier, graine)
+        if p["type"] == "reel_video":
+            neuf = _construire_video(cfg, _choisir_source_diaporama(jour), dossier, graine)
+        else:
+            neuf = _construire_diaporama(cfg, _choisir_source_diaporama(jour), dossier, graine)
     posts[posts.index(p)] = {**base, **neuf}
     return data
 
@@ -322,6 +328,37 @@ def _choisir_source_diaporama(carrousels: list[dict]) -> dict:
         raise RuntimeError("aucun carrousel ce jour-là pour faire le diaporama")
     absurdes = [c for c in valides if c.get("categorie") == "absurde"]
     return (absurdes or valides)[0]
+
+
+def _construire_video(cfg, source: dict, dossier: Path, ident: str) -> dict:
+    """Vrai Reel vidéo IA : script (Claude) → image de départ 9:16 (Nano Banana) → plan animé (Veo) ×2 → montage.
+    Si la vidéo IA échoue (quota, refus…), on se rabat sur le diaporama pour ne jamais laisser de trou."""
+    if idees.mode_demo() or not images.video_dispo():
+        return _construire_diaporama(cfg, source, dossier, ident)
+    try:
+        sc = idees.script_reel(cfg, source)
+        clips, premiere = [], None
+        for i, plan in enumerate(sc["plans"][:2]):
+            depart = images.generer(plan["prompt_image"], cfg, graine=f"{ident}v{i}", ratio="9:16", role="couverture")
+            premiere = premiere or depart
+            clips.append(images.generer_video(f"{plan['mouvement']}. Photorealistic, cinematic, smooth motion, no text.",
+                                              depart, dossier / f"plan{i + 1}.mp4", cfg))
+        video = reel.video_ia(clips, sc["accroche"], cfg, dossier / "reel.mp4")
+        couv = premiere.convert("RGBA").resize(tuple(cfg["style"]["format_reel"]))
+        couv.alpha_composite(reel.calque_accroche(sc["accroche"], cfg))
+        couverture = rendu.enregistrer_jpeg(couv.convert("RGB"), dossier / "couverture.jpg")
+        for c in clips:
+            Path(c).unlink(missing_ok=True)
+        tags = " ".join("#" + t.lstrip("#").replace(" ", "") for t in sc.get("hashtags", [])[:5])
+        legende = (f"{sc['legende_accroche']}\n\n{sc['question']}\n\n"
+                   f"👉 Abonne-toi à @{cfg['compte']['pseudo']} pour ta dose de curiosités chaque jour.\n\n{tags}")
+        return {**_infos_reel(cfg, source.get("categorie")), "categorie": source.get("categorie"),
+                "sujet": f"Vidéo IA : {source['sujet']}", "accroche": sc["accroche"], "legende": legende,
+                "medias": [_rel(video)], "couverture": _rel(couverture), "source": source["id"]}
+    except Exception as e:
+        post = _construire_diaporama(cfg, source, dossier, ident)
+        post["note"] = f"vidéo IA impossible ({str(e)[:160]}) : diaporama de secours"
+        return post
 
 
 def _construire_diaporama(cfg, source: dict, dossier: Path, ident: str) -> dict:
