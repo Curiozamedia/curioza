@@ -292,3 +292,25 @@ def generer_video(prompt: str, image: Image.Image, sortie, cfg: dict, duree: int
         sortie.write_bytes(base64.b64decode(videos[0]["bytesBase64Encoded"]))
         return sortie
     raise RuntimeError("Veo : délai dépassé")
+
+
+def lire_texte_image(image: Image.Image, consigne: str, modele: str = "gemini-2.5-flash") -> str:
+    """Lecture d'image par Gemini (Vertex AI) : renvoie la réponse texte."""
+    entetes, projet = _entetes_vertex()
+    tampon = io.BytesIO()
+    image.convert("RGB").save(tampon, format="JPEG", quality=90)
+    chemin = (f"projects/{projet}/locations/global/publishers/google/models/{modele}" if projet
+              else f"publishers/google/models/{modele}")
+    corps = {"contents": [{"role": "user", "parts": [
+        {"inlineData": {"mimeType": "image/jpeg", "data": base64.b64encode(tampon.getvalue()).decode()}},
+        {"text": consigne}]}], "generationConfig": {"temperature": 0, "maxOutputTokens": 200}}
+    for attente in (0, 15, 30):
+        if attente:
+            time.sleep(attente)
+        r = requests.post(f"https://aiplatform.googleapis.com/v1/{chemin}:generateContent", headers=entetes,
+                          json=corps, timeout=120)
+        if r.status_code not in (429, 500, 503):
+            break
+    r.raise_for_status()
+    parts = (r.json().get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+    return "".join(p.get("text", "") for p in parts).strip()

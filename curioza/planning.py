@@ -342,7 +342,8 @@ def _construire_devinette(cfg, dossier: Path, ident: str) -> dict:
                 if idees.image_contient_calcul(cfg, img, d["expression"]):
                     scene = img
                     break
-            except Exception:
+            except Exception as e:
+                print(f"    devinette Nano Banana, essai {essai + 1} impossible : {str(e)[:150]}")
                 continue
     if scene is not None:
         couverture = rendu.enregistrer_jpeg(reel.image_devinette_scene(scene, d, cfg), dossier / "couverture.jpg")
@@ -351,6 +352,7 @@ def _construire_devinette(cfg, dossier: Path, ident: str) -> dict:
         fond = images.generer(d["decor"], cfg, graine=ident, ratio="9:16", devinette=True)
         couverture = rendu.enregistrer_jpeg(reel.image_devinette(fond, d, cfg), dossier / "couverture.jpg")
         video = reel.video_devinette(fond, d, cfg, dossier / "reel.mp4", ident)
+        print("    devinette : version simple utilisée (scène Nano Banana non validée)")
     return {**_infos_reel(cfg, "devinette"), "categorie": "devinette", "sujet": f"Devinette : {d['expression']}",
             "reponse": f"{d['reponse']} (piège : {d['piege']})", "legende": idees.legende_devinette(cfg, d),
             "medias": [_rel(video)], "couverture": _rel(couverture)}

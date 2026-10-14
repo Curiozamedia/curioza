@@ -12,7 +12,7 @@ from curioza.config import charger_config
 cfg = charger_config()
 entetes, projet = images._entetes_vertex()
 print("Projet :", projet)
-CANDIDATS = ["veo-3.1-fast-generate-001", "veo-3.1-fast-generate-preview", "veo-3.1-generate-001",
+CANDIDATS = [] and ["veo-3.1-fast-generate-001", "veo-3.1-fast-generate-preview", "veo-3.1-generate-001",
              "veo-3.1-generate-preview", "veo-3.0-fast-generate-001", "veo-3.0-fast-generate-preview",
              "veo-3.0-generate-001", "veo-2.0-generate-001"]
 for region in ("us-central1", "global"):
@@ -31,12 +31,6 @@ for essai in range(2):
         img = images.generer(d["scene"] + ", the written equation exactly in the vertical center of the frame", cfg,
                              graine=f"diag{essai}", ratio="9:16", role="couverture", devinette=True, texte_dans_image=True)
         img.save(f"test_cles/devinette_{essai}.jpg", quality=90)
-        import anthropic, base64, io
-        b = io.BytesIO(); img.convert("RGB").resize((img.width // 2, img.height // 2)).save(b, format="JPEG")
-        rep = anthropic.Anthropic().messages.create(model=cfg["ia_texte"]["modele"], max_tokens=60, messages=[{"role": "user", "content": [
-            {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": base64.b64encode(b.getvalue()).decode()}},
-            {"type": "text", "text": "Recopie exactement le calcul écrit dans l'image, tel quel, sans le résoudre."}]}])
-        lu = "".join(x.text for x in rep.content if getattr(x, "type", "") == "text")
-        print(f"Essai {essai} : lu = {lu!r} → {idees._normaliser_calcul(lu)!r} vs {idees._normaliser_calcul(d['expression'])!r}")
+        print(f"Essai {essai} : correct = {idees.image_contient_calcul(cfg, img, d['expression'])}")
     except Exception as e:
         print(f"Essai {essai} : ERREUR {type(e).__name__}: {str(e)[:300]}")
