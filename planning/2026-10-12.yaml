@@ -716,28 +716,27 @@ posts:
   date: '2026-10-16'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
   sujet: 'Vidéo IA : Métiers impossibles qu''on aimerait voir exister'
-  accroche: Et si ces métiers [existaient] vraiment ?
-  legende: 'Tu voulais un métier chill ? Celui-ci est déjà en poste 🌥️
+  accroche: Tu voudrais un [Berceur] de *nuages* ?
+  legende: 'Le boulot de tes rêves existe enfin, sur le papier au moins ☁️
 
 
-    Quel métier impossible tu voudrais voir exister demain, et pourquoi ?
+    Tu prendrais quel métier impossible du carrousel, et pourquoi ? Dis-le en commentaire 👇
 
 
     👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    #cultureG #curiosites #metiersimpossibles #reels #insolite'
+    #culturegenerale #curiosites #metiersimpossibles #reels #insolite'
   medias:
   - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_2100_diapo/couverture.jpg
   source: 2026-10-16_0800_carro
-  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
@@ -858,14 +857,14 @@ posts:
   date: '2026-10-17'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 2 + 8 ÷ 5 × 10 = ?'
-  reponse: '18 (piège : 20)'
-  legende: 'La réponse n''est pas 20 ! 🥴
+  sujet: 'Devinette : 9 + 9 × 9 − 9 = ?'
+  reponse: '81 (piège : 153)'
+  legende: 'La réponse n''est pas 153 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -881,7 +880,6 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
-  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-17_1400_carro
   jour: samedi
   date: '2026-10-17'
@@ -1067,28 +1065,27 @@ posts:
   date: '2026-10-17'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
   sujet: 'Vidéo IA : Aliments géants posés dans des paysages naturels, angle original'
-  accroche: Une [BAGUETTE] *géante* en pleine montagne
-  legende: 'Tu croyais que le pain restait dans la boulangerie ? 🥖🏔️
+  accroche: Une [BAGUETTE] *géante* grimpe en montagne 🥖
+  legende: 'Quand le pain part en randonnée, tu le suis ? 🥖⛰️
 
 
-    Quel aliment géant tu voudrais voir en pleine nature, la baguette, le fromage ou le melon ? 👇
+    Tu dirais que la baguette de montagne, c''est du génie ou du délire ? Dis-le en commentaire 👇
 
 
     👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    #cultureG #curiosites #insolite #fooddesign #IAcreation'
+    #culturegeneral #curiosites #insolite #reels #fromage'
   medias:
   - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_2100_diapo/couverture.jpg
   source: 2026-10-17_0800_carro
-  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-18_0800_carro
   jour: dimanche
   date: '2026-10-18'
@@ -1416,25 +1413,24 @@ posts:
   date: '2026-10-18'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
   sujet: 'Vidéo IA : Lieux célèbres du monde faits de matière inattendue, angle absurde'
-  accroche: Une tour en [SPAGHETTIS] ? Attends la fin
-  legende: 'Une tour en pâtes, une pyramide qui fond... le monde est bizarre 🍝🔺
+  accroche: Ces monuments ont craqué… [MANGÉ] par *spaghettis* 🍝
+  legende: 'Le Colisée en mousse, la tour en spaghettis… tu craques pour quel monument absurde ? 🍝
 
 
-    Tu construirais quoi en matière absurde si tu étais architecte ? 🤔
+    Quel lieu célèbre tu voudrais voir transformé en matière bizarre ? Dis-le en commentaire 👇
 
 
     👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    #cultureG #curiosites #insolite #architecture #lieuxcelebres'
+    #CultureG #Curiosites #Insolite #LieuxCelebres #ArtIA'
   medias:
   - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_2100_diapo/couverture.jpg
   source: 2026-10-18_1400_carro
-  erreur: retouche (bandes noires / signe ÷)
