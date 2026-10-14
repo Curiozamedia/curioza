@@ -203,7 +203,8 @@ def choisir_concept(cfg: dict, categorie: str, deja: list[str]) -> str | None:
     return random.choices(choix, weights=poids, k=1)[0]
 
 
-def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: list[str], inspiration: list[str]) -> dict:
+def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: list[str], inspiration: list[str],
+                      concept_force: str | None = None) -> dict:
     desc = cfg["categories"][categorie]["description"]
     consigne = f"Catégorie : {categorie} — {desc}\n"
     if categorie == "pays":
@@ -217,7 +218,7 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     if categorie == "absurde" and inspiration:
         consigne += ("Pour t'inspirer (NE COPIE RIEN, invente ton propre concept) voici ce qui fait le buzz cette semaine "
                      "sur Reddit : " + " | ".join(inspiration[:15]) + "\n")
-    concept = choisir_concept(cfg, categorie, deja)
+    concept = concept_force or choisir_concept(cfg, categorie, deja)
     if concept:
         consigne += f"Concept imposé pour ce carrousel : {concept}. Trouve un angle et des exemples à toi, surprenants.\n"
     consigne += ("ORIGINALITÉ : titres et exemples écrits par toi ; ne recopie jamais mot pour mot un titre vu ailleurs "

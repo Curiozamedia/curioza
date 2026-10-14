@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 from datetime import date, timedelta
+from pathlib import Path
 
 from curioza import calendrier, planning
 from curioza.config import charger_config, lundi_de, maintenant
@@ -21,7 +22,18 @@ def main() -> None:
     ap.add_argument("--forcer", action="store_true", help="écrase une semaine déjà planifiée")
     ap.add_argument("--refaire", help="id d'un post à régénérer")
     ap.add_argument("--calendrier-seul", action="store_true")
+    ap.add_argument("--remettre-en-page", action="store_true",
+                    help="recompose tous les carrousels à venir avec la mise en page actuelle (sans régénérer)")
     a = ap.parse_args()
+
+    if a.remettre_en_page:
+        import glob
+        for f in sorted(glob.glob(str(planning.DOSSIER_PLANNING / "*.yaml"))):
+            data = planning.lire(date.fromisoformat(Path(f).stem))
+            n = sum(planning.remettre_en_page(cfg, p) for p in data["posts"] if p.get("statut") != "publie")
+            print(f"{Path(f).stem} : {n} carrousels remis en page")
+        print(calendrier.generer(cfg))
+        return
 
     if a.calendrier_seul:
         print(calendrier.generer(cfg))

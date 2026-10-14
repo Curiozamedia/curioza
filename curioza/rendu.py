@@ -229,7 +229,8 @@ def _coupure_optimale(mots: list[Mot], police, largeur_max: float, espace: int, 
 
 
 def dessiner_titre(img: Image.Image, titre: str, cfg: dict, *, bas: int, taille_max: int,
-                   lignes_max: int = 4, largeur_max: int | None = None, centre: bool = True) -> int:
+                   lignes_max: int = 4, largeur_max: int | None = None, centre: bool = True,
+                   taille_min: int = 40) -> int:
     """Dessine le titre balisé centré, aligné pour que sa dernière ligne finisse à `bas`.
     Renvoie la coordonnée y du haut du bloc."""
     st = cfg["style"]
@@ -240,7 +241,7 @@ def dessiner_titre(img: Image.Image, titre: str, cfg: dict, *, bas: int, taille_
     # des coupures nettement plus belles (ex. « IL Y A 30 ANS, / ON TROUVAIT ÇA NORMAL »).
     meilleur_choix = None
     taille = taille_max
-    while taille >= 40:
+    while taille >= taille_min:
         police = _police(st["police_titre"], taille)
         espace = int(taille * 0.22)
         marge_box = int(taille * 0.12)
@@ -249,7 +250,7 @@ def dessiner_titre(img: Image.Image, titre: str, cfg: dict, *, bas: int, taille_
             cout = _coupure_optimale.dernier_cout + (taille_max - taille) * 55
             if meilleur_choix is None or cout < meilleur_choix[0]:
                 meilleur_choix = (cout, taille, essai)
-            if taille < taille_max * 0.84:
+            if taille < taille_max * 0.84 or taille - 4 < taille_min:
                 break
         taille -= 4
     if meilleur_choix is None:
@@ -420,9 +421,25 @@ def _recadrer(calque: Image.Image) -> tuple[Image.Image, int]:
     return calque.crop(bb), bb[0]
 
 
-def bloc_titre(titre: str, cfg: dict, largeur: int, taille_max: int, lignes_max: int) -> tuple[Image.Image, int]:
+def bloc_titre(titre: str, cfg: dict, largeur: int, taille_max: int, lignes_max: int,
+               taille_min: int = 40) -> tuple[Image.Image, int]:
+    # On garde la taille du gabarit : si le titre ne tient pas, on ajoute une ligne plutôt que de rapetisser.
+    mots = analyser_titre(titre)
+    st = cfg["style"]
+    for lignes in (lignes_max, lignes_max + 1, lignes_max + 2):
+        ok = False
+        for t in range(taille_max, taille_min - 1, -4):
+            police = _police(st["police_titre"], t)
+            if _coupure_optimale(mots, police, int(largeur * 0.86), int(t * 0.22), int(t * 0.12), lignes) is not None:
+                ok = True
+                break
+        if ok:
+            calque = Image.new("RGBA", (largeur, 1800), (0, 0, 0, 0))
+            dessiner_titre(calque, titre, cfg, bas=1700, taille_max=taille_max, lignes_max=lignes,
+                           taille_min=taille_min)
+            return _recadrer(calque)
     calque = Image.new("RGBA", (largeur, 1800), (0, 0, 0, 0))
-    dessiner_titre(calque, titre, cfg, bas=1700, taille_max=taille_max, lignes_max=lignes_max)
+    dessiner_titre(calque, titre, cfg, bas=1700, taille_max=taille_max, lignes_max=lignes_max + 2)
     return _recadrer(calque)
 
 
@@ -471,7 +488,7 @@ def slide_couverture(fond: Image.Image, titre: str, cfg: dict, sous_titre: str |
     taille = tuple(cfg["style"]["format"])
     l, h = taille
     img = ajuster_cadre(fond, taille).convert("RGBA")
-    blocs = [bloc_titre(titre, cfg, l, taille_max=112, lignes_max=4)]
+    blocs = [bloc_titre(titre, cfg, l, taille_max=112, lignes_max=4, taille_min=100)]
     ecarts = [0]
     if sous_titre:
         blocs.append(bloc_texte(sous_titre, cfg, l, taille=40))
@@ -485,21 +502,44 @@ def slide_couverture(fond: Image.Image, titre: str, cfg: dict, sous_titre: str |
     return img.convert("RGB")
 
 
+# Grille fixe des slides intérieures (comme un gabarit de graphiste) : le titre commence TOUJOURS à la même
+# hauteur et garde la même taille d'une slide à l'autre ; seul le texte dessous varie en longueur.
+GRILLE_TITRE_HAUT = 800      # haut du titre (px, sur 1350)
+TAILLE_TITRE_SLIDE = 84      # taille unique des titres de slides
+TAILLE_TEXTE_SLIDE = 40      # taille unique des paragraphes
+ECART_BADGE = 22
+ECART_TEXTE = 26
+
+
 def slide_contenu(fond: Image.Image, titre: str, texte: str, cfg: dict, numero: str | None = None,
                   fleche: bool = True) -> Image.Image:
     taille = tuple(cfg["style"]["format"])
     l, h = taille
     img = ajuster_cadre(fond, taille).convert("RGBA")
-    blocs, ecarts = [], []
-    if numero:
-        blocs.append(bloc_numero(numero, cfg)); ecarts.append(0)
-    blocs.append(bloc_titre(titre, cfg, l, taille_max=88, lignes_max=3)); ecarts.append(24 if numero else 0)
-    blocs.append(bloc_texte(texte, cfg, l, taille=40)); ecarts.append(26)
-    hauteur = sum(b.height for b, _ in blocs) + sum(ecarts)
-    _assombrir_sous_le_texte(img, h - MARGE_BAS - hauteur, 0.6)
+    b_titre = bloc_titre(titre, cfg, l, taille_max=TAILLE_TITRE_SLIDE, lignes_max=2,
+                         taille_min=TAILLE_TITRE_SLIDE - 8)
+    b_texte = bloc_texte(texte, cfg, l, taille=TAILLE_TEXTE_SLIDE)
+    b_num = bloc_numero(numero, cfg) if numero else None
+
+    haut_titre = GRILLE_TITRE_HAUT
+    bas_contenu = haut_titre + b_titre[0].height + ECART_TEXTE + b_texte[0].height
+    if bas_contenu > h - MARGE_BAS:            # texte exceptionnellement long : on remonte tout le bloc
+        haut_titre -= bas_contenu - (h - MARGE_BAS)
+    haut_bloc = haut_titre - ((b_num[0].height + ECART_BADGE) if b_num else 0)
+
+    _assombrir_sous_le_texte(img, haut_bloc, 0.6)
     img.alpha_composite(degrade_haut(taille))
     dessiner_entete(img, cfg)
-    empiler_bas(img, blocs, h - MARGE_BAS, ecarts)
+
+    def poser(bloc, y):
+        calque, x = bloc
+        xx = (l - calque.width) // 2 if x < 0 else x
+        img.alpha_composite(calque, (int(xx), int(y)))
+
+    if b_num:
+        poser(b_num, haut_bloc)
+    poser(b_titre, haut_titre)
+    poser(b_texte, haut_titre + b_titre[0].height + ECART_TEXTE)
     if fleche:
         dessiner_fleche(img, cfg)
     return img.convert("RGB")

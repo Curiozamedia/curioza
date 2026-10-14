@@ -212,7 +212,9 @@ def creer_semaine_partielle(cfg: dict, lundi: date, data: dict, ident: str) -> d
     if p["type"] == "carrousel":
         deja = ([x.get("concept", "") for x in posts if x.get("concept")] + [x.get("sujet", "") for x in posts]
                 + idees.sujets_deja_traites())
-        neuf = _construire_carrousel(cfg, p.get("categorie") or "absurde", random.randint(0, 99), deja, [], dossier, graine)
+        force = p.get("sujet") if p.get("garder_sujet") else None
+        neuf = _construire_carrousel(cfg, p.get("categorie") or "absurde", random.randint(0, 99), deja, [], dossier,
+                                     graine, concept_force=force)
     elif p["type"] == "reel_devinette":
         neuf = _construire_devinette(cfg, dossier, graine)
     else:
@@ -240,24 +242,55 @@ def _infos_reel(cfg: dict, categorie: str | None) -> dict:
             " — dans l'app : choisis un son marqué d'une flèche ↗ (tendance)"}
 
 
+def _garder_fond(img, dossier: Path, i: int) -> None:
+    """Garde l'image IA sans texte : permet de refaire la mise en page plus tard sans tout régénérer."""
+    (dossier / "fonds").mkdir(parents=True, exist_ok=True)
+    img.convert("RGB").save(dossier / "fonds" / f"{i:02d}.jpg", quality=90)
+
+
+def remettre_en_page(cfg: dict, post: dict) -> bool:
+    """Recompose les slides d'un carrousel avec la mise en page actuelle (mêmes images, mêmes textes)."""
+    from PIL import Image
+    c = post.get("contenu")
+    if post.get("type") != "carrousel" or not c or not post.get("medias"):
+        return False
+    dossier = DOSSIER_MEDIAS.parent / Path(post["medias"][0]).parent
+    fonds = sorted((dossier / "fonds").glob("*.jpg"))
+    if len(fonds) < 1 + len(c["slides"]):
+        return False
+    ouvrir = lambda f: Image.open(f).convert("RGB")
+    rendu.enregistrer_jpeg(rendu.slide_couverture(ouvrir(fonds[0]), c["titre_couverture"], cfg,
+                                                  c.get("sous_titre") or None), dossier / "01.jpg")
+    numerote = post.get("categorie") in ("nostalgie", "pays", "vie", "anecdote")
+    for i, s in enumerate(c["slides"], start=2):
+        rendu.enregistrer_jpeg(rendu.slide_contenu(ouvrir(fonds[i - 1]), s["titre"], s["texte"], cfg,
+                                                   numero=str(i - 1) if numerote else None), dossier / f"{i:02d}.jpg")
+    rendu.enregistrer_jpeg(rendu.slide_fin(ouvrir(fonds[len(c["slides"])]), cfg, c["question_fin"]),
+                           dossier / f"{len(c['slides']) + 2:02d}.jpg")
+    return True
+
+
 def _rel(p: Path) -> str:
     return p.relative_to(DOSSIER_MEDIAS.parent).as_posix()
 
 
-def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Path, ident: str) -> dict:
+def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Path, ident: str,
+                          concept_force: str | None = None) -> dict:
     mini, maxi = cfg["slides_par_carrousel"]
     nb_contenu = random.Random(ident).randint(mini - 2, maxi - 2)  # - couverture - slide finale
     if idees.mode_demo():
         c = idees.contenu_demo(categorie, numero)
     else:
-        c = idees.rediger_carrousel(cfg, categorie, nb_contenu, deja, inspiration)
+        c = idees.rediger_carrousel(cfg, categorie, nb_contenu, deja, inspiration, concept_force)
     fichiers = []
     fond = images.generer(c["prompt_couverture"], cfg, graine=ident + "c", role="couverture")
+    _garder_fond(fond, dossier, 1)
     fichiers.append(rendu.enregistrer_jpeg(rendu.slide_couverture(fond, c["titre_couverture"], cfg, c.get("sous_titre") or None),
                                            dossier / "01.jpg"))
     dernier_fond = fond
     for i, s in enumerate(c["slides"], start=2):
         f = images.generer(s["prompt_image"], cfg, graine=f"{ident}{i}", role="slide")
+        _garder_fond(f, dossier, i)
         dernier_fond = f
         fichiers.append(rendu.enregistrer_jpeg(
             rendu.slide_contenu(f, s["titre"], s["texte"], cfg,
@@ -265,7 +298,10 @@ def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Pa
             dossier / f"{i:02d}.jpg"))
     fichiers.append(rendu.enregistrer_jpeg(rendu.slide_fin(dernier_fond, cfg, c["question_fin"]),
                                            dossier / f"{len(fichiers) + 1:02d}.jpg"))
-    return {"categorie": categorie, "concept": c.get("concept", ""), "sujet": c["sujet"], "legende": idees.legende_carrousel(cfg, c),
+    contenu = {"titre_couverture": c["titre_couverture"], "sous_titre": c.get("sous_titre") or "",
+               "slides": [{"titre": x["titre"], "texte": x["texte"]} for x in c["slides"]],
+               "question_fin": c["question_fin"]}
+    return {"categorie": categorie, "concept": c.get("concept", ""), "contenu": contenu, "sujet": c["sujet"], "legende": idees.legende_carrousel(cfg, c),
             "medias": [_rel(p) for p in fichiers], "couverture": _rel(fichiers[0])}
 
 
