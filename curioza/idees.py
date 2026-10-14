@@ -175,6 +175,25 @@ FORMAT_JSON = """Réponds UNIQUEMENT avec un objet JSON de cette forme :
 }"""
 
 
+def choisir_concept(cfg: dict, categorie: str, deja: list[str]) -> str | None:
+    """Tire un concept de la banque (config.yaml › concepts). Les formats « inspirés » pèsent moins lourd,
+    et on évite ceux dont les mots ressemblent aux derniers sujets traités."""
+    import random
+    liste = (cfg.get("concepts") or {}).get(categorie) or []
+    if not liste:
+        return None
+    recents = " ".join(deja[:15]).lower()
+    choix, poids = [], []
+    for c in liste:
+        texte = c["texte"] if isinstance(c, dict) else str(c)
+        p = 0.35 if isinstance(c, dict) and c.get("inspire") else 1.0
+        mots = [m for m in texte.lower().split() if len(m) > 5][:4]
+        if mots and sum(m in recents for m in mots) >= 2:
+            p *= 0.15
+        choix.append(texte); poids.append(p)
+    return random.choices(choix, weights=poids, k=1)[0]
+
+
 def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: list[str], inspiration: list[str]) -> dict:
     desc = cfg["categories"][categorie]["description"]
     consigne = f"Catégorie : {categorie} — {desc}\n"
@@ -189,10 +208,11 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     if categorie == "absurde" and inspiration:
         consigne += ("Pour t'inspirer (NE COPIE RIEN, invente ton propre concept) voici ce qui fait le buzz cette semaine "
                      "sur Reddit : " + " | ".join(inspiration[:15]) + "\n")
-    exclus = cfg.get("sujets_exclus", [])
-    if exclus:
-        consigne += ("ORIGINALITÉ OBLIGATOIRE : invente un sujet et des titres qui t'appartiennent. Ne reprends jamais "
-                     "ces sujets/formules d'un autre compte : " + " ; ".join(exclus) + ".\n")
+    concept = choisir_concept(cfg, categorie, deja)
+    if concept:
+        consigne += f"Concept imposé pour ce carrousel : {concept}. Trouve un angle et des exemples à toi, surprenants.\n"
+    consigne += ("ORIGINALITÉ : titres et exemples écrits par toi ; ne recopie jamais mot pour mot un titre vu ailleurs "
+                 "sur Instagram.\n")
     consigne += (f"Nombre de slides de contenu : exactement {nb_slides_contenu}.\n"
                  f"Sujets déjà traités (à NE PAS refaire) : {'; '.join(deja[:120]) or 'aucun'}\n\n{FORMAT_JSON}")
     brouillon = _claude_json(cfg, SYSTEME, consigne, SCHEMA_CARROUSEL)

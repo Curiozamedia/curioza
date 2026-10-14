@@ -61,15 +61,60 @@ categories:
     poids: 1
     description: "Psychologie et cerveau au quotidien : biais, habitudes, petits mécanismes surprenants, expliqués simplement avec un conseil concret."
 
-# Sujets et titres du compte qui nous a inspirés (format seulement) : à ne JAMAIS reprendre.
-sujets_exclus:
-  - "dents humaines sur des animaux"
-  - "parties du corps humain sur des animaux ou des objets"
-  - "Il y a 30 ans, on trouvait ça normal"
-  - "Apprends ces valeurs à ton enfant"
-  - "Ton cerveau sous-estime…"
-  - "France vs <pays> : où choisirais-tu de vivre ?"
-  - "5 choses que <pays> fait mieux que la France"
+# ---------- Banque de concepts ----------
+# Chaque carrousel tire un concept (pondéré, jamais deux fois de suite le même). ~80 % d'idées CURIOZA,
+# ~20 % de formats repris d'Opulancia parce qu'ils marchent (« inspire: true »), toujours avec un sujet neuf.
+concepts:
+  absurde:
+    - "Et si les objets du quotidien avaient la taille d'un immeuble (un concept, une ville différente par slide)"
+    - "Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)"
+    - "Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…), sans marque"
+    - "Des aliments géants posés au milieu de paysages naturels"
+    - "Et si la gravité s'inversait une minute dans des lieux du quotidien"
+    - "Des objets d'autrefois réinventés en version futuriste absurde"
+    - "Des maisons construites dans des endroits impossibles"
+    - "Des animaux miniatures dans un monde à taille humaine"
+    - "Des métiers qui n'existent pas mais qu'on aimerait voir"
+    - "Des inventions totalement inutiles mais magnifiques"
+    - "La météo d'une autre planète vue depuis une ville française"
+    - "Des objets du quotidien vivants avec des émotions humaines (expressions de visage seulement)"
+    - {texte: "Des animaux ou objets avec un trait humain inattendu (format qui marche chez Opulancia, sujet neuf obligatoire)", inspire: true}
+  nostalgie:
+    - "Les règles de la cour de récré que tout le monde connaissait"
+    - "Les goûters d'école des années 90-2000 (sans marques)"
+    - "Ce que tu faisais quand il n'y avait pas internet à la maison"
+    - "Les objets de ta chambre d'ado que tu as forcément eus (sans marques)"
+    - "Les galères technologiques d'avant (attendre, rembobiner, charger…)"
+    - "Les vacances chez les grands-parents : ce qu'on y faisait"
+    - "Les phrases que tous les parents disaient"
+    - "Les métiers et commerces qui ont disparu de nos rues"
+    - {texte: "Ces choses qu'on trouvait normales il y a 20-30 ans (format qui marche chez Opulancia, exemples neufs)", inspire: true}
+  anecdote:
+    - "L'origine d'expressions françaises que tu dis tous les jours"
+    - "Inventions nées d'un accident ou d'une erreur"
+    - "Pourquoi les objets du quotidien ont cette forme (vraies raisons)"
+    - "Records naturels fous : animaux, plantes, phénomènes"
+    - "Lieux de France aux histoires étonnantes"
+    - "Mots français qui viennent d'une autre langue (et pourquoi)"
+    - "Traditions françaises et leur vraie origine"
+    - "Phénomènes de la nature qui semblent truqués mais sont réels"
+  pays:
+    - "Le duel : le petit-déjeuner"
+    - "Le duel : l'école et les enfants"
+    - "Le duel : le travail et les pauses"
+    - "Le duel : la politesse et les salutations"
+    - "Le duel : les transports du quotidien"
+    - "Le duel : le logement"
+    - "Le duel : les fêtes et anniversaires"
+    - "Le duel : le supermarché"
+    - {texte: "Le duel : où tu choisirais de vivre (format qui marche chez Opulancia, angle neuf)", inspire: true}
+  vie:
+    - "Les biais du cerveau qui te piègent chaque jour"
+    - "Petites habitudes qui changent une journée (avec explication simple)"
+    - "Ce que ton corps fait sans que tu le saches"
+    - "Les règles de politesse invisibles que tout le monde suit"
+    - "Ce que les gens heureux font différemment (idées, pas de stats inventées)"
+    - {texte: "Les valeurs à transmettre à un enfant (format qui marche chez Opulancia, formulation neuve)", inspire: true}
 
 slides_par_carrousel: [6, 8]     # min, max (couverture + contenu + slide finale)
 hashtags_par_post: 5
