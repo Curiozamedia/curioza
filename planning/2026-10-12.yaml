@@ -146,7 +146,7 @@ posts:
   date: '2026-10-15'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -169,6 +169,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-15_1400_carro
   jour: jeudi
   date: '2026-10-15'
@@ -369,7 +370,7 @@ posts:
   date: '2026-10-15'
   heure: '21:00'
   type: reel_video
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -404,6 +405,7 @@ posts:
   source: 2026-10-15_1100_carro
   note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
     \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-16_0800_carro
   jour: vendredi
   date: '2026-10-16'
@@ -523,7 +525,7 @@ posts:
   date: '2026-10-16'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -546,6 +548,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-16_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_1300_devin/couverture.jpg
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-16_1400_carro
   jour: vendredi
   date: '2026-10-16'
@@ -730,7 +733,7 @@ posts:
   date: '2026-10-16'
   heure: '21:00'
   type: reel_video
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -765,6 +768,7 @@ posts:
   source: 2026-10-16_0800_carro
   note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
     \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
@@ -880,7 +884,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-17_1400_carro
   jour: samedi
   date: '2026-10-17'
@@ -1045,7 +1049,7 @@ posts:
   - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
   source: 2026-10-17_0800_carro
-  erreur: passage en vraie vidéo IA
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-18_0800_carro
   jour: dimanche
   date: '2026-10-18'
@@ -1158,7 +1162,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-18_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-18_1400_carro
   jour: dimanche
   date: '2026-10-18'
@@ -1323,4 +1327,4 @@ posts:
   - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
   source: 2026-10-18_1400_carro
-  erreur: passage en vraie vidéo IA
+  erreur: à refaire (vidéo IA / devinette Nano Banana)

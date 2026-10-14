@@ -126,7 +126,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-19_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-19_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-19_1400_carro
   jour: lundi
   date: '2026-10-19'
@@ -296,7 +296,7 @@ posts:
   - medias/2026-10-19/2026-10-19_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
   source: 2026-10-19_0800_carro
-  erreur: passage en vraie vidéo IA
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-20_0800_carro
   jour: mardi
   date: '2026-10-20'
@@ -408,7 +408,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-20_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-20_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-20_1400_carro
   jour: mardi
   date: '2026-10-20'
@@ -575,7 +575,7 @@ posts:
   - medias/2026-10-19/2026-10-20_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
   source: 2026-10-20_1100_carro
-  erreur: passage en vraie vidéo IA
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-21_0800_carro
   jour: mercredi
   date: '2026-10-21'
@@ -690,7 +690,7 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-21_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-21_1400_carro
   jour: mercredi
   date: '2026-10-21'
@@ -855,4 +855,4 @@ posts:
   - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
   source: 2026-10-21_0800_carro
-  erreur: passage en vraie vidéo IA
+  erreur: à refaire (vidéo IA / devinette Nano Banana)
