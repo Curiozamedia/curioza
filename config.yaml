@@ -25,7 +25,7 @@ style:
 # ---------- Rythme de publication (heures de Paris) ----------
 # Phase démarrage pendant les premières semaines, puis rythme d'Opulancia.
 rythme:
-  date_lancement: "2026-10-14"   # lundi de la 1re semaine publiée
+  date_lancement: "2026-10-15"   # premier jour de publication
   semaines_demarrage: 0          # 0 = rythme complet dès le lancement (mettre 2 pour une montée progressive)
   demarrage:
     carrousels: ["08:00", "11:00", "17:00"]
