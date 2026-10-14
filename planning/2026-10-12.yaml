@@ -146,14 +146,14 @@ posts:
   date: '2026-10-15'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 12 + 9 × 6 − 4 = ?'
-  reponse: '62 (piège : 122)'
-  legende: 'La réponse n''est pas 122 ! 🥴
+  sujet: 'Devinette : 8 + 12 ÷ 2 × 7 = ?'
+  reponse: '50 (piège : 70)'
+  legende: 'La réponse n''est pas 70 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -169,7 +169,6 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-15_1400_carro
   jour: jeudi
   date: '2026-10-15'
@@ -370,42 +369,27 @@ posts:
   date: '2026-10-15'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Animaux de compagnie grands comme des immeubles en ville'
-  legende: 'Imagine ton chat assis sur ton immeuble 🐱
+  sujet: 'Vidéo IA : Animaux de compagnie grands comme des immeubles en ville'
+  accroche: 'Animaux géants : le *voisin* n''a pas [fini]'
+  legende: 'Imagine ton animal de compagnie plus haut que ton immeuble 🐱🏙️
 
 
-    Ton chat dormirait sur le toit, ton chien aurait besoin d''une piscine comme gamelle, et ton lapin te ferait
-    faire le tour du parc. Swipe, c''est sans doute pire que tu ne crois.
+    Tu préfères un chat qui dort sur ton toit ou un chien qui fait ses besoins dans le parc ? 👇
 
 
-    La dernière slide va te faire regarder ton hamster autrement 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Ton animal serait-il trop gros pour ton quartier ? 😅
-
-
-    💾 Enregistre cette vidéo pour te moquer de tes amis la prochaine fois qu''ils parlent de leur chat.
-
-
-    📤 Partage-le à un ami, pour qu''il rigole avec toi de ce chat qui écrase la tour voisine.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #cultureG #curiosites #absurde #animaux #insolite'
+    #cultureG #curiosites #animaux #insolite #illustrationIA'
   medias:
   - medias/2026-10-12/2026-10-15_2100_diapo/reel.mp4
-  couverture: medias/2026-10-12/2026-10-15_1100_carro/01.jpg
+  couverture: medias/2026-10-12/2026-10-15_2100_diapo/couverture.jpg
   source: 2026-10-15_1100_carro
-  note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
-    \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-16_0800_carro
   jour: vendredi
   date: '2026-10-16'
@@ -525,14 +509,14 @@ posts:
   date: '2026-10-16'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 4 + 4 × 4 − 4 = ?'
-  reponse: '16 (piège : 28)'
-  legende: 'La réponse n''est pas 28 ! 🥴
+  sujet: 'Devinette : 10 + 5 × 2 − 8 = ?'
+  reponse: '12 (piège : 22)'
+  legende: 'La réponse n''est pas 22 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -548,7 +532,6 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-16_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-16_1400_carro
   jour: vendredi
   date: '2026-10-16'
@@ -733,73 +716,76 @@ posts:
   date: '2026-10-16'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Métiers impossibles qu''on aimerait voir exister'
-  legende: 'Un métier qui n''existe pas, et pourtant tu le voudrais 🤔
+  sujet: 'Vidéo IA : Métiers impossibles qu''on aimerait voir exister'
+  accroche: Et si ces métiers [existaient] vraiment ?
+  legende: 'Tu voulais un métier chill ? Celui-ci est déjà en poste 🌥️
 
 
-    Berceur de nuages, correcteur de rêves, gardien des chaussettes perdues... On a imaginé des jobs absurdes qui
-    auraient pourtant bien leur place dans nos journées. Swipe pour découvrir les quatre.
+    Quel métier impossible tu voudrais voir exister demain, et pourquoi ?
 
 
-    Le dernier métier est le plus étrange de tous, et il pourrait bien te toucher 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Quel métier inventé tu prendrais tout de suite ? 😏
-
-
-    💾 Enregistre cette vidéo pour retrouver ces idées absurdes quand tu veux rire ou inspirer un projet.
-
-
-    📤 Partage-le à un ami, qui doit absolument savoir quel job il rêve d''avoir 😄.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #cultureG #curiosites #insolite #absurde #humour'
+    #cultureG #curiosites #metiersimpossibles #reels #insolite'
   medias:
   - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
-  couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
+  couverture: medias/2026-10-12/2026-10-16_2100_diapo/couverture.jpg
   source: 2026-10-16_0800_carro
-  note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
-    \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Aliments géants posés dans des paysages naturels
-  legende: 'Imagine un citron de la taille d''une dune 🍋
+  concept: Aliments géants posés dans des paysages naturels
+  contenu:
+    titre_couverture: Et si les [aliments] gigantesques *squattaient* la nature ?
+    sous_titre: Pique-nique à l'échelle XXL
+    slides:
+    - titre: '[Baguette] de montagne'
+      texte: Une *baguette* géante en travers d'un col alpin, comme un pont naturel. Selon nous, les randonneurs
+        la contournent en se demandant qui a bien pu la poser là.
+    - titre: Fromage *au bord du lac*
+      texte: Une meule de fromage affleure sur une rive, à moitié immergée. Les mouettes font la queue, l'air très
+        sérieuses.
+    - titre: Cerise *sur la falaise*
+      texte: Une cerise énorme posée au sommet d'une falaise océane, comme une cerise sur un gâteau de granit. Les
+        vagues semblent avoir peur de la faire tomber.
+    - titre: Le [melon] *du désert*
+      texte: Un melon géant fendu dans les dunes, sa chair orange brillant sous le soleil. Un chameau curieux s'approche,
+        prudent.
+    question_fin: Quel aliment géant *poserais-tu* en premier dans ta forêt préférée ?
+  sujet: Aliments géants posés dans des paysages naturels, angle original
+  legende: 'Et si ton petit-déj squattait la montagne ? 🥖
 
 
-    Et si la nature servait de table à des aliments XXL ? Une cerise sur un lac, un melon au bord d''un canyon :
-    le décor change tout. Swipe pour voir les six plus absurdes.
+    Une baguette en travers d''un col, une meule de fromage au bord d''un lac, une cerise sur une falaise : la nature
+    version buffet XXL. Swipe, c''est plus absurde à chaque slide.
 
 
-    La dernière slide est la plus énorme de toutes 👀
+    La dernière slide est celle qui fait le plus rire (ou flipper) 👀
 
 
-    Lequel te ferait le plus rire dans ton paysage préféré ? 😄
+    Tu gardes quel aliment géant, ou tu fuis ? 😅
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces images le jour où tu voudras surprendre tes potes.
+    💾 Enregistre ce carrousel pour le prochain pique-nique qui part en vrille.
 
 
-    📤 Partage-le à un ami, qui adore les images qui n''ont aucun sens 🍒.
+    📤 Partage-le à un ami, celui qui rêve de manger une montagne de fromage 🧀.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #insolite #absurde #ia'
+    #cultureG #curiosites #absurde #insolite #illustrationIA'
   medias:
   - medias/2026-10-12/2026-10-17_0800_carro/01.jpg
   - medias/2026-10-12/2026-10-17_0800_carro/02.jpg
@@ -807,43 +793,57 @@ posts:
   - medias/2026-10-12/2026-10-17_0800_carro/04.jpg
   - medias/2026-10-12/2026-10-17_0800_carro/05.jpg
   - medias/2026-10-12/2026-10-17_0800_carro/06.jpg
-  - medias/2026-10-12/2026-10-17_0800_carro/07.jpg
-  - medias/2026-10-12/2026-10-17_0800_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-17_1100_carro
   jour: samedi
   date: '2026-10-17'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  concept: 'Le duel : les transports du quotidien'
+  concept: 'Le duel France vs Espagne : les transports du quotidien'
+  contenu:
+    titre_couverture: 'Le duel France vs Espagne : [les trajets] que tu fais *sans y penser*'
+    sous_titre: 'Métro, bus, sieste et horaires : qui gagne ?'
+    slides:
+    - titre: '[Le métro] contre le tram'
+      texte: En France, on se bouscule souvent sur le quai. En Espagne, beaucoup prennent le tram en *flânant* et
+        regardent les façades défiler. Question de tempo, peut-être.
+    - titre: Horaires *à la carte*
+      texte: Le Français vérifie l'horaire du dernier train. L'Espagnol, lui, a peut-être déjà repéré la terrasse
+        du prochain *apéro*. Chacun son rythme, à chacun de voir.
+    - titre: Le *vélo* qui gagne
+      texte: 'À Séville comme à Bordeaux, le vélo prend de la place. Idée à creuser : et si on pédalait plus souvent
+        qu''on ne râle dans les bouchons ?'
+    - titre: La *sieste* des transports
+      texte: 'En France, on reste souvent debout dans le bus. En Espagne, la pause de midi a la cote. Le vrai duel
+        : qui profite du trajet pour souffler ?'
+    question_fin: Lequel de ces trajets te donne le plus *envie* de changer tes habitudes ?
   sujet: 'Le duel France vs Espagne : les transports du quotidien'
-  legende: 'Train en retard, métro silencieux ou vélo capricieux : qui gagne le duel du trajet ? 🚆
+  legende: 'Métro ou tram, qui gagne vraiment ? 🚋
 
 
-    On compare la façon de se déplacer au quotidien entre la France et l''Espagne, avec des situations qu''on reconnaît
-    tous. Ça part dans la rigolade, mais chacun a sa petite logique. Ce ne sont que des impressions, pas des études.
+    On compare la France et l''Espagne sur des gestes simples du quotidien : prendre le métro, consulter les horaires,
+    pédaler, se poser dans le bus. Certains trajets donnent un vrai sentiment de liberté, et c''est peut-être là
+    que le duel se joue.
 
 
-    La dernière slide tranche le duel, mais tu vas peut-être être surpris par le vainqueur 👀
+    La dernière slide pourrait bien te faire réviser ta pause de midi 👀
 
 
-    Tu es plutôt métro silencieux ou discussion avec le voisin ? 😄
+    Tu es team métro bondé ou team tram qui flâne ? 🤔
 
 
-    💾 Enregistre ce carrousel pour la prochaine fois que tu rates ton train.
+    💾 Enregistre ce carrousel pour les prochains trajets et ne pas oublier ces petites différences.
 
 
-    📤 Partage-le à un ami, à celui qui râle chaque matin dans les transports 🚇.
+    📤 Partage-le à un ami, celui qui se plaint toujours de ses transports et qui pourrait enfin rire un peu 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #france #espagne #transports'
+    #culturegenerale #curiosites #france #espagne #transportsencommun'
   medias:
   - medias/2026-10-12/2026-10-17_1100_carro/01.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/02.jpg
@@ -851,24 +851,20 @@ posts:
   - medias/2026-10-12/2026-10-17_1100_carro/04.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/06.jpg
-  - medias/2026-10-12/2026-10-17_1100_carro/07.jpg
-  - medias/2026-10-12/2026-10-17_1100_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-17_1300_devin
   jour: samedi
   date: '2026-10-17'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 10 + 5 × 9 − 9 = ?'
-  reponse: '46 (piège : 126)'
-  legende: 'La réponse n''est pas 126 ! 🥴
+  sujet: 'Devinette : 2 + 8 ÷ 5 × 10 = ?'
+  reponse: '18 (piège : 20)'
+  legende: 'La réponse n''est pas 20 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -884,32 +880,52 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-17_1400_carro
   jour: samedi
   date: '2026-10-17'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
+  concept: Choses normales il y a 20-30 ans, aujourd'hui disparues
+  contenu:
+    titre_couverture: Ça [PAIRAIT] normal il y a 25 ans… et aujourd'hui disparu ?
+    sous_titre: Ce que tout le monde faisait sans réfléchir
+    slides:
+    - titre: '[Cabine] *téléphonique* en plein centre-ville'
+      texte: Avant, quand ton téléphone était à plat, tu cherchais une cabine. Quelques pièces dans la poche, tu
+        appelais maman depuis la rue. Aujourd'hui, on en croise encore quelques-unes, souvent vides.
+    - titre: Le *répondeur* qu'il fallait rembobiner
+      texte: Ton message était enregistré sur une cassette. Impossible de savoir qui avait appelé sans tout écouter,
+        et il fallait rembobiner pour réécouter. Un petit clignotement rouge qui rendait fébrile.
+    - titre: Les *cartes* à gratter du tabac
+      texte: Des cartes d'anniversaire ou de Noël, avec des pages à tourner et une enveloppe à coller. On les choisissait
+        en rayon, à la main. Pour beaucoup, le papier et le stylo comptaient plus que le message.
+    - titre: Le *baladeur* et ses piles
+      texte: Des piles à changer en plein trajet, une cassette qui s'emmêlait, et un crayon glissé dans le trou
+        pour rembobiner. Tu gérais tout ça dans le métro, sans y penser.
+    - titre: Le *plan papier* sur les genoux
+      texte: 'Pas de GPS : on dépliait une carte papier énorme sur la banquette arrière et on se perdait quand même.
+        Se tromper de route faisait partie du voyage, et personne n''en faisait un drame.'
+    question_fin: Lequel t'a le plus [fait sourire] ? Et lequel te manque *vraiment* ?
   sujet: Choses normales il y a 20-30 ans, aujourd'hui disparues
   legende: 'Tu te souviens de ça ? 📼
 
 
-    Répondeur à cassette, cartes routières dépliées, tickets de cinéma en carton : ces gestes paraissaient normaux
-    à l''époque. Swipe pour replonger dans ta jeunesse.
+    Des objets qui semblaient éternels, et qui ont disparu sans prévenir. Certains te paraîtront absurdes, d''autres
+    te manqueront plus que tu ne l''imagines. Swipe pour replonger dans ton enfance.
 
 
-    La dernière slide est celle que les moins de 15 ans ne croiront jamais 👀
+    La dernière slide est celle que personne n''a vu venir 👀
 
 
-    Quel objet de ta jeunesse tu regrettes le plus ? 💭
+    Quel objet d''avant tu regrettes le plus ? Dis-le en commentaire 👇
 
 
-    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans les années 90.
+    💾 Enregistre ce carrousel pour te rappeler ces souvenirs quand tu veux replonger dans les années 90.
 
 
-    📤 Partage-le à un ami, à celui qui a grandi avec un walkman et qui va forcément rigoler 😄.
+    📤 Partage-le à un ami, à quelqu''un qui a grandi avec des cassettes et des cabines téléphoniques 📞.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
@@ -923,40 +939,61 @@ posts:
   - medias/2026-10-12/2026-10-17_1400_carro/04.jpg
   - medias/2026-10-12/2026-10-17_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1400_carro/06.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-17_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-17_1700_carro
   jour: samedi
   date: '2026-10-17'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: anecdote
-  sujet: Inventions nées d'un accident ou d'une erreur, angle surprenant
-  legende: 'Une erreur, et hop, une invention 🤯
+  concept: Inventions nées d'un accident ou d'une erreur, angle surprenant
+  contenu:
+    titre_couverture: Les [erreurs] qui ont changé le monde
+    sous_titre: Des ratés, des bêtises, et pourtant des *inventions* géniales
+    slides:
+    - titre: Le *micro-ondes* par accident
+      texte: Selon une anecdote souvent racontée, un ingénieur travaillant sur des radars aurait remarqué que le
+        chocolat fondait dans sa poche. Cette histoire est peut-être une légende, mais elle a inspiré le four à
+        *micro-ondes*.
+    - titre: Le *Post-it* qui collait mal
+      texte: Un chercheur voulait une colle très forte et obtient une colle qui se décolle. Des années plus tard,
+        cette faiblesse devient le *bloc-notes* adhésif.
+    - titre: Un *remède* cardiaque devenu autre chose
+      texte: À l'origine, ce médicament était étudié pour le cœur. Les essais ont révélé un effet secondaire inattendu,
+        et le produit a été réorienté vers une tout autre utilisation.
+    - titre: La *vulcanisation* du caoutchouc
+      texte: On raconte que Charles Goodyear aurait laissé tomber du caoutchouc sur un poêle chaud et découvert
+        qu'il ne collait plus. Ce hasard, s'il est vrai, a rendu le *caoutchouc* utilisable pour les pneus.
+    - titre: Le *plastique* né d'essais ratés
+      texte: Le premier plastique entièrement synthétique naît d'essais chimiques imparfaits et de patience. Un
+        hasard bien dirigé, et l'ère du plastique commence.
+    question_fin: Laquelle de ces erreurs te semble la plus *folle* ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Des bêtises de labo qui ont changé ta vie 🧪
 
 
-    Du four à micro-ondes au velcro, le hasard a fait plus de travail que bien des plans. Swipe pour voir les histoires
-    qui t''étonneront.
+    Pas besoin d''être génie pour rater une expérience. Ici, les ratés ont donné naissance au micro-ondes, au Post-it
+    et au pneu. Swipe pour voir l''histoire complète.
 
 
-    La dernière slide change la façon dont tu regardes les accidents 👀
+    La dernière erreur est celle qui a fait fondre plus qu''un simple chocolat 👀
 
 
-    Tu connais une autre invention née d''une bêtise ? 🤔
+    Tu connaissais laquelle de ces erreurs ? 🤔
 
 
-    💾 Enregistre ce carrousel pour retrouver ces histoires quand tu en auras besoin en soirée.
+    💾 Enregistre ce carrousel pour retrouver ces anecdotes quand tu veux briller en soirée.
 
 
-    📤 Partage-le à un ami, il va adorer ce petit tour de l''histoire 😄.
+    📤 Partage-le à un ami, celui qui pense que la science, c''est toujours du sérieux.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #inventions #histoire #anecdotes'
+    #culturegenerale #curiosites #inventions #histoire #saviezvous'
   medias:
   - medias/2026-10-12/2026-10-17_1700_carro/01.jpg
   - medias/2026-10-12/2026-10-17_1700_carro/02.jpg
@@ -965,36 +1002,50 @@ posts:
   - medias/2026-10-12/2026-10-17_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1700_carro/06.jpg
   - medias/2026-10-12/2026-10-17_1700_carro/07.jpg
-  - medias/2026-10-12/2026-10-17_1700_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-17_2000_carro
   jour: samedi
   date: '2026-10-17'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  concept: 'Le duel : le petit-déjeuner'
+  concept: 'Le duel France vs Canada : le petit-déjeuner'
+  contenu:
+    titre_couverture: 'LE DUEL [FRANCE] VS *CANADA* : LE PETIT-DÉJEUNER'
+    sous_titre: 'Tartine ou sirop d''érable : qui gagne le matin ?'
+    slides:
+    - titre: Le *sirop* d'érable, c'est sérieux
+      texte: Au Canada, le sirop d'érable est un produit phare, souvent versé sur des crêpes ou des œufs. Certains
+        Français y verront une *hérésie*, d'autres une douceur inattendue. À toi de trancher.
+    - titre: Le *pain* contre les *céréales*
+      texte: En France, la tartine ou le croissant tient souvent la vedette le matin. Au Canada, les céréales et
+        le pain grillé sont très courants. Le duel du grille-pain commence !
+    - titre: Le *café* qui *voyage* avec toi
+      texte: 'Un grand café au lait en gobelet, emporté dans la rue : une habitude qu''on associe souvent à l''Amérique
+        du Nord. Le Français, lui, préfère peut-être s''asseoir au comptoir pour un express. Qui a raison ?'
+    - titre: 'Le *duel* du *matin* : *match* nul ?'
+      texte: 'Sirop ou beurre, tartine ou crêpe, café à emporter ou express assis : chacun garde ses habitudes.
+        Le plus drôle ? On finit souvent par goûter celles de l''autre.'
+    question_fin: 'Tu mettrais quoi sur tes *crêpes* : *sirop d''érable* ou *beurre* ?'
   sujet: 'Le duel France vs Canada : le petit-déjeuner'
-  legende: 'Croissant ou crêpes au sirop, qui remporte ton petit-déj ? 🥐🍁
+  legende: 'Le matin, chacun défend sa tartine 🥞
 
 
-    On compare le matin à table entre la France et le Canada : sucré, salé, tartines et sirop d''érable. Des habitudes
-    qui surprennent, sans jugement, juste pour rigoler.
+    Sirop d''érable sur les crêpes, céréales dans le bol, café à emporter : le petit-déjeuner canadien a ses codes,
+    et le Français les découvre avec un sourire en coin.
 
 
-    Le dernier swipe va te faire changer d''avis sur ton café 👀
+    Le dernier duel se joue sur le café, et la fin risque de surprendre 👀
 
 
-    Tu es team croissant ou team sirop d''érable ? 👇
+    Ton petit-déj'' idéal, il est plutôt sucré ou salé ? ☕
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées de petit-déj quand tu voudras briller à table.
+    💾 Enregistre ce carrousel pour retrouver ces idées la prochaine fois que tu prends ton petit-déj.
 
 
-    📤 Partage-le à un ami, pour savoir qui gagne le duel au prochain brunch.
+    📤 Partage-le à un ami, qui adore les débats de cuisine et de matin.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
@@ -1009,78 +1060,82 @@ posts:
   - medias/2026-10-12/2026-10-17_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-17_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-17_2100_diapo
   jour: samedi
   date: '2026-10-17'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Aliments géants posés dans des paysages naturels'
-  legende: 'Imagine un citron de la taille d''une dune 🍋
+  sujet: 'Vidéo IA : Aliments géants posés dans des paysages naturels, angle original'
+  accroche: Une [BAGUETTE] *géante* en pleine montagne
+  legende: 'Tu croyais que le pain restait dans la boulangerie ? 🥖🏔️
 
 
-    Et si la nature servait de table à des aliments XXL ? Une cerise sur un lac, un melon au bord d''un canyon :
-    le décor change tout. Swipe pour voir les six plus absurdes.
+    Quel aliment géant tu voudrais voir en pleine nature, la baguette, le fromage ou le melon ? 👇
 
 
-    La dernière slide est la plus énorme de toutes 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Lequel te ferait le plus rire dans ton paysage préféré ? 😄
-
-
-    💾 Enregistre cette vidéo pour te souvenir de ces images le jour où tu voudras surprendre tes potes.
-
-
-    📤 Partage-le à un ami, qui adore les images qui n''ont aucun sens 🍒.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #culturegenerale #curiosites #insolite #absurde #ia'
+    #cultureG #curiosites #insolite #fooddesign #IAcreation'
   medias:
   - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
-  couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
+  couverture: medias/2026-10-12/2026-10-17_2100_diapo/couverture.jpg
   source: 2026-10-17_0800_carro
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-18_0800_carro
   jour: dimanche
   date: '2026-10-18'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
+  concept: Métiers et commerces disparus de nos rues (1985-2005)
+  contenu:
+    titre_couverture: Ces [métiers] qui *faisaient vivre nos rues* avant 2005
+    sous_titre: Tu les as peut-être croisés sans les remarquer
+    slides:
+    - titre: Le [rémouleur] ambulant
+      texte: Il passait de rue en rue avec sa meule à pédale pour *aiguiser* couteaux et ciseaux. Beaucoup de gens
+        le croisaient encore dans les années 80, avant qu'il ne disparaisse peu à peu des trottoirs.
+    - titre: Le *marchand de cassettes* loué
+      texte: Un samedi, tu passais au magasin du coin pour louer une cassette vidéo, avec la carte de membre et
+        l'angoisse de la rembobiner. Ces boutiques ont fermé les unes après les autres, *bousculées* selon beaucoup
+        par le streaming.
+    - titre: Le [porteur] de journaux du matin
+      texte: Avant l'aube, un vélo chargé de journaux pliés filait dans les rues pour les boîtes aux lettres. Dans
+        les villages, c'était un *rituel* que beaucoup connaissaient.
+    - titre: Le *cordonnier* de quartier
+      texte: Talon usé ? Semelle décousue ? Il réparait tout dans une échoppe minuscule, souvent en quelques minutes.
+        Aujourd'hui, *réparer* semble parfois un luxe, ou une idée du passé.
+    question_fin: Lequel de ces métiers te *manque* le plus ?
   sujet: Métiers et commerces disparus de nos rues (1985-2005)
-  legende: 'Ces métiers ont disparu sans prévenir 🏚️
+  legende: 'Ces métiers ont disparu de nos rues sans qu''on dise au revoir 🥲
 
 
-    Rémouleur, marchand de cassettes, porteur de journaux... Certains de ces métiers faisaient partie de ton enfance
-    sans que tu t''en rendes compte. Swipe pour retrouver leurs visages dans ta mémoire.
+    Rémouleur, loueur de cassettes, porteur de journaux, cordonnier : on les croisait tous les jours sans y penser.
+    Swipe pour replonger dans ces petits commerces qui ont marqué ta jeunesse.
 
 
-    Les deux dernières slides sont celles que tu ne vas pas voir venir 👀
+    La dernière slide pourrait bien te faire regarder ton quartier autrement 👀
 
 
-    Lequel de ces métiers tu as vraiment connu ? 💬
+    Tu te souviens de quel commerce disparu de ton quartier ? 💬
 
 
-    💾 Enregistre ce carrousel pour retrouver cette liste quand tu veux replonger dans ton enfance 📌.
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux en parler.
 
 
-    📤 Partage-le à un ami, à celui qui n''a pas connu les cabines téléphoniques 📞.
+    📤 Partage-le à un ami, lui demander s''il se souvient du porteur de journaux de son village 📰.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #culturegenerale #souvenirsdenfance #metiersdisparus'
+    #nostalgie #annees90 #culturegenerale #souvenirs #commercesdisparus'
   medias:
   - medias/2026-10-12/2026-10-18_0800_carro/01.jpg
   - medias/2026-10-12/2026-10-18_0800_carro/02.jpg
@@ -1088,42 +1143,59 @@ posts:
   - medias/2026-10-12/2026-10-18_0800_carro/04.jpg
   - medias/2026-10-12/2026-10-18_0800_carro/05.jpg
   - medias/2026-10-12/2026-10-18_0800_carro/06.jpg
-  - medias/2026-10-12/2026-10-18_0800_carro/07.jpg
-  - medias/2026-10-12/2026-10-18_0800_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-18_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-18_1100_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes, angle surprenant
+  contenu:
+    titre_couverture: Ces lieux de France cachent des [histoires] *de fou* que tu ignores
+    sous_titre: Swipe, tu vas sourire et réviser ta géo 🇫🇷
+    slides:
+    - titre: '[Mont] *Saint-Michel* : une île qui ne l''a pas toujours été'
+      texte: Aujourd'hui, le Mont-Saint-Michel est relié à la terre par une digue, mais il a longtemps été presque
+        coupé du continent. Les marées y font un spectacle à couper le souffle.
+    - titre: Le *village* qui a failli *disparaître* sous le sable
+      texte: Dans les Landes, la dune du Pilat avance chaque année de plusieurs mètres et menace la forêt qu'elle
+        recouvre lentement. Un désert en miniature, au bord de l'océan.
+    - titre: Une ville *entière* bâtie sur des *pilotis*
+      texte: La Rochelle a longtemps vécu au rythme de son port et de ses tours médiévales. Un cœur de ville tourné
+        vers la mer, qui fait rêver bien plus d'un voyageur.
+    - titre: Le *gouffre* qui fait *trembler* les spéléos
+      texte: Sous certaines grottes françaises, des galeries n'ont été explorées que par une poignée de passionnés.
+        Chaque descente ressemble, selon nous, à une expédition sur une autre planète.
+    - titre: Un *volcan* endormi au *cœur* de la *France*
+      texte: En Auvergne, des volcans éteints depuis très longtemps ont des formes encore lisibles dans le paysage.
+        La terre garde, semble-t-il, la mémoire de ses colères.
+    question_fin: Lequel de ces lieux te donne le plus *envie d'y aller* ?
   sujet: Lieux de France aux histoires étonnantes, angle surprenant
-  legende: 'Tu crois connaître la France ? Pas sûr 🗺️
+  legende: 'Tu crois connaître la France ? Pas sûr 🇫🇷😏
 
 
-    Des noms de villes qui cachent peut-être des conquêtes, des maisons avalées par le sable, des gares fantômes
-    : la France regorge de lieux aux histoires étonnantes. Swipe pour voir le décor derrière la carte.
+    Des îles qui ne l''ont pas toujours été, des dunes qui avancent, des volcans qui dorment encore. Swipe pour
+    voir la France sous un angle inattendu.
 
 
-    Les dernières slides parlent d''eau, de légendes et d''un endroit que tu n''as jamais imaginé 👀
+    La dernière slide est celle que personne ne voit venir 👀
 
 
-    Tu connais un lieu près de chez toi avec une histoire bizarre ? Dis-le en commentaire 👇
+    Tu connaissais lequel de ces lieux, toi ? 💬
 
 
-    💾 Enregistre ce carrousel pour retrouver ces lieux le jour où tu partiras en balade.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu planifies un week-end pas loin de chez toi.
 
 
-    📤 Partage-le à un ami, celui qui rêve de voyages sur des cartes.
+    📤 Partage-le à un ami, à celui qui se vante de tout connaître de la France 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #histoiredefrance #curiosites #patrimoine #lieuxinsolites'
+    #culturegenerale #France #curiosites #histoirevraie #lieuxdefrance'
   medias:
   - medias/2026-10-12/2026-10-18_1100_carro/01.jpg
   - medias/2026-10-12/2026-10-18_1100_carro/02.jpg
@@ -1131,22 +1203,21 @@ posts:
   - medias/2026-10-12/2026-10-18_1100_carro/04.jpg
   - medias/2026-10-12/2026-10-18_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-18_1100_carro/06.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-18_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-18_1300_devin
   jour: dimanche
   date: '2026-10-18'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 3 + 3 × 3 − 3 = ?'
-  reponse: '9 (piège : 15)'
-  legende: 'La réponse n''est pas 15 ! 🥴
+  sujet: 'Devinette : 7 + 12 × 11 − 10 = ?'
+  reponse: '129 (piège : 199)'
+  legende: 'La réponse n''est pas 199 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -1162,38 +1233,55 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-18_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-18_1400_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Lieux célèbres du monde transformés en matière inattendue
-  legende: 'Et si les monuments du monde étaient en gelée ? 🍮
+  concept: Lieux célèbres du monde transformés en matière inattendue
+  contenu:
+    titre_couverture: Et si les [monuments] du monde étaient faits de *matière* absurde ?
+    sous_titre: Version gourmande, moelleuse et franchement improbable
+    slides:
+    - titre: LA TOUR EN *SPAGHETTIS*
+      texte: Et si une tour iconique était bâtie entièrement en pâtes sèches, bien rangées, avec une sauce tomate
+        qui coule doucement sur les fondations ? À mon avis, le vent serait enfin une question de cuisson.
+    - titre: UNE PYRAMIDE EN [VERRE] FONDU
+      texte: Et si les pyramides d'Égypte étaient en *verre* fondu, translucide et brillant sous le soleil ? Les
+        touristes devraient sans doute porter des lunettes de soleil dès qu'ils lèvent les yeux.
+    - titre: LA STATUE EN *CHOCOLAT* NOIR
+      texte: Et si une statue monumentale, face à l'océan, était sculptée dans du chocolat qui commence à fondre
+        au soleil ? Le dessert le plus *tentant* du monde, et sans doute le plus fragile.
+    - titre: LE COLISÉE EN *MOUSSE* VERTE
+      texte: Et si des arènes antiques étaient recouvertes de mousse vivante, si épaisse qu'on ne verrait plus les
+        pierres ? La nature reprendrait ses droits, en douceur et sans demander la permission.
+    question_fin: Quel monument en *matière absurde* te donnerait envie de le visiter tout de suite ?
+  sujet: Lieux célèbres du monde faits de matière inattendue, angle absurde
+  legende: 'Et si les monuments du monde étaient en pâtes, en verre ou en chocolat ? 🍝
 
 
-    Une cathédrale en glace, une pyramide en pâte à modeler, un pont en briques colorées : on imagine des lieux
-    mythiques dans des matières du quotidien. Le résultat est absurde, et très visuel.
+    Quatre lieux imaginaires transformés en matière inattendue, entre gourmandise, fragilité et pure absurdité.
+    Difficile de les regarder comme avant une fois la scène imaginée.
 
 
-    La dernière slide est la plus fragile de toutes… 👀
+    La dernière slide est celle qui risque de te faire saliver tout en te donnant le vertige 👀
 
 
-    Tu choisirais quelle matière pour ton monument préféré ? 🤔
+    Tu choisirais quel monument en matière absurde pour la visite de ta vie ? 🤔
 
 
-    💾 Enregistre ce carrousel pour retrouver ces images quand tu voudras briser la glace en soirée 🧊.
+    💾 Enregistre ce carrousel pour te souvenir de ces images la prochaine fois que tu passes devant un monument.
 
 
-    📤 Partage-le à un ami, pour qu''il choisisse son monument en gelée préféré 🍬.
+    📤 Partage-le à un ami, parce que ton ami va forcément vouloir imaginer une tour en spaghettis 🍝.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #insolite #absurde #imagination'
+    #cultureG #curiosites #absurde #insolite #monuments'
   medias:
   - medias/2026-10-12/2026-10-18_1400_carro/01.jpg
   - medias/2026-10-12/2026-10-18_1400_carro/02.jpg
@@ -1202,39 +1290,58 @@ posts:
   - medias/2026-10-12/2026-10-18_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-18_1400_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-18_1700_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: vie
-  sujet: Mécanismes automatiques de ton corps, expliqués simplement
-  legende: 'Pendant que tu lis cette phrase, ton corps bosse déjà 🫀
+  concept: Mécanismes automatiques de ton corps, expliqués simplement
+  contenu:
+    titre_couverture: TON CORPS FAIT *20 TRUCS* PENDANT QUE TU LIS CE TITRE
+    sous_titre: Le pilote automatique, version biologie
+    slides:
+    - titre: '[RÉFLEXE] DU GENOU'
+      texte: Un petit coup sous la rotule et ta jambe se détend avant même que tu aies eu le temps de réfléchir.
+        Ton cerveau n'a pas eu son mot à dire.
+    - titre: Ton *cœur* a son propre chef
+      texte: Le cœur déclenche ses battements grâce à un groupe de cellules spécialisées, le nœud sinusal. Il garde
+        un rythme propre, même en partie isolé du reste du corps.
+    - titre: Respirer, *sans y penser*
+      texte: Tu respires en permanence sans le décider. Tu peux retenir ton souffle un moment, mais ton corps finit
+        toujours par reprendre le contrôle.
+    - titre: Le clignement, [ULTRA] discret
+      texte: Tes yeux clignent automatiquement pour rester humides, souvent sans que tu le remarques. Ça continue
+        même quand tu fixes un écran sans bouger.
+    - titre: Ton ventre *gère* tout seul
+      texte: Ton système digestif a son propre réseau de neurones, surnommé parfois le second cerveau. Il coordonne
+        le déplacement de la nourriture sans ordre de ta part.
+    question_fin: Lequel de ces mécanismes t'a le plus *surpris* ?
+  sujet: Mécanismes automatiques du corps, expliqués avec surprise
+  legende: 'Ton corps bosse en permanence, et tu ne le remercies jamais 🫀
 
 
-    Battements, digestion, réflexes, température : six mécanismes qui tournent sans ton accord. Swipe pour voir
-    ceux qui te concernent le plus, et un conseil concret à la fin.
+    Réflexe du genou, battements du cœur, clignements : ton corps gère une liste de tâches sans te demander ton
+    avis. Swipe pour voir les mécanismes les plus bluffants, expliqués simplement.
 
 
-    Le dernier réflexe est celui qui te fait sursauter chaque soir au moment de t''endormir 👀
+    La dernière slide va te faire réaliser que ton ventre a presque une vie privée 👀
 
 
-    Tu savais déjà lequel ? Dis-le en commentaire 👇
+    Tu savais lequel de ces mécanismes ? Dis-le en commentaire 👇
 
 
-    💾 Enregistre ce carrousel pour les retrouver quand tu cherches une explication à tes réflexes.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu te demandes pourquoi ton corps fait un truc bizarre.
 
 
-    📤 Partage-le à un ami, il va sûrement se dire que son corps bosse plus qu''il ne le pense 😄.
+    📤 Partage-le à un ami, celui qui oublie de boire de l''eau alors que son corps le lui rappelle en silence.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegénérale #curiosités #corpshumain #psychologie #cerveau'
+    #culturegenerale #curiosites #corpshumain #science #psychologie'
   medias:
   - medias/2026-10-12/2026-10-18_1700_carro/01.jpg
   - medias/2026-10-12/2026-10-18_1700_carro/02.jpg
@@ -1243,42 +1350,56 @@ posts:
   - medias/2026-10-12/2026-10-18_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-18_1700_carro/06.jpg
   - medias/2026-10-12/2026-10-18_1700_carro/07.jpg
-  - medias/2026-10-12/2026-10-18_1700_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-18_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-18_2000_carro
   jour: dimanche
   date: '2026-10-18'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
+  concept: Objets de chambre d'ado nés entre 1985 et 2005
+  contenu:
+    titre_couverture: Ta [chambre] d'ado en *objets* disparus
+    sous_titre: Ce qui trônait sur ton bureau entre 1985 et 2005
+    slides:
+    - titre: Le [baladeur] et ses piles
+      texte: Pour écouter ta musique, il fallait *glisser* une cassette, appuyer sur *play* et espérer que les piles
+        tiennent jusqu'au soir.
+    - titre: Le *carnet* qui circulait en cours
+      texte: Les mots d'amour et les petites blagues passaient de main en main, pliés en triangle, jusqu'à ce qu'un
+        prof *intercepte* le message.
+    - titre: Le [Tamagotchi] à nourrir
+      texte: Ce petit animal électronique pouvait mourir si tu oubliais de le *nourrir* ou de le faire dormir, même
+        pendant un cours de maths.
+    - titre: La *radio-réveil* et l'enregistrement
+      texte: Tu attendais la chanson préférée à la radio, le doigt prêt sur la touche REC, en espérant que le présentateur
+        *se taise* avant la fin.
+    question_fin: Lequel t'a le plus *manqué* en grandissant ?
   sujet: Objets de chambre d'ado nés entre 1985 et 2005
-  legende: 'Tu avais forcément un de ces objets dans ta chambre 😏
+  legende: 'Ta chambre d''ado dans les années 90, ça ressemblait à quoi ? 📼
 
 
-    Piles par paquets, cahier cadenassé, animal virtuel et SMS en T9 : tu les as tous connus. Swipe pour voir lesquels
-    t''ont marqué.
+    Piles, cassettes, petits mots pliés en triangle : on a tous eu ces objets sur notre bureau. Swipe pour replonger
+    dans ta chambre d''avant, et découvre celui qui te fait le plus sourire.
 
 
-    Le dernier objet, celui qu''on oubliait toujours de recharger 👀
+    La dernière slide est celle qui fait toujours réagir les anciens ados 👀
 
 
-    Lequel avait une place d''honneur dans ta chambre ? 👇
+    Dis-nous en commentaire quel objet tu avais dans ta chambre 💬
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces objets quand quelqu''un te demandera « c''était mieux avant
-    ? » 📼.
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans les années 90.
 
 
-    📤 Partage-le à un ami, pour qu''il rigole en reconnaissant sa propre chambre 😂.
+    📤 Partage-le à un ami, pour qu''il retrouve sa chambre d''ado en deux minutes.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #annees2000 #generationY #souvenirs'
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #chambredado'
   medias:
   - medias/2026-10-12/2026-10-18_2000_carro/01.jpg
   - medias/2026-10-12/2026-10-18_2000_carro/02.jpg
@@ -1287,44 +1408,29 @@ posts:
   - medias/2026-10-12/2026-10-18_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-18_2000_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-18_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-18_2100_diapo
   jour: dimanche
   date: '2026-10-18'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Lieux célèbres du monde transformés en matière inattendue'
-  legende: 'Et si les monuments du monde étaient en gelée ? 🍮
+  sujet: 'Vidéo IA : Lieux célèbres du monde faits de matière inattendue, angle absurde'
+  accroche: Une tour en [SPAGHETTIS] ? Attends la fin
+  legende: 'Une tour en pâtes, une pyramide qui fond... le monde est bizarre 🍝🔺
 
 
-    Une cathédrale en glace, une pyramide en pâte à modeler, un pont en briques colorées : on imagine des lieux
-    mythiques dans des matières du quotidien. Le résultat est absurde, et très visuel.
+    Tu construirais quoi en matière absurde si tu étais architecte ? 🤔
 
 
-    La dernière slide est la plus fragile de toutes… 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Tu choisirais quelle matière pour ton monument préféré ? 🤔
-
-
-    💾 Enregistre cette vidéo pour retrouver ces images quand tu voudras briser la glace en soirée 🧊.
-
-
-    📤 Partage-le à un ami, pour qu''il choisisse son monument en gelée préféré 🍬.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #cultureG #curiosites #insolite #absurde #imagination'
+    #cultureG #curiosites #insolite #architecture #lieuxcelebres'
   medias:
   - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
-  couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
+  couverture: medias/2026-10-12/2026-10-18_2100_diapo/couverture.jpg
   source: 2026-10-18_1400_carro
-  erreur: à refaire (vidéo IA / devinette Nano Banana)

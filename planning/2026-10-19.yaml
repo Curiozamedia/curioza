@@ -16,32 +16,58 @@ posts:
   date: '2026-10-19'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
+  concept: Maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Des [maisons] perchées où personne ne devrait *vivre*
+    sous_titre: Et si ton salon était au bord du vide ?
+    slides:
+    - titre: Le [toit] au-dessus des nuages
+      texte: Dans les Alpes et les Andes, certaines maisons semblent posées sur des pentes si raides qu'on se demande
+        comment elles tiennent. À notre avis, il faut une bonne dose de courage pour y dormir, mais elles sont là
+        depuis des générations.
+    - titre: Une [cabane] sur l'eau salée
+      texte: Sur certains lacs de sel, des habitations en bois se dressent au milieu d'une surface blanche et lisse.
+        Quand le reflet du ciel se pose sur le sol, la maison a l'air de flotter, sans une goutte d'eau sous les
+        pilotis.
+    - titre: Habiter *au fond* d'un canyon
+      texte: Dans plusieurs régions du monde, des habitations ont été creusées dans la falaise. Une façade peinte
+        à l'entrée, et le reste de la demeure disparaît dans la roche. Franchement, on a envie d'y frapper pour
+        vérifier qu'il y a un salon derrière.
+    - titre: Un *arbre* comme salon
+      texte: Dans certaines forêts tropicales, des cabanes sont installées dans les branches de très grands arbres.
+        Pas de sol ferme, juste un plancher suspendu au-dessus de la canopée. Idéal pour les amateurs de vertige,
+        moins pour les chats.
+    - titre: Une [maison] sur la *mer* gelée
+      texte: Dans l'Arctique, des villages vivent sur la glace de mer ou sur le permafrost. Les maisons sont surélevées
+        sur pilotis pour limiter la chaleur qui ferait fondre le sol gelé sous elles.
+    question_fin: Laquelle de ces maisons te ferait le plus *flipper* au réveil ?
   sujet: Maisons construites dans des endroits impossibles
-  legende: 'Ta maison préférée est peut-être au bord du vide 🏚️
+  legende: 'Ton salon au bord du vide, ça te tente ? 🏠
 
 
-    Falaises, lacs, cimes d''arbres, et même l''espace : certaines maisons défient vraiment la logique. Swipe pour
-    voir où l''architecture ose tout.
+    Falaises, lacs de sel, canyons, cimes d''arbres et banquise : l''humanité a trouvé des endroits où personne
+    n''aurait parié un centime sur un toit. Certains de ces logis tiennent depuis des générations, et ça, c''est
+    déjà une belle performance.
 
 
-    La dernière slide pose une question que tu ne t''étais jamais posée 👀
+    La dernière maison est tellement improbable qu''on la croirait sortie d''un film 👀
 
 
-    Tu dormirais où, toi, dans ces décors ? 😱
+    Tu habiterais dans laquelle, toi, malgré le vertige ? 😅
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu veux un logement original.
+    💾 Enregistre ce carrousel pour retrouver ces exemples quand tu voudras rêver d''une maison hors norme.
 
 
-    📤 Partage-le à un ami, qui rêve d''une maison sur pilotis au-dessus de l''eau 🌊.
+    📤 Partage-le à un ami, qui rêve de vivre au sommet d''une falaise 🏔️.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #architecture #insolite #maisonsinsolites'
+    #cultureG #curiosites #insolite #architecture #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-19_0800_carro/01.jpg
   - medias/2026-10-19/2026-10-19_0800_carro/02.jpg
@@ -51,41 +77,55 @@ posts:
   - medias/2026-10-19/2026-10-19_0800_carro/06.jpg
   - medias/2026-10-19/2026-10-19_0800_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-19_1100_carro
   jour: lundi
   date: '2026-10-19'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
-    sans marque
-  sujet: Lieux célèbres du monde faits de matière inattendue
-  legende: 'Et si les monuments du monde fondaient comme un dessert ? 🍮
+  concept: Lieux célèbres du monde faits de matière inattendue
+  contenu:
+    titre_couverture: Et si les [monuments] du monde étaient faits de *trucs bizarres* ?
+    sous_titre: Quand l'architecture se prend pour un goûter
+    slides:
+    - titre: LA TOUR EN *SPAGHETTIS*
+      texte: Imagine une tour élancée montée de pâtes crues, serrées les unes contre les autres, qui oscille doucement
+        au vent. Pas de sauce, juste du *suspense*.
+    - titre: LE PALAIS EN *SAVON*
+      texte: Et si un palais majestueux était taillé dans un bloc de savon blanc, avec des reflets irisés ? On se
+        dit que ses visiteurs risqueraient de *glisser*.
+    - titre: L'AMPHITHÉÂTRE EN [GÂTEAU]
+      texte: 'Des arcades empilées comme une pâtisserie géante, nappées de crème et saupoudrées de sucre glace.
+        Une idée : on se demande *qui* aurait le courage de la couper.'
+    - titre: LA PYRAMIDE EN *SABLE* MOUILLÉ
+      texte: Et si une pyramide était sculptée dans du sable humide ? On peut imaginer qu'elle serait *fragile*,
+        à la merci des marées et du bon sens.
+    question_fin: Laquelle de ces *constructions* te donnerait envie de la croquer ?
+  sujet: Lieux célèbres du monde faits de matière inattendue, angle absurde
+  legende: 'Ton monument préféré survivrait-il à un goûter ? 🍝
 
 
-    Pâte à modeler, briques, glace, chocolat : on imagine des lieux célèbres en matière inattendue. Chaque variante
-    est plus absurde que la précédente.
+    On a imaginé quelques grands monuments faits de matières improbables : pâtes, savon, gâteau, sable mouillé.
+    Certaines idées font sourire, d''autres donnent un peu le vertige.
 
 
-    La dernière slide est une idée qui ne tiendrait pas une journée au soleil 👀
+    La dernière construction est sûrement la plus fragile... 👀
 
 
-    Tu choisis quel monument pour une version en matière bizarre ? 🤔
+    Tu choisis quel monument en pâtes, savon, gâteau ou sable ? 🤔
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux impressionner tes potes.
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux briller en soirée.
 
 
-    📤 Partage-le à un ami, il va sûrement y penser en mangeant son dessert ce soir.
+    📤 Partage-le à un ami, il va sûrement vouloir décider du monument le plus appétissant.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #insolite #absurde #imaginationIA'
+    #cultureG #curiosites #insolite #absurde #monumentsdumonde'
   medias:
   - medias/2026-10-19/2026-10-19_1100_carro/01.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/02.jpg
@@ -93,24 +133,20 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/04.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/05.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/06.jpg
-  - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
-  - medias/2026-10-19/2026-10-19_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
-  reponse: '100 (piège : 190)'
-  legende: 'La réponse n''est pas 190 ! 🥴
+  sujet: 'Devinette : 4 + 2 ÷ 3 × 6 = ?'
+  reponse: '8 (piège : 12)'
+  legende: 'La réponse n''est pas 12 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -126,7 +162,6 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-19_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-19_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-19_1400_carro
   jour: lundi
   date: '2026-10-19'
