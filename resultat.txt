@@ -1,0 +1,18 @@
+
+===== TEST DES CLÉS =====
+Claude (textes)                  OK — OK
+Cloudflare (images gratuites)    OK — image 1024x1024
+Google (Nano Banana)             absente (pas encore branchée)
+forme CF_API_TOKEN               53 caractères, 1 ligne(s), longueurs par ligne [53], commence par une commande : False
+forme CF_ACCOUNT_ID              32 caractères, 1 ligne(s), longueurs par ligne [32], commence par une commande : False
+Vertex AI (crédit 300 $)         OK — image 896x1152
+IG_USER_ID                       absent (pas encore branché)
+IG_ACCESS_TOKEN                  absent (pas encore branché)
+=========================
+
+Projet : project-8015b7cf-c038-49ec-abd
+Devinette : 6 + 3 × 7 − 12 = ?
+    vérification devinette : lu '6+3×7-12=?' → OK
+Essai 0 : correct = True
+    vérification devinette : lu '6+3×7-12=?' → OK
+Essai 1 : correct = True
