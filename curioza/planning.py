@@ -313,10 +313,27 @@ def _construire_carrousel(cfg, categorie, numero, deja, inspiration, dossier: Pa
 
 def _construire_devinette(cfg, dossier: Path, ident: str) -> dict:
     d = devinettes.generer(ident)
-    fond = images.generer(d["decor"], cfg, graine=ident, ratio="9:16", devinette=True)
-    img = reel.image_devinette(fond, d, cfg)
-    couverture = rendu.enregistrer_jpeg(img, dossier / "couverture.jpg")
-    video = reel.video_devinette(fond, d, cfg, dossier / "reel.mp4", ident)
+    scene = None
+    if not idees.mode_demo() and images._vertex_dispo():
+        # Version premium : Nano Banana écrit l'opération dans une vraie scène, puis on vérifie qu'elle est exacte.
+        for essai in range(3):
+            try:
+                img = images.generer(d["scene"] + ", the written equation exactly in the vertical center of the frame, "
+                                     "top quarter and bottom fifth of the image free of writing",
+                                     cfg, graine=f"{ident}s{essai}", ratio="9:16", role="couverture",
+                                     devinette=True, texte_dans_image=True)
+                if idees.image_contient_calcul(cfg, img, d["expression"]):
+                    scene = img
+                    break
+            except Exception:
+                continue
+    if scene is not None:
+        couverture = rendu.enregistrer_jpeg(reel.image_devinette_scene(scene, d, cfg), dossier / "couverture.jpg")
+        video = reel.video_devinette_scene(scene, d, cfg, dossier / "reel.mp4")
+    else:
+        fond = images.generer(d["decor"], cfg, graine=ident, ratio="9:16", devinette=True)
+        couverture = rendu.enregistrer_jpeg(reel.image_devinette(fond, d, cfg), dossier / "couverture.jpg")
+        video = reel.video_devinette(fond, d, cfg, dossier / "reel.mp4", ident)
     return {**_infos_reel(cfg, "devinette"), "categorie": "devinette", "sujet": f"Devinette : {d['expression']}",
             "reponse": f"{d['reponse']} (piège : {d['piege']})", "legende": idees.legende_devinette(cfg, d),
             "medias": [_rel(video)], "couverture": _rel(couverture)}

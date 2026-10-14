@@ -195,6 +195,8 @@ def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinett
     style = STYLE_DEVINETTE if devinette else STYLE_COMMUN
     if texte_dans_image:
         style = style.replace("no text, no letters, ", "")
+    if ratio == "9:16":
+        style = style.replace("vertical 4:5 framing", "vertical 9:16 framing")
     prompt_complet = f"{prompt}. {style}"
     derniere_erreur = None
 

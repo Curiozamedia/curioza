@@ -36,6 +36,27 @@ DECORS = [
 ]
 
 
+# Scènes où Nano Banana ÉCRIT lui-même l'opération ({expr}) : rendu photo réaliste, varié d'un jour à l'autre.
+SCENES_ECRITES = [
+    "a green chalkboard in a French primary school classroom with wooden desks, the math problem \"{expr}\" written "
+    "large and centered in white chalk, chalk dust, warm morning light, vertical photo",
+    "a white office whiteboard, the equation \"{expr}\" handwritten large and centered with a black marker, "
+    "a hand holding the marker cap at the edge, modern office background softly blurred, vertical photo",
+    "a yellow sticky note stuck on a fridge door in a cozy kitchen, the math problem \"{expr}\" handwritten "
+    "in black felt pen, big and readable, magnets around, vertical photo",
+    "a steamy bathroom mirror with the equation \"{expr}\" written with a finger in the condensation, droplets, "
+    "soft light, vertical photo",
+    "wet sand on a beach at sunset, the equation \"{expr}\" written large in the sand with a stick, waves "
+    "approaching, vertical photo",
+    "an open school notebook with squared paper on a wooden desk, the math problem \"{expr}\" written in blue "
+    "ink in big neat handwriting, a pencil and an eraser next to it, top-down vertical photo",
+    "a café chalk menu board standing on a Parisian sidewalk, the equation \"{expr}\" written in white chalk "
+    "instead of the menu, blurred terrace behind, vertical photo",
+    "a birthday cake on a table with the equation \"{expr}\" piped in chocolate icing on top, candles, "
+    "festive blurred background, vertical photo",
+]
+
+
 def _eval_priorite(expr: str) -> Fraction:
     e = expr.replace("×", "*").replace("÷", "/").replace("−", "-")
     # évaluation exacte en fractions (aucun code utilisateur : expression construite ici)
@@ -97,6 +118,7 @@ def generer(graine: str) -> dict:
             "piege": piege,
             "bandeau": rnd.choice(ACCROCHES_BANDEAU),
             "decor": rnd.choice(DECORS),
+            "scene": rnd.choice(SCENES_ECRITES).replace("{expr}", f"{expr} = ?"),
             "accroche_legende": f"La réponse n'est pas {piege} ! 🥴",
         }
     raise RuntimeError("Aucune devinette valide trouvée")

@@ -365,3 +365,27 @@ def script_reel(cfg: dict, source: dict) -> dict:
         "Mêmes règles : aucune personne réelle, aucune marque, rien de choquant."
     )
     return _claude_json(cfg, SYSTEME, consigne, SCHEMA_REEL, max_tokens=2000)
+
+
+def _normaliser_calcul(t: str) -> str:
+    t = t.upper().replace("X", "×").replace("*", "×").replace("−", "-").replace("–", "-").replace("÷", "/")
+    t = t.replace(":", "/")
+    return "".join(ch for ch in t if ch in "0123456789+-×/=?()")
+
+
+def image_contient_calcul(cfg: dict, img, attendu: str) -> bool:
+    """Vérifie (Claude regarde l'image) que l'opération écrite dans la scène est EXACTEMENT la bonne."""
+    import anthropic
+    import base64
+    import io
+    tampon = io.BytesIO()
+    img.convert("RGB").resize((img.width // 2, img.height // 2)).save(tampon, format="JPEG", quality=85)
+    rep = anthropic.Anthropic().messages.create(
+        model=cfg["ia_texte"]["modele"], max_tokens=60,
+        messages=[{"role": "user", "content": [
+            {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                         "data": base64.b64encode(tampon.getvalue()).decode()}},
+            {"type": "text", "text": "Recopie exactement le calcul écrit dans l'image, tel quel, sans le résoudre. "
+                                     "Réponds uniquement par le calcul, ou RIEN s'il n'y en a pas."}]}])
+    lu = "".join(b.text for b in rep.content if getattr(b, "type", "") == "text")
+    return _normaliser_calcul(lu) == _normaliser_calcul(attendu)

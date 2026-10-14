@@ -199,3 +199,44 @@ def video_ia(clips: list[Path], accroche: str, cfg: dict, sortie: Path) -> Path:
                 "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-c:a", "aac", "-shortest",
                 "-movflags", "+faststart", str(sortie))
     return sortie
+
+
+def calques_devinette_scene(d: dict, cfg: dict) -> Image.Image:
+    """Textes posés sur la scène plein cadre : nom + accroche en haut, appel à commenter en bas, sur dégradés."""
+    l, h = cfg["style"]["format_reel"]
+    calque = Image.new("RGBA", (l, h), (0, 0, 0, 0))
+    calque.alpha_composite(rendu.degrade_haut((l, h), part=0.34, opacite_max=215))
+    calque.alpha_composite(rendu.degrade_bas((l, h), 0.22, opacite_max=220))
+    rendu.dessiner_entete(calque, cfg, y=150)
+    bloc, _ = rendu.bloc_titre(d["bandeau"], cfg, l, taille_max=86, lignes_max=3, taille_min=74)
+    calque.alpha_composite(bloc, ((l - bloc.width) // 2, 260))
+    bas, _ = rendu.bloc_texte("Ta réponse en *commentaire* 👇".replace("👇", ""), cfg, l, taille=46)
+    calque.alpha_composite(bas, ((l - bas.width) // 2, h - 300))
+    return calque
+
+
+def image_devinette_scene(scene: Image.Image, d: dict, cfg: dict) -> Image.Image:
+    l, h = cfg["style"]["format_reel"]
+    img = rendu.ajuster_cadre(scene, (l, h)).convert("RGBA")
+    img.alpha_composite(calques_devinette_scene(d, cfg))
+    return img.convert("RGB")
+
+
+def video_devinette_scene(scene: Image.Image, d: dict, cfg: dict, sortie: Path, duree: float = 9.0) -> Path:
+    """La scène zoome lentement vers l'opération ; les textes restent fixes."""
+    l, h = cfg["style"]["format_reel"]
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        f_scene, f_textes = tmp / "scene.png", tmp / "textes.png"
+        rendu.ajuster_cadre(scene, (l, h)).convert("RGB").save(f_scene)
+        calques_devinette_scene(d, cfg).save(f_textes)
+        n = int(duree * FPS)
+        filtre = (f"[0:v]scale={l * 2}:-1,zoompan=z='min(1+0.10*on/{n},1.10)':x='iw/2-(iw/zoom/2)'"
+                  f":y='ih/2-(ih/zoom/2)':d={n}:s={l}x{h}:fps={FPS}[z];[z][1:v]overlay=0:0,format=yuv420p[v]")
+        sortie.parent.mkdir(parents=True, exist_ok=True)
+        _ffmpeg("-loop", "1", "-framerate", str(FPS), "-i", str(f_scene), "-loop", "1", "-i", str(f_textes),
+                "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
+                "-filter_complex", filtre, "-map", "[v]", "-map", "2:a", "-t", f"{duree}",
+                "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-r", str(FPS),
+                "-c:a", "aac", "-shortest", "-movflags", "+faststart", str(sortie))
+    return sortie
