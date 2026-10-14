@@ -181,13 +181,18 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
     if categorie == "pays":
         pays = prochain_pays()
         perso = cfg["personnages_serie_pays"]
-        consigne += (f"Épisode de la série : France vs {pays}. Le sujet doit commencer par 'France vs {pays}'. "
+        consigne += (f"Épisode de la série « Le duel » : France vs {pays}, sur UNE habitude précise du quotidien "
+                     f"(jamais « où vivre » ni « ce que {pays} fait mieux »). Le sujet commence par 'Le duel France vs {pays}'. "
                      f"Chaque prompt d'image met en scène les deux mêmes personnages : le Français = {perso['francais']} ; "
                      f"l'autre = {perso['etranger']} (adapté au {pays}). Compare des choses du quotidien, avec humour, "
                      f"sans clichés blessants.\n")
     if categorie == "absurde" and inspiration:
         consigne += ("Pour t'inspirer (NE COPIE RIEN, invente ton propre concept) voici ce qui fait le buzz cette semaine "
                      "sur Reddit : " + " | ".join(inspiration[:15]) + "\n")
+    exclus = cfg.get("sujets_exclus", [])
+    if exclus:
+        consigne += ("ORIGINALITÉ OBLIGATOIRE : invente un sujet et des titres qui t'appartiennent. Ne reprends jamais "
+                     "ces sujets/formules d'un autre compte : " + " ; ".join(exclus) + ".\n")
     consigne += (f"Nombre de slides de contenu : exactement {nb_slides_contenu}.\n"
                  f"Sujets déjà traités (à NE PAS refaire) : {'; '.join(deja[:120]) or 'aucun'}\n\n{FORMAT_JSON}")
     brouillon = _claude_json(cfg, SYSTEME, consigne, SCHEMA_CARROUSEL)

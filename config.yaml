@@ -47,19 +47,29 @@ validation_requise: true
 categories:
   absurde:
     poids: 3
-    description: "Concept visuel absurde et dérangeant-drôle. Ex : 'On a mis des dents humaines à des animaux… on a regretté direct'. Chaque slide montre une variante du concept."
+    description: "Un concept visuel « et si… » original et surprenant, drôle ou légèrement dérangeant, décliné en variantes (une par slide). Thèmes à explorer librement : échelles absurdes, objets ou lieux détournés, métiers impossibles, lois de la physique inversées, mondes miniatures, animaux dans des situations inattendues (sans parties de corps humain), inventions farfelues."
   nostalgie:
     poids: 2
-    description: "'Il y a 30 ans, on trouvait ça normal' : objets, habitudes, pubs, école, années 80-2000 en France."
+    description: "Souvenirs partagés des Français nés entre 1985 et 2005 : récré, goûters, objets disparus, télé, vacances, technologie d'avant, règles de vie de l'époque. Angle à varier : « ce qu'on faisait sans y penser », « ce qu'aucun enfant d'aujourd'hui ne connaît », « le prix des choses avant », etc."
   anecdote:
     poids: 2
-    description: "Histoires surprenantes derrière des inventions, objets du quotidien ou phénomènes connus. Faits solides et vérifiables uniquement."
+    description: "Histoires vraies et vérifiables derrière des inventions, des mots, des expressions françaises, des lieux, des traditions ou des phénomènes naturels. Faits solides uniquement."
   pays:
     poids: 2
-    description: "Série récurrente 'France vs <pays> : où choisirais-tu de vivre ?' ou '5 choses que <pays> fait mieux que la France'. Mêmes deux personnages à chaque épisode."
+    description: "Série récurrente CURIOZA : « Le duel » — un Français et un habitant d'un autre pays comparent une habitude précise du quotidien (repas, école, travail, logement, politesse, transports…). Mêmes deux personnages à chaque épisode, humour bienveillant, sans clichés blessants."
   vie:
     poids: 1
-    description: "Leçons de vie / psychologie / conseils : 'Apprends ces 6 valeurs à ton enfant…', 'Ton cerveau sous-estime…'."
+    description: "Psychologie et cerveau au quotidien : biais, habitudes, petits mécanismes surprenants, expliqués simplement avec un conseil concret."
+
+# Sujets et titres du compte qui nous a inspirés (format seulement) : à ne JAMAIS reprendre.
+sujets_exclus:
+  - "dents humaines sur des animaux"
+  - "parties du corps humain sur des animaux ou des objets"
+  - "Il y a 30 ans, on trouvait ça normal"
+  - "Apprends ces valeurs à ton enfant"
+  - "Ton cerveau sous-estime…"
+  - "France vs <pays> : où choisirais-tu de vivre ?"
+  - "5 choses que <pays> fait mieux que la France"
 
 slides_par_carrousel: [6, 8]     # min, max (couverture + contenu + slide finale)
 hashtags_par_post: 5
