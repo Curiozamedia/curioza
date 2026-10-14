@@ -1,0 +1,492 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-10-19'
+phase: normal
+tout_valider: false
+genere_le: 2026-10-14T00:45
+posts:
+- id: 2026-10-19_0800_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: 08:00
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 21 column 6 (char 2104)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1100_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Objets du quotidien avec des parties du corps humaines
+  legende: 'Ton grille-pain a peut-être des orteils 😳
+
+
+    Cinq objets du quotidien ont décidé de sortir des parties du corps humaines. Ça commence avec des orteils dans
+    ta cuisine et ça finit avec un frigo qui te regarde. On ne sait pas qui a fait ça, mais on a des questions.
+
+
+    La dernière slide est celle qui fait le plus flipper, tu verras pourquoi 👀
+
+
+    Lequel de ces objets tu veux garder chez toi, et lequel tu jettes direct ? 😅
+
+
+    💾 Enregistre ce carrousel pour pour ne pas oublier de regarder ta cuisine avec méfiance demain matin.
+
+
+    📤 Partage-le à un ami, pour que ton pote regarde son frigo avec la même angoisse que toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #illustrationIA'
+  medias:
+  - medias/2026-10-19/2026-10-19_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/06.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
+- id: 2026-10-19_1300_devin
+  jour: lundi
+  date: '2026-10-19'
+  heure: '13:00'
+  type: reel_devinette
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1400_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '14:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting value: line 1 column 1 (char 0)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_1700_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '17:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 1661)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_2000_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '20:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 26 column 6 (char 3761)'
+  medias: []
+  legende: ''
+- id: 2026-10-19_2100_diapo
+  jour: lundi
+  date: '2026-10-19'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Objets du quotidien avec des parties du corps humaines'
+  legende: 'Ton grille-pain a peut-être des orteils 😳
+
+
+    Cinq objets du quotidien ont décidé de sortir des parties du corps humaines. Ça commence avec des orteils dans
+    ta cuisine et ça finit avec un frigo qui te regarde. On ne sait pas qui a fait ça, mais on a des questions.
+
+
+    La dernière slide est celle qui fait le plus flipper, tu verras pourquoi 👀
+
+
+    Lequel de ces objets tu veux garder chez toi, et lequel tu jettes direct ? 😅
+
+
+    💾 Enregistre cette vidéo pour pour ne pas oublier de regarder ta cuisine avec méfiance demain matin.
+
+
+    📤 Partage-le à un ami, pour que ton pote regarde son frigo avec la même angoisse que toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #illustrationIA'
+  medias:
+  - medias/2026-10-19/2026-10-19_2100_diapo/reel.mp4
+  couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
+  source: 2026-10-19_1100_carro
+- id: 2026-10-20_0800_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  sujet: Raccourcis mentaux qui trompent ton cerveau
+  legende: 'Ton cerveau a des raccourcis, et il ne te demande pas ton avis 🧠
+
+
+    Négativité, confirmation, ancrage, familiarité : quatre pièges mentaux que tu fais souvent sans t''en rendre
+    compte. Swipe, tu vas peut-être te reconnaître.
+
+
+    La dernière slide pourrait changer la façon dont tu écoutes les autres 👀
+
+
+    Tu tombes dans lequel le plus souvent ? 💬
+
+
+    💾 Enregistre ce carrousel pour les relire avant ta prochaine grosse décision 📌.
+
+
+    📤 Partage-le à un ami, à celui de ton groupe qui a toujours raison 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #biaiscognitifs #developpementpersonnel #culturegenerale #cerveau'
+  medias:
+  - medias/2026-10-19/2026-10-20_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-20_0800_carro/01.jpg
+- id: 2026-10-20_1100_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '11:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: "Génération d'image impossible avec tous les fournisseurs : Vertex 429 : {\n  \"error\": {\n    \"code\"\
+    : 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"status\": \"RESOURCE_EXHAUSTED\"\
+    \n  }\n}\n"
+  medias: []
+  legende: ''
+- id: 2026-10-20_1300_devin
+  jour: mardi
+  date: '2026-10-20'
+  heure: '13:00'
+  type: reel_devinette
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-20_1400_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Animaux forcés de vivre comme nous
+  legende: 'Tu pensais que le télétravail était dur ? 🦦
+
+
+    Imagine des animaux qui jouent les employés de bureau : le résultat est encore plus absurde que ton open space.
+    Entre une loutre en réunion, une pieuvre stressée et une girafe qui fait de la mise en scène, il y a de quoi
+    te détendre. Swipe pour voir la suite.
+
+
+    La dernière slide est celle que tout le monde va vouloir *partager* 👀
+
+
+    Quel animal tu embaucherais en premier dans ton équipe ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver les faits les plus fous quand tu en auras besoin en soirée 🧠.
+
+
+    📤 Partage-le à un ami, il va se sentir moins seul au bureau 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #faitsinsolites #absurde'
+  medias:
+  - medias/2026-10-19/2026-10-20_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/07.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
+- id: 2026-10-20_1700_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '17:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: Pas de JSON dans la réponse
+  medias: []
+  legende: ''
+- id: 2026-10-20_2000_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '20:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 2148)'
+  medias: []
+  legende: ''
+- id: 2026-10-20_2100_diapo
+  jour: mardi
+  date: '2026-10-20'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Animaux forcés de vivre comme nous'
+  legende: 'Tu pensais que le télétravail était dur ? 🦦
+
+
+    Imagine des animaux qui jouent les employés de bureau : le résultat est encore plus absurde que ton open space.
+    Entre une loutre en réunion, une pieuvre stressée et une girafe qui fait de la mise en scène, il y a de quoi
+    te détendre. Swipe pour voir la suite.
+
+
+    La dernière slide est celle que tout le monde va vouloir *partager* 👀
+
+
+    Quel animal tu embaucherais en premier dans ton équipe ? 👇
+
+
+    💾 Enregistre cette vidéo pour retrouver les faits les plus fous quand tu en auras besoin en soirée 🧠.
+
+
+    📤 Partage-le à un ami, il va se sentir moins seul au bureau 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #faitsinsolites #absurde'
+  medias:
+  - medias/2026-10-19/2026-10-20_2100_diapo/reel.mp4
+  couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
+  source: 2026-10-20_1400_carro
+- id: 2026-10-21_0800_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Aliments qui ressemblent à autre chose que ce qu'ils sont
+  legende: 'Ta nourriture te regarde aussi, tu l''as pas remarqué 🥐
+
+
+    Un croissant qui ressemble à une botte, une pomme de terre qui fait la sieste, un poivron qui boude. On a regardé
+    ton assiette sous un autre angle, et c''est là que ça devient bizarre.
+
+
+    La dernière slide, c''est celle qui t''a fait peur au petit-déj 👀
+
+
+    Tu as déjà vu un aliment qui te fixait dans ton assiette ? 😳
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu fais les courses et que tu veux rire au rayon légumes.
+
+
+    📤 Partage-le à un ami, pour qu''il arrête de manger tranquille sans se poser de questions.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #nourriture #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-21_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_0800_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
+- id: 2026-10-21_1100_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '11:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 31 column 6 (char 3035)'
+  medias: []
+  legende: ''
+- id: 2026-10-21_1300_devin
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '13:00'
+  type: reel_devinette
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
+  medias: []
+  legende: ''
+- id: 2026-10-21_1400_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '14:00'
+  type: carrousel
+  statut: erreur
+  sujet: (génération échouée)
+  erreur: 'Expecting '','' delimiter: line 36 column 6 (char 2972)'
+  medias: []
+  legende: ''
+- id: 2026-10-21_1700_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  sujet: Inventions nées d'erreurs et de hasards du quotidien
+  legende: 'Une erreur de labo peut changer le monde 🧪
+
+
+    Un collage raté, une boîte oubliée, un bonbon fondu dans la poche. Ces accidents ont donné des objets qu''on
+    utilise tous les jours. Swipe pour voir lesquels.
+
+
+    La dernière slide est celle que personne ne croit au début 👀
+
+
+    Tu connaissais lequel d''entre eux ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour pour ne pas oublier la prochaine fois que tu colles un Post-it.
+
+
+    📤 Partage-le à un ami, il sera ravi de découvrir qu''une erreur peut créer une invention.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #science #anecdotes'
+  medias:
+  - medias/2026-10-19/2026-10-21_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/07.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-21_1700_carro/01.jpg
+- id: 2026-10-21_2000_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  sujet: 'France vs Japon : gestes et habitudes du quotidien'
+  legende: 'France vs Japon : ton quotidien ne sera plus jamais pareil 🇯🇵
+
+
+    Bise contre révérence, toilettes high-tech, poubelles introuvables et trains à l''heure à la seconde près. On
+    compare tout avec humour, sans prendre parti pour un camp.
+
+
+    Les deux dernières slides vont te faire repenser ton rapport aux retards et à l''argent, tu vas voir 👀
+
+
+    Tu choisirais quel pays pour ton quotidien, et pourquoi ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour ne jamais faire une gaffe à ton prochain voyage au Japon 🎌.
+
+
+    📤 Partage-le à un ami, qui rêve de Tokyo ou qui n''a jamais vraiment compris le Japon 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #franceVsJapon #japon #culturegenerale #curiosites #voyage'
+  medias:
+  - medias/2026-10-19/2026-10-21_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-21_2000_carro/01.jpg
+- id: 2026-10-21_2100_diapo
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Aliments qui ressemblent à autre chose que ce qu''ils sont'
+  legende: 'Ta nourriture te regarde aussi, tu l''as pas remarqué 🥐
+
+
+    Un croissant qui ressemble à une botte, une pomme de terre qui fait la sieste, un poivron qui boude. On a regardé
+    ton assiette sous un autre angle, et c''est là que ça devient bizarre.
+
+
+    La dernière slide, c''est celle qui t''a fait peur au petit-déj 👀
+
+
+    Tu as déjà vu un aliment qui te fixait dans ton assiette ? 😳
+
+
+    💾 Enregistre cette vidéo pour la prochaine fois que tu fais les courses et que tu veux rire au rayon légumes.
+
+
+    📤 Partage-le à un ami, pour qu''il arrête de manger tranquille sans se poser de questions.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #nourriture #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
+  couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
+  source: 2026-10-21_0800_carro
