@@ -65,7 +65,7 @@ jobs:
           [ -n "${{ github.event.inputs.semaine }}" ] && ARGS="$ARGS --semaine ${{ github.event.inputs.semaine }}"
           [ -n "${{ github.event.inputs.refaire }}" ] && ARGS="$ARGS --refaire ${{ github.event.inputs.refaire }}"
           [ "${{ github.event.inputs.forcer }}" = "oui" ] && ARGS="$ARGS --forcer"
-          python planifier.py $ARGS
+          PYTHONUNBUFFERED=1 python planifier.py $ARGS
       - name: Republier le site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

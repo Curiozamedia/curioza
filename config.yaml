@@ -88,7 +88,7 @@ ia_image:
   slide: ["vertex:gemini-2.5-flash-image", "google:gemini-2.5-flash-image", "replicate:google/nano-banana", "cloudflare:@cf/black-forest-labs/flux-1-schnell"]
   # slide: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "google:gemini-2.5-flash-image"]   # économique
   # Décor des devinettes : simple, le modèle gratuit suffit.
-  devinette: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "replicate:black-forest-labs/flux-schnell"]
+  devinette: ["cloudflare:@cf/black-forest-labs/flux-1-schnell", "vertex:gemini-2.5-flash-image", "replicate:black-forest-labs/flux-schnell"]
 
 radar_reddit:
   actif: true

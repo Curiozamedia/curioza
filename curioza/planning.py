@@ -129,6 +129,8 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
                 continue
             post = {**base, "statut": "erreur", "sujet": "(génération échouée)", "erreur": str(e)[:300],
                     "medias": [], "legende": ""}
+            if typ == "carrousel":
+                post["categorie"] = cat
         journal(f"  {post['date']} {post['heure']} {typ:15} {post.get('sujet', '')}")
         posts_du_jour.append(post)
     posts += posts_du_jour
@@ -150,6 +152,27 @@ def jours_manquants(cfg: dict, debut: date, fin: date) -> dict[date, list[date]]
             res.setdefault(lundi_de(d), []).append(d)
         d += timedelta(days=1)
     return res
+
+
+def reparer_erreurs(cfg: dict, debut: date, fin: date, journal=print) -> None:
+    """Regénère automatiquement les posts restés en « erreur » entre debut et fin (inclus)."""
+    from .config import lundi_de
+    lundi = lundi_de(debut)
+    while lundi <= fin:
+        data = lire(lundi)
+        if data:
+            rates = [p["id"] for p in data["posts"] if p.get("statut") == "erreur"
+                     and debut.isoformat() <= p["date"] <= fin.isoformat()]
+            # les diaporamas en dernier : ils réutilisent les carrousels du jour
+            rates.sort(key=lambda i: ("diapo" in i, i))
+            for ident in rates:
+                try:
+                    data = creer_semaine_partielle(cfg, lundi, data, ident)
+                    journal(f"  Réparé : {ident}")
+                except Exception as e:
+                    journal(f"  Toujours en échec : {ident} ({str(e)[:120]})")
+                ecrire(data)
+        lundi += timedelta(days=7)
 
 
 def creer_semaine_partielle(cfg: dict, lundi: date, data: dict, ident: str) -> dict:

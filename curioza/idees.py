@@ -88,6 +88,52 @@ def _json(texte: str) -> dict:
     return json.loads(texte[debut:fin + 1])
 
 
+_TEXTE = {"type": "string"}
+SCHEMA_CARROUSEL = {
+    "type": "object",
+    "properties": {
+        "sujet": _TEXTE, "titre_couverture": _TEXTE, "sous_titre": _TEXTE, "prompt_couverture": _TEXTE,
+        "slides": {"type": "array", "items": {"type": "object", "properties": {
+            "titre": _TEXTE, "texte": _TEXTE, "prompt_image": _TEXTE},
+            "required": ["titre", "texte", "prompt_image"]}},
+        "question_fin": _TEXTE,
+        "legende": {"type": "object", "properties": {
+            "accroche": _TEXTE, "developpement": _TEXTE, "teaser": _TEXTE, "question": _TEXTE,
+            "raison_enregistrer": _TEXTE, "raison_partager": _TEXTE},
+            "required": ["accroche", "developpement", "teaser", "question", "raison_enregistrer", "raison_partager"]},
+        "hashtags": {"type": "array", "items": _TEXTE},
+    },
+    "required": ["sujet", "titre_couverture", "sous_titre", "prompt_couverture", "slides", "question_fin",
+                 "legende", "hashtags"],
+}
+
+
+def _claude_json(cfg: dict, systeme: str, message: str, schema: dict, max_tokens: int = 6000) -> dict:
+    """Réponse structurée garantie : Claude remplit un « outil » au schéma imposé (plus de JSON mal formé).
+    3 essais en cas de souci réseau ou de réponse incomplète."""
+    import anthropic
+    import time
+
+    client = anthropic.Anthropic()
+    derniere = None
+    for essai in range(3):
+        try:
+            rep = client.messages.create(
+                model=cfg["ia_texte"]["modele"], max_tokens=max_tokens, system=systeme,
+                tools=[{"name": "enregistrer", "description": "Enregistre le contenu final.", "input_schema": schema}],
+                tool_choice={"type": "tool", "name": "enregistrer"},
+                messages=[{"role": "user", "content": message}],
+            )
+            for b in rep.content:
+                if getattr(b, "type", "") == "tool_use" and isinstance(b.input, dict) and b.input.get("slides"):
+                    return b.input
+            derniere = ValueError(f"Réponse incomplète ({rep.stop_reason})")
+        except Exception as e:
+            derniere = e
+        time.sleep(5 * (essai + 1))
+    raise derniere
+
+
 SYSTEME = """Tu es le rédacteur en chef d'un compte Instagram français de divertissement « culture G & curiosités »,
 sans visage, entièrement illustré par IA. Ton style : accrocheur, simple, drôle, un peu provocateur, tutoiement.
 
@@ -144,16 +190,17 @@ def rediger_carrousel(cfg: dict, categorie: str, nb_slides_contenu: int, deja: l
                      "sur Reddit : " + " | ".join(inspiration[:15]) + "\n")
     consigne += (f"Nombre de slides de contenu : exactement {nb_slides_contenu}.\n"
                  f"Sujets déjà traités (à NE PAS refaire) : {'; '.join(deja[:120]) or 'aucun'}\n\n{FORMAT_JSON}")
-    brouillon = _json(_claude(cfg, SYSTEME, consigne))
+    brouillon = _claude_json(cfg, SYSTEME, consigne, SCHEMA_CARROUSEL)
 
     relecture = (
         "Relis ce carrousel comme un rédacteur exigeant. Corrige : faits douteux (reformule-les en opinion ou supprime-les), "
         "personnes réelles, marques, logos, statistiques inventées, fautes d'orthographe, titres trop longs, balisage "
-        "([…] un seul par titre). Garde le ton. Renvoie le JSON complet corrigé, même format, sans commentaire.\n\n"
+        "([…] un seul par titre). Garde le ton. Enregistre la version complète corrigée.\n\n"
         + json.dumps(brouillon, ensure_ascii=False)
     )
     try:
-        return _json(_claude(cfg, SYSTEME, relecture))
+        corrige = _claude_json(cfg, SYSTEME, relecture, SCHEMA_CARROUSEL)
+        return corrige if len(corrige.get("slides", [])) >= len(brouillon["slides"]) - 1 else brouillon
     except Exception:
         return brouillon
 

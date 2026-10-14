@@ -101,10 +101,14 @@ def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
               else f"publishers/google/models/{modele}")
     corps = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
              "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": ratio}}}
-    r = requests.post(f"https://{hote}/v1/{chemin}:generateContent",
-                      headers=entetes, json=corps, timeout=180)
-    if r.status_code == 429:
-        time.sleep(20)
+    # Les comptes d'essai ont un débit limité par minute : en cas de 429 on patiente et on réessaie.
+    for attente in (0, 20, 40, 60, 90, 120, 150):
+        if attente:
+            time.sleep(attente)
+        r = requests.post(f"https://{hote}/v1/{chemin}:generateContent",
+                          headers=entetes, json=corps, timeout=180)
+        if r.status_code not in (429, 500, 503):
+            break
     if not r.ok:
         raise RuntimeError(f"Vertex {r.status_code} : {r.text[:400]}")
     return _extraire_image(r, "Vertex")

@@ -53,6 +53,8 @@ def main() -> None:
         for lundi, jours in sorted(manquants.items()):
             data = planning.creer_semaine(cfg, lundi, jours=jours, existant=planning.lire(lundi))
             planning.ecrire(data)
+        # Puis on retente les posts ratés (quota, réseau…) pour ne jamais laisser de trou.
+        planning.reparer_erreurs(cfg, debut, debut + timedelta(days=6))
     print("Calendrier :", calendrier.generer(cfg))
 
 
