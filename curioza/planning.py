@@ -170,6 +170,19 @@ import time as _time
 _DEBUT = _time.time()
 
 
+def publier_avancement(cfg: dict) -> None:
+    """Sur GitHub : republie le calendrier dès qu'un jour est prêt (on n'attend plus la fin du passage)."""
+    import subprocess
+    if not _os.environ.get("GITHUB_ACTIONS"):
+        return
+    try:
+        from . import calendrier
+        calendrier.generer(cfg)
+        subprocess.run(["bash", ".github/workflows/_site.sh", "publier"], check=True, timeout=300)
+    except Exception as e:  # ne jamais arrêter la génération pour une publication intermédiaire ratée
+        print(f"  (publication intermédiaire impossible : {str(e)[:120]})")
+
+
 def temps_ecoule() -> bool:
     """Budget de temps par passage (GENERATION_MINUTES, 150 par défaut) : on s'arrête proprement entre deux jours
     pour toujours enregistrer ce qui est fait ; la suite est générée au passage suivant."""
@@ -187,7 +200,11 @@ def reparer_erreurs(cfg: dict, debut: date, fin: date, journal=print) -> None:
                      and debut.isoformat() <= p["date"] <= fin.isoformat()]
             # les diaporamas en dernier : ils réutilisent les carrousels du jour
             rates.sort(key=lambda i: (i[:10], "diapo" in i or "video" in i, i))  # jour par jour, Reels du soir en dernier
+            jour_precedent = None
             for ident in rates:
+                if jour_precedent and ident[:10] != jour_precedent:
+                    publier_avancement(cfg)
+                jour_precedent = ident[:10]
                 if temps_ecoule():
                     journal("  Temps écoulé : réparations reportées au prochain passage.")
                     return

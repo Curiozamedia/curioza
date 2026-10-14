@@ -60,6 +60,7 @@ jobs:
           VERTEX_SA_JSON: ${{ secrets.VERTEX_SA_JSON }}
           URL_PAGES: ${{ vars.URL_PAGES }}
           SITE_DIR: ${{ github.workspace }}/_site
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           ARGS=""
           [ -n "${{ github.event.inputs.semaine }}" ] && ARGS="$ARGS --semaine ${{ github.event.inputs.semaine }}"
