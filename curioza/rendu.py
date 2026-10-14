@@ -77,8 +77,14 @@ class Mot:
 PONCTUATION_HAUTE = {"?", "!", ":", ";", "»", "%"}
 
 
+_EMOJIS = re.compile("[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U0001F900-\U0001F9FF\uFE0F\u200D\u2B00-\u2BFF]")
+
+
 def typo_fr(texte: str) -> str:
-    """Typographie française propre : apostrophe courbe, points de suspension."""
+    """Typographie française propre : apostrophe courbe, points de suspension.
+    Les emojis sont retirés des visuels (les polices n'en ont pas : ils s'afficheraient en carré vide)."""
+    texte = _EMOJIS.sub("", texte)
+    texte = re.sub(r"[ \t]{2,}", " ", texte).strip()
     return texte.replace("'", "’").replace("...", "…")
 
 
