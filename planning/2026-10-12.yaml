@@ -9,5 +9,1069 @@
 semaine: '2026-10-12'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-14T00:13
-posts: []
+genere_le: 2026-10-14T05:34
+posts:
+- id: 2026-10-15_0800_carro
+  jour: jeudi
+  date: '2026-10-15'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005
+  legende: 'Tu as forcément entendu l''une de ces phrases, avoue 😏
+
+
+    Cinq phrases que beaucoup de parents de l''époque répétaient, avec ce qu''elles disaient vraiment de leur quotidien.
+    Certaines t''ont sûrement fait rire, d''autres grincer des dents.
+
+
+    La dernière slide est celle que personne n''a jamais osé contester 👀
+
+
+    Quelle phrase de ton enfance tu entends encore aujourd''hui ? 😂
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa mère ou son père dans au moins une slide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-10-12/2026-10-15_0800_carro/01.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/02.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/03.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/04.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/05.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/06.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/07.jpg
+  couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
+- id: 2026-10-15_1100_carro
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  sujet: Ce que les gens heureux font différemment au quotidien
+  legende: 'Le bonheur ne tombe pas du ciel, il se cultive un peu chaque jour 😊
+
+
+    Marcher sans écouteurs, noter ses petites victoires, appeler ses proches, dormir à heure régulière : rien de
+    spectaculaire, mais ça peut changer pas mal de choses. Swipe pour découvrir les quatre habitudes et choisir
+    la tienne.
+
+
+    Et la dernière habitude est la plus simple de toutes, celle que tu fais peut-être déjà sans le savoir 👀
+
+
+    Quelle habitude tu adoptes en premier, ou laquelle tu fais déjà ? 💬
+
+
+    💾 Enregistre ce carrousel pour la tester pendant une semaine et voir ce qui change vraiment.
+
+
+    📤 Partage-le à un ami, qui a besoin d''un petit coup de pouce pour aller mieux.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #bonheur #developpementpersonnel #culturegenerale'
+  medias:
+  - medias/2026-10-12/2026-10-15_1100_carro/01.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/02.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/03.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/04.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/05.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-15_1100_carro/01.jpg
+- id: 2026-10-15_1300_devin
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 7 × 7 − 7 = ?'
+  reponse: '49 (piège : 91)'
+  legende: 'La réponse n''est pas 91 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
+  couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
+- id: 2026-10-15_1400_carro
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  sujet: 'Le duel France vs Italie : le petit-déjeuner'
+  legende: 'Café debout ou tartine assise ? ☕
+
+
+    Le petit-déj révèle plus qu''on croit sur nos habitudes. Entre bol, espresso, sucré et fruits frais, le duel
+    France vs Italie commence dès le réveil. Swipe pour voir qui tient la route !
+
+
+    Dans les dernières slides, on parle d''un fruit oublié et d''une question de temps 👀
+
+
+    Tu es team bol ou team espresso ? 🥐
+
+
+    💾 Enregistre ce carrousel pour le prochain matin où tu voudras changer ta routine ☕.
+
+
+    📤 Partage-le à un ami, celui qui se lève toujours en retard et qui vit sur un café 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #france #italie #petitdejeuner'
+  medias:
+  - medias/2026-10-12/2026-10-15_1400_carro/01.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/02.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/03.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/04.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/05.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/06.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/07.jpg
+  couverture: medias/2026-10-12/2026-10-15_1400_carro/01.jpg
+- id: 2026-10-15_1700_carro
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Non, c''est pas du Photoshop 😳
+
+
+    La nature a des effets qui ressemblent à des montages ratés, et pourtant ils existent vraiment. Swipe pour voir
+    des phénomènes que tu crois impossibles.
+
+
+    Le dernier est tellement rare que beaucoup de gens ne le voient jamais 👀
+
+
+    Tu savais déjà que ça existait ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand quelqu''un te dira que c''est truqué.
+
+
+    📤 Partage-le à un ami, parce qu''il va forcément répondre « c''est une photo retouchée » 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #phenomenesnaturels #insolite'
+  medias:
+  - medias/2026-10-12/2026-10-15_1700_carro/01.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/02.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/03.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/04.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/05.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-15_1700_carro/01.jpg
+- id: 2026-10-15_2000_carro
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
+  legende: 'Tu te souviens de ce que tu faisais chez mamie ? 👵
+
+
+    Entre le tiroir à bazar, le jardin sans écran et le goûter sans emballage, les vacances chez les grands-parents
+    avaient un parfum bien particulier. Certains souvenirs risquent de te surprendre.
+
+
+    La dernière slide est celle qui fait le plus soupirer nos parents 👀
+
+
+    Dis-nous en commentaire ce que tu faisais chez tes grands-parents ! 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu auras envie de nostalgie.
+
+
+    📤 Partage-le à un ami, qui a passé ses étés chez mamie et papi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #generation2000 #grandsparents'
+  medias:
+  - medias/2026-10-12/2026-10-15_2000_carro/01.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/02.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/03.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/04.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/05.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-15_2000_carro/01.jpg
+- id: 2026-10-15_2100_diapo
+  jour: jeudi
+  date: '2026-10-15'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance nostalgique (tube des années 90-2000 de la bibliothèque Instagram) — dans l''app
+    : choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: nostalgie
+  sujet: 'Version Reel : Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005'
+  legende: 'Tu as forcément entendu l''une de ces phrases, avoue 😏
+
+
+    Cinq phrases que beaucoup de parents de l''époque répétaient, avec ce qu''elles disaient vraiment de leur quotidien.
+    Certaines t''ont sûrement fait rire, d''autres grincer des dents.
+
+
+    La dernière slide est celle que personne n''a jamais osé contester 👀
+
+
+    Quelle phrase de ton enfance tu entends encore aujourd''hui ? 😂
+
+
+    💾 Enregistre cette vidéo pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa mère ou son père dans au moins une slide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-10-12/2026-10-15_2100_diapo/reel.mp4
+  couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
+  source: 2026-10-15_0800_carro
+- id: 2026-10-16_0800_carro
+  jour: vendredi
+  date: '2026-10-16'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Métiers qui n'existent pas mais qu'on aimerait voir
+  legende: 'Ton CV est prêt pour ces jobs imaginaires ? 💼
+
+
+    Goûteur de nuages, dresseur de nuages de poche, réparateur d''ombres orphelines... On a inventé des métiers
+    qui n''existent pas, mais qu''on rêverait d''avoir. Chaque slide te fait sourire, et parfois réfléchir.
+
+
+    La dernière slide pourrait bien être le job de tes rêves 👀
+
+
+    Quel métier imaginaire tu prendrais, toi ? 😏
+
+
+    💾 Enregistre ce carrousel pour les relire quand le lundi te donne envie de démissionner 😅.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son poste imaginaire préféré 💼.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #metiers #insolite'
+  medias:
+  - medias/2026-10-12/2026-10-16_0800_carro/01.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/02.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/03.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/04.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/05.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/06.jpg
+  - medias/2026-10-12/2026-10-16_0800_carro/07.jpg
+  couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
+- id: 2026-10-16_1100_carro
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: 'Galères technologiques d''avant : attendre, rembobiner, charger'
+  legende: 'Tu te souviens de ces galères d''avant ? 📼
+
+
+    Attendre le bip, rembobiner une VHS, composer un numéro au cadran, ou voir son baladeur s''arrêter faute de
+    piles. Swipe pour replonger dans ces petites frustrations qui, à notre avis, forgeaient notre patience.
+
+
+    La dernière slide est celle qui fait le plus mal au cœur 👀
+
+
+    Quelle galère t''a le plus marqué, toi ? 👇
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces souvenirs quand tes enfants se plaignent du wifi.
+
+
+    📤 Partage-le à un ami, qui a déjà pesté contre un répondeur plein.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirsdenfance #generation2000'
+  medias:
+  - medias/2026-10-12/2026-10-16_1100_carro/01.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/02.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/03.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/04.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/05.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/06.jpg
+  - medias/2026-10-12/2026-10-16_1100_carro/07.jpg
+  couverture: medias/2026-10-12/2026-10-16_1100_carro/01.jpg
+- id: 2026-10-16_1300_devin
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 × 8 − 6 ÷ 2 = ?'
+  reponse: '69 (piège : 33)'
+  legende: 'La réponse n''est pas 33 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-12/2026-10-16_1300_devin/reel.mp4
+  couverture: medias/2026-10-12/2026-10-16_1300_devin/couverture.jpg
+- id: 2026-10-16_1400_carro
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  sujet: 'Ce que ton corps fait sans que tu le saches : petits mécanismes automatiques'
+  legende: 'Ton corps bosse en secret, et tu ne le remercies jamais 🫀
+
+
+    Clignement, respiration, digestion, pupilles : tout tourne en arrière-plan sans ton accord. Swipe pour découvrir
+    les mécanismes que tu ignorais complètement.
+
+
+    Les dernières slides vont te faire repenser ta façon de respirer 👀
+
+
+    Tu savais déjà lequel de ces mécanismes ? 🤔
+
+
+    💾 Enregistre ce carrousel pour relire ces petits mécanismes quand tu te sens dépassé par ton corps.
+
+
+    📤 Partage-le à un ami, il va se demander pourquoi il respire encore 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #cerveau #corpshumain'
+  medias:
+  - medias/2026-10-12/2026-10-16_1400_carro/01.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/02.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/03.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/04.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/05.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/06.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/07.jpg
+  - medias/2026-10-12/2026-10-16_1400_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-16_1400_carro/01.jpg
+- id: 2026-10-16_1700_carro
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  legende: 'Imagine : la gravité lâche tout pendant 60 secondes 🙃
+
+
+    Pain, conserves, bus et piscine, tout décolle en même temps. Le chaos serait total, et le plus drôle, c''est
+    que la scène paraît presque logique une fois qu''on la visualise.
+
+
+    Les dernières slides vont encore plus loin, avec un endroit où la minute pourrait vraiment tourner au cauchemar
+    👀
+
+
+    Tu aurais quel réflexe pendant la minute, rester accroché à ton siège ou tout lâcher ? 😂
+
+
+    💾 Enregistre ce carrousel pour le jour où la gravité fera des siennes.
+
+
+    📤 Partage-le à un ami, qui va forcément se demander où poser son café.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #sciencefun'
+  medias:
+  - medias/2026-10-12/2026-10-16_1700_carro/01.jpg
+  - medias/2026-10-12/2026-10-16_1700_carro/02.jpg
+  - medias/2026-10-12/2026-10-16_1700_carro/03.jpg
+  - medias/2026-10-12/2026-10-16_1700_carro/04.jpg
+  - medias/2026-10-12/2026-10-16_1700_carro/05.jpg
+  - medias/2026-10-12/2026-10-16_1700_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-16_1700_carro/01.jpg
+- id: 2026-10-16_2000_carro
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  sujet: 'Le duel France vs Italie : le travail et les pauses'
+  legende: 'Pause café ou pause déj longue : qui gagne le duel ? ☕
+
+
+    Entre espresso debout et déjeuner en terrasse, la France et l''Italie n''ont pas la même idée de la pause. On
+    compare les habitudes, sans chercher de vainqueur absolu. Swipe pour le verdict !
+
+
+    La dernière slide réserve une surprise sur le café offert entre collègues 👀
+
+
+    Tu es team pause longue ou pause express ? 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées quand tu planifies ta pause déjeuner.
+
+
+    📤 Partage-le à un ami, pour savoir qui, chez vous, tiendrait le rôle du grand chambreur ! 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #italie #dueldespays'
+  medias:
+  - medias/2026-10-12/2026-10-16_2000_carro/01.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/02.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/03.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/04.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/05.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/06.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/07.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-16_2000_carro/01.jpg
+- id: 2026-10-16_2100_diapo
+  jour: vendredi
+  date: '2026-10-16'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Métiers qui n''existent pas mais qu''on aimerait voir'
+  legende: 'Ton CV est prêt pour ces jobs imaginaires ? 💼
+
+
+    Goûteur de nuages, dresseur de nuages de poche, réparateur d''ombres orphelines... On a inventé des métiers
+    qui n''existent pas, mais qu''on rêverait d''avoir. Chaque slide te fait sourire, et parfois réfléchir.
+
+
+    La dernière slide pourrait bien être le job de tes rêves 👀
+
+
+    Quel métier imaginaire tu prendrais, toi ? 😏
+
+
+    💾 Enregistre cette vidéo pour les relire quand le lundi te donne envie de démissionner 😅.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son poste imaginaire préféré 💼.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #metiers #insolite'
+  medias:
+  - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
+  couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
+  source: 2026-10-16_0800_carro
+- id: 2026-10-17_0800_carro
+  jour: samedi
+  date: '2026-10-17'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Aliments géants posés dans des paysages naturels
+  legende: 'Imagine un citron de la taille d''une dune 🍋
+
+
+    Et si la nature servait de table à des aliments XXL ? Une cerise sur un lac, un melon au bord d''un canyon :
+    le décor change tout. Swipe pour voir les six plus absurdes.
+
+
+    La dernière slide est la plus énorme de toutes 👀
+
+
+    Lequel te ferait le plus rire dans ton paysage préféré ? 😄
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces images le jour où tu voudras surprendre tes potes.
+
+
+    📤 Partage-le à un ami, qui adore les images qui n''ont aucun sens 🍒.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #ia'
+  medias:
+  - medias/2026-10-12/2026-10-17_0800_carro/01.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/02.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/03.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/04.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/05.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/06.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/07.jpg
+  - medias/2026-10-12/2026-10-17_0800_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
+- id: 2026-10-17_1100_carro
+  jour: samedi
+  date: '2026-10-17'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  sujet: 'Le duel France vs Italie : la politesse et les salutations'
+  legende: 'Bise, main sur le cœur ou simple signe : qui salue le mieux ? 👋
+
+
+    Entre les bises à rallonge, les poignées de main et les grands gestes, nos deux compères s''affrontent sur la
+    politesse du quotidien. Certains détails vont te surprendre, et d''autres te feront sourire.
+
+
+    La dernière slide change tout sur la façon de dire au revoir 👀
+
+
+    Tu votes pour quelle salutation, la bise française ou le geste italien ? 💬
+
+
+    💾 Enregistre ce carrousel pour les prochaines fois où tu vas saluer quelqu''un à l''étranger.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours trois bises en se trompant de joue 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #italie #savoirinutile'
+  medias:
+  - medias/2026-10-12/2026-10-17_1100_carro/01.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/02.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/03.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/04.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/05.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-17_1100_carro/01.jpg
+- id: 2026-10-17_1300_devin
+  jour: samedi
+  date: '2026-10-17'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 5 × 9 − 9 = ?'
+  reponse: '46 (piège : 126)'
+  legende: 'La réponse n''est pas 126 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
+  couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
+- id: 2026-10-17_1400_carro
+  jour: samedi
+  date: '2026-10-17'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: Choses normales il y a 20-30 ans, aujourd'hui disparues
+  legende: 'Tu te souviens de ça ? 📼
+
+
+    Répondeur à cassette, cartes routières dépliées, tickets de cinéma en carton : ces gestes paraissaient normaux
+    à l''époque. Swipe pour replonger dans ta jeunesse.
+
+
+    La dernière slide est celle que les moins de 15 ans ne croiront jamais 👀
+
+
+    Quel objet de ta jeunesse tu regrettes le plus ? 💭
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans les années 90.
+
+
+    📤 Partage-le à un ami, à celui qui a grandi avec un walkman et qui va forcément rigoler 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #annees2000'
+  medias:
+  - medias/2026-10-12/2026-10-17_1400_carro/01.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/02.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/03.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/04.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/05.jpg
+  - medias/2026-10-12/2026-10-17_1400_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-17_1400_carro/01.jpg
+- id: 2026-10-17_1700_carro
+  jour: samedi
+  date: '2026-10-17'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  sujet: Inventions nées d'un accident ou d'une erreur, angle surprenant
+  legende: 'Une erreur, et hop, une invention 🤯
+
+
+    Du four à micro-ondes au velcro, le hasard a fait plus de travail que bien des plans. Swipe pour voir les histoires
+    qui t''étonneront.
+
+
+    La dernière slide change la façon dont tu regardes les accidents 👀
+
+
+    Tu connais une autre invention née d''une bêtise ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces histoires quand tu en auras besoin en soirée.
+
+
+    📤 Partage-le à un ami, il va adorer ce petit tour de l''histoire 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoire #anecdotes'
+  medias:
+  - medias/2026-10-12/2026-10-17_1700_carro/01.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/02.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/03.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/04.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/05.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/06.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/07.jpg
+  - medias/2026-10-12/2026-10-17_1700_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-17_1700_carro/01.jpg
+- id: 2026-10-17_2000_carro
+  jour: samedi
+  date: '2026-10-17'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  sujet: 'Le duel France vs Italie : le petit-déjeuner, angle surprenant'
+  legende: 'Ton petit-déj en dit plus sur toi que ton horoscope 🥐
+
+
+    Tremper sa tartine, avaler un espresso debout, défendre son croissant : le matin révèle nos habitudes. Le duel
+    France vs Italie commence à la cuisine.
+
+
+    La dernière slide va diviser les tables de cuisine 👀
+
+
+    Tu trempes ta tartine ou tu restes fidèle au café debout ? ☕
+
+
+    💾 Enregistre ce carrousel pour retrouver ce duel au prochain petit-déj.
+
+
+    📤 Partage-le à un ami, qui doit gagner la bataille des matins.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #France #Italie #petitdejeuner'
+  medias:
+  - medias/2026-10-12/2026-10-17_2000_carro/01.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/02.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/03.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/04.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/05.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/06.jpg
+  - medias/2026-10-12/2026-10-17_2000_carro/07.jpg
+  couverture: medias/2026-10-12/2026-10-17_2000_carro/01.jpg
+- id: 2026-10-17_2100_diapo
+  jour: samedi
+  date: '2026-10-17'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Aliments géants posés dans des paysages naturels'
+  legende: 'Imagine un citron de la taille d''une dune 🍋
+
+
+    Et si la nature servait de table à des aliments XXL ? Une cerise sur un lac, un melon au bord d''un canyon :
+    le décor change tout. Swipe pour voir les six plus absurdes.
+
+
+    La dernière slide est la plus énorme de toutes 👀
+
+
+    Lequel te ferait le plus rire dans ton paysage préféré ? 😄
+
+
+    💾 Enregistre cette vidéo pour te souvenir de ces images le jour où tu voudras surprendre tes potes.
+
+
+    📤 Partage-le à un ami, qui adore les images qui n''ont aucun sens 🍒.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #ia'
+  medias:
+  - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
+  couverture: medias/2026-10-12/2026-10-17_0800_carro/01.jpg
+  source: 2026-10-17_0800_carro
+- id: 2026-10-18_0800_carro
+  jour: dimanche
+  date: '2026-10-18'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: Métiers et commerces disparus de nos rues (1985-2005)
+  legende: 'Ces métiers ont disparu sans prévenir 🏚️
+
+
+    Rémouleur, marchand de cassettes, porteur de journaux... Certains de ces métiers faisaient partie de ton enfance
+    sans que tu t''en rendes compte. Swipe pour retrouver leurs visages dans ta mémoire.
+
+
+    Les deux dernières slides sont celles que tu ne vas pas voir venir 👀
+
+
+    Lequel de ces métiers tu as vraiment connu ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver cette liste quand tu veux replonger dans ton enfance 📌.
+
+
+    📤 Partage-le à un ami, à celui qui n''a pas connu les cabines téléphoniques 📞.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirsdenfance #metiersdisparus'
+  medias:
+  - medias/2026-10-12/2026-10-18_0800_carro/01.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/02.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/03.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/04.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/05.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/06.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/07.jpg
+  - medias/2026-10-12/2026-10-18_0800_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-18_0800_carro/01.jpg
+- id: 2026-10-18_1100_carro
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  sujet: Lieux de France aux histoires étonnantes, angle surprenant
+  legende: 'Tu crois connaître la France ? Pas sûr 🗺️
+
+
+    Des noms de villes qui cachent peut-être des conquêtes, des maisons avalées par le sable, des gares fantômes
+    : la France regorge de lieux aux histoires étonnantes. Swipe pour voir le décor derrière la carte.
+
+
+    Les dernières slides parlent d''eau, de légendes et d''un endroit que tu n''as jamais imaginé 👀
+
+
+    Tu connais un lieu près de chez toi avec une histoire bizarre ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces lieux le jour où tu partiras en balade.
+
+
+    📤 Partage-le à un ami, celui qui rêve de voyages sur des cartes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #histoiredefrance #curiosites #patrimoine #lieuxinsolites'
+  medias:
+  - medias/2026-10-12/2026-10-18_1100_carro/01.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/02.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/03.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/04.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/05.jpg
+  - medias/2026-10-12/2026-10-18_1100_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-18_1100_carro/01.jpg
+- id: 2026-10-18_1300_devin
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 3 × 3 − 3 = ?'
+  reponse: '9 (piège : 15)'
+  legende: 'La réponse n''est pas 15 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-12/2026-10-18_1300_devin/reel.mp4
+  couverture: medias/2026-10-12/2026-10-18_1300_devin/couverture.jpg
+- id: 2026-10-18_1400_carro
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Lieux célèbres du monde transformés en matière inattendue
+  legende: 'Et si les monuments du monde étaient en gelée ? 🍮
+
+
+    Une cathédrale en glace, une pyramide en pâte à modeler, un pont en briques colorées : on imagine des lieux
+    mythiques dans des matières du quotidien. Le résultat est absurde, et très visuel.
+
+
+    La dernière slide est la plus fragile de toutes… 👀
+
+
+    Tu choisirais quelle matière pour ton monument préféré ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces images quand tu voudras briser la glace en soirée 🧊.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son monument en gelée préféré 🍬.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #imagination'
+  medias:
+  - medias/2026-10-12/2026-10-18_1400_carro/01.jpg
+  - medias/2026-10-12/2026-10-18_1400_carro/02.jpg
+  - medias/2026-10-12/2026-10-18_1400_carro/03.jpg
+  - medias/2026-10-12/2026-10-18_1400_carro/04.jpg
+  - medias/2026-10-12/2026-10-18_1400_carro/05.jpg
+  - medias/2026-10-12/2026-10-18_1400_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
+- id: 2026-10-18_1700_carro
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  sujet: Mécanismes automatiques de ton corps, expliqués simplement
+  legende: 'Pendant que tu lis cette phrase, ton corps bosse déjà 🫀
+
+
+    Battements, digestion, réflexes, température : six mécanismes qui tournent sans ton accord. Swipe pour voir
+    ceux qui te concernent le plus, et un conseil concret à la fin.
+
+
+    Le dernier réflexe est celui qui te fait sursauter chaque soir au moment de t''endormir 👀
+
+
+    Tu savais déjà lequel ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu cherches une explication à tes réflexes.
+
+
+    📤 Partage-le à un ami, il va sûrement se dire que son corps bosse plus qu''il ne le pense 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegénérale #curiosités #corpshumain #psychologie #cerveau'
+  medias:
+  - medias/2026-10-12/2026-10-18_1700_carro/01.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/02.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/03.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/04.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/05.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/06.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/07.jpg
+  - medias/2026-10-12/2026-10-18_1700_carro/08.jpg
+  couverture: medias/2026-10-12/2026-10-18_1700_carro/01.jpg
+- id: 2026-10-18_2000_carro
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  sujet: Objets de chambre d'ado nés entre 1985 et 2005
+  legende: 'Tu avais forcément un de ces objets dans ta chambre 😏
+
+
+    Piles par paquets, cahier cadenassé, animal virtuel et SMS en T9 : tu les as tous connus. Swipe pour voir lesquels
+    t''ont marqué.
+
+
+    Le dernier objet, celui qu''on oubliait toujours de recharger 👀
+
+
+    Lequel avait une place d''honneur dans ta chambre ? 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces objets quand quelqu''un te demandera « c''était mieux avant
+    ? » 📼.
+
+
+    📤 Partage-le à un ami, pour qu''il rigole en reconnaissant sa propre chambre 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #generationY #souvenirs'
+  medias:
+  - medias/2026-10-12/2026-10-18_2000_carro/01.jpg
+  - medias/2026-10-12/2026-10-18_2000_carro/02.jpg
+  - medias/2026-10-12/2026-10-18_2000_carro/03.jpg
+  - medias/2026-10-12/2026-10-18_2000_carro/04.jpg
+  - medias/2026-10-12/2026-10-18_2000_carro/05.jpg
+  - medias/2026-10-12/2026-10-18_2000_carro/06.jpg
+  couverture: medias/2026-10-12/2026-10-18_2000_carro/01.jpg
+- id: 2026-10-18_2100_diapo
+  jour: dimanche
+  date: '2026-10-18'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Lieux célèbres du monde transformés en matière inattendue'
+  legende: 'Et si les monuments du monde étaient en gelée ? 🍮
+
+
+    Une cathédrale en glace, une pyramide en pâte à modeler, un pont en briques colorées : on imagine des lieux
+    mythiques dans des matières du quotidien. Le résultat est absurde, et très visuel.
+
+
+    La dernière slide est la plus fragile de toutes… 👀
+
+
+    Tu choisirais quelle matière pour ton monument préféré ? 🤔
+
+
+    💾 Enregistre cette vidéo pour retrouver ces images quand tu voudras briser la glace en soirée 🧊.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son monument en gelée préféré 🍬.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #imagination'
+  medias:
+  - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
+  couverture: medias/2026-10-12/2026-10-18_1400_carro/01.jpg
+  source: 2026-10-18_1400_carro

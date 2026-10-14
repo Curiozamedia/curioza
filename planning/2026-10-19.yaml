@@ -16,42 +16,72 @@ posts:
   date: '2026-10-19'
   heure: 08:00
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 21 column 6 (char 2104)'
-  medias: []
-  legende: ''
-- id: 2026-10-19_1100_carro
-  jour: lundi
-  date: '2026-10-19'
-  heure: '11:00'
-  type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Objets du quotidien avec des parties du corps humaines
-  legende: 'Ton grille-pain a peut-être des orteils 😳
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison préférée est peut-être au bord du vide 🏚️
 
 
-    Cinq objets du quotidien ont décidé de sortir des parties du corps humaines. Ça commence avec des orteils dans
-    ta cuisine et ça finit avec un frigo qui te regarde. On ne sait pas qui a fait ça, mais on a des questions.
+    Falaises, lacs, cimes d''arbres, et même l''espace : certaines maisons défient vraiment la logique. Swipe pour
+    voir où l''architecture ose tout.
 
 
-    La dernière slide est celle qui fait le plus flipper, tu verras pourquoi 👀
+    La dernière slide pose une question que tu ne t''étais jamais posée 👀
 
 
-    Lequel de ces objets tu veux garder chez toi, et lequel tu jettes direct ? 😅
+    Tu dormirais où, toi, dans ces décors ? 😱
 
 
-    💾 Enregistre ce carrousel pour pour ne pas oublier de regarder ta cuisine avec méfiance demain matin.
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu veux un logement original.
 
 
-    📤 Partage-le à un ami, pour que ton pote regarde son frigo avec la même angoisse que toi.
+    📤 Partage-le à un ami, qui rêve d''une maison sur pilotis au-dessus de l''eau 🌊.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #insolite #absurde #illustrationIA'
+    #cultureG #curiosites #architecture #insolite #maisonsinsolites'
+  medias:
+  - medias/2026-10-19/2026-10-19_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-19_0800_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
+- id: 2026-10-19_1100_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  sujet: Gravité inversée une minute dans le quotidien
+  legende: 'Une minute de gravité inversée et ta vie devient n''importe quoi 🙃
+
+
+    De la cuisine au métro, en passant par la piscine et la plage, on imagine ce qui se passerait si tout tombait
+    vers le ciel. Certains objets s''envolent, d''autres semblent scotchés au plafond.
+
+
+    La dernière slide est celle où même le bureau abandonne. 👀
+
+
+    Tu aurais voulu être où pendant cette minute ? 😂
+
+
+    💾 Enregistre ce carrousel pour relire la liste la prochaine fois que tu lâches ton café.
+
+
+    📤 Partage-le à un ami, il rira en imaginant sa cuisine au plafond.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #insolite #etsi'
   medias:
   - medias/2026-10-19/2026-10-19_1100_carro/01.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/02.jpg
@@ -60,28 +90,76 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/05.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
+  - medias/2026-10-19/2026-10-19_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
-  erreur: à régénérer
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
-  medias: []
-  legende: ''
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
+  reponse: '100 (piège : 190)'
+  legende: 'La réponse n''est pas 190 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-19_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-19_1300_devin/couverture.jpg
 - id: 2026-10-19_1400_carro
   jour: lundi
   date: '2026-10-19'
   heure: '14:00'
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting value: line 1 column 1 (char 0)'
-  medias: []
-  legende: ''
+  statut: a_valider
+  categorie: absurde
+  sujet: Inventions totalement inutiles mais magnifiques
+  legende: 'Un génie qui ne sert à rien, et pourtant on le veut chez soi ✨
+
+
+    Parapluie pour une pluie qui n''arrive jamais, horloge qui compte les nuages, fauteuil sans assise... Des idées
+    magnifiques et parfaitement inutiles. Swipe pour tout voir.
+
+
+    La dernière invention est tellement absurde qu''on a du mal à y croire 👀
+
+
+    Tu t''offrirais laquelle pour ton salon ? 💭
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces idées folles le jour où tu voudras briller en soirée.
+
+
+    📤 Partage-le à un ami, il rira avec toi de ces inventions qui ne servent à rien 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #inventions #absurde #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-19_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-19_1400_carro/01.jpg
 - id: 2026-10-19_1700_carro
   jour: lundi
   date: '2026-10-19'
