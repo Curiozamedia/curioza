@@ -469,32 +469,33 @@ posts:
   date: '2026-10-16'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  sujet: 'Le duel France vs Italie : le travail et les pauses'
-  legende: 'Pause café ou pause déj longue : qui gagne le duel ? ☕
+  concept: 'Le duel : le supermarché'
+  sujet: 'Le duel France vs Suisse : le supermarché'
+  legende: 'Le duel France vs Suisse, version supermarché 🛒
 
 
-    Entre espresso debout et déjeuner en terrasse, la France et l''Italie n''ont pas la même idée de la pause. On
-    compare les habitudes, sans chercher de vainqueur absolu. Swipe pour le verdict !
+    Sac oublié, file qui ralentit, rayon fromage et ticket de caisse : quatre petits duels du quotidien à swiper.
+    Lequel te ressemble le plus ?
 
 
-    La dernière slide réserve une surprise sur le café offert entre collègues 👀
+    La dernière slide pourrait bien te faire changer de file 👀
 
 
-    Tu es team pause longue ou pause express ? 😄
+    Dans quelle équipe tu te classes, celle du sac maison ou celle du sac oublié ? 🤔
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées quand tu planifies ta pause déjeuner.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu fais tes courses sans liste 🛍️.
 
 
-    📤 Partage-le à un ami, pour savoir qui, chez vous, tiendrait le rôle du grand chambreur ! 😏.
+    📤 Partage-le à un ami, pour voir qui dans son groupe gagne le duel de la caisse 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #france #italie #dueldespays'
+    #cultureG #curiosites #france #suisse #supermarche'
   medias:
   - medias/2026-10-12/2026-10-16_2000_carro/01.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/02.jpg
@@ -502,10 +503,7 @@ posts:
   - medias/2026-10-12/2026-10-16_2000_carro/04.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/06.jpg
-  - medias/2026-10-12/2026-10-16_2000_carro/07.jpg
-  - medias/2026-10-12/2026-10-16_2000_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-16_2000_carro/01.jpg
-  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-16_2100_diapo
   jour: vendredi
   date: '2026-10-16'
@@ -590,32 +588,33 @@ posts:
   date: '2026-10-17'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  sujet: 'Le duel France vs Italie : la politesse et les salutations'
-  legende: 'Bise, main sur le cœur ou simple signe : qui salue le mieux ? 👋
+  concept: 'Le duel : les transports du quotidien'
+  sujet: 'Le duel France vs Espagne : les transports du quotidien'
+  legende: 'Train en retard, métro silencieux ou vélo capricieux : qui gagne le duel du trajet ? 🚆
 
 
-    Entre les bises à rallonge, les poignées de main et les grands gestes, nos deux compères s''affrontent sur la
-    politesse du quotidien. Certains détails vont te surprendre, et d''autres te feront sourire.
+    On compare la façon de se déplacer au quotidien entre la France et l''Espagne, avec des situations qu''on reconnaît
+    tous. Ça part dans la rigolade, mais chacun a sa petite logique. Ce ne sont que des impressions, pas des études.
 
 
-    La dernière slide change tout sur la façon de dire au revoir 👀
+    La dernière slide tranche le duel, mais tu vas peut-être être surpris par le vainqueur 👀
 
 
-    Tu votes pour quelle salutation, la bise française ou le geste italien ? 💬
+    Tu es plutôt métro silencieux ou discussion avec le voisin ? 😄
 
 
-    💾 Enregistre ce carrousel pour les prochaines fois où tu vas saluer quelqu''un à l''étranger.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu rates ton train.
 
 
-    📤 Partage-le à un ami, celui qui fait toujours trois bises en se trompant de joue 😅.
+    📤 Partage-le à un ami, à celui qui râle chaque matin dans les transports 🚇.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #france #italie #savoirinutile'
+    #culturegenerale #curiosites #france #espagne #transports'
   medias:
   - medias/2026-10-12/2026-10-17_1100_carro/01.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/02.jpg
@@ -623,8 +622,9 @@ posts:
   - medias/2026-10-12/2026-10-17_1100_carro/04.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-17_1100_carro/06.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/07.jpg
+  - medias/2026-10-12/2026-10-17_1100_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-17_1100_carro/01.jpg
-  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-17_1300_devin
   jour: samedi
   date: '2026-10-17'
@@ -738,32 +738,33 @@ posts:
   date: '2026-10-17'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  sujet: 'Le duel France vs Italie : le petit-déjeuner, angle surprenant'
-  legende: 'Ton petit-déj en dit plus sur toi que ton horoscope 🥐
+  concept: 'Le duel : le petit-déjeuner'
+  sujet: 'Le duel France vs Canada : le petit-déjeuner'
+  legende: 'Croissant ou crêpes au sirop, qui remporte ton petit-déj ? 🥐🍁
 
 
-    Tremper sa tartine, avaler un espresso debout, défendre son croissant : le matin révèle nos habitudes. Le duel
-    France vs Italie commence à la cuisine.
+    On compare le matin à table entre la France et le Canada : sucré, salé, tartines et sirop d''érable. Des habitudes
+    qui surprennent, sans jugement, juste pour rigoler.
 
 
-    La dernière slide va diviser les tables de cuisine 👀
+    Le dernier swipe va te faire changer d''avis sur ton café 👀
 
 
-    Tu trempes ta tartine ou tu restes fidèle au café debout ? ☕
+    Tu es team croissant ou team sirop d''érable ? 👇
 
 
-    💾 Enregistre ce carrousel pour retrouver ce duel au prochain petit-déj.
+    💾 Enregistre ce carrousel pour retrouver ces idées de petit-déj quand tu voudras briller à table.
 
 
-    📤 Partage-le à un ami, qui doit gagner la bataille des matins.
+    📤 Partage-le à un ami, pour savoir qui gagne le duel au prochain brunch.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #France #Italie #petitdejeuner'
+    #culturegenerale #curiosites #france #canada #petitdejeuner'
   medias:
   - medias/2026-10-12/2026-10-17_2000_carro/01.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/02.jpg
@@ -771,9 +772,7 @@ posts:
   - medias/2026-10-12/2026-10-17_2000_carro/04.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-17_2000_carro/06.jpg
-  - medias/2026-10-12/2026-10-17_2000_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-17_2000_carro/01.jpg
-  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-17_2100_diapo
   jour: samedi
   date: '2026-10-17'

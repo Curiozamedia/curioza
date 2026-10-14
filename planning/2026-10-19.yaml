@@ -56,32 +56,34 @@ posts:
   date: '2026-10-19'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Gravité inversée une minute dans le quotidien
-  legende: 'Une minute de gravité inversée et ta vie devient n''importe quoi 🙃
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  sujet: Lieux célèbres du monde faits de matière inattendue
+  legende: 'Et si les monuments du monde fondaient comme un dessert ? 🍮
 
 
-    De la cuisine au métro, en passant par la piscine et la plage, on imagine ce qui se passerait si tout tombait
-    vers le ciel. Certains objets s''envolent, d''autres semblent scotchés au plafond.
+    Pâte à modeler, briques, glace, chocolat : on imagine des lieux célèbres en matière inattendue. Chaque variante
+    est plus absurde que la précédente.
 
 
-    La dernière slide est celle où même le bureau abandonne. 👀
+    La dernière slide est une idée qui ne tiendrait pas une journée au soleil 👀
 
 
-    Tu aurais voulu être où pendant cette minute ? 😂
+    Tu choisis quel monument pour une version en matière bizarre ? 🤔
 
 
-    💾 Enregistre ce carrousel pour relire la liste la prochaine fois que tu lâches ton café.
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux impressionner tes potes.
 
 
-    📤 Partage-le à un ami, il rira en imaginant sa cuisine au plafond.
+    📤 Partage-le à un ami, il va sûrement y penser en mangeant son dessert ce soir.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #absurde #insolite #etsi'
+    #culturegenerale #curiosites #insolite #absurde #imaginationIA'
   medias:
   - medias/2026-10-19/2026-10-19_1100_carro/01.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/02.jpg
@@ -92,7 +94,6 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
-  erreur: 'doublon (pays ou concept répété) : à régénérer'
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
@@ -166,60 +167,124 @@ posts:
   date: '2026-10-19'
   heure: '17:00'
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 1661)'
-  medias: []
-  legende: ''
-- id: 2026-10-19_2000_carro
-  jour: lundi
-  date: '2026-10-19'
-  heure: '20:00'
-  type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 26 column 6 (char 3761)'
-  medias: []
-  legende: ''
-- id: 2026-10-19_2100_diapo
-  jour: lundi
-  date: '2026-10-19'
-  heure: '21:00'
-  type: reel_diaporama
-  statut: erreur
-  publication: manuelle
-  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
-    d''une flèche ↗ (tendance)'
+  statut: a_valider
   categorie: absurde
-  sujet: 'Version Reel : Objets du quotidien avec des parties du corps humaines'
-  legende: 'Ton grille-pain a peut-être des orteils 😳
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  sujet: Métiers impossibles qu'on aimerait voir
+  legende: 'Tu postulerais pour quel job impossible ? 🤔
 
 
-    Cinq objets du quotidien ont décidé de sortir des parties du corps humaines. Ça commence avec des orteils dans
-    ta cuisine et ça finit avec un frigo qui te regarde. On ne sait pas qui a fait ça, mais on a des questions.
+    Pousser la Lune, chasser les chaussettes disparues, collectionner les silences de la ville : des métiers qui
+    n''existent pas mais qu''on rêverait de voir. Swipe pour découvrir les 5 candidats.
 
 
-    La dernière slide est celle qui fait le plus flipper, tu verras pourquoi 👀
+    Le dernier poste demande une patience d''ermite et un bocal bien rangé 👀
 
 
-    Lequel de ces objets tu veux garder chez toi, et lequel tu jettes direct ? 😅
+    Lequel te paraît le plus utile dans ta vie quotidienne ? 👇
 
 
-    💾 Enregistre cette vidéo pour pour ne pas oublier de regarder ta cuisine avec méfiance demain matin.
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu rêveras d''un job plus fou que le tien.
 
 
-    📤 Partage-le à un ami, pour que ton pote regarde son frigo avec la même angoisse que toi.
+    📤 Partage-le à un ami, il en connaît sûrement un qui mérite ce poste de chasseur de chaussettes.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #insolite #absurde #illustrationIA'
+    #cultureG #curiosites #absurde #insolite #etsi'
+  medias:
+  - medias/2026-10-19/2026-10-19_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-19_1700_carro/01.jpg
+- id: 2026-10-19_2000_carro
+  jour: lundi
+  date: '2026-10-19'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: La météo d'une autre planète vue depuis une ville française
+  sujet: La météo d'une autre planète vue depuis la France
+  legende: 'Et si la météo d''une autre planète tombait sur la France ? 🪐
+
+
+    Pluie de diamants, vent de sable sur le marché, ciel rouge à midi… On a imaginé six scènes absurdes, inspirées
+    de phénomènes observés ailleurs dans le système solaire ou sur des exoplanètes. Certaines restent des pistes
+    de fiction, et on te le dit.
+
+
+    La dernière slide te fera regarder ton ciel autrement 👀
+
+
+    Tu prendrais quelle météo en *vacances* ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les prochaines sorties où tu veux impressionner tes potes avec une anecdote spatiale
+    🌌.
+
+
+    📤 Partage-le à un ami, pour voir qui sera le plus *fou* de la bande ☄️.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #espace #planetes #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-19_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/07.jpg
+  - medias/2026-10-19/2026-10-19_2000_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-19_2000_carro/01.jpg
+- id: 2026-10-19_2100_diapo
+  jour: lundi
+  date: '2026-10-19'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Maisons construites dans des endroits impossibles'
+  legende: 'Ta maison préférée est peut-être au bord du vide 🏚️
+
+
+    Falaises, lacs, cimes d''arbres, et même l''espace : certaines maisons défient vraiment la logique. Swipe pour
+    voir où l''architecture ose tout.
+
+
+    La dernière slide pose une question que tu ne t''étais jamais posée 👀
+
+
+    Tu dormirais où, toi, dans ces décors ? 😱
+
+
+    💾 Enregistre cette vidéo pour retrouver ces idées le jour où tu veux un logement original.
+
+
+    📤 Partage-le à un ami, qui rêve d''une maison sur pilotis au-dessus de l''eau 🌊.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #architecture #insolite #maisonsinsolites'
   medias:
   - medias/2026-10-19/2026-10-19_2100_diapo/reel.mp4
-  couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
-  source: 2026-10-19_1100_carro
-  erreur: à régénérer
+  couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
+  source: 2026-10-19_0800_carro
 - id: 2026-10-20_0800_carro
   jour: mardi
   date: '2026-10-20'
@@ -264,55 +329,101 @@ posts:
   date: '2026-10-20'
   heure: '11:00'
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: "Génération d'image impossible avec tous les fournisseurs : Vertex 429 : {\n  \"error\": {\n    \"code\"\
-    : 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"status\": \"RESOURCE_EXHAUSTED\"\
-    \n  }\n}\n"
-  medias: []
-  legende: ''
-- id: 2026-10-20_1300_devin
-  jour: mardi
-  date: '2026-10-20'
-  heure: '13:00'
-  type: reel_devinette
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
-  medias: []
-  legende: ''
-- id: 2026-10-20_1400_carro
-  jour: mardi
-  date: '2026-10-20'
-  heure: '14:00'
-  type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Animaux forcés de vivre comme nous
-  legende: 'Tu pensais que le télétravail était dur ? 🦦
+  concept: Et si les objets du quotidien avaient la taille d'un immeuble (un concept, une ville différente par slide)
+  sujet: Objets du quotidien géants comme des immeubles
+  legende: 'Ton trombone préféré pourrait enjamber une vallée 📎
 
 
-    Imagine des animaux qui jouent les employés de bureau : le résultat est encore plus absurde que ton open space.
-    Entre une loutre en réunion, une pieuvre stressée et une girafe qui fait de la mise en scène, il y a de quoi
-    te détendre. Swipe pour voir la suite.
+    Quatre objets du quotidien transformés en monuments de la taille d''immeubles, dans des décors imaginaires.
+    Une chaussette, une clé USB, une pantoufle : tu ne regarderas plus ton bureau pareil.
 
 
-    La dernière slide est celle que tout le monde va vouloir *partager* 👀
+    La dernière slide pourrait bien te faire regarder ta cuisine d''un autre œil 👀
 
 
-    Quel animal tu embaucherais en premier dans ton équipe ? 👇
+    Quel objet géant voudrais-tu voir dans ta ville ? 🏙️
 
 
-    💾 Enregistre ce carrousel pour retrouver les faits les plus fous quand tu en auras besoin en soirée 🧠.
+    💾 Enregistre ce carrousel pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
 
 
-    📤 Partage-le à un ami, il va se sentir moins seul au bureau 😂.
+    📤 Partage-le à un ami, qui adore les trucs complètement inutiles et magnifiques.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #animaux #faitsinsolites #absurde'
+    #culturegenerale #curiosites #absurde #insolite #etsi'
+  medias:
+  - medias/2026-10-19/2026-10-20_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-20_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-20_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-20_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-20_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-20_1100_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
+- id: 2026-10-20_1300_devin
+  jour: mardi
+  date: '2026-10-20'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 10 × 5 − 2 = ?'
+  reponse: '55 (piège : 83)'
+  legende: 'La réponse n''est pas 83 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-20_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-20_1300_devin/couverture.jpg
+- id: 2026-10-20_1400_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  sujet: Aliments géants posés dans des paysages naturels
+  legende: 'Ton goûter vient de quitter la cuisine pour la montagne 🍎
+
+
+    Une pomme plus grande qu''un chalet, un citron perdu dans le désert, une pastèque posée sur la forêt : on a
+    imaginé des aliments géants au milieu de paysages naturels. Certains donnent faim, d''autres donnent des frissons.
+
+
+    Le dernier aliment géant est tellement étrange qu''on ne sait pas s''il faut le manger ou le photographier 👀
+
+
+    Tu le mangerais ou tu le laisserais au bord de la plage ? 🥐
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces images la prochaine fois que tu regardes une pomme.
+
+
+    📤 Partage-le à un ami, il aura lui aussi besoin d''un petit moment de folie gourmande.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #imaginetonmonde'
   medias:
   - medias/2026-10-19/2026-10-20_1400_carro/01.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/02.jpg
@@ -320,70 +431,127 @@ posts:
   - medias/2026-10-19/2026-10-20_1400_carro/04.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/06.jpg
-  - medias/2026-10-19/2026-10-20_1400_carro/07.jpg
-  - medias/2026-10-19/2026-10-20_1400_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
-  erreur: à régénérer
 - id: 2026-10-20_1700_carro
   jour: mardi
   date: '2026-10-20'
   heure: '17:00'
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: Pas de JSON dans la réponse
-  medias: []
-  legende: ''
-- id: 2026-10-20_2000_carro
-  jour: mardi
-  date: '2026-10-20'
-  heure: '20:00'
-  type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 16 column 6 (char 2148)'
-  medias: []
-  legende: ''
-- id: 2026-10-20_2100_diapo
-  jour: mardi
-  date: '2026-10-20'
-  heure: '21:00'
-  type: reel_diaporama
-  statut: erreur
-  publication: manuelle
-  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
-    d''une flèche ↗ (tendance)'
+  statut: a_valider
   categorie: absurde
-  sujet: 'Version Reel : Animaux forcés de vivre comme nous'
-  legende: 'Tu pensais que le télétravail était dur ? 🦦
+  concept: Des animaux ou objets avec un trait humain inattendu (format qui marche chez Opulancia, sujet neuf obligatoire)
+  sujet: Animaux et objets avec un trait humain inattendu
+  legende: 'Un hérisson qui boit son café, ça te choque ? ☕
 
 
-    Imagine des animaux qui jouent les employés de bureau : le résultat est encore plus absurde que ton open space.
-    Entre une loutre en réunion, une pieuvre stressée et une girafe qui fait de la mise en scène, il y a de quoi
-    te détendre. Swipe pour voir la suite.
+    Quatre animaux et objets qui font semblant d''être humains, avec un sérieux qui frôle le ridicule. Chaque slide
+    te fait sourire un peu plus.
 
 
-    La dernière slide est celle que tout le monde va vouloir *partager* 👀
+    La dernière slide te fera regarder ton grille-pain autrement 👀
 
 
-    Quel animal tu embaucherais en premier dans ton équipe ? 👇
+    Tu avais déjà imaginé ton grille-pain avec des peurs ? 😂
 
 
-    💾 Enregistre cette vidéo pour retrouver les faits les plus fous quand tu en auras besoin en soirée 🧠.
+    💾 Enregistre ce carrousel pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
 
 
-    📤 Partage-le à un ami, il va se sentir moins seul au bureau 😂.
+    📤 Partage-le à un ami, lui envoyer le carrousel, il va forcément se reconnaître dans le hibou.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #animaux #faitsinsolites #absurde'
+    #culturegenerale #curiosites #absurde #insolite #savoirinutile'
+  medias:
+  - medias/2026-10-19/2026-10-20_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-20_1700_carro/01.jpg
+- id: 2026-10-20_2000_carro
+  jour: mardi
+  date: '2026-10-20'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
+  sujet: Animaux qui exercent des métiers humains avec sérieux
+  legende: 'Ton prochain chef pourrait être un ouistiti 🐒
+
+
+    Des animaux qui bossent avec plus de sérieux que certains de nos collègues. Un pigeon postier, un rat détecteur,
+    un chien sauveteur : on fait le tour des métiers animaux les plus étonnants.
+
+
+    Le dernier slide est le plus crédible de tous... enfin presque 👀
+
+
+    Quel animal te nommerais-tu DRH ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un dit que son chat ne fait rien de ses journées.
+
+
+    📤 Partage-le à un ami, à celui qui pense que les animaux ne servent qu''à faire joli 🐾.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #insolite #saviezvous'
+  medias:
+  - medias/2026-10-19/2026-10-20_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/07.jpg
+  - medias/2026-10-19/2026-10-20_2000_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-20_2000_carro/01.jpg
+- id: 2026-10-20_2100_diapo
+  jour: mardi
+  date: '2026-10-20'
+  heure: '21:00'
+  type: reel_diaporama
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Objets du quotidien géants comme des immeubles'
+  legende: 'Ton trombone préféré pourrait enjamber une vallée 📎
+
+
+    Quatre objets du quotidien transformés en monuments de la taille d''immeubles, dans des décors imaginaires.
+    Une chaussette, une clé USB, une pantoufle : tu ne regarderas plus ton bureau pareil.
+
+
+    La dernière slide pourrait bien te faire regarder ta cuisine d''un autre œil 👀
+
+
+    Quel objet géant voudrais-tu voir dans ta ville ? 🏙️
+
+
+    💾 Enregistre cette vidéo pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
+
+
+    📤 Partage-le à un ami, qui adore les trucs complètement inutiles et magnifiques.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #insolite #etsi'
   medias:
   - medias/2026-10-19/2026-10-20_2100_diapo/reel.mp4
-  couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
-  source: 2026-10-20_1400_carro
-  erreur: à régénérer
+  couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
+  source: 2026-10-20_1100_carro
 - id: 2026-10-21_0800_carro
   jour: mercredi
   date: '2026-10-21'
@@ -429,62 +597,143 @@ posts:
   date: '2026-10-21'
   heure: '11:00'
   type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 31 column 6 (char 3035)'
-  medias: []
-  legende: ''
-- id: 2026-10-21_1300_devin
-  jour: mercredi
-  date: '2026-10-21'
-  heure: '13:00'
-  type: reel_devinette
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Génération d''image impossible avec tous les fournisseurs : None'
-  medias: []
-  legende: ''
-- id: 2026-10-21_1400_carro
-  jour: mercredi
-  date: '2026-10-21'
-  heure: '14:00'
-  type: carrousel
-  statut: erreur
-  sujet: (génération échouée)
-  erreur: 'Expecting '','' delimiter: line 36 column 6 (char 2972)'
-  medias: []
-  legende: ''
-- id: 2026-10-21_1700_carro
-  jour: mercredi
-  date: '2026-10-21'
-  heure: '17:00'
-  type: carrousel
-  statut: erreur
-  categorie: anecdote
-  sujet: Inventions nées d'erreurs et de hasards du quotidien
-  legende: 'Une erreur de labo peut changer le monde 🧪
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  sujet: Objets d'autrefois réinventés en version futuriste absurde
+  legende: 'Ton grille-pain de grand-mère vient de passer en mode 2300 🚀
 
 
-    Un collage raté, une boîte oubliée, un bonbon fondu dans la poche. Ces accidents ont donné des objets qu''on
-    utilise tous les jours. Swipe pour voir lesquels.
+    Radio, fer à repasser, machine à écrire, sablier : on a pris des objets d''autrefois et on les a envoyés dans
+    un futur complètement absurde. Certains sont plus flippants que d''autres.
 
 
-    La dernière slide est celle que personne ne croit au début 👀
+    Les deux dernières slides sont les plus folles, on n''a pas su résister 👀
 
 
-    Tu connaissais lequel d''entre eux ? Dis-le en commentaire 👇
+    Lequel t''a le plus *surpris* ? Dis-le-nous en commentaire 👇
 
 
-    💾 Enregistre ce carrousel pour pour ne pas oublier la prochaine fois que tu colles un Post-it.
+    💾 Enregistre ce carrousel pour retrouver ces idées quand tu voudras rire un coup 📌.
 
 
-    📤 Partage-le à un ami, il sera ravi de découvrir qu''une erreur peut créer une invention.
+    📤 Partage-le à un ami, il va sûrement adorer la cabine-portail 😂.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #inventions #science #anecdotes'
+    #culturegenerale #curiosites #futur #absurde #retrofutur'
+  medias:
+  - medias/2026-10-19/2026-10-21_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/07.jpg
+  - medias/2026-10-19/2026-10-21_1100_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-21_1100_carro/01.jpg
+- id: 2026-10-21_1300_devin
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 5 + 4 × 6 − 4 = ?'
+  reponse: '25 (piège : 50)'
+  legende: 'La réponse n''est pas 50 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-21_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-21_1300_devin/couverture.jpg
+- id: 2026-10-21_1400_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Des maisons qui défient la gravité 🏠
+
+
+    Falaise, nuages, lagune ou roche creusée : ces habitations semblent narguer les lois du bon sens. Swipe pour
+    voir où l''on peut vraiment construire.
+
+
+    La dernière slide est celle qui va te faire regarder deux fois 👀
+
+
+    Tu choisis laquelle, toi ? 🏡
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées de maisons insolites quand tu voyages.
+
+
+    📤 Partage-le à un ami, qui rêve d''une maison au bord du vide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #maisonsinsolites #architecture #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-21_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-21_1400_carro/01.jpg
+- id: 2026-10-21_1700_carro
+  jour: mercredi
+  date: '2026-10-21'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Ça a l''air truqué, pourtant tout est vrai 🤯
+
+
+    Lac qui pétrifie, nuages en vagues, cascade qui remonte, miroir géant en Bolivie : la nature n''a rien à envier
+    aux films. Swipe pour tout voir.
+
+
+    Le dernier exemple est tellement photogénique qu''on jurerait une retouche 👀
+
+
+    Tu aurais deviné lequel était réel ? 😏
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand quelqu''un dira que c''est photoshop.
+
+
+    📤 Partage-le à un ami, il va forcément répondre que non, c''est impossible.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #nature #insolite #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-21_1700_carro/01.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/02.jpg
@@ -492,41 +741,39 @@ posts:
   - medias/2026-10-19/2026-10-21_1700_carro/04.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/06.jpg
-  - medias/2026-10-19/2026-10-21_1700_carro/07.jpg
-  - medias/2026-10-19/2026-10-21_1700_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-21_1700_carro/01.jpg
-  erreur: à régénérer
 - id: 2026-10-21_2000_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  sujet: 'France vs Japon : gestes et habitudes du quotidien'
-  legende: 'France vs Japon : ton quotidien ne sera plus jamais pareil 🇯🇵
+  concept: 'Le duel : les fêtes et anniversaires'
+  sujet: 'Le duel France vs Allemagne : fêtes et anniversaires'
+  legende: 'Anniversaire à la française ou à l''allemande ? 🎂
 
 
-    Bise contre révérence, toilettes high-tech, poubelles introuvables et trains à l''heure à la seconde près. On
-    compare tout avec humour, sans prendre parti pour un camp.
+    On compare le gâteau, les cadeaux, le fameux chant et les petits mots. Certaines habitudes te surprendront,
+    d''autres te feront rire. Swipe pour voir qui gagne ce duel !
 
 
-    Les deux dernières slides vont te faire repenser ton rapport aux retards et à l''argent, tu vas voir 👀
+    La dernière slide change complètement la façon de fêter ta prochaine année 👀
 
 
-    Tu choisirais quel pays pour ton quotidien, et pourquoi ? Dis-le en commentaire 👇
+    Ton anniversaire, c''est plutôt chant ou cadeaux ? 🎁
 
 
-    💾 Enregistre ce carrousel pour ne jamais faire une gaffe à ton prochain voyage au Japon 🎌.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu organises une fête 🎉.
 
 
-    📤 Partage-le à un ami, qui rêve de Tokyo ou qui n''a jamais vraiment compris le Japon 😄.
+    📤 Partage-le à un ami, celui qui fête ses 30 ans demain 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #franceVsJapon #japon #culturegenerale #curiosites #voyage'
+    #culturegenerale #curiosites #france #allemagne #anniversaire'
   medias:
   - medias/2026-10-19/2026-10-21_2000_carro/01.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/02.jpg
@@ -534,15 +781,13 @@ posts:
   - medias/2026-10-19/2026-10-21_2000_carro/04.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/05.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/06.jpg
-  - medias/2026-10-19/2026-10-21_2000_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_2000_carro/01.jpg
-  erreur: à régénérer
 - id: 2026-10-21_2100_diapo
   jour: mercredi
   date: '2026-10-21'
   heure: '21:00'
   type: reel_diaporama
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -575,4 +820,3 @@ posts:
   - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
   source: 2026-10-21_0800_carro
-  erreur: à régénérer
