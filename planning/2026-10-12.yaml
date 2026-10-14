@@ -716,7 +716,7 @@ posts:
   date: '2026-10-16'
   heure: '21:00'
   type: reel_video
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -737,6 +737,7 @@ posts:
   - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_2100_diapo/couverture.jpg
   source: 2026-10-16_0800_carro
+  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
@@ -857,7 +858,7 @@ posts:
   date: '2026-10-17'
   heure: '13:00'
   type: reel_devinette
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
@@ -880,6 +881,7 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-17_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_1300_devin/couverture.jpg
+  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-17_1400_carro
   jour: samedi
   date: '2026-10-17'
@@ -1065,7 +1067,7 @@ posts:
   date: '2026-10-17'
   heure: '21:00'
   type: reel_video
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -1086,6 +1088,7 @@ posts:
   - medias/2026-10-12/2026-10-17_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-17_2100_diapo/couverture.jpg
   source: 2026-10-17_0800_carro
+  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-18_0800_carro
   jour: dimanche
   date: '2026-10-18'
@@ -1413,7 +1416,7 @@ posts:
   date: '2026-10-18'
   heure: '21:00'
   type: reel_video
-  statut: a_valider
+  statut: erreur
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
@@ -1434,3 +1437,4 @@ posts:
   - medias/2026-10-12/2026-10-18_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-18_2100_diapo/couverture.jpg
   source: 2026-10-18_1400_carro
+  erreur: retouche (bandes noires / signe ÷)
