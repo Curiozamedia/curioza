@@ -51,8 +51,12 @@ def main() -> None:
         if not manquants:
             print("Les 7 prochains jours sont déjà prêts.")
         for lundi, jours in sorted(manquants.items()):
-            data = planning.creer_semaine(cfg, lundi, jours=jours, existant=planning.lire(lundi))
-            planning.ecrire(data)
+            # jour par jour, enregistré à chaque fois : rien n'est perdu si le passage est interrompu
+            for jour in jours:
+                if planning.temps_ecoule():
+                    break
+                data = planning.creer_semaine(cfg, lundi, jours=[jour], existant=planning.lire(lundi))
+                planning.ecrire(data)
         # Puis on retente les posts ratés (quota, réseau…) pour ne jamais laisser de trou.
         planning.reparer_erreurs(cfg, debut, debut + timedelta(days=6))
     print("Calendrier :", calendrier.generer(cfg))

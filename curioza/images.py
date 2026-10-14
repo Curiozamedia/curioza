@@ -91,7 +91,7 @@ def _extraire_image(r: requests.Response, nom: str) -> Image.Image:
     raise RuntimeError(f"Pas d'image dans la réponse {nom} : {r.text[:300]}")
 
 
-def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
+def _vertex(prompt: str, modele: str, ratio: str, patience: tuple = (0, 15, 30)) -> Image.Image:
     """Nano Banana via Vertex AI (Google Cloud) : utilise le crédit d'essai de 300 $.
     VERTEX_SA_JSON = contenu du fichier JSON du compte de service (ou VERTEX_API_KEY = clé API liée)."""
     entetes, projet = _entetes_vertex()
@@ -102,7 +102,7 @@ def _vertex(prompt: str, modele: str, ratio: str) -> Image.Image:
     corps = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
              "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": ratio}}}
     # Les comptes d'essai ont un débit limité par minute : en cas de 429 on patiente et on réessaie.
-    for attente in (0, 20, 40, 60, 90, 120, 150):
+    for attente in patience:
         if attente:
             time.sleep(attente)
         r = requests.post(f"https://{hote}/v1/{chemin}:generateContent",
@@ -216,7 +216,9 @@ def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinett
                 if fournisseur == "google":
                     return _google(prompt_complet, modele, ratio).convert("RGB")
                 if fournisseur == "vertex":
-                    return _vertex(prompt_complet, modele, ratio).convert("RGB")
+                    # Couverture = la slide qui fait arrêter le scroll : on patiente plus longtemps pour Nano Banana.
+                    patience = (0, 20, 40, 60, 90) if role == "couverture" else (0, 15, 30)
+                    return _vertex(prompt_complet, modele, ratio, patience).convert("RGB")
                 return _replicate(prompt_complet, modele, ratio).convert("RGB")
             except QuotaEpuise as e:
                 _cloudflare_epuise = True
@@ -224,6 +226,8 @@ def generer(prompt: str, cfg: dict, *, graine: str, ratio: str = "4:5", devinett
                 break
             except Exception as e:  # modèle indisponible, filtre, réseau…
                 derniere_erreur = e
+                if "429" in str(e)[:20]:
+                    break  # limite de débit : on passe tout de suite au fournisseur de secours
                 time.sleep(4 * (essai + 1))
     if isinstance(derniere_erreur, QuotaEpuise):
         raise derniere_erreur

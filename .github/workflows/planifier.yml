@@ -65,12 +65,14 @@ jobs:
           [ -n "${{ github.event.inputs.semaine }}" ] && ARGS="$ARGS --semaine ${{ github.event.inputs.semaine }}"
           [ -n "${{ github.event.inputs.refaire }}" ] && ARGS="$ARGS --refaire ${{ github.event.inputs.refaire }}"
           [ "${{ github.event.inputs.forcer }}" = "oui" ] && ARGS="$ARGS --forcer"
-          PYTHONUNBUFFERED=1 python planifier.py $ARGS
+          PYTHONUNBUFFERED=1 GENERATION_MINUTES=150 timeout 175m python planifier.py $ARGS
       - name: Republier le site
+        if: always()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash .github/workflows/_site.sh publier
       - name: Enregistrer
+        if: always()
         run: |
           git config user.name "curioza-bot"
           git config user.email "curioza-bot@users.noreply.github.com"

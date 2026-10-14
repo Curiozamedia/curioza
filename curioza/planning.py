@@ -102,6 +102,10 @@ def creer_semaine(cfg: dict, lundi: date, journal=print, jours: list[date] | Non
             cat = categories[k]; k += 1
         if jour not in a_faire or arret:
             continue
+        if jour != jour_en_cours and temps_ecoule():
+            journal(f"  Temps de génération écoulé : {jour} et la suite seront faits au prochain passage.")
+            arret = True
+            continue
         if jour != jour_en_cours:
             posts += posts_du_jour
             jour_en_cours, posts_du_jour = jour, []
@@ -154,6 +158,18 @@ def jours_manquants(cfg: dict, debut: date, fin: date) -> dict[date, list[date]]
     return res
 
 
+import os as _os
+import time as _time
+
+_DEBUT = _time.time()
+
+
+def temps_ecoule() -> bool:
+    """Budget de temps par passage (GENERATION_MINUTES, 150 par défaut) : on s'arrête proprement entre deux jours
+    pour toujours enregistrer ce qui est fait ; la suite est générée au passage suivant."""
+    return (_time.time() - _DEBUT) / 60 > float(_os.environ.get("GENERATION_MINUTES", "150"))
+
+
 def reparer_erreurs(cfg: dict, debut: date, fin: date, journal=print) -> None:
     """Regénère automatiquement les posts restés en « erreur » entre debut et fin (inclus)."""
     from .config import lundi_de
@@ -166,6 +182,9 @@ def reparer_erreurs(cfg: dict, debut: date, fin: date, journal=print) -> None:
             # les diaporamas en dernier : ils réutilisent les carrousels du jour
             rates.sort(key=lambda i: ("diapo" in i, i))
             for ident in rates:
+                if temps_ecoule():
+                    journal("  Temps écoulé : réparations reportées au prochain passage.")
+                    return
                 try:
                     data = creer_semaine_partielle(cfg, lundi, data, ident)
                     journal(f"  Réparé : {ident}")
