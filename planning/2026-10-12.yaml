@@ -16,32 +16,56 @@ posts:
   date: '2026-10-15'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
-  sujet: Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005
-  legende: 'Tu as forcément entendu l''une de ces phrases, avoue 😏
+  concept: Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005
+  contenu:
+    titre_couverture: Ces phrases que [TOUS] nos parents nous ont *lancées* (et qu'on a détestées)
+    sous_titre: Tu les reconnais ? Swipe 👉
+    slides:
+    - titre: '[MANGE] ta *soupe* !'
+      texte: Le grand classique du dîner. On se demande encore pourquoi la soupe était toujours la meilleure solution
+        pour les enfants qu'on était.
+    - titre: Va *jouer dehors*, ça te fera du bien
+      texte: Pas de téléphone, pas d'écran, juste un trottoir, un ballon et l'heure du goûter comme seule boussole.
+        Dehors, c'était la sortie obligatoire, selon nos parents.
+    - titre: Tu veux *rembobiner* ou quoi ?
+      texte: Une cassette, un crayon dans le trou, et on tournait la petite roue à la main. Parfois, on rembobinait
+        plus qu'on n'écoutait.
+    - titre: On n'est pas *au restaurant* ici
+      texte: 'Le ton qui calme tout quand on râle sur le menu. La vraie question : pourquoi le plat de légumes gagnait-il
+        toujours la bataille ?'
+    - titre: Pas de *bruit* pendant le film
+      texte: 'Le fameux silence de la télé du dimanche soir. Une seule règle : ne pas bouger, ne pas parler, et
+        surtout ne pas rater la pub qui donnait envie d''acheter.'
+    - titre: Tu *comprendras* quand tu seras grand
+      texte: La phrase éternelle, sans explication. On l'a répétée à notre tour, sans trop savoir pourquoi. Et toi,
+        tu as déjà dit la phrase ?
+    question_fin: Laquelle t'a le plus *fait râler* à l'époque ?
+  sujet: Phrases de parents que tous les enfants des années 85-05 ont entendues
+  legende: 'Ces phrases, tu les as entendues mille fois 😅
 
 
-    Cinq phrases que beaucoup de parents de l''époque répétaient, avec ce qu''elles disaient vraiment de leur quotidien.
-    Certaines t''ont sûrement fait rire, d''autres grincer des dents.
+    Des répliques cultes qui sentent le goûter, la cassette et le dimanche soir. Certaines t''ont marqué plus que
+    tu ne le pensais. Swipe pour les revoir toutes.
 
 
-    La dernière slide est celle que personne n''a jamais osé contester 👀
+    La dernière est celle que tu as sûrement répétée à ton tour 👀
 
 
-    Quelle phrase de ton enfance tu entends encore aujourd''hui ? 😂
+    Quelle phrase de tes parents tu redis aujourd''hui sans t''en rendre compte ? 👇
 
 
-    💾 Enregistre ce carrousel pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux rire en famille.
 
 
-    📤 Partage-le à un ami, il va reconnaître sa mère ou son père dans au moins une slide.
+    📤 Partage-le à un ami, lui demander s''il se reconnaît aussi dans ces phrases.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #enfance #culturegenerale #souvenirs'
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #generation2000'
   medias:
   - medias/2026-10-12/2026-10-15_0800_carro/01.jpg
   - medias/2026-10-12/2026-10-15_0800_carro/02.jpg
@@ -50,41 +74,63 @@ posts:
   - medias/2026-10-12/2026-10-15_0800_carro/05.jpg
   - medias/2026-10-12/2026-10-15_0800_carro/06.jpg
   - medias/2026-10-12/2026-10-15_0800_carro/07.jpg
+  - medias/2026-10-12/2026-10-15_0800_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-15_1100_carro
   jour: jeudi
   date: '2026-10-15'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Ce que les gens heureux font différemment au quotidien
-  legende: 'Le bonheur ne tombe pas du ciel, il se cultive un peu chaque jour 😊
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: Et si ton [chat] faisait 80 mètres de haut ?
+    sous_titre: Imagine tes animaux à la taille d'un immeuble, on te spoile déjà la fin
+    slides:
+    - titre: Il dort sur [ton] immeuble
+      texte: Ton chat pourrait bien s'installer sur le toit de la tour voisine. Les *antennes* feraient office de
+        moustaches, et personne n'oserait lui demander de descendre.
+    - titre: Le *livreur* passe par la [gamelle]
+      texte: Un chien géant aurait besoin d'une gamelle immense, de la taille d'une piscine. Le livreur, lui, devrait
+        sortir l'échelle pour déposer les croquettes.
+    - titre: Balade en *laisse* géante
+      texte: Promener un lapin géant demanderait sans doute un parc entier. Les passants compteraient les *pas*
+        et se demanderaient qui promène qui.
+    - titre: Le [voisin] se plaint du *ronronnement*
+      texte: Un chat de cette taille ronronnerait sans doute comme un moteur. Les vitres trembleraient, les voisins
+        lanceraient une *pétition* et le syndic paniquerait.
+    - titre: Il faudrait un *permis* pour le [caca]
+      texte: Un animal de cette taille ne se nettoierait pas avec une pelle. La mairie devrait sans doute créer
+        un *service spécial* et une benne énorme.
+    - titre: Le plus [petit] reste le *meilleur* ami
+      texte: Au final, c'est peut-être le hamster de ta poche qui te manquerait le plus. Un animal qui tient dans
+        la main, c'est déjà un petit *miracle* urbain.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie grands comme des immeubles en ville
+  legende: 'Imagine ton chat assis sur ton immeuble 🐱
 
 
-    Marcher sans écouteurs, noter ses petites victoires, appeler ses proches, dormir à heure régulière : rien de
-    spectaculaire, mais ça peut changer pas mal de choses. Swipe pour découvrir les quatre habitudes et choisir
-    la tienne.
+    Ton chat dormirait sur le toit, ton chien aurait besoin d''une piscine comme gamelle, et ton lapin te ferait
+    faire le tour du parc. Swipe, c''est sans doute pire que tu ne crois.
 
 
-    Et la dernière habitude est la plus simple de toutes, celle que tu fais peut-être déjà sans le savoir 👀
+    La dernière slide va te faire regarder ton hamster autrement 👀
 
 
-    Quelle habitude tu adoptes en premier, ou laquelle tu fais déjà ? 💬
+    Ton animal serait-il trop gros pour ton quartier ? 😅
 
 
-    💾 Enregistre ce carrousel pour la tester pendant une semaine et voir ce qui change vraiment.
+    💾 Enregistre ce carrousel pour te moquer de tes amis la prochaine fois qu''ils parlent de leur chat.
 
 
-    📤 Partage-le à un ami, qui a besoin d''un petit coup de pouce pour aller mieux.
+    📤 Partage-le à un ami, pour qu''il rigole avec toi de ce chat qui écrase la tour voisine.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #psychologie #cerveau #bonheur #developpementpersonnel #culturegenerale'
+    #cultureG #curiosites #absurde #animaux #insolite'
   medias:
   - medias/2026-10-12/2026-10-15_1100_carro/01.jpg
   - medias/2026-10-12/2026-10-15_1100_carro/02.jpg
@@ -92,8 +138,9 @@ posts:
   - medias/2026-10-12/2026-10-15_1100_carro/04.jpg
   - medias/2026-10-12/2026-10-15_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-15_1100_carro/06.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/07.jpg
+  - medias/2026-10-12/2026-10-15_1100_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-15_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
 - id: 2026-10-15_1300_devin
   jour: jeudi
   date: '2026-10-15'
@@ -127,32 +174,56 @@ posts:
   date: '2026-10-15'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
+  concept: 'Le duel France vs Italie : le petit-déjeuner'
+  contenu:
+    titre_couverture: 'Le duel France vs Italie : le *petit-déjeuner* [CAFÉ] à la française'
+    sous_titre: Tartine ou biscotti, qui gagne ce matin ?
+    slides:
+    - titre: Le [café] du matin
+      texte: En France, on trempe sa tartine dans un bol de café au lait. En Italie, on avale souvent un *espresso*
+        debout, en quelques secondes.
+    - titre: Le [croissant] fait la loi
+      texte: Le croissant français se mange souvent en pause. Le cornetto italien se savoure volontiers au comptoir,
+        avec un *cappuccino*.
+    - titre: Sucré ou *salé* ?
+      texte: Ici, le petit-déj penche vers le sucré. En Italie aussi, mais manger debout au bar surprend souvent
+        les visiteurs.
+    - titre: L'orange *pressée* contre le jus
+      texte: Le jus d'orange en brique, c'est notre standard. En Italie, beaucoup préfèrent presser l'orange à la
+        main, sous les yeux de celui qui la boit.
+    - titre: Le petit-déj *en famille* ou *en solo* ?
+      texte: Chez nous, on prend souvent son petit-déj seul, les yeux dans le bol. En Italie, la discussion démarre
+        parfois avant même le premier café.
+    - titre: Le duel est [serré]
+      texte: 'Pas de vainqueur absolu : la France aime la tartine, l''Italie aime le café vite fait. Et toi, tu
+        fais partie de quel camp ce matin ?'
+    question_fin: Tu es team *tartine* ou team *espresso* ?
   sujet: 'Le duel France vs Italie : le petit-déjeuner'
-  legende: 'Café debout ou tartine assise ? ☕
+  legende: 'Tartine ou espresso, il faut choisir ce matin ☕
 
 
-    Le petit-déj révèle plus qu''on croit sur nos habitudes. Entre bol, espresso, sucré et fruits frais, le duel
-    France vs Italie commence dès le réveil. Swipe pour voir qui tient la route !
+    On compare le petit-déj français et italien en six rounds : café, viennoiseries, sucré contre salé, jus d''orange
+    et façon de manger. Chaque slide pose une question sur nos habitudes du matin.
 
 
-    Dans les dernières slides, on parle d''un fruit oublié et d''une question de temps 👀
+    La dernière slide tranche le duel… mais pas forcément comme tu l''attends 👀
 
 
-    Tu es team bol ou team espresso ? 🥐
+    Quel camp tu choisis, tartine ou espresso debout ? ☕
 
 
-    💾 Enregistre ce carrousel pour le prochain matin où tu voudras changer ta routine ☕.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu débattras de ton petit-déj avec des potes.
 
 
-    📤 Partage-le à un ami, celui qui se lève toujours en retard et qui vit sur un café 😄.
+    📤 Partage-le à un ami, celui qui boit son café debout en trois secondes et qui doit voir ça ☕.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #france #italie #petitdejeuner'
+    #culturegenerale #curiosites #petitdejeuner #France #Italie'
   medias:
   - medias/2026-10-12/2026-10-15_1400_carro/01.jpg
   - medias/2026-10-12/2026-10-15_1400_carro/02.jpg
@@ -161,40 +232,63 @@ posts:
   - medias/2026-10-12/2026-10-15_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-15_1400_carro/06.jpg
   - medias/2026-10-12/2026-10-15_1400_carro/07.jpg
+  - medias/2026-10-12/2026-10-15_1400_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-15_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-15_1700_carro
   jour: jeudi
   date: '2026-10-15'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: anecdote
+  concept: Phénomènes naturels qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [truqué] ? Pourtant c'est *100% réel*, et ça se passe sur Terre
+    sous_titre: La nature a sans doute plus d'imagination que ton logiciel de retouche
+    slides:
+    - titre: LES *NUAGES* EN FORME D'ONDE
+      texte: Parfois, des nuages en rouleaux alignés traversent le ciel, et on dirait des vagues géantes. Aucun
+        photomontage n'est nécessaire.
+    - titre: LE LAC QUI *SE COLORE*
+      texte: Certains lacs salés prennent des teintes roses ou rouges selon les micro-organismes qui y vivent. Ce
+        n'est pas un filtre, c'est la chimie du lieu.
+    - titre: LA DUNE QUI *CHANTE*
+      texte: Dans certaines dunes, le sable peut émettre un son grave, parfois comparé à un ronflement, quand il
+        glisse. Un concert naturel sans musicien.
+    - titre: UN ARC-EN-CIEL *BLANC*
+      texte: 'Quand les gouttelettes sont très fines, l''arc-en-ciel peut apparaître presque blanc. Une idée simple
+        : moins de gouttes, moins de couleurs.'
+    - titre: LA MER QUI *SE RETIRE*
+      texte: Sur certaines plages, la marée peut révéler un chemin de pierres en quelques heures. La mer fait le
+        travail, et le résultat ressemble à un décor de cinéma.
+    - titre: DES LUEURS *DANS LA NUIT*
+      texte: Des lumières vertes ou violettes peuvent danser dans le ciel polaire. C'est l'aurore, liée aux particules
+        du vent solaire qui frappent la haute atmosphère.
+    question_fin: Lequel te paraît le plus *impossible* à croire ?
   sujet: Phénomènes naturels qui semblent truqués mais sont réels
-  legende: 'Non, c''est pas du Photoshop 😳
+  legende: 'La nature se moque des filtres 🌍
 
 
-    La nature a des effets qui ressemblent à des montages ratés, et pourtant ils existent vraiment. Swipe pour voir
-    des phénomènes que tu crois impossibles.
+    Nuages en vagues, lacs roses, dunes qui chantent : tout est réel. Swipe pour voir les phénomènes que tu crois
+    retouchés.
 
 
-    Le dernier est tellement rare que beaucoup de gens ne le voient jamais 👀
+    La dernière slide est celle que personne n''attend 👀
 
 
-    Tu savais déjà que ça existait ? 🤔
+    Tu aurais deviné lequel était vrai ? 🤔
 
 
-    💾 Enregistre ce carrousel pour les retrouver quand quelqu''un te dira que c''est truqué.
+    💾 Enregistre ce carrousel pour pour retrouver ces phénomènes quand tu croiseras un doute 📌.
 
 
-    📤 Partage-le à un ami, parce qu''il va forcément répondre « c''est une photo retouchée » 😂.
+    📤 Partage-le à un ami, à celui qui pense que tout est trafiqué sur Internet 😏.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #nature #phenomenesnaturels #insolite'
+    #culturegenerale #curiosites #nature #insolite #saviezvous'
   medias:
   - medias/2026-10-12/2026-10-15_1700_carro/01.jpg
   - medias/2026-10-12/2026-10-15_1700_carro/02.jpg
@@ -202,9 +296,9 @@ posts:
   - medias/2026-10-12/2026-10-15_1700_carro/04.jpg
   - medias/2026-10-12/2026-10-15_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-15_1700_carro/06.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/07.jpg
+  - medias/2026-10-12/2026-10-15_1700_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-15_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-15_2000_carro
   jour: jeudi
   date: '2026-10-15'
