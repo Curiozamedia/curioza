@@ -146,13 +146,13 @@ posts:
   date: '2026-10-15'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 8 + 12 ÷ 2 × 7 = ?'
-  reponse: '50 (piège : 70)'
+  sujet: 'Devinette : 7 + 6 × 6 − 8 = ?'
+  reponse: '35 (piège : 70)'
   legende: 'La réponse n''est pas 70 ! 🥴
 
 
@@ -169,7 +169,6 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
-  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-15_1400_carro
   jour: jeudi
   date: '2026-10-15'
@@ -370,28 +369,27 @@ posts:
   date: '2026-10-15'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
   sujet: 'Vidéo IA : Animaux de compagnie grands comme des immeubles en ville'
-  accroche: 'Animaux géants : le *voisin* n''a pas [fini]'
-  legende: 'Imagine ton animal de compagnie plus haut que ton immeuble 🐱🏙️
+  accroche: 'Animaux géants : le *voisin* sera [furieux] !'
+  legende: 'Imagine ton chat grand comme un immeuble... le voisin ne dormirait plus 🐱🏙️
 
 
-    Tu préfères un chat qui dort sur ton toit ou un chien qui fait ses besoins dans le parc ? 👇
+    Ton animal de compagnie géant, il dormirait sur quel immeuble de ta ville ? 👇
 
 
     👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    #cultureG #curiosites #animaux #insolite #illustrationIA'
+    #culturegenerale #curiosites #animauxdecompagnie #insolite #reelsfrance'
   medias:
   - medias/2026-10-12/2026-10-15_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_2100_diapo/couverture.jpg
   source: 2026-10-15_1100_carro
-  erreur: retouche (bandes noires / signe ÷)
 - id: 2026-10-16_0800_carro
   jour: vendredi
   date: '2026-10-16'

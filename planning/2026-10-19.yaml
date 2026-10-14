@@ -167,32 +167,56 @@ posts:
   date: '2026-10-19'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
+  concept: Inventions totalement inutiles mais magnifiques
+  contenu:
+    titre_couverture: Des [INVENTIONS] *inutiles* mais tellement *magnifiques*
+    sous_titre: Six trouvailles qui ne servent à rien, et c'est tout le charme
+    slides:
+    - titre: Le [parapluie] pour la pluie *absente*
+      texte: Un parapluie qui ne se déploierait que quand il ne pleut pas. Il ne protège de rien, mais on peut imaginer
+        qu'il fasse sourire tout le quartier.
+    - titre: Une *horloge* à reculons
+      texte: Ses aiguilles tournent dans le sens inverse, juste pour le plaisir de déstabiliser ton cerveau. Et
+        si lire l'heure devenait une petite énigme chaque matin ?
+    - titre: Des [fauteuils] pour *regarder* le vent
+      texte: Des fauteuils en verre orientés face aux courants d'air, sans rien d'autre à voir. Juste pour observer
+        les feuilles danser, à ton rythme.
+    - titre: Une *lampe* qui éclaire le plafond
+      texte: Elle ne sert pas à lire ni à voir où tu marches. Elle illumine seulement ce qui est au-dessus de ta
+        tête, comme une constellation personnelle.
+    - titre: Un *escalier* qui ne mène nulle part
+      texte: Quelques marches en spirale qui s'arrêtent net dans le vide, au milieu d'un pré. Tu montes, tu contemples,
+        tu redescends. Et si c'était parfait comme ça ?
+    - titre: Une [boîte] pour garder le *silence*
+      texte: Un coffret en bois censé capturer quelques secondes de calme pour les ressortir plus tard. Personne
+        n'a jamais prouvé que ça marche, mais l'idée est magnifique.
+    question_fin: Laquelle de ces inventions te *fait rêver* le plus ?
   sujet: Inventions totalement inutiles mais magnifiques
-  legende: 'Un génie qui ne sert à rien, et pourtant on le veut chez soi ✨
+  legende: 'Des inventions qui ne servent à rien… et c''est pour ça qu''on les adore 🛠️✨
 
 
-    Parapluie pour une pluie qui n''arrive jamais, horloge qui compte les nuages, fauteuil sans assise... Des idées
-    magnifiques et parfaitement inutiles. Swipe pour tout voir.
+    Un parapluie pour les jours secs, une horloge qui recule, un escalier qui ne mène nulle part. Six idées absurdes
+    et poétiques à découvrir en swipant.
 
 
-    La dernière invention est tellement absurde qu''on a du mal à y croire 👀
+    La dernière slide est la plus inutile de toutes… mais aussi la plus belle 👀
 
 
-    Tu t''offrirais laquelle pour ton salon ? 💭
+    Tu en construirais une quelle pour ton salon ? 💬
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces idées folles le jour où tu voudras briller en soirée.
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu t''ennuies.
 
 
-    📤 Partage-le à un ami, il rira avec toi de ces inventions qui ne servent à rien 😄.
+    📤 Partage-le à un ami, il a besoin d''une dose d''absurde aujourd''hui.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #inventions #absurde #insolite'
+    #culturegenerale #curiosites #inventions #insolite #absurde'
   medias:
   - medias/2026-10-19/2026-10-19_1400_carro/01.jpg
   - medias/2026-10-19/2026-10-19_1400_carro/02.jpg
@@ -201,41 +225,62 @@ posts:
   - medias/2026-10-19/2026-10-19_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-19_1400_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1400_carro/07.jpg
+  - medias/2026-10-19/2026-10-19_1400_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-19_1700_carro
   jour: lundi
   date: '2026-10-19'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
-  sujet: Métiers impossibles qu'on aimerait voir
-  legende: 'Tu postulerais pour quel job impossible ? 🤔
+  concept: Métiers impossibles qu'on aimerait voir
+  contenu:
+    titre_couverture: Des [MÉTIERS] qui n'existent *pas* encore, on en rêve
+    sous_titre: Swipe si tu veux postuler
+    slides:
+    - titre: '[CHERCHEUR] de rêves perdus'
+      texte: 'Son job : retrouver les rêves oubliés au fond des *tiroirs* de ta mémoire. Et si c''était le meilleur
+        job du monde ?'
+    - titre: Pilote de *nuages* paresseux
+      texte: Il conduit les nuages lents jusqu'à la bonne ville. Le vrai défi ? Les convaincre de *bouger* le lundi.
+    - titre: Gardien des *ombres* du soir
+      texte: Chaque soir, il range les ombres dans des boîtes pour que les rues retrouvent leur couleur. Certaines
+        ombres *résistent* encore, selon lui.
+    - titre: Testeur officiel de *flaques*
+      texte: 'Son rôle : sauter dans chaque flaque pour vérifier qu''elle est assez profonde. Une chose est sûre,
+        il adore ce job.'
+    - titre: Ramasseur de *silences* en bibliothèque
+      texte: Il récupère les silences oubliés entre les pages et les range par ordre alphabétique. Le rayon des
+        *soupirs* est toujours plein.
+    - titre: Arbitre des *coïncidences* du hasard
+      texte: Il veille à ce que deux chaussettes ne se perdent jamais ensemble. Il siffle chaque fois qu'une *coïncidence*
+        tourne mal.
+    question_fin: Lequel de ces métiers te donnerait le plus *envie* de postuler ?
+  sujet: Métiers impossibles qu'on aimerait voir exister
+  legende: 'Tu postulerais pour quel métier qui n''existe pas ? 🧐
 
 
-    Pousser la Lune, chasser les chaussettes disparues, collectionner les silences de la ville : des métiers qui
-    n''existent pas mais qu''on rêverait de voir. Swipe pour découvrir les 5 candidats.
+    Pilote de nuages, testeur de flaques, ramasseur de silences : des métiers absurdes qu''on rêverait de voir sur
+    une offre d''emploi. Swipe, certains sont franchement étranges.
 
 
-    Le dernier poste demande une patience d''ermite et un bocal bien rangé 👀
+    Le dernier métier est celui que tout le monde rêve secrètement d''exercer 👀
 
 
-    Lequel te paraît le plus utile dans ta vie quotidienne ? 👇
+    Lequel te paraît le plus crédible ? 😏
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu rêveras d''un job plus fou que le tien.
+    💾 Enregistre ce carrousel pour les jours où tu rêves de changer de boulot.
 
 
-    📤 Partage-le à un ami, il en connaît sûrement un qui mérite ce poste de chasseur de chaussettes.
+    📤 Partage-le à un ami, à celui qui rêve de changer de job sans jamais oser.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #absurde #insolite #etsi'
+    #cultureG #curiosites #insolite #absurde #metiers'
   medias:
   - medias/2026-10-19/2026-10-19_1700_carro/01.jpg
   - medias/2026-10-19/2026-10-19_1700_carro/02.jpg
@@ -244,43 +289,57 @@ posts:
   - medias/2026-10-19/2026-10-19_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-19_1700_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1700_carro/07.jpg
+  - medias/2026-10-19/2026-10-19_1700_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-19_2000_carro
   jour: lundi
   date: '2026-10-19'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: La météo d'une autre planète vue depuis une ville française
-  sujet: La météo d'une autre planète vue depuis la France
-  legende: 'Et si la météo d''une autre planète tombait sur la France ? 🪐
+  concept: La météo d'une autre planète vue depuis la France
+  contenu:
+    titre_couverture: La [MÉTÉO] d'autres planètes, vue depuis *ton balcon* en France
+    sous_titre: 'Spoiler : ton parapluie ne servirait pas à grand-chose'
+    slides:
+    - titre: Il pleut des [cailloux] en *orange*
+      texte: Sur une planète imaginaire au sol de sable rouillé, les nuages pourraient lâcher des gouttes de métal
+        liquide qui se figent en billes. Chez toi, ça ferait un sacré bruit sur la carrosserie de la voiture.
+    - titre: Le [vent] qui arrache *les toits*
+      texte: Imagine une tempête assez violente pour soulever les tuiles d'un village en quelques secondes. Selon
+        nous, les ardoises des toits normands ne feraient pas le poids.
+    - titre: Un *brouillard* étouffant
+      texte: Et si l'air de certaines planètes était saturé de gaz qui piquent les yeux ? On imagine bien ton marché
+        du dimanche transformé en décor de film de science-fiction.
+    - titre: Un *orage* qui tombe [à l'envers]
+      texte: 'Et si les éclairs descendaient de la mer pour remonter vers les nuages ? C''est une question pour
+        rêver : que deviendrait ta plage préférée de Bretagne un soir d''orage ?'
+    question_fin: Laquelle de ces météos ferait fuir ton chat ?
+  sujet: Météo d'autres planètes vue depuis la France
+  legende: 'Et si la météo de Mars débarquait chez toi ? 🪐
 
 
-    Pluie de diamants, vent de sable sur le marché, ciel rouge à midi… On a imaginé six scènes absurdes, inspirées
-    de phénomènes observés ailleurs dans le système solaire ou sur des exoplanètes. Certaines restent des pistes
-    de fiction, et on te le dit.
+    Pluie de billes métalliques, vent qui arrache les ardoises, brouillard qui pique les yeux... Swipe pour voir
+    la France version planète étrangère.
 
 
-    La dernière slide te fera regarder ton ciel autrement 👀
+    La dernière météo est la plus étrange, promis 👀
 
 
-    Tu prendrais quelle météo en *vacances* ? Dis-le en commentaire 👇
+    Tu prendrais quelle planète pour tes prochaines vacances ? 🌍
 
 
-    💾 Enregistre ce carrousel pour les prochaines sorties où tu veux impressionner tes potes avec une anecdote spatiale
-    🌌.
+    💾 Enregistre ce carrousel pour la prochaine fois que la météo te déçoit 🌦️.
 
 
-    📤 Partage-le à un ami, pour voir qui sera le plus *fou* de la bande ☄️.
+    📤 Partage-le à un ami, à celui qui se plaint toujours qu''il pleut 😅.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #espace #planetes #insolite'
+    #culturegenerale #curiosites #insolite #espace #absurde'
   medias:
   - medias/2026-10-19/2026-10-19_2000_carro/01.jpg
   - medias/2026-10-19/2026-10-19_2000_carro/02.jpg
@@ -288,81 +347,86 @@ posts:
   - medias/2026-10-19/2026-10-19_2000_carro/04.jpg
   - medias/2026-10-19/2026-10-19_2000_carro/05.jpg
   - medias/2026-10-19/2026-10-19_2000_carro/06.jpg
-  - medias/2026-10-19/2026-10-19_2000_carro/07.jpg
-  - medias/2026-10-19/2026-10-19_2000_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-19_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-19_2100_diapo
   jour: lundi
   date: '2026-10-19'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Maisons construites dans des endroits impossibles'
-  legende: 'Ta maison préférée est peut-être au bord du vide 🏚️
+  sujet: 'Vidéo IA : Maisons construites dans des endroits impossibles'
+  accroche: Des maisons où personne ne devrait <mot>vivre</mot>… et pourtant !
+  legende: 'Ta maison préférée tient-elle sur un nuage ou sur un lac de sel ? ☁️🧂
 
 
-    Falaises, lacs, cimes d''arbres, et même l''espace : certaines maisons défient vraiment la logique. Swipe pour
-    voir où l''architecture ose tout.
+    Tu habiterais dans laquelle de ces maisons, et tu tiendrais combien de jours ?
 
 
-    La dernière slide pose une question que tu ne t''étais jamais posée 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Tu dormirais où, toi, dans ces décors ? 😱
-
-
-    💾 Enregistre cette vidéo pour retrouver ces idées le jour où tu veux un logement original.
-
-
-    📤 Partage-le à un ami, qui rêve d''une maison sur pilotis au-dessus de l''eau 🌊.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #cultureG #curiosites #architecture #insolite #maisonsinsolites'
+    #culturegenerale #curiosites #insolite #maisonsincroyables #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-19_2100_diapo/reel.mp4
-  couverture: medias/2026-10-19/2026-10-19_0800_carro/01.jpg
+  couverture: medias/2026-10-19/2026-10-19_2100_diapo/couverture.jpg
   source: 2026-10-19_0800_carro
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-20_0800_carro
   jour: mardi
   date: '2026-10-20'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: vie
-  sujet: Raccourcis mentaux qui trompent ton cerveau
-  legende: 'Ton cerveau a des raccourcis, et il ne te demande pas ton avis 🧠
+  concept: Raccourcis mentaux qui trompent ton cerveau
+  contenu:
+    titre_couverture: 'Ton cerveau est [paresseux] : 5 raccourcis qui te *jouent des tours*'
+    sous_titre: Psychologie express, zéro blabla
+    slides:
+    - titre: '[Ancrage] du premier chiffre'
+      texte: Selon nous, le premier chiffre entendu semble peser sur tout ce qui suit. Ton cerveau s'y raccroche
+        comme à un repère, même quand il est absurde. C'est l'effet d'ancrage.
+    - titre: Le *mauvais* sprint
+      texte: 'Tu jures que la file d''à côté avance plus vite ? Peut-être que ton cerveau retient surtout les moments
+        d''attente irritants et oublie les moments fluides. C''est une idée très répandue : le biais de négativité
+        en mode caisse.'
+    - titre: Le *faux* expert
+      texte: 'Une belle mise en page et une voix assurée peuvent suffire à te faire croire un truc. C''est l''effet
+        de fluidité : ce qui se lit facilement paraît souvent plus vrai.'
+    - titre: Le *réflexe* de la vitrine
+      texte: Tu trouves un objet cher ? Il suffit parfois qu'un autre soit encore plus cher pour qu'il paraisse
+        une bonne affaire. Ton cerveau compare plus qu'il ne calcule.
+    - titre: Le *dernier* souvenir
+      texte: Tu as passé une soirée géniale mais tu gardes un souvenir mitigé ? Certains chercheurs pensent que
+        le cerveau retient surtout le pic et la fin. Sois conscient de ce raccourci pour mieux choisir tes moments.
+    question_fin: Lequel t'a le plus *fait sourire* en te reconnaissant ?
+  sujet: Raccourcis mentaux qui trompent ton cerveau au quotidien
+  legende: 'Ton cerveau triche avec toi et tu ne t''en rends jamais compte 🧠
 
 
-    Négativité, confirmation, ancrage, familiarité : quatre pièges mentaux que tu fais souvent sans t''en rendre
-    compte. Swipe, tu vas peut-être te reconnaître.
+    Ancrage, négativité, fluidité, comparaison, souvenirs : cinq raccourcis mentaux qui font des décisions à ta
+    place. Chacun vient avec un conseil simple pour reprendre la main.
 
 
-    La dernière slide pourrait changer la façon dont tu écoutes les autres 👀
+    Le dernier raccourci explique pourquoi tes vacances te semblent parfois ratées 👀
 
 
-    Tu tombes dans lequel le plus souvent ? 💬
+    Lequel t''a fait dire « ah oui, c''est moi » ? 👇
 
 
-    💾 Enregistre ce carrousel pour les relire avant ta prochaine grosse décision 📌.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu prends une décision en 2 secondes.
 
 
-    📤 Partage-le à un ami, à celui de ton groupe qui a toujours raison 😏.
+    📤 Partage-le à un ami, celui qui se croit immunisé contre les biais 😏.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #psychologie #biaiscognitifs #developpementpersonnel #culturegenerale #cerveau'
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
   medias:
   - medias/2026-10-19/2026-10-20_0800_carro/01.jpg
   - medias/2026-10-19/2026-10-20_0800_carro/02.jpg
@@ -370,41 +434,57 @@ posts:
   - medias/2026-10-19/2026-10-20_0800_carro/04.jpg
   - medias/2026-10-19/2026-10-20_0800_carro/05.jpg
   - medias/2026-10-19/2026-10-20_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-20_0800_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-20_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-20_1100_carro
   jour: mardi
   date: '2026-10-20'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Et si les objets du quotidien avaient la taille d'un immeuble (un concept, une ville différente par slide)
-  sujet: Objets du quotidien géants comme des immeubles
-  legende: 'Ton trombone préféré pourrait enjamber une vallée 📎
+  concept: Objets du quotidien géants comme des immeubles
+  contenu:
+    titre_couverture: Et si ton [grille-pain] devenait un *gratte-ciel* ?
+    sous_titre: Quand la cuisine rencontre l'architecture
+    slides:
+    - titre: La [trousse] des *lycéens* géante
+      texte: Imagine une trousse géante posée au bord d'un fleuve, avec ses fermetures éclair qui servent de portes
+        coulissantes. Les *crayons* deviennent des colonnes de verre.
+    - titre: Le *frigo* perce les nuages
+      texte: Et si un réfrigérateur de 80 étages avait des étagères-terrasses qui laissent flotter la buée au-dessus
+        de la ville ? Les *habitants* y dormiraient au frais, mais on peut parier que les ascenseurs grincent.
+    - titre: La [clé USB] plantée en centre-ville
+      texte: Une clé USB géante dressée sur une place publique, avec son connecteur qui sert d'entrée monumentale.
+        Personne ne sait vraiment *où* elle range les souvenirs, et c'est ça qui intrigue.
+    - titre: Les *chaussettes* en immeubles
+      texte: Une paire de chaussettes dépliée sur une colline, dont le talon devient un hall d'accueil. Et si le
+        *linge* oublié ne séchait jamais, restant suspendu entre les tours ?
+    question_fin: Lequel de ces immeubles te donnerait le plus *envie* d'emménager ?
+  sujet: Objets du quotidien géants transformés en immeubles
+  legende: 'Ton grille-pain en gratte-ciel, ça te tente ? 🍞
 
 
-    Quatre objets du quotidien transformés en monuments de la taille d''immeubles, dans des décors imaginaires.
-    Une chaussette, une clé USB, une pantoufle : tu ne regarderas plus ton bureau pareil.
+    On a imaginé des objets de tous les jours passés à l''échelle d''une tour : frigo, clé USB, trousse, chaussettes.
+    Chaque slide change la ville et la sensation de vertige.
 
 
-    La dernière slide pourrait bien te faire regarder ta cuisine d''un autre œil 👀
+    La dernière slide est celle qui risque de te faire regarder tes chaussettes autrement 👀
 
 
-    Quel objet géant voudrais-tu voir dans ta ville ? 🏙️
+    Quel objet géant tu transformerais en immeuble chez toi ? 🏙️
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux impressionner tes amis.
 
 
-    📤 Partage-le à un ami, qui adore les trucs complètement inutiles et magnifiques.
+    📤 Partage-le à un ami, il rira avec toi en imaginant sa propre maison en briquet géant.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #absurde #insolite #etsi'
+    #cultureG #curiosites #insolite #absurde #imagination'
   medias:
   - medias/2026-10-19/2026-10-20_1100_carro/01.jpg
   - medias/2026-10-19/2026-10-20_1100_carro/02.jpg
@@ -413,21 +493,19 @@ posts:
   - medias/2026-10-19/2026-10-20_1100_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1100_carro/06.jpg
   couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-20_1300_devin
   jour: mardi
   date: '2026-10-20'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 7 + 10 × 5 − 2 = ?'
-  reponse: '55 (piège : 83)'
-  legende: 'La réponse n''est pas 83 ! 🥴
+  sujet: 'Devinette : 7 + 7 × 7 − 7 = ?'
+  reponse: '49 (piège : 91)'
+  legende: 'La réponse n''est pas 91 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -443,39 +521,61 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-20_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-20_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-20_1400_carro
   jour: mardi
   date: '2026-10-20'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des aliments géants posés au milieu de paysages naturels
-  sujet: Aliments géants posés dans des paysages naturels
-  legende: 'Ton goûter vient de quitter la cuisine pour la montagne 🍎
+  concept: Aliments géants posés dans des paysages naturels
+  contenu:
+    titre_couverture: Et si les [ALIMENTS] pouvaient *pousser* sans jardin ?
+    sous_titre: Culture G absurde, version assiette XXL
+    slides:
+    - titre: Une [POMME] au milieu du lac
+      texte: Imagine une pomme plus haute qu'un chalet, posée au bord d'un lac alpin. Les *reflets* dans l'eau font
+        presque oublier que c'est absurde.
+    - titre: Le *fromage* qui fait sa sieste
+      texte: Un bloc de gruyère géant, couvert de mousse, s'est installé dans une forêt de sapins. Les *trous* du
+        fromage ressemblent à des grottes où vivent des écureuils curieux.
+    - titre: Des [CAROTTES] dans le désert
+      texte: 'Des carottes aussi hautes que des palmiers sortent du sable doré. Question : qui les a plantées, et
+        *avec quelle pelle* ?'
+    - titre: Un *croissant* sur la banquise
+      texte: Un croissant géant, encore tiède en apparence, trône sur la glace polaire. Les *ours* passent devant
+        sans comprendre pourquoi personne ne le mange.
+    - titre: Le [MELON] qui flotte
+      texte: Une pastèque immense flotte sur une mer calme, comme une île verte et rayée. Les *mouettes* s'y posent
+        comme sur un radeau.
+    - titre: Une *cerise* au sommet du volcan
+      texte: Une cerise rouge vif est plantée au sommet d'un volcan fumant, comme une couronne. On se demande *qui
+        a eu l'idée* de la poser là.
+    question_fin: Quel aliment géant voudrais-tu voir *poser* dans ton paysage préféré ?
+  sujet: Aliments géants posés dans des paysages naturels, angle original
+  legende: 'Et si ton petit-déj avait la taille d''une montagne ? 🍎
 
 
-    Une pomme plus grande qu''un chalet, un citron perdu dans le désert, une pastèque posée sur la forêt : on a
-    imaginé des aliments géants au milieu de paysages naturels. Certains donnent faim, d''autres donnent des frissons.
+    Six aliments XXL installés dans des paysages réels, du lac alpin au désert brûlant. Certains sont drôles, d''autres
+    un peu troublants. Tu vas voir le croissant polaire, tu ne vas pas le croire.
 
 
-    Le dernier aliment géant est tellement étrange qu''on ne sait pas s''il faut le manger ou le photographier 👀
+    Les deux dernières slides sont les plus folles, et la cerise du volcan n''est pas la pire 👀
 
 
-    Tu le mangerais ou tu le laisserais au bord de la plage ? 🥐
+    Lequel de ces aliments géants te paraît le plus crédible ? 🤔
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces images la prochaine fois que tu regardes une pomme.
+    💾 Enregistre ce carrousel pour te souvenir de ces images la prochaine fois que tu vois une pomme.
 
 
-    📤 Partage-le à un ami, il aura lui aussi besoin d''un petit moment de folie gourmande.
+    📤 Partage-le à un ami, qu''il se demande lui aussi qui a planté les carottes dans le désert.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #insolite #absurde #imaginetonmonde'
+    #cultureG #curiosites #insolite #absurde #imagination'
   medias:
   - medias/2026-10-19/2026-10-20_1400_carro/01.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/02.jpg
@@ -483,41 +583,61 @@ posts:
   - medias/2026-10-19/2026-10-20_1400_carro/04.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/07.jpg
+  - medias/2026-10-19/2026-10-20_1400_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-20_1700_carro
   jour: mardi
   date: '2026-10-20'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des animaux ou objets avec un trait humain inattendu (format qui marche chez Opulancia, sujet neuf obligatoire)
-  sujet: Animaux et objets avec un trait humain inattendu
-  legende: 'Un hérisson qui boit son café, ça te choque ? ☕
+  concept: Animaux et objets avec un trait humain inattendu
+  contenu:
+    titre_couverture: Ton grille-pain a une [personnalité] en *or*... et ça craint
+    sous_titre: Le monde vu par les objets et bêtes qui se croient humains
+    slides:
+    - titre: Le pigeon [rancunier]
+      texte: Certains pigeons urbains semblent reconnaître les visages de ceux qui les nourrissent... ou pas. Une
+        *idée* qui fait réfléchir, non ?
+    - titre: La chaise qui *boude*
+      texte: Imagine une vieille chaise de bureau qui roule jusqu'au mur pour y bouder, les roulettes tournées vers
+        la pièce. Absurde, mais tellement *relatable* au lundi matin.
+    - titre: Le frigo qui *ronchonne*
+      texte: Un vieux frigo qui fait du bruit le soir, comme s'il râlait avant de s'endormir. Et si c'était juste
+        son [caractère] ?
+    - titre: Le mouton [procrastinateur]
+      texte: Un mouton qui repousse sa tonte à demain, allongé dans l'herbe en pensant à son *avenir*. On l'a tous
+        déjà fait, avoue.
+    - titre: Le hamster [chef d'orchestre]
+      texte: Imagine un hamster qui dirige une chorale de graines de tournesol, bâton à la patte. Et si les animaux
+        montaient déjà leur *spectacle* dans notre dos ?
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux et objets qui ont un trait humain inattendu
+  legende: 'Ton grille-pain te juge, tu le sais déjà 🍞
 
 
-    Quatre animaux et objets qui font semblant d''être humains, avec un sérieux qui frôle le ridicule. Chaque slide
-    te fait sourire un peu plus.
+    On a imaginé des bêtes et des objets qui agissent comme nous : rancune, bouderie, procrastination. Chaque slide
+    pousse le trait humain un peu plus loin.
 
 
-    La dernière slide te fera regarder ton grille-pain autrement 👀
+    La dernière slide pourrait bien te faire regarder ton hamster autrement 👀
 
 
-    Tu avais déjà imaginé ton grille-pain avec des peurs ? 😂
+    Quel objet de ta maison a déjà un caractère de râleur ? 😄
 
 
-    💾 Enregistre ce carrousel pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
+    💾 Enregistre ce carrousel pour relire les exemples le jour où ton frigo fait encore du bruit.
 
 
-    📤 Partage-le à un ami, lui envoyer le carrousel, il va forcément se reconnaître dans le hibou.
+    📤 Partage-le à un ami, il va rire en reconnaissant son propre chat ou son propre lundi matin.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #absurde #insolite #savoirinutile'
+    #culturegeneale #curiosites #insolite #absurde #humourfrancais'
   medias:
   - medias/2026-10-19/2026-10-20_1700_carro/01.jpg
   - medias/2026-10-19/2026-10-20_1700_carro/02.jpg
@@ -525,41 +645,60 @@ posts:
   - medias/2026-10-19/2026-10-20_1700_carro/04.jpg
   - medias/2026-10-19/2026-10-20_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-20_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-20_1700_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-20_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-20_2000_carro
   jour: mardi
   date: '2026-10-20'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
-  sujet: Animaux qui exercent des métiers humains avec sérieux
-  legende: 'Ton prochain chef pourrait être un ouistiti 🐒
+  concept: Animaux qui exercent des métiers humains avec sérieux
+  contenu:
+    titre_couverture: 'Quand les animaux *prennent* le [bureau] : 5 boulots déjà occupés'
+    sous_titre: Ils ne font pas semblant, ils sont au travail
+    slides:
+    - titre: Le [gardien] *du phare*
+      texte: Et si certains oiseaux marins surveillaient le littoral comme des gardiens de phare ? Personne ne leur
+        a rien demandé, mais ils tiennent leur poste.
+    - titre: Le [facteur] *à quatre pattes*
+      texte: 'Imagine un chien de traîneau livrant le courrier sur une piste enneigée. Le sérieux est total : il
+        porte la sacoche, il connaît le chemin, il ne s''arrête pour rien.'
+    - titre: Le [chef] *cuisinier* sérieux
+      texte: Un castor qui découpe des branches en tronçons bien alignés, comme un chef qui prépare sa mise en place.
+        Chaque morceau a sa place, rien n'est laissé au hasard.
+    - titre: L'[ouvrier] *du chantier*
+      texte: À mon avis, les termites bâtissent de véritables cathédrales de terre, avec ventilation et galeries.
+        Aucun plan papier, juste une organisation collective qu'un architecte envierait peut-être.
+    - titre: Le [pilote] *de ligne* imprévu
+      texte: Certains oiseaux migrateurs semblent suivre des routes précises sur des milliers de kilomètres. On
+        pourrait presque dire qu'ils connaissent leur itinéraire par cœur.
+    question_fin: Lequel de ces collègues à plumes ou à poils te *recruterait* tout de suite ?
+  sujet: Animaux qui exercent des métiers humains, angle original
+  legende: 'Ils n''ont pas de badge, mais ils bossent dur 🐾
 
 
-    Des animaux qui bossent avec plus de sérieux que certains de nos collègues. Un pigeon postier, un rat détecteur,
-    un chien sauveteur : on fait le tour des métiers animaux les plus étonnants.
+    Gardien de phare, facteur, chef, ouvrier du chantier : on passe en revue des animaux qui tiennent leur poste
+    avec un sérieux déconcertant. Certains exemples sont plus surprenants que tu ne le crois.
 
 
-    Le dernier slide est le plus crédible de tous... enfin presque 👀
+    La dernière slide change ta vision des trajets quotidiens 👀
 
 
-    Quel animal te nommerais-tu DRH ? 😏
+    Quel métier animal te paraît le plus crédible ? 🤔
 
 
-    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un dit que son chat ne fait rien de ses journées.
+    💾 Enregistre ce carrousel pour les retrouver quand tu auras besoin d''une pause drôle au travail.
 
 
-    📤 Partage-le à un ami, à celui qui pense que les animaux ne servent qu''à faire joli 🐾.
+    📤 Partage-le à un ami, pour voir qui, dans sa bande, aurait le meilleur poste.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #animaux #insolite #saviezvous'
+    #culturegenerale #curiosites #animaux #insolite #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-20_2000_carro/01.jpg
   - medias/2026-10-19/2026-10-20_2000_carro/02.jpg
@@ -568,80 +707,85 @@ posts:
   - medias/2026-10-19/2026-10-20_2000_carro/05.jpg
   - medias/2026-10-19/2026-10-20_2000_carro/06.jpg
   - medias/2026-10-19/2026-10-20_2000_carro/07.jpg
-  - medias/2026-10-19/2026-10-20_2000_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-20_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-20_2100_diapo
   jour: mardi
   date: '2026-10-20'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Objets du quotidien géants comme des immeubles'
-  legende: 'Ton trombone préféré pourrait enjamber une vallée 📎
+  sujet: 'Vidéo IA : Objets du quotidien géants transformés en immeubles'
+  accroche: Tu ne verras plus jamais ta [trousse] pareil
+  legende: 'Des objets du quotidien devenus immeubles, la ville ne sera plus jamais pareil 🏙️
 
 
-    Quatre objets du quotidien transformés en monuments de la taille d''immeubles, dans des décors imaginaires.
-    Une chaussette, une clé USB, une pantoufle : tu ne regarderas plus ton bureau pareil.
+    Quel objet du quotidien tu transformerais en immeuble en premier, et pourquoi ? 👇
 
 
-    La dernière slide pourrait bien te faire regarder ta cuisine d''un autre œil 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Quel objet géant voudrais-tu voir dans ta ville ? 🏙️
-
-
-    💾 Enregistre cette vidéo pour te souvenir de ces idées absurdes la prochaine fois que tu t''ennuies.
-
-
-    📤 Partage-le à un ami, qui adore les trucs complètement inutiles et magnifiques.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #culturegenerale #curiosites #absurde #insolite #etsi'
+    #curiosites #cultureG #insolite #illustrationIA #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-20_2100_diapo/reel.mp4
-  couverture: medias/2026-10-19/2026-10-20_1100_carro/01.jpg
+  couverture: medias/2026-10-19/2026-10-20_2100_diapo/couverture.jpg
   source: 2026-10-20_1100_carro
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-21_0800_carro
   jour: mercredi
   date: '2026-10-21'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
+  concept: Aliments qui ressemblent à autre chose que ce qu'ils sont
+  contenu:
+    titre_couverture: Et si ton [dîner] trichait sur son *identité* ?
+    sous_titre: Ce que tu manges n'est peut-être pas ce que tu crois
+    slides:
+    - titre: Le [faux] rocher comestible
+      texte: Certains gnocchis peuvent être façonnés pour ressembler à des *galets* polis. Et si, dans l'assiette,
+        on n'arrivait plus à deviner ce qui se cache derrière la sauce tomate ?
+    - titre: Le *champignon* qui fait le poisson
+      texte: Certaines imitations de *fruits de mer* sont fabriquées à partir de pâte de poisson moulée. Elles ressemblent
+        à des crevettes, sans avoir jamais nagé.
+    - titre: Le fromage qui joue la pierre
+      texte: Certains fromages sont enrobés de cendre végétale pour ressembler à des *roches volcaniques*. Le goût,
+        lui, n'a sans doute rien de minéral.
+    - titre: Le fruit déguisé en [bijou]
+      texte: Les grenades ou certains raisins glacés peuvent sembler *taillés* comme des pierres précieuses. Une
+        vitrine de joaillier, mais en version comestible.
+    - titre: Le chocolat qui fait *semblant*
+      texte: Des gâteaux moulés en forme d'objets du quotidien, comme des *cailloux* ou des *clous*, existent. Tu
+        croques la déco avant de comprendre le piège.
+    question_fin: Lequel t'a le plus *trompé* à l'œil ?
   sujet: Aliments qui ressemblent à autre chose que ce qu'ils sont
-  legende: 'Ta nourriture te regarde aussi, tu l''as pas remarqué 🥐
+  legende: 'Ton assiette te ment peut-être depuis toujours 🍽️
 
 
-    Un croissant qui ressemble à une botte, une pomme de terre qui fait la sieste, un poivron qui boude. On a regardé
-    ton assiette sous un autre angle, et c''est là que ça devient bizarre.
+    Galets en gnocchis, fausses crevettes, fromage façon roche volcanique : certains aliments jouent parfaitement
+    le rôle d''autre chose. Swipe pour voir le casting.
 
 
-    La dernière slide, c''est celle qui t''a fait peur au petit-déj 👀
+    La dernière slide pourrait bien te faire regarder ton goûter autrement 👀
 
 
-    Tu as déjà vu un aliment qui te fixait dans ton assiette ? 😳
+    Tu avais déjà repéré un aliment déguisé ? 🤔
 
 
-    💾 Enregistre ce carrousel pour la prochaine fois que tu fais les courses et que tu veux rire au rayon légumes.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu doutes de ton assiette 🍴.
 
 
-    📤 Partage-le à un ami, pour qu''il arrête de manger tranquille sans se poser de questions.
+    📤 Partage-le à un ami, pour qu''il vérifie ce qu''il mange ce soir 😏.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #absurde #nourriture #insolite'
+    #cultureG #curiosites #insolite #alimentation #saviezvous'
   medias:
   - medias/2026-10-19/2026-10-21_0800_carro/01.jpg
   - medias/2026-10-19/2026-10-21_0800_carro/02.jpg
@@ -651,40 +795,55 @@ posts:
   - medias/2026-10-19/2026-10-21_0800_carro/06.jpg
   - medias/2026-10-19/2026-10-21_0800_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-21_1100_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  concept: Objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: '[RETOUR] vers le *futur* absurde : nos vieux objets en 2150'
+    sous_titre: Et si le passé avait pris le train de l'avenir ?
+    slides:
+    - titre: LE *RÉVEIL* [SOLAIRE]
+      texte: Et si le réveil à cadran devenait une horloge qui lève ses aiguilles vers le soleil ? Elle sonnerait
+        à l'heure de l'aube, pas à celle de ton patron.
+    - titre: LA *CASSETTE* [HOLOGRAPHIQUE]
+      texte: Et si ta vieille cassette audio devenait un cube de lumière qui diffuse la musique en 3D ? Rembobiner
+        ? Il suffirait de tourner autour du cube.
+    - titre: LE *PAPIER PEINT* [VIVANT]
+      texte: Imagine un papier peint des années 70 qui respire, change de couleur selon ton humeur et devient un
+        mur qui sourit. Idéal pour les débats d'appart.
+    - titre: LE *TÉLÉPHONE* [À ROUES]
+      texte: Et si le vieux téléphone à fil se promenait seul sur des roulettes magnétiques et te suivait dans la
+        maison ? Impossible de lui échapper, même aux toilettes.
+    question_fin: Lequel de ces objets te paraît le plus *dérangeant* quand il se met à te suivre ?
   sujet: Objets d'autrefois réinventés en version futuriste absurde
-  legende: 'Ton grille-pain de grand-mère vient de passer en mode 2300 🚀
+  legende: 'Ton vieux téléphone à fil te suivrait-il déjà partout ? 📞
 
 
-    Radio, fer à repasser, machine à écrire, sablier : on a pris des objets d''autrefois et on les a envoyés dans
-    un futur complètement absurde. Certains sont plus flippants que d''autres.
+    On a pris quatre objets d''autrefois et on les a envoyés dans un futur complètement délirant. Réveil solaire,
+    cassette-hologramme, papier peint qui respire... Certains sont plus flippants que d''autres.
 
 
-    Les deux dernières slides sont les plus folles, on n''a pas su résister 👀
+    La dernière slide est celle qui va te faire regarder ton téléphone de travers 👀
 
 
-    Lequel t''a le plus *surpris* ? Dis-le-nous en commentaire 👇
+    Quel objet d''avant aimerais-tu voir revenir en version futuriste ? 💬
 
 
     💾 Enregistre ce carrousel pour retrouver ces idées quand tu voudras rire un coup 📌.
 
 
-    📤 Partage-le à un ami, il va sûrement adorer la cabine-portail 😂.
+    📤 Partage-le à un ami, il va sûrement se demander pourquoi son réveil lui fait de l''œil 😂.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #futur #absurde #retrofutur'
+    #culturegenerale #curiosites #absurde #futurisme #nostalgie'
   medias:
   - medias/2026-10-19/2026-10-21_1100_carro/01.jpg
   - medias/2026-10-19/2026-10-21_1100_carro/02.jpg
@@ -692,24 +851,20 @@ posts:
   - medias/2026-10-19/2026-10-21_1100_carro/04.jpg
   - medias/2026-10-19/2026-10-21_1100_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1100_carro/06.jpg
-  - medias/2026-10-19/2026-10-21_1100_carro/07.jpg
-  - medias/2026-10-19/2026-10-21_1100_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-21_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-21_1300_devin
   jour: mercredi
   date: '2026-10-21'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 5 + 4 × 6 − 4 = ?'
-  reponse: '25 (piège : 50)'
-  legende: 'La réponse n''est pas 50 ! 🥴
+  sujet: 'Devinette : 12 + 8 × 5 − 8 = ?'
+  reponse: '44 (piège : 92)'
+  legende: 'La réponse n''est pas 92 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -725,39 +880,59 @@ posts:
   medias:
   - medias/2026-10-19/2026-10-21_1300_devin/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_1300_devin/couverture.jpg
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
 - id: 2026-10-21_1400_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  concept: Des maisons construites dans des endroits impossibles
-  sujet: Maisons construites dans des endroits impossibles
-  legende: 'Des maisons qui défient la gravité 🏠
+  concept: Maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Ta maison dans une [cheminée] d'usine ? *Bienvenue* chez les fous du logement
+    sous_titre: Swipe si tu oses habiter ici
+    slides:
+    - titre: Une [maison] dans un *arbre* géant
+      texte: 'Pas besoin de tronc solide : certaines cabanes se posent sur des branches qui ondulent au vent. Le
+        salon bouge, la tasse de café aussi.'
+    - titre: Un *igloo* sous la mer
+      texte: Imagine une bulle transparente posée au fond de l'océan, avec des poissons qui passent devant la fenêtre.
+        Le salon le plus calme de la planète, à condition d'aimer la pression.
+    - titre: Un chalet au [sommet] d'un pilier
+      texte: Imaginons des pitons rocheux isolés, perchés au-dessus des nuages, qui accueilleraient une maison.
+        L'idée seule donne le vertige, et c'est ça qui la rend belle.
+    - titre: Une cabane dans un *volcan* éteint
+      texte: Et si une cuvette volcanique refroidie devenait un jardin secret ? Qui a dit que la lave était incompatible
+        avec le canapé ?
+    - titre: Une maison sur les [nuages]
+      texte: Et si la maison flottait sur un ballon géant, amarrée au ciel ? Pas de voisins bruyants, juste la pluie
+        qui tombe... en dessous.
+    question_fin: Laquelle de ces maisons tu *habiterais* sans hésiter, et laquelle te ferait *fuir* en courant
+      ?
+  sujet: Maisons improbables dans des lieux impossibles
+  legende: 'Ton salon peut être au fond de l''océan 🌊
 
 
-    Falaise, nuages, lagune ou roche creusée : ces habitations semblent narguer les lois du bon sens. Swipe pour
-    voir où l''on peut vraiment construire.
+    On a exploré cinq endroits où une maison pourrait tenir, du sommet d''un pilier au cratère d''un volcan éteint.
+    Certains sont absurdes, d''autres presque tentants.
 
 
-    La dernière slide est celle qui va te faire regarder deux fois 👀
+    La dernière maison flotte au-dessus des orages, et elle a un détail qui fait froid dans le dos 👀
 
 
-    Tu choisis laquelle, toi ? 🏡
+    Tu choisirais quel endroit pour ta maison de rêve ? 🏠
 
 
-    💾 Enregistre ce carrousel pour retrouver ces idées de maisons insolites quand tu voyages.
+    💾 Enregistre ce carrousel pour retrouver l''idée de la maison flottante la prochaine fois que tu rêves de déménager.
 
 
-    📤 Partage-le à un ami, qui rêve d''une maison au bord du vide.
+    📤 Partage-le à un ami, il a sûrement déjà rêvé de vivre dans un igloo sous-marin.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #maisonsinsolites #architecture #insolite'
+    #culturegenerale #curiosites #insolite #maisonsinsolites #etsi'
   medias:
   - medias/2026-10-19/2026-10-21_1400_carro/01.jpg
   - medias/2026-10-19/2026-10-21_1400_carro/02.jpg
@@ -765,41 +940,60 @@ posts:
   - medias/2026-10-19/2026-10-21_1400_carro/04.jpg
   - medias/2026-10-19/2026-10-21_1400_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_1400_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-21_1700_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: anecdote
-  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  concept: Phénomènes naturels qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: 'Ça n''a pas été [photoshopé] : la nature fait mieux'
+    sous_titre: Cinq phénomènes naturels qui défient ton œil
+    slides:
+    - titre: '[Lacs] *roses* et couleurs impossibles'
+      texte: Certains lacs salés virent au rose vif, selon les conditions, à cause de micro-organismes qui adorent
+        le sel. Aucune peinture, juste de la chimie *naturelle*.
+    - titre: Des *nuages* qui ondulent
+      texte: Les nuages en forme de cloques, appelés mammatus, pendent sous certains cumulonimbus. Franchement,
+        on dirait des ballons géants suspendus dans le ciel.
+    - titre: Des *arcs* dans le ciel
+      texte: Les halos solaires forment parfois un cercle lumineux autour du soleil. Le phénomène vient de la lumière
+        qui traverse des cristaux de glace en altitude.
+    - titre: Une *mer* qui se retire
+      texte: Sur certaines côtes, le vent et les marées dégagent de larges bandes de sable à marée basse. Le spectacle
+        est impressionnant, et il dépend surtout des courants et de la lune.
+    - titre: Des *glaçons* qui roulent
+      texte: Sur certains lacs gelés, le vent pousse des plaques de glace qui se fissurent en motifs géométriques.
+        On dirait un décor de film, et pourtant tout est naturel.
+    question_fin: Lequel te semble le plus *truqué* ?
   sujet: Phénomènes naturels qui semblent truqués mais sont réels
-  legende: 'Ça a l''air truqué, pourtant tout est vrai 🤯
+  legende: 'La nature n''a pas besoin de Photoshop 🌍
 
 
-    Lac qui pétrifie, nuages en vagues, cascade qui remonte, miroir géant en Bolivie : la nature n''a rien à envier
-    aux films. Swipe pour tout voir.
+    Lacs roses, nuages en cloques, halos autour du soleil : tout est réel. Swipe pour voir les cinq phénomènes qui
+    ont l''air sortis d''un film.
 
 
-    Le dernier exemple est tellement photogénique qu''on jurerait une retouche 👀
+    Le dernier est celui que tout le monde croit fake, et pourtant 👀
 
 
-    Tu aurais deviné lequel était réel ? 😏
+    Tu aurais parié combien que c''était une retouche ? 😏
 
 
-    💾 Enregistre ce carrousel pour les retrouver quand quelqu''un dira que c''est photoshop.
+    💾 Enregistre ce carrousel pour les revoir quand quelqu''un te dit que c''est un montage.
 
 
-    📤 Partage-le à un ami, il va forcément répondre que non, c''est impossible.
+    📤 Partage-le à un ami, il va forcément vouloir vérifier avant de te croire.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #nature #insolite #saviezvous'
+    #cultureG #curiosites #nature #insolite #savoirinutile'
   medias:
   - medias/2026-10-19/2026-10-21_1700_carro/01.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/02.jpg
@@ -807,41 +1001,60 @@ posts:
   - medias/2026-10-19/2026-10-21_1700_carro/04.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/05.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_1700_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-21_2000_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  concept: 'Le duel : les fêtes et anniversaires'
+  concept: 'Le duel France vs Allemagne : fêtes et anniversaires'
+  contenu:
+    titre_couverture: 'Le duel France vs Allemagne : [FÊTES] et *anniversaires* sans ballons'
+    sous_titre: Qui fait la fête le mieux, sans se ruiner ?
+    slides:
+    - titre: Le [GÂTEAU] est déjà là
+      texte: 'En Allemagne, le *Kaffee und Kuchen* de l''après-midi est une tradition bien connue : on partage un
+        gâteau entre amis, même sans fête particulière.'
+    - titre: 'Anniversaire : *fête* ou *corvée* ?'
+      texte: Et si certains anniversaires étaient l'occasion de bricoler le jardin ensemble ? Une idée à creuser,
+        pas une règle générale.
+    - titre: Le [CADEAU] en *enveloppe*
+      texte: 'Ici, on offre souvent une enveloppe avec de l''argent : pratique, et on évite de se tromper de taille.
+        Ça fait sourire, mais ça surprend moins qu''un vrai cadeau, selon nous.'
+    - titre: Chanter *faux* ? Ça se fait
+      texte: Le chant d'anniversaire est universel, mais la version du « Happy Birthday » change selon les pays.
+        Le rythme varie, l'énergie aussi, et personne ne devrait être jugé.
+    - titre: Ta *fête* idéale, tu la fais comment ?
+      texte: 'Café-gâteau, jardin partagé ou enveloppe discrète : chaque pays a sa recette. Et toi, tu préfères
+        quelle version du duel ?'
+    question_fin: Lequel de ces rituels t'irait le mieux pour ton *prochain* anniversaire ?
   sujet: 'Le duel France vs Allemagne : fêtes et anniversaires'
-  legende: 'Anniversaire à la française ou à l''allemande ? 🎂
+  legende: 'Ton anniversaire, version allemande ou version française ? 🎂
 
 
-    On compare le gâteau, les cadeaux, le fameux chant et les petits mots. Certaines habitudes te surprendront,
-    d''autres te feront rire. Swipe pour voir qui gagne ce duel !
+    Entre le café-gâteau de l''après-midi, le jardin partagé et l''enveloppe discrète, la France et l''Allemagne
+    ne fêtent pas du tout pareil. Swipe pour voir quel rituel te surprend le plus.
 
 
-    La dernière slide change complètement la façon de fêter ta prochaine année 👀
+    La dernière slide réserve un détail sur la façon de trinquer 👀
 
 
-    Ton anniversaire, c''est plutôt chant ou cadeaux ? 🎁
+    Tu fêterais ça comment, toi, ton anniversaire ? 🎉
 
 
-    💾 Enregistre ce carrousel pour la prochaine fois que tu organises une fête 🎉.
+    💾 Enregistre ce carrousel pour les prochaines fêtes et sortir des idées originales.
 
 
-    📤 Partage-le à un ami, celui qui fête ses 30 ans demain 😄.
+    📤 Partage-le à un ami, celui qui organise toujours les anniversaires du groupe.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #france #allemagne #anniversaire'
+    #culturegenerale #curiosites #allemagne #anniversaire #traditions'
   medias:
   - medias/2026-10-19/2026-10-21_2000_carro/01.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/02.jpg
@@ -849,45 +1062,31 @@ posts:
   - medias/2026-10-19/2026-10-21_2000_carro/04.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/05.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-21_2000_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-21_2100_diapo
   jour: mercredi
   date: '2026-10-21'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Aliments qui ressemblent à autre chose que ce qu''ils sont'
-  legende: 'Ta nourriture te regarde aussi, tu l''as pas remarqué 🥐
+  sujet: 'Vidéo IA : Aliments qui ressemblent à autre chose que ce qu''ils sont'
+  accroche: Ce rocher est [faux] et *tu vas le croquer* ?
+  legende: 'Tu croyais voir un caillou, c''était du chocolat 🍫
 
 
-    Un croissant qui ressemble à une botte, une pomme de terre qui fait la sieste, un poivron qui boude. On a regardé
-    ton assiette sous un autre angle, et c''est là que ça devient bizarre.
+    Tu aurais osé croquer le rocher, toi, ou tu aurais fait confiance au caillou ?
 
 
-    La dernière slide, c''est celle qui t''a fait peur au petit-déj 👀
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
 
 
-    Tu as déjà vu un aliment qui te fixait dans ton assiette ? 😳
-
-
-    💾 Enregistre cette vidéo pour la prochaine fois que tu fais les courses et que tu veux rire au rayon légumes.
-
-
-    📤 Partage-le à un ami, pour qu''il arrête de manger tranquille sans se poser de questions.
-
-
-    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
-
-
-    #culturegenerale #curiosites #absurde #nourriture #insolite'
+    #cultureG #curiosites #aliments #insolite #savoirinutile'
   medias:
   - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
-  couverture: medias/2026-10-19/2026-10-21_0800_carro/01.jpg
+  couverture: medias/2026-10-19/2026-10-21_2100_diapo/couverture.jpg
   source: 2026-10-21_0800_carro
-  erreur: à refaire (vidéo IA / devinette Nano Banana)
