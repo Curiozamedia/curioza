@@ -146,14 +146,14 @@ posts:
   date: '2026-10-15'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 7 + 7 × 7 − 7 = ?'
-  reponse: '49 (piège : 91)'
-  legende: 'La réponse n''est pas 91 ! 🥴
+  sujet: 'Devinette : 12 + 9 × 6 − 4 = ?'
+  reponse: '62 (piège : 122)'
+  legende: 'La réponse n''est pas 122 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -169,7 +169,6 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-15_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-15_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
 - id: 2026-10-15_1400_carro
   jour: jeudi
   date: '2026-10-15'
@@ -305,32 +304,56 @@ posts:
   date: '2026-10-15'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
-  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
-  legende: 'Tu te souviens de ce que tu faisais chez mamie ? 👵
+  concept: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
+  contenu:
+    titre_couverture: CHEZ MAMIE ET PAPY, [TOUT] ÉTAIT *PERMIS* SAUF…
+    sous_titre: Les vacances d'avant, version campagne
+    slides:
+    - titre: Le [téléphone] à fil du salon
+      texte: Chez mamie, on n'appelait pas pour rien. Le combiné était relié au mur par un fil si long qu'on pouvait
+        faire les cent pas dans le couloir.
+    - titre: Les *volets* fermés à midi
+      texte: 'Pour garder la fraîcheur, mamie fermait les volets en plein été. Résultat : une maison dans la pénombre,
+        et des siestes qui semblaient durer une éternité.'
+    - titre: Le *cahier* de recettes décousu
+      texte: 'Pas de blog ni d''appli : la recette du gâteau était écrite à la main, tachée de beurre, coincée entre
+        deux pages de vieux journaux.'
+    - titre: La *boîte* de jeux qui sentait le grenier
+      texte: Le plateau de jeu était incomplet, les dés étaient usés et il manquait toujours un pion. On jouait
+        quand même, parce qu'il pleuvait et que l'ennui était le vrai ennemi.
+    - titre: Le *baladeur* prêté pour la route
+      texte: Sur la départementale, on se disputait la cassette du trajet. Rembobiner au crayon à bille, c'était
+        une science que personne n'a jamais vraiment enseignée.
+    - titre: Le *jardin* sans écran ni wifi
+      texte: Cabanes dans les haies, confitures à la cuisine, lectures sur le transat. Aujourd'hui on appelle ça
+        une déconnexion, à l'époque c'était juste l'été.
+    question_fin: Quel souvenir de chez mamie te donne le plus *envie de pleurer* ?
+  sujet: Vacances chez les grands-parents, ce qu'on y faisait (1985-2005)
+  legende: 'Chez mamie, on ne savait pas qu''on était heureux 🏡
 
 
-    Entre le tiroir à bazar, le jardin sans écran et le goûter sans emballage, les vacances chez les grands-parents
-    avaient un parfum bien particulier. Certains souvenirs risquent de te surprendre.
+    Téléphone à fil, volets fermés, cahier de recettes tâché : les vacances chez les grands-parents avaient leurs
+    règles, et elles ne s''écrivaient nulle part. Swipe pour retrouver ce qu''on faisait sans y penser.
 
 
-    La dernière slide est celle qui fait le plus soupirer nos parents 👀
+    Les dernières slides parlent d''un objet que tu as forcément oublié dans une boîte à chaussures 👀
 
 
-    Dis-nous en commentaire ce que tu faisais chez tes grands-parents ! 💬
+    Tu avais quel rituel chez tes grands-parents ? 👇
 
 
-    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu auras envie de nostalgie.
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ton enfance.
 
 
-    📤 Partage-le à un ami, qui a passé ses étés chez mamie et papi.
+    📤 Partage-le à un ami, il va reconnaître sa propre enfance dans ces images.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #souvenirsdenfance #generation2000 #grandsparents'
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #vacancesdenfance'
   medias:
   - medias/2026-10-12/2026-10-15_2000_carro/01.jpg
   - medias/2026-10-12/2026-10-15_2000_carro/02.jpg
@@ -338,79 +361,98 @@ posts:
   - medias/2026-10-12/2026-10-15_2000_carro/04.jpg
   - medias/2026-10-12/2026-10-15_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-15_2000_carro/06.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/07.jpg
+  - medias/2026-10-12/2026-10-15_2000_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-15_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-15_2100_diapo
   jour: jeudi
   date: '2026-10-15'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
-  son_conseille: 'son tendance nostalgique (tube des années 90-2000 de la bibliothèque Instagram) — dans l''app
-    : choisis un son marqué d''une flèche ↗ (tendance)'
-  categorie: nostalgie
-  sujet: 'Version Reel : Phrases que tous les parents disaient aux enfants nés entre 1985 et 2005'
-  legende: 'Tu as forcément entendu l''une de ces phrases, avoue 😏
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Animaux de compagnie grands comme des immeubles en ville'
+  legende: 'Imagine ton chat assis sur ton immeuble 🐱
 
 
-    Cinq phrases que beaucoup de parents de l''époque répétaient, avec ce qu''elles disaient vraiment de leur quotidien.
-    Certaines t''ont sûrement fait rire, d''autres grincer des dents.
+    Ton chat dormirait sur le toit, ton chien aurait besoin d''une piscine comme gamelle, et ton lapin te ferait
+    faire le tour du parc. Swipe, c''est sans doute pire que tu ne crois.
 
 
-    La dernière slide est celle que personne n''a jamais osé contester 👀
+    La dernière slide va te faire regarder ton hamster autrement 👀
 
 
-    Quelle phrase de ton enfance tu entends encore aujourd''hui ? 😂
+    Ton animal serait-il trop gros pour ton quartier ? 😅
 
 
-    💾 Enregistre cette vidéo pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+    💾 Enregistre cette vidéo pour te moquer de tes amis la prochaine fois qu''ils parlent de leur chat.
 
 
-    📤 Partage-le à un ami, il va reconnaître sa mère ou son père dans au moins une slide.
+    📤 Partage-le à un ami, pour qu''il rigole avec toi de ce chat qui écrase la tour voisine.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #enfance #culturegenerale #souvenirs'
+    #cultureG #curiosites #absurde #animaux #insolite'
   medias:
   - medias/2026-10-12/2026-10-15_2100_diapo/reel.mp4
-  couverture: medias/2026-10-12/2026-10-15_0800_carro/01.jpg
-  source: 2026-10-15_0800_carro
-  erreur: passage en vraie vidéo IA
+  couverture: medias/2026-10-12/2026-10-15_1100_carro/01.jpg
+  source: 2026-10-15_1100_carro
+  note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
+    \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
 - id: 2026-10-16_0800_carro
   jour: vendredi
   date: '2026-10-16'
   heure: 08:00
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Métiers qui n'existent pas mais qu'on aimerait voir
-  legende: 'Ton CV est prêt pour ces jobs imaginaires ? 💼
+  concept: Métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: Les [MÉTIERS] qui n'existent *pas* encore, mais qu'on rêve de voir
+    sous_titre: Swipe si tu voudrais postuler 👇
+    slides:
+    - titre: '[Berceur] de nuages'
+      texte: 'Son job, à en rêver : rassurer les cumulus qui stressent avant la pluie. Il *chantonne* doucement,
+        et on aimerait croire qu''ils lâchent leur averse à l''heure prévue.'
+    - titre: '*Correcteur* de rêves'
+      texte: Chaque matin, il relit les rêves de la nuit et corrige les fins bâclées. Un *scénario* qui tourne mal
+        ? Il réécrit la fin avant ton réveil.
+    - titre: '[Gardien] des chaussettes perdues'
+      texte: Il patrouille la machine à laver et ramène les chaussettes égarées. Certains disent qu'il *planque*
+        aussi les clés, mais ça reste une *théorie*.
+    - titre: '*Trieur* de silences'
+      texte: 'Dans les grandes villes, il classe les silences par qualité : silence de bibliothèque, silence de
+        forêt, silence de fin de dîner gênant. Il te dira lequel *te* manque.'
+    question_fin: Lequel de ces métiers aurais-tu *envie* d'exercer ?
+  sujet: Métiers impossibles qu'on aimerait voir exister
+  legende: 'Un métier qui n''existe pas, et pourtant tu le voudrais 🤔
 
 
-    Goûteur de nuages, dresseur de nuages de poche, réparateur d''ombres orphelines... On a inventé des métiers
-    qui n''existent pas, mais qu''on rêverait d''avoir. Chaque slide te fait sourire, et parfois réfléchir.
+    Berceur de nuages, correcteur de rêves, gardien des chaussettes perdues... On a imaginé des jobs absurdes qui
+    auraient pourtant bien leur place dans nos journées. Swipe pour découvrir les quatre.
 
 
-    La dernière slide pourrait bien être le job de tes rêves 👀
+    Le dernier métier est le plus étrange de tous, et il pourrait bien te toucher 👀
 
 
-    Quel métier imaginaire tu prendrais, toi ? 😏
+    Quel métier inventé tu prendrais tout de suite ? 😏
 
 
-    💾 Enregistre ce carrousel pour les relire quand le lundi te donne envie de démissionner 😅.
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux rire ou inspirer un projet.
 
 
-    📤 Partage-le à un ami, pour qu''il choisisse son poste imaginaire préféré 💼.
+    📤 Partage-le à un ami, qui doit absolument savoir quel job il rêve d''avoir 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #absurde #metiers #insolite'
+    #cultureG #curiosites #insolite #absurde #humour'
   medias:
   - medias/2026-10-12/2026-10-16_0800_carro/01.jpg
   - medias/2026-10-12/2026-10-16_0800_carro/02.jpg
@@ -418,41 +460,56 @@ posts:
   - medias/2026-10-12/2026-10-16_0800_carro/04.jpg
   - medias/2026-10-12/2026-10-16_0800_carro/05.jpg
   - medias/2026-10-12/2026-10-16_0800_carro/06.jpg
-  - medias/2026-10-12/2026-10-16_0800_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-16_1100_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: nostalgie
+  concept: 'Galères technologiques d''avant : attendre, rembobiner, charger'
+  contenu:
+    titre_couverture: 'LA VIE SANS *ÇA* : ÇA FAISAIT PARTIE DU QUOTIDIEN'
+    sous_titre: Si tu as grandi entre 1985 et 2005, tu sais de quoi on parle
+    slides:
+    - titre: ATTENDRE, ÇA *FORMAIT* LE CARACTÈRE
+      texte: Pour voir une photo, il fallait finir la pellicule, la porter au labo et attendre plusieurs jours.
+        Le suspense était gratuit, mais tu peux nous dire si c'était épuisant.
+    - titre: REMBOBINER, C'ÉTAIT *UN VRAI SPORT*
+      texte: 'Une cassette vidéo qui s''emmêle, un crayon glissé dans le boîtier pour la rembobiner à la main :
+        chaque location avait sa petite galère.'
+    - titre: CHARGER, C'ÉTAIT *UNE AFFAIRE D'ÉTAT*
+      texte: 'Un téléphone à 5 % pendant une heure, le câble à trouver, la prise à partager : on jouait à l''économie
+        d''énergie sans le savoir.'
+    - titre: LE *MODEM* QUI HURLE, ON S'EN SOUVIENT
+      texte: Le bruit strident de la connexion internet par téléphone, et la famille qui hurlait « ne décroche pas
+        ! ». Tu l'entendais encore dans ton sommeil.
+    question_fin: Quelle galère t'a le plus *fait enrager* ?
   sujet: 'Galères technologiques d''avant : attendre, rembobiner, charger'
-  legende: 'Tu te souviens de ces galères d''avant ? 📼
+  legende: 'Tu te souviens du crayon dans la cassette ? ✏️
 
 
-    Attendre le bip, rembobiner une VHS, composer un numéro au cadran, ou voir son baladeur s''arrêter faute de
-    piles. Swipe pour replonger dans ces petites frustrations qui, à notre avis, forgeaient notre patience.
+    Attendre une photo, rembobiner à la main, guetter 5 % de batterie : on vivait avec des galères qu''aucun enfant
+    d''aujourd''hui ne connaît. Swipe pour retrouver ces souvenirs.
 
 
-    La dernière slide est celle qui fait le plus mal au cœur 👀
+    La dernière slide est celle que tous les anciens du modem vont reconnaître 👀
 
 
-    Quelle galère t''a le plus marqué, toi ? 👇
+    Laquelle de ces galères te rappelle le plus ton enfance ? 💬
 
 
-    💾 Enregistre ce carrousel pour te rappeler ces souvenirs quand tes enfants se plaignent du wifi.
+    💾 Enregistre ce carrousel pour te rappeler ces souvenirs quand tu veux replonger dans les années 90-2000.
 
 
-    📤 Partage-le à un ami, qui a déjà pesté contre un répondeur plein.
+    📤 Partage-le à un ami, qui a grandi avec un modem qui hurle et une cassette à rembobiner.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #nostalgie #annees90 #culturegenerale #souvenirsdenfance #generation2000'
+    #nostalgie #annees90 #annees2000 #culturegenerale #souvenirs'
   medias:
   - medias/2026-10-12/2026-10-16_1100_carro/01.jpg
   - medias/2026-10-12/2026-10-16_1100_carro/02.jpg
@@ -460,23 +517,20 @@ posts:
   - medias/2026-10-12/2026-10-16_1100_carro/04.jpg
   - medias/2026-10-12/2026-10-16_1100_carro/05.jpg
   - medias/2026-10-12/2026-10-16_1100_carro/06.jpg
-  - medias/2026-10-12/2026-10-16_1100_carro/07.jpg
   couverture: medias/2026-10-12/2026-10-16_1100_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-16_1300_devin
   jour: vendredi
   date: '2026-10-16'
   heure: '13:00'
   type: reel_devinette
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
     choisis un son marqué d''une flèche ↗ (tendance)'
   categorie: devinette
-  sujet: 'Devinette : 9 × 8 − 6 ÷ 2 = ?'
-  reponse: '69 (piège : 33)'
-  legende: 'La réponse n''est pas 33 ! 🥴
+  sujet: 'Devinette : 4 + 4 × 4 − 4 = ?'
+  reponse: '16 (piège : 28)'
+  legende: 'La réponse n''est pas 28 ! 🥴
 
 
     Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
@@ -492,38 +546,55 @@ posts:
   medias:
   - medias/2026-10-12/2026-10-16_1300_devin/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_1300_devin/couverture.jpg
-  erreur: nouvelle version Nano Banana
 - id: 2026-10-16_1400_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: vie
-  sujet: 'Ce que ton corps fait sans que tu le saches : petits mécanismes automatiques'
-  legende: 'Ton corps bosse en secret, et tu ne le remercies jamais 🫀
+  concept: 'Ce que ton corps fait sans que tu le saches : petits mécanismes automatiques'
+  contenu:
+    titre_couverture: 'Ton corps bosse [sans] toi : *5 mécanismes* qui tournent en secret'
+    sous_titre: Tu ne les contrôles pas, et c'est tant mieux
+    slides:
+    - titre: Tu [clignes] sans y penser
+      texte: Tes paupières se referment régulièrement, sans que tu décides quoi que ce soit. Ça *lubrifie* tes yeux,
+        et ton cerveau fait même en sorte que tu ne le remarques presque pas.
+    - titre: Ton *estomac* se répare seul
+      texte: La paroi de ton estomac se renouvelle en permanence pour résister à l'acide. Tu n'as rien à faire,
+        c'est un *chantier* qui tourne en continu.
+    - titre: Ta respiration [change] la nuit
+      texte: Pendant ton sommeil, ton souffle ralentit puis s'accélère par cycles. Ton cerveau gère ce *rythme*
+        en silence, sans jamais te demander ton avis.
+    - titre: Tes *pupilles* s'adaptent au noir
+      texte: Dans l'obscurité, tes pupilles s'ouvrent pour capter plus de lumière. Ce réglage automatique se fait
+        sans effort, progressivement, *sans demander* ton accord.
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Mécanismes automatiques de ton corps, expliqués simplement
+  legende: 'Ton corps travaille pendant que tu scrolles 🫀
 
 
-    Clignement, respiration, digestion, pupilles : tout tourne en arrière-plan sans ton accord. Swipe pour découvrir
-    les mécanismes que tu ignorais complètement.
+    Clignements, estomac, souffle la nuit, pupilles : tout tourne en automatique. Swipe pour voir les mécanismes
+    les plus discrets.
 
 
-    Les dernières slides vont te faire repenser ta façon de respirer 👀
+    La dernière slide change le regard sur ton sommeil 👀
 
 
-    Tu savais déjà lequel de ces mécanismes ? 🤔
+    Tu savais déjà quel mécanisme était le plus fou ? 👇
 
 
-    💾 Enregistre ce carrousel pour relire ces petits mécanismes quand tu te sens dépassé par ton corps.
+    💾 Enregistre ce carrousel pour les relire quand tu doutes de ton corps.
 
 
-    📤 Partage-le à un ami, il va se demander pourquoi il respire encore 😅.
+    📤 Partage-le à un ami, il va sûrement te répondre que ça lui a fait tout drôle 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #psychologie #cerveau #corpshumain'
+    #culturegenerale #corpshumain #psychologie #curiosites #cerveau'
   medias:
   - medias/2026-10-12/2026-10-16_1400_carro/01.jpg
   - medias/2026-10-12/2026-10-16_1400_carro/02.jpg
@@ -531,43 +602,56 @@ posts:
   - medias/2026-10-12/2026-10-16_1400_carro/04.jpg
   - medias/2026-10-12/2026-10-16_1400_carro/05.jpg
   - medias/2026-10-12/2026-10-16_1400_carro/06.jpg
-  - medias/2026-10-12/2026-10-16_1400_carro/07.jpg
-  - medias/2026-10-12/2026-10-16_1400_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-16_1400_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-16_1700_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
-  sujet: Et si la gravité s'inversait une minute dans des lieux du quotidien
-  legende: 'Imagine : la gravité lâche tout pendant 60 secondes 🙃
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: ET SI LA [GRAVITÉ] S'INVERSAIT *une minute* DANS TA VIE ?
+    sous_titre: Chaque slide, un lieu banal, une minute de chaos
+    slides:
+    - titre: LA [PISCINE] À L'ENVERS
+      texte: 'Imagine : pendant une minute, l''eau reste collée au plafond et les plongeurs tombent vers le ciel.
+        *Le maître-nageur* ne sait plus où donner de la tête.'
+    - titre: LE *BUS* QUI DÉCOLLE
+      texte: Les passagers flottent doucement vers le toit, les sacs à dos montent avec eux. Ça fait *un sacré vide*
+        sur les sièges, et personne ne veut descendre.
+    - titre: LA [BOULANGERIE] EN APESANTEUR
+      texte: Les baguettes s'élèvent du comptoir, la farine tourbillonne vers le plafond. Un croissant qui s'envole,
+        et c'est *le début de la fin* pour le petit-déj.
+    - titre: LE *CAFÉ* QUI TOMBE DU CIEL
+      texte: Dans la cuisine, le café remonte de la tasse et forme une bulle brune au-dessus de la table. Et si
+        on buvait *en regardant le plafond* ?
+    question_fin: Quel lieu tu détesterais le plus *voir à l'envers* ?
+  sujet: Et si la gravité s'inversait une minute au quotidien
+  legende: 'Et si la gravité lâchait une minute ? 🙃
 
 
-    Pain, conserves, bus et piscine, tout décolle en même temps. Le chaos serait total, et le plus drôle, c''est
-    que la scène paraît presque logique une fois qu''on la visualise.
+    Piscine, bus, boulangerie, cuisine : on a pris le quotidien et on l''a retourné. Certaines images vont te faire
+    rire, d''autres te donner le vertige.
 
 
-    Les dernières slides vont encore plus loin, avec un endroit où la minute pourrait vraiment tourner au cauchemar
-    👀
+    La dernière slide est la plus folle, tu vas voir 👀
 
 
-    Tu aurais quel réflexe pendant la minute, rester accroché à ton siège ou tout lâcher ? 😂
+    Tu serais plutôt piscine ou bus ? 😄
 
 
-    💾 Enregistre ce carrousel pour le jour où la gravité fera des siennes.
+    💾 Enregistre ce carrousel pour te souvenir de ce que la gravité fait à ta journée 🙃.
 
 
-    📤 Partage-le à un ami, qui va forcément se demander où poser son café.
+    📤 Partage-le à un ami, qui rêve déjà d''un monde où tout flotte 🚀.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #insolite #absurde #sciencefun'
+    #cultureG #curiosites #insolite #absurde #savoirinutile'
   medias:
   - medias/2026-10-12/2026-10-16_1700_carro/01.jpg
   - medias/2026-10-12/2026-10-16_1700_carro/02.jpg
@@ -576,40 +660,61 @@ posts:
   - medias/2026-10-12/2026-10-16_1700_carro/05.jpg
   - medias/2026-10-12/2026-10-16_1700_carro/06.jpg
   couverture: medias/2026-10-12/2026-10-16_1700_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-16_2000_carro
   jour: vendredi
   date: '2026-10-16'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
-  concept: 'Le duel : le supermarché'
+  concept: 'Le duel France vs Suisse : le supermarché'
+  contenu:
+    titre_couverture: 'Le duel France vs Suisse : le [supermarché] où tout se joue à la caisse'
+    sous_titre: 'Chariot, caisse, sac : deux façons de faire ses courses'
+    slides:
+    - titre: Le [chariot] ou le panier ?
+      texte: Chez nous, on attrape souvent un *chariot* géant. Ailleurs, beaucoup se contentent d'un *panier* à
+        la main. Question d'organisation, ou de gros bras ?
+    - titre: Sac *obligatoire* ou sac *apporté* ?
+      texte: 'Dans certains supermarchés, on peut devoir consigner une pièce pour un *caddie*. Et il faut parfois
+        emporter ses propres sacs : mieux vaut ne pas les oublier en route.'
+    - titre: La *caisse* en mode [silence]
+      texte: Ici, on discute volontiers avec la caissière. Ailleurs, certains préfèrent scanner, payer et repartir
+        vite. Idée reçue ou vraie différence ? À toi de juger.
+    - titre: Le *rayon fromage* sans fin
+      texte: 'D''un côté, une multitude de fromages. De l''autre, un choix de chocolats qui impressionne. Chacun
+        son point fort, et le même réflexe : goûter un échantillon avant de payer.'
+    - titre: Le *petit frigo* ou le grand *stock* ?
+      texte: 'Chez nous, on fait souvent ses courses au jour le jour. Ailleurs, on remplit le coffre pour la semaine.
+        Le vrai duel : ton frigo tient-il la route ?'
+    - titre: Le *duel* est [ouvert]
+      texte: Pas de gagnant absolu, juste des habitudes différentes. Le supermarché révèle beaucoup de nos petites
+        manies. Et toi, tu fais tes courses comment ?
+    question_fin: Lequel de ces détails t'a le plus *surpris* ?
   sujet: 'Le duel France vs Suisse : le supermarché'
-  legende: 'Le duel France vs Suisse, version supermarché 🛒
+  legende: 'Ton supermarché cache peut-être un duel France vs Suisse 🛒
 
 
-    Sac oublié, file qui ralentit, rayon fromage et ticket de caisse : quatre petits duels du quotidien à swiper.
-    Lequel te ressemble le plus ?
+    Chariot, caisse, sacs et rayons fromage : on compare nos petites habitudes avec humour. Certaines choses vont
+    te surprendre.
 
 
-    La dernière slide pourrait bien te faire changer de file 👀
+    La dernière slide change tout, et tu vas vouloir la voir 👀
 
 
-    Dans quelle équipe tu te classes, celle du sac maison ou celle du sac oublié ? 🤔
+    Tu es team chariot géant ou panier à la main ? 🧺
 
 
-    💾 Enregistre ce carrousel pour la prochaine fois que tu fais tes courses sans liste 🛍️.
+    💾 Enregistre ce carrousel pour la prochaine fois que tu feras tes courses 🛒.
 
 
-    📤 Partage-le à un ami, pour voir qui dans son groupe gagne le duel de la caisse 😄.
+    📤 Partage-le à un ami, celui qui fait toujours trois allers-retours au rayon 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #cultureG #curiosites #france #suisse #supermarche'
+    #culturegenerale #curiosites #france #suisse #supermarche'
   medias:
   - medias/2026-10-12/2026-10-16_2000_carro/01.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/02.jpg
@@ -617,48 +722,49 @@ posts:
   - medias/2026-10-12/2026-10-16_2000_carro/04.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/05.jpg
   - medias/2026-10-12/2026-10-16_2000_carro/06.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/07.jpg
+  - medias/2026-10-12/2026-10-16_2000_carro/08.jpg
   couverture: medias/2026-10-12/2026-10-16_2000_carro/01.jpg
-  erreur: nouvelle mise en page (grille fixe)
-  garder_sujet: true
 - id: 2026-10-16_2100_diapo
   jour: vendredi
   date: '2026-10-16'
   heure: '21:00'
   type: reel_video
-  statut: erreur
+  statut: a_valider
   publication: manuelle
   son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
     d''une flèche ↗ (tendance)'
   categorie: absurde
-  sujet: 'Version Reel : Métiers qui n''existent pas mais qu''on aimerait voir'
-  legende: 'Ton CV est prêt pour ces jobs imaginaires ? 💼
+  sujet: 'Version Reel : Métiers impossibles qu''on aimerait voir exister'
+  legende: 'Un métier qui n''existe pas, et pourtant tu le voudrais 🤔
 
 
-    Goûteur de nuages, dresseur de nuages de poche, réparateur d''ombres orphelines... On a inventé des métiers
-    qui n''existent pas, mais qu''on rêverait d''avoir. Chaque slide te fait sourire, et parfois réfléchir.
+    Berceur de nuages, correcteur de rêves, gardien des chaussettes perdues... On a imaginé des jobs absurdes qui
+    auraient pourtant bien leur place dans nos journées. Swipe pour découvrir les quatre.
 
 
-    La dernière slide pourrait bien être le job de tes rêves 👀
+    Le dernier métier est le plus étrange de tous, et il pourrait bien te toucher 👀
 
 
-    Quel métier imaginaire tu prendrais, toi ? 😏
+    Quel métier inventé tu prendrais tout de suite ? 😏
 
 
-    💾 Enregistre cette vidéo pour les relire quand le lundi te donne envie de démissionner 😅.
+    💾 Enregistre cette vidéo pour retrouver ces idées absurdes quand tu veux rire ou inspirer un projet.
 
 
-    📤 Partage-le à un ami, pour qu''il choisisse son poste imaginaire préféré 💼.
+    📤 Partage-le à un ami, qui doit absolument savoir quel job il rêve d''avoir 😄.
 
 
     👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
 
 
-    #culturegenerale #curiosites #absurde #metiers #insolite'
+    #cultureG #curiosites #insolite #absurde #humour'
   medias:
   - medias/2026-10-12/2026-10-16_2100_diapo/reel.mp4
   couverture: medias/2026-10-12/2026-10-16_0800_carro/01.jpg
   source: 2026-10-16_0800_carro
-  erreur: passage en vraie vidéo IA
+  note: "vidéo IA impossible (Veo 404 : {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher model\
+    \ `projects/project-8015b7cf-c038-49ec-abd/locations/us-central1/publishers/google/model) : diaporama de secours"
 - id: 2026-10-17_0800_carro
   jour: samedi
   date: '2026-10-17'
