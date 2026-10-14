@@ -26,7 +26,7 @@ posts:
   date: '2026-10-19'
   heure: '11:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
   sujet: Objets du quotidien avec des parties du corps humaines
   legende: 'Ton grille-pain a peut-être des orteils 😳
@@ -61,7 +61,6 @@ posts:
   - medias/2026-10-19/2026-10-19_1100_carro/06.jpg
   - medias/2026-10-19/2026-10-19_1100_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-19_1100_carro/01.jpg
-  erreur: 'emoji illisible sur le visuel : à régénérer'
 - id: 2026-10-19_1300_devin
   jour: lundi
   date: '2026-10-19'
@@ -206,7 +205,7 @@ posts:
   date: '2026-10-20'
   heure: '14:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: absurde
   sujet: Animaux forcés de vivre comme nous
   legende: 'Tu pensais que le télétravail était dur ? 🦦
@@ -243,7 +242,6 @@ posts:
   - medias/2026-10-19/2026-10-20_1400_carro/07.jpg
   - medias/2026-10-19/2026-10-20_1400_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-20_1400_carro/01.jpg
-  erreur: 'emoji illisible sur le visuel : à régénérer'
 - id: 2026-10-20_1700_carro
   jour: mardi
   date: '2026-10-20'
@@ -378,7 +376,7 @@ posts:
   date: '2026-10-21'
   heure: '17:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: anecdote
   sujet: Inventions nées d'erreurs et de hasards du quotidien
   legende: 'Une erreur de labo peut changer le monde 🧪
@@ -414,13 +412,12 @@ posts:
   - medias/2026-10-19/2026-10-21_1700_carro/07.jpg
   - medias/2026-10-19/2026-10-21_1700_carro/08.jpg
   couverture: medias/2026-10-19/2026-10-21_1700_carro/01.jpg
-  erreur: 'emoji illisible sur le visuel : à régénérer'
 - id: 2026-10-21_2000_carro
   jour: mercredi
   date: '2026-10-21'
   heure: '20:00'
   type: carrousel
-  statut: erreur
+  statut: a_valider
   categorie: pays
   sujet: 'France vs Japon : gestes et habitudes du quotidien'
   legende: 'France vs Japon : ton quotidien ne sera plus jamais pareil 🇯🇵
@@ -455,7 +452,6 @@ posts:
   - medias/2026-10-19/2026-10-21_2000_carro/06.jpg
   - medias/2026-10-19/2026-10-21_2000_carro/07.jpg
   couverture: medias/2026-10-19/2026-10-21_2000_carro/01.jpg
-  erreur: 'emoji illisible sur le visuel : à régénérer'
 - id: 2026-10-21_2100_diapo
   jour: mercredi
   date: '2026-10-21'
