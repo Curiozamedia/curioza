@@ -9,7 +9,7 @@
 semaine: '2026-10-19'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-14T00:45
+genere_le: 2026-10-15T01:56
 posts:
 - id: 2026-10-19_0800_carro
   jour: lundi
@@ -1090,3 +1090,368 @@ posts:
   - medias/2026-10-19/2026-10-21_2100_diapo/reel.mp4
   couverture: medias/2026-10-19/2026-10-21_2100_diapo/couverture.jpg
   source: 2026-10-21_0800_carro
+- id: 2026-10-22_0800_carro
+  jour: jeudi
+  date: '2026-10-22'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Ce que ton corps fait sans que tu le saches
+  contenu:
+    titre_couverture: Ton [corps] bosse sans *toi* en permanence
+    sous_titre: Ce que tu ne contrôles jamais, et pourtant...
+    slides:
+    - titre: Tes *paupières* clignent sans demander
+      texte: Tu clignes plusieurs fois par minute, sans y penser. Ton corps gère ça tout seul, pour *humidifier*
+        l'œil et le protéger.
+    - titre: Ton *estomac* se repeint tout seul
+      texte: La paroi de ton estomac se renouvelle régulièrement. Elle est protégée par un *mucus* épais, sinon
+        l'acide digérerait ses propres murs.
+    - titre: Ton *cœur* relance l'effort en silence
+      texte: Quand tu montes un escalier, ton rythme cardiaque peut accélérer avant même que tu sois essoufflé.
+        Ton corps anticipe l'effort, sans te demander ton avis.
+    - titre: Tes *yeux* bougent sans arrêt
+      texte: Même quand tu fixes un point, tes yeux font de minuscules mouvements involontaires. Sans eux, ta vision
+        finirait par se figer.
+    - titre: Ton *cerveau* trie pendant ta nuit
+      texte: 'Pendant le sommeil, ton cerveau semble trier les souvenirs : ce qui compte serait gardé, le reste
+        allégé. Tu dors, lui travaille.'
+    - titre: Ton *corps* régule sa température seul
+      texte: Quand tu as chaud, tu transpires. Quand tu as froid, tes muscles tremblent pour produire de la chaleur.
+        Un système de régulation tourne en continu, sans bruit.
+    question_fin: Lequel t'a le plus [surpris] ?
+  sujet: Mécanismes du corps qui tournent sans toi
+  legende: 'Ton corps travaille pendant que tu scrolles 🫀
+
+
+    Clignement, digestion, rythme cardiaque, sommeil : plein de mécanismes tournent sans ton accord. Swipe pour
+    voir ceux qui te surprendront le plus.
+
+
+    La dernière slide parle de ce que ton cerveau fait la nuit 👀
+
+
+    Quel mécanisme du corps te fascine le plus ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces petits mécanismes quand tu te sens fatigué ou stressé.
+
+
+    📤 Partage-le à un ami, il va sûrement réviser son cerveau et son corps en même temps 🧠.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #corps #curiosites #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-22_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/07.jpg
+  - medias/2026-10-19/2026-10-22_0800_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-22_0800_carro/01.jpg
+- id: 2026-10-22_1100_carro
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le petit-déjeuner'
+  contenu:
+    titre_couverture: '[PETIT-DÉJ] : LE DUEL *FRANCE* VS *JAPON* 🥐🍙'
+    sous_titre: 'Tartine ou riz à 7h du matin : qui gagne ?'
+    slides:
+    - titre: Le *réveil* du duel
+      texte: En France, on attrape souvent une *tartine* en vitesse. Au Japon, le petit-déj ressemble souvent à
+        un vrai repas complet, dès le matin.
+    - titre: Sucré contre *salé*
+      texte: 'Ton *croissant* adore le sucre, le petit-déj japonais fait souvent le choix du salé : poisson grillé,
+        algue et riz. Surprenant, non ? 🤔'
+    - titre: Le duel des *baguettes*
+      texte: Le Français tartine avec les doigts, le Japonais pique son riz avec des baguettes. Chacun trouve l'autre
+        un peu maladroit, et les deux ont sans doute raison.
+    - titre: Le *café* face au thé vert
+      texte: Le café au lait réveille beaucoup de Français. Le thé vert, lui, se boit plutôt tranquillement, sans
+        précipitation. Et toi, tu es team quoi ?
+    question_fin: Lequel de ces petits-déjs te met le plus *mal à l'aise* ?
+  sujet: 'Le duel France vs Japon : le petit-déjeuner'
+  legende: 'Tartine ou riz à 7h du matin : qui gagne ? 🥐🍙
+
+
+    On compare le petit-déjeuner français et japonais, entre sucré et salé, baguette et baguettes, café et thé vert.
+    À notre avis, le résultat est plus surprenant qu''on ne le pense.
+
+
+    La dernière slide va te faire réfléchir à ta tasse du matin 👀
+
+
+    Tu es team tartine ou team riz ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ce duel au moment de choisir ton petit-déj demain matin.
+
+
+    📤 Partage-le à un ami, pour savoir qui, de vous deux, se lèverait pour le riz ou pour la tartine.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #japon #france #petitdejeuner'
+  medias:
+  - medias/2026-10-19/2026-10-22_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-22_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-22_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-22_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-22_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-22_1100_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-22_1100_carro/01.jpg
+- id: 2026-10-22_1300_devin
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 12 + 2 × 12 − 6 = ?'
+  reponse: '30 (piège : 162)'
+  legende: 'La réponse n''est pas 162 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-22_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-22_1300_devin/couverture.jpg
+- id: 2026-10-22_1400_carro
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si ta [maison] était envahie par du *gel* ?
+    sous_titre: Six pièces, six invasions absurdes
+    slides:
+    - titre: LA *SALLE DE BAIN*
+      texte: Ta baignoire se remplit de [ballons] roses jusqu'au bord. Tu ouvres la porte, un ballon s'échappe et
+        file vers le plafond.
+    - titre: LA *CUISINE*
+      texte: Le frigo recrache des [spaghettis] gris qui sortent comme un ressort. Ils s'enroulent autour de la
+        cafetière en silence.
+    - titre: LE *BUREAU*
+      texte: Ton clavier disparaît sous une couche de [sable] fin. Tes dossiers deviennent des dunes, et ton écran
+        ressemble à une oasis.
+    - titre: LE *SALON*
+      texte: Des milliers de [plumes] blanches tombent du plafond. Le canapé ressemble à un nid géant, et le chat
+        fait la tête.
+    - titre: LE *COULOIR*
+      texte: Les [pommes de terre] roulent sur le parquet comme des boules de bowling. Impossible de rejoindre la
+        chambre sans glisser.
+    - titre: LE *GRENIER*
+      texte: Des [bulles de savon] géantes flottent partout, reflétant ta vie entière. Une seule éclate et tu entends
+        ton ancien réveil.
+    question_fin: Laquelle de ces invasions te ferait le plus fuir de chez toi ?
+  sujet: Salle de bain, cuisine, bureau envahis par l'absurde
+  legende: 'Ta maison, mais en mode invasion totale 🫠
+
+
+    Gel, sable, plumes, pommes de terre : on a pris six pièces du quotidien et on les a envahies sans prévenir.
+    Chaque slide te fait voir ton chez-toi d''une autre façon.
+
+
+    La dernière pièce est celle où tout le monde finit par se cacher 👀
+
+
+    Tu choisis quelle pièce pour survivre à l''invasion ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que ton frigo te fera un sale coup 🧊.
+
+
+    📤 Partage-le à un ami, pour qu''il sache enfin à quoi ressemble ton week-end chez toi 🏠.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #absurde #culturegenerale #curiosites #insolite #ia'
+  medias:
+  - medias/2026-10-19/2026-10-22_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/07.jpg
+  - medias/2026-10-19/2026-10-22_1400_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-22_1400_carro/01.jpg
+- id: 2026-10-22_1700_carro
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Ce que tu faisais quand il n'y avait pas internet à la maison
+  contenu:
+    titre_couverture: Sans [internet], tu faisais *quoi* exactement ?
+    sous_titre: Les années 85-05, version sans écran connecté
+    slides:
+    - titre: '[Annuaire] et *patience* infinie'
+      texte: Pour trouver un numéro, tu ouvrais les *pages jaunes*, le doigt qui glisse sur les colonnes. Pas de
+        recherche automatique, juste de la *patience* et une bonne mémoire.
+    - titre: Des *cartes routières* partout
+      texte: Avant les GPS, on dépliait une grande carte sur le capot de la voiture. Les parents se disputaient
+        *la bonne sortie* et on demandait rarement le chemin, par fierté, peut-être.
+    - titre: Le *répondeur* qui fait foi
+      texte: 'Ton message laissé sur le répondeur à cassette pouvait être écouté par toute la famille. Rembobiner,
+        réécouter, effacer : un rituel qui, à mon avis, nous manque aujourd''hui.'
+    - titre: Le *walkman* et ses piles
+      texte: Ta cassette préférée, tu l'enregistrais depuis la radio en retenant ton souffle. Un blanc au milieu
+        du morceau et c'était la catastrophe.
+    question_fin: Lequel de ces gestes t'a le plus *manqué* ?
+  sujet: Ce qu'on faisait sans internet à la maison (1985-2005)
+  legende: 'Sans internet, t''étais déjà un champion de la débrouille 📞
+
+
+    Annuaires épais, cartes dépliées sur le capot, répondeur à cassette : on faisait tout à la main. Swipe pour
+    retrouver les gestes qui ont disparu.
+
+
+    Les dernières slides parlent d''un rituel d''enregistrement que tu n''as pas oublié 👀
+
+
+    Tu as connu quel geste sans écran ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces gestes un jour où un enfant te demandera « c''était comment
+    avant ? ».
+
+
+    📤 Partage-le à un ami, qu''il découvre à quel point on se débrouillait sans écran à la maison.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirsdenfance #cultureg'
+  medias:
+  - medias/2026-10-19/2026-10-22_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-22_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-22_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-22_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-22_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-22_1700_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-22_1700_carro/01.jpg
+- id: 2026-10-22_2000_carro
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: '[ÉNORME] : ton *chat* fait la taille d''un immeuble'
+    sous_titre: Et si ton animal dominait ta ville ?
+    slides:
+    - titre: Le *chien* qui promène les humains
+      texte: Imagine un golden retriever géant qui tire sur sa laisse. Les immeubles suivent, et tes voisins s'accrochent
+        aux balcons. Une promenade qui ne ressemble à rien.
+    - titre: Le *hamster* qui roule la ville
+      texte: Sa roue tourne à côté de la gare. Chaque tour fait trembler les rails, et on peut se demander si les
+        trains attendent poliment la fin de la course.
+    - titre: Le *poisson rouge* au bord du lac
+      texte: Il nage dans la rivière du centre-ville. Les ponts lui serviraient presque de rochers, et les touristes
+        prennent des photos depuis les quais.
+    - titre: Le *perroquet* qui parle au ciel
+      texte: Son perchoir est une tour de bureaux. Il répète les annonces de la mairie, et personne ne sait si c'est
+        une blague ou un ordre.
+    - titre: La *tortue* qui bouche le tunnel
+      texte: Elle avance à sa vitesse, et traverser la place prendrait sans doute des jours. Les embouteillages
+        deviendraient un nouveau mode de vie.
+    - titre: Le *lapin* qui saute par-dessus Paris
+      texte: Un seul bond et il franchirait la Seine. Les mairies se demanderaient sûrement s'il faut lui donner
+        une amende ou une carotte.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie grands comme des immeubles en ville
+  legende: 'Ton animal de compagnie, mais en version gratte-ciel 🐾
+
+
+    Imagine ton chien qui tire la ville au bout de sa laisse. Ton hamster qui fait trembler les trains, et une tortue
+    qui bloque le boulevard. Le chaos est presque mignon.
+
+
+    La dernière slide change tout, et tu ne vas pas aimer ce qu''il se passe dans la rue 👀
+
+
+    Quel animal voudrais-tu voir géant dans ta ville ? 🐶
+
+
+    💾 Enregistre ce carrousel pour pour le retrouver quand tu auras besoin d''une excuse absurde.
+
+
+    📤 Partage-le à un ami, il rira avec toi de la tortue qui bloque la ville.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #animaux'
+  medias:
+  - medias/2026-10-19/2026-10-22_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/07.jpg
+  - medias/2026-10-19/2026-10-22_2000_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-22_2000_carro/01.jpg
+- id: 2026-10-22_2100_video
+  jour: jeudi
+  date: '2026-10-22'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Salle de bain, cuisine, bureau envahis par l''absurde'
+  accroche: Ton [SALON] a un *problème*, et tu ne l'as pas vu
+  legende: 'Ton salon ne tourne pas rond et tu dors dessus 🛋️👀
+
+
+    Quel objet de ton salon serait le premier à se mettre à flotter ? Dis-le en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #salon #absurde #reels'
+  medias:
+  - medias/2026-10-19/2026-10-22_2100_video/reel.mp4
+  couverture: medias/2026-10-19/2026-10-22_2100_video/couverture.jpg
+  source: 2026-10-22_1400_carro
