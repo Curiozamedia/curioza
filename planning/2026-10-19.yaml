@@ -9,7 +9,7 @@
 semaine: '2026-10-19'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-15T01:56
+genere_le: 2026-10-16T01:54
 posts:
 - id: 2026-10-19_0800_carro
   jour: lundi
@@ -1455,3 +1455,367 @@ posts:
   - medias/2026-10-19/2026-10-22_2100_video/reel.mp4
   couverture: medias/2026-10-19/2026-10-22_2100_video/couverture.jpg
   source: 2026-10-22_1400_carro
+- id: 2026-10-23_0800_carro
+  jour: vendredi
+  date: '2026-10-23'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ces mots français qui ont voyagé avant toi
+    sous_titre: Le français a fait ses valises… et rapporté des souvenirs
+    slides:
+    - titre: '[Bistrot] venu d''ailleurs'
+      texte: 'Le mot *bistrot* est souvent rattaché au russe « bystro » (vite), mais son origine exacte fait encore
+        débat. Ce qui est sûr : il s''est bien installé dans les cafés parisiens.'
+    - titre: Le *bazar* venu de Perse
+      texte: 'Le mot *bazar* vient du persan « bāzār », le marché. Il a ensuite pris le sens de désordre. Une idée
+        qui circule : les marchés sont souvent un joyeux chaos.'
+    - titre: '[Toubib] et ses racines arabes'
+      texte: Le mot *toubib* vient de l'arabe maghrébin « ṭbīb » (médecin). Il est entré dans le français parlé,
+        notamment lors de la période coloniale en Algérie, par les échanges du quotidien.
+    - titre: Le *caramel* et ses racines
+      texte: 'Le mot *caramel* est passé par l''espagnol et le portugais, et son origine ultime reste débattue.
+        Une piste évoquée : le latin médiéval, mais les spécialistes ne sont pas tous d''accord.'
+    - titre: Le *yaourt* venu de Turquie
+      texte: 'Le mot *yaourt* est issu du turc « yoğurt ». Une question qu''on peut se poser : à quel point ce mot
+        a-t-il été adopté avant que le produit ne devienne courant en France ?'
+    - titre: Le *kiosque* et l'Empire ottoman
+      texte: Le mot *kiosque* vient du turc « köşk », pavillon. Il est entré dans le français au XVIIe siècle et
+        désigne aujourd'hui surtout les petits abris de rue où l'on achète journaux et boissons.
+    question_fin: Lequel de ces mots t'a le plus *surpris* ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton français a fait le tour du monde sans toi 🌍
+
+
+    Bistrot, bazar, yaourt… ces mots sont arrivés en France après un long voyage. On découvre pourquoi ils ont changé
+    de langue et de sens au passage.
+
+
+    Les dernières slides cachent un mot qu''on utilise tous les jours sans savoir qu''il vient de l''autre bout
+    du monde 👀
+
+
+    Quel mot tu utilises sans jamais y penser ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces origines quand tu voudras briller en société.
+
+
+    📤 Partage-le à un ami, il adore les mots et les histoires bizarres.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #etymologie #languefrancaise #saviezvous'
+  medias:
+  - medias/2026-10-19/2026-10-23_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/07.jpg
+  - medias/2026-10-19/2026-10-23_0800_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-23_0800_carro/01.jpg
+- id: 2026-10-23_1100_carro
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: Les [animaux] ont adopté nos *pires habitudes* humaines
+    sous_titre: 'Scroller, faire la queue, râler au volant : ils ont tout copié'
+    slides:
+    - titre: Le [scroll] infini
+      texte: Et si la loutre, allongée sur son rocher, scrollait sans jamais lever les yeux ? On peut imaginer qu'elle
+        oublie son crabe, *tellement* elle est captivée.
+    - titre: La file d'*attente* parfaite
+      texte: Des manchots qui s'alignent bien sagement devant un étal de poisson, sans jamais doubler ? Franchement,
+        on les soupçonne de s'impatienter en secret.
+    - titre: Le [klaxon] au volant
+      texte: Un troupeau de bisons bloque une route de campagne et un lapin s'énerve derrière son volant. Il klaxonne,
+        *fort*, comme si le monde lui devait quelque chose.
+    - titre: Le râleur *en colère*
+      texte: Une tortue, à peine sortie de sa carapace, peste contre le retard du bus. On se demande bien si elle
+        a déjà été pressée de sa vie.
+    question_fin: Lequel de ces animaux te ressemble le *plus* ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Et si les animaux avaient copié nos pires habitudes ? 😅
+
+
+    Une loutre accro à son écran, des manchots qui font la queue comme à la caisse, un lapin qui klaxonne derrière
+    des bisons. Swipe pour voir jusqu''où ça va.
+
+
+    La dernière slide est peut-être la plus relou de toutes 👀
+
+
+    Tu t''es reconnu dans lequel ? 😂
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu fais la queue en râlant.
+
+
+    📤 Partage-le à un ami, il scrolle déjà comme une loutre depuis ce matin.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #humour #animaux #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-23_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-23_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-23_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-23_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-23_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-23_1100_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-23_1100_carro/01.jpg
+- id: 2026-10-23_1300_devin
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 + 9 × 9 − 9 = ?'
+  reponse: '81 (piège : 153)'
+  legende: 'La réponse n''est pas 153 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-23_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-23_1300_devin/couverture.jpg
+- id: 2026-10-23_1400_carro
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Les [lieux] de France qui cachent des *histoires de fou*
+    sous_titre: Tu croyais tout connaître de ton pays ? Swipe 👀
+    slides:
+    - titre: '[Mont] *Saint-Michel* : une île qui n''en est plus une'
+      texte: Autrefois entouré de mer à marée haute, ce rocher est relié à la terre par une digue. Son ensablement
+        a été contrôlé pour que la mer puisse à nouveau l'isoler.
+    - titre: Le *Pas de Calais* qui pousse vers la mer
+      texte: Les falaises de la côte d'Opale reculent peu à peu sous l'effet de l'érosion. Les bords de craie y
+        changent donc de forme au fil des années.
+    - titre: Une *grotte* qui garde des ours
+      texte: La grotte Chauvet, en Ardèche, abrite des peintures vieilles d'environ 36 000 ans. Une réplique permet
+        aujourd'hui de la visiter sans l'abîmer.
+    - titre: Le *désert* qui n'a rien à faire là
+      texte: Les dunes du Pilat, en Gironde, sont les plus hautes d'Europe. Elles avancent lentement et engloutissent
+        parfois la forêt de pins voisine.
+    - titre: Des *villages* entiers sous l'eau
+      texte: Le lac de Der, dans la Marne, a été créé pour réguler les crues de la Seine. Plusieurs villages ont
+        été submergés lors de sa construction.
+    - titre: Une *ville* qui parle en vieux mots
+      texte: Des noms de rues et de lieux en Occitanie ou en Bretagne gardent des mots de langues régionales. Chaque
+        panneau est une petite leçon d'histoire, à lire avec attention.
+    question_fin: Lequel de ces lieux t'a le plus *surpris* ?
+  sujet: Lieux de France aux histoires étonnantes, angle surprenant
+  legende: 'La France cache des lieux qui défient la logique 🤯
+
+
+    Une île qui n''en est plus une, des falaises qui reculent, un désert au milieu des pins. Swipe pour voir ce
+    qui se cache derrière ces paysages.
+
+
+    Les deux dernières slides vont te faire regarder ta carte autrement 👀
+
+
+    Tu connais un lieu de France aussi bizarre ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour pour ne pas oublier ces lieux au prochain week-end.
+
+
+    📤 Partage-le à un ami, celui qui rêve de road trip en France.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #francetourisme #curiosites #histoiredefrance #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-23_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/07.jpg
+  - medias/2026-10-19/2026-10-23_1400_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-23_1400_carro/01.jpg
+- id: 2026-10-23_1700_carro
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: Et si le [passé] revenait en version *futuriste* absurde ?
+    sous_titre: Ton grille-pain a peut-être un avenir
+    slides:
+    - titre: Le [grille-pain] volant
+      texte: Imagine un grille-pain qui *flotte* au-dessus de la table et tartine ton pain à distance. Le petit-déj'
+        version drone, ça ferait un carton.
+    - titre: Le *vieux* vinyle holographique
+      texte: Et si un disque vinyle diffusait sa musique en *hologramme* géant dans le salon ? Plus besoin d'enceintes,
+        juste un salon qui chante.
+    - titre: La [machine] à écrire 2.0
+      texte: Ta vieille machine à écrire pourrait peut-être *dicter* tes textos à la vitesse de la lumière, avec
+        des touches qui clignotent. Elle serait enfin utile.
+    - titre: Le *cadran* qui sonne dans l'espace
+      texte: Et si le réveil à cadran devenait une *capsule* qui te tire du lit par lévitation magnétique ? Impossible
+        de faire semblant de dormir encore.
+    question_fin: Lequel de ces objets *ressusciterais* en version futuriste, et lequel te ferait le plus peur ?
+  sujet: Objets d'autrefois réinventés en version futuriste absurde
+  legende: 'Ton grille-pain du dimanche pourrait voler un jour 🍞🛸
+
+
+    On a pris des objets de nos grands-parents et on les a envoyés dans le futur, version absurde. Un vinyle qui
+    chante en hologramme, une machine à écrire qui dicte à la vitesse de la lumière, un réveil qui te soulève du
+    lit.
+
+
+    La dernière slide est celle que personne n''a vu venir 👀
+
+
+    Tu prends quel objet pour le futur, et lequel tu laisses au musée ? 😏
+
+
+    💾 Enregistre ce carrousel pour relire ces idées le jour où ton grille-pain décolle.
+
+
+    📤 Partage-le à un ami, pour voir si ton pote ose encore utiliser son réveil classique.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #futurisme #nostalgie'
+  medias:
+  - medias/2026-10-19/2026-10-23_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-23_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-23_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-23_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-23_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-23_1700_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-23_1700_carro/01.jpg
+- id: 2026-10-23_2000_carro
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: 'Ta [chambre d''ado] : les *objets* que tu as forcément eus'
+    sous_titre: Sans marque, juste la nostalgie pure 🧃
+    slides:
+    - titre: Le [walkman] et ses *piles*
+      texte: Tu le trimballais partout, et tu te souviens sûrement de la vitesse à laquelle il avalait des piles.
+        Un bon mois de musique, puis retour au fond du sac. Le *son* qui sautait à chaque pas, c'était ton cardio
+        perso.
+    - titre: Les *cassettes* rembobinées au crayon
+      texte: Une cassette enregistrée depuis la radio, un coup de crayon dans la roue dentée pour la rembobiner.
+        Les chansons coupées au milieu, c'était une question de patience. Et de *talent* pour appuyer sur Play au
+        bon moment.
+    - titre: Le [Tamagotchi] à *nourrir*
+      texte: Un petit œuf en plastique accroché au sac, et des bips à toute heure. Oublier de le nourrir, c'était
+        risquer de le voir disparaître, et ça, ça comptait vraiment. On se sentait *responsable* d'un bébé pixelisé.
+    - titre: Le [téléphone à clapet] ...
+      texte: Des SMS facturés à la pièce ? Pas toujours, mais on comptait chaque lettre, c'est un fait de mémoire
+        collective. Le T9 qui devinait mal, la coque échangeable et le jeu du serpent. Ton *premier* téléphone,
+        c'était, à notre avis, un petit outil de liberté.
+    - titre: Le *poster* scotché au mur
+      texte: Des pages arrachées d'un magazine, du scotch aux quatre coins, et un mur qui gardait la trace pendant
+        des années. Ta chambre, c'était ton *musée* perso, sans filtre ni like.
+    question_fin: Lequel t'a fait le plus *replonger* ?
+  sujet: Objets de chambre d'ado nés entre 1985 et 2005
+  legende: 'Ta chambre d''ado, version 1995 🎧
+
+
+    Walkman à piles, cassettes rembobinées au crayon, Tamagotchi qu''il fallait nourrir… Tu les as tous eus, même
+    si tu prétends le contraire. Swipe pour retrouver ton bazar d''ado.
+
+
+    La dernière slide est celle que personne n''avoue avoir gardée 👀
+
+
+    Tu en avais combien dans ta chambre, toi ? 😅
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta chambre d''ado.
+
+
+    📤 Partage-le à un ami, lui rappeler ses soirées à rembobiner ses cassettes au crayon.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-10-19/2026-10-23_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-23_2000_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-23_2000_carro/01.jpg
+- id: 2026-10-23_2100_video
+  jour: vendredi
+  date: '2026-10-23'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui ont adopté nos pires habitudes humaines'
+  accroche: Ces animaux ont pris nos [pires] *habitudes* 😅
+  legende: 'Le pigeon scrolle, le chat klaxonne : la relève est assurée 🐦🚗
+
+
+    Lequel de ces animaux te ressemble le plus au quotidien, et pourquoi ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animaux #humour #reels'
+  medias:
+  - medias/2026-10-19/2026-10-23_2100_video/reel.mp4
+  couverture: medias/2026-10-19/2026-10-23_2100_video/couverture.jpg
+  source: 2026-10-23_1100_carro
