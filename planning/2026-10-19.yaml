@@ -9,7 +9,7 @@
 semaine: '2026-10-19'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-16T01:54
+genere_le: 2026-10-17T02:03
 posts:
 - id: 2026-10-19_0800_carro
   jour: lundi
@@ -1819,3 +1819,363 @@ posts:
   - medias/2026-10-19/2026-10-23_2100_video/reel.mp4
   couverture: medias/2026-10-19/2026-10-23_2100_video/couverture.jpg
   source: 2026-10-23_1100_carro
+- id: 2026-10-24_0800_carro
+  jour: samedi
+  date: '2026-10-24'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Petites habitudes qui changent une journée (avec explication simple)
+  contenu:
+    titre_couverture: Ta journée tient à [*5 minutes*] de rien du tout
+    sous_titre: Petits mécanismes du cerveau, gros effets sur ta humeur
+    slides:
+    - titre: Le [premier] geste compte
+      texte: 'À mon avis, une routine bien placée peut donner le ton de toute ta journée. Ton cerveau aime les habitudes
+        : moins de décisions à prendre, donc moins d''efforts.'
+    - titre: Ouvre les *rideaux* d'abord
+      texte: 'La lumière du matin aide ton horloge interne à se recaler. Idée à tester : ouvre tes volets avant
+        même de toucher ton téléphone.'
+    - titre: Le téléphone, *loin du lit*
+      texte: Poser ton téléphone à l'autre bout de la pièce transforme un réveil en course d'obstacles. Tu te lèves
+        un peu plus, et tu scrolles un peu moins.
+    - titre: Le petit *verre d'eau*
+      texte: 'Boire un verre d''eau au réveil est une habitude simple, souvent oubliée. À tester : si ça change
+        ton matin, tu auras ta réponse.'
+    - titre: Le *mini-pas* qui décide
+      texte: Plus une tâche paraît grosse, plus ton cerveau la repousse. Commence par un geste ridicule, deux minutes,
+        et l'élan fait le reste.
+    question_fin: Quelle habitude [minuscule] tu fais déjà sans y penser ?
+  sujet: Petites habitudes qui changent une journée, expliquées simplement
+  legende: 'Ta journée se joue souvent avant même ton premier café ☕
+
+
+    Pas besoin de révolution pour changer ton humeur. Quelques gestes minuscules, placés au bon moment, suffisent
+    peut-être à donner un autre ton à toute ta journée. Swipe pour les piocher.
+
+
+    La dernière slide est la plus simple de toutes, et elle marche même quand tu n''as aucune motivation 👀
+
+
+    Quelle petite habitude tu vas tester demain matin ? 👇
+
+
+    💾 Enregistre ce carrousel pour les relire le jour où tu n''as pas la force de rien.
+
+
+    📤 Partage-le à un ami, il a sûrement besoin d''un coup de pouce pour bien démarrer sa journée.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #bienetre #cerveau'
+  medias:
+  - medias/2026-10-19/2026-10-24_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-24_0800_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-24_0800_carro/01.jpg
+- id: 2026-10-24_1100_carro
+  jour: samedi
+  date: '2026-10-24'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: Ton *goûter* de 16h était une [révolution] culinaire
+    sous_titre: Les goûters d'école des années 90-2000
+    slides:
+    - titre: Le [goûter] sous le préau
+      texte: 'Pain au chocolat tiède, tartine beurrée au sucre ou quartiers de pomme : le menu était simple, et
+        souvent fait maison.'
+    - titre: Le *papier* plus précieux que le goûter
+      texte: À mon avis, garder le papier d'aluminium pour le réutiliser le lendemain était un geste malin, presque
+        oublié aujourd'hui.
+    - titre: Le [sac] à dos, cantine du matin
+      texte: Le goûter voyageait dans un cartable qui sentait le cahier et le feutre. Parfois il s'écrasait sous
+        les livres, et personne ne s'en plaignait.
+    - titre: Le goûter *échangé* en cachette
+      texte: 'Le troc était une institution : un quartier de pomme contre un petit gâteau, une tartine contre un
+        bonbon. On peut penser que les meilleurs négociateurs étaient ceux de la cour.'
+    question_fin: Quel goûter t'a le plus *manqué* ?
+  sujet: Goûters d'école des années 90-2000, sans marques
+  legende: 'Ton goûter de 16h était peut-être une petite révolution 🥖
+
+
+    Pain au chocolat, tartine au sucre, papier d''alu réutilisé et troc en cachette : les goûters des années 90-2000
+    avaient leurs règles. Swipe pour retrouver ton cartable d''avant.
+
+
+    Le dernier slide révèle l''échange le plus malin de la cour 👀
+
+
+    Tu faisais quel troc à la récré ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver tes souvenirs de cartable quand tu veux.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa tartine de 16h 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-24_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-24_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-24_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-24_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-24_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-24_1100_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-24_1100_carro/01.jpg
+- id: 2026-10-24_1300_devin
+  jour: samedi
+  date: '2026-10-24'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 12 + 9 × 7 − 5 = ?'
+  reponse: '70 (piège : 142)'
+  legende: 'La réponse n''est pas 142 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-24_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-24_1300_devin/couverture.jpg
+- id: 2026-10-24_1400_carro
+  jour: samedi
+  date: '2026-10-24'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer
+    solide)
+  contenu:
+    titre_couverture: Et si [UNE SEULE RÈGLE] *changeait* ?
+    sous_titre: Cinq petites rébellions de la nature, rien que pour toi
+    slides:
+    - titre: LA *PLUIE* QUI MONTE
+      texte: Imagine des gouttes qui remontent vers le ciel au lieu de tomber. Les parapluies deviendraient des
+        *chapeaux* pour les nuages. Personne ne sortirait sans lunettes, par précaution.
+    - titre: LA MER [SOLIDE]
+      texte: Si l'eau devenait dure comme du verre, on marcherait jusqu'à l'autre continent. Les *poissons* deviendraient
+        des sculptures sous nos pieds, figées dans le bleu.
+    - titre: LES ARBRES *TOMBENT* DU CIEL
+      texte: Et si la gravité ne valait que pour les feuilles ? Les arbres pousseraient vers le bas, racines en
+        l'air. Les oiseaux viendraient y *faire leur nid* sous le sol.
+    - titre: LE SOLEIL [NE SE COUCHE] JAMAIS
+      texte: Plus de nuit, plus d'étoiles visibles. Les *insectes* pourraient perdre leurs repères, et les chauves-souris
+        sans doute bien moins de sorties. Le réveil sonnerait toujours au même moment, sans aucun indice.
+    - titre: LES OBJETS QUI *FLOTTENT* ENFIN
+      texte: Si les objets perdaient leur poids, on ferait la vaisselle en apesanteur. Les *cartons* voleraient
+        dans les appartements, les meubles dériveraient comme des bulles.
+    question_fin: Laquelle de ces règles voudrais-tu voir *casser* en premier ?
+  sujet: Et si une seule règle de la nature changeait
+  legende: 'Et si la nature changeait une seule règle ? 🌍
+
+
+    Pluie qui remonte, mer devenue solide, arbres à l''envers : cinq idées folles qui font vite passer de la rêverie
+    au malaise. Swipe pour voir jusqu''où ça peut aller.
+
+
+    La dernière règle pourrait bien te donner des insomnies 👀
+
+
+    Quelle règle tu changerais toi, et qu''est-ce qui deviendrait le pire ? 😅
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu auras besoin d''une idée d''histoire absurde.
+
+
+    📤 Partage-le à un ami, il va sûrement te répondre que le ciel serait plus cool en sol 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #etsi #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-24_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/06.jpg
+  - medias/2026-10-19/2026-10-24_1400_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-24_1400_carro/01.jpg
+- id: 2026-10-24_1700_carro
+  jour: samedi
+  date: '2026-10-24'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Tu te souviens de ces [galères] qui *rythmaient* ta vie ?
+    sous_titre: Le temps où la technologie te faisait patienter
+    slides:
+    - titre: Le [répondeur] à cassette
+      texte: Pour savoir si quelqu'un t'avait appelé, il fallait *rembobiner* la cassette puis attendre le bip.
+        Et parfois, la bande se coinçait.
+    - titre: Le *téléchargement* interminable
+      texte: Une chanson pouvait mettre une bonne partie de la soirée à arriver, au rythme d'un bruit de modem qu'on
+        n'oublie pas. On ne lançait rien sans *patience*.
+    - titre: Le [baladeur] et ses piles
+      texte: Les piles s'épuisaient au pire moment, et on les rechargeait rarement. Certains emportaient une pochette
+        de piles de rechange *au cas où*.
+    - titre: Le *tirage* du mois d'après
+      texte: Un appareil jetable, 24 poses, et impossible de voir le résultat avant de passer chez le photographe.
+        Parfois, une semaine d'attente pour une photo floue.
+    - titre: Le téléphone à [fil] du salon
+      texte: 'Impossible de parler en marchant : le fil tendu traversait la pièce. Les conversations se passaient
+        *debout*, près du couloir, ou carrément assis par terre.'
+    question_fin: Laquelle de ces galères t'a le plus *fait enrager* ?
+  sujet: 'Galères technologiques d''avant : attendre, rembobiner, charger'
+  legende: 'Avant, la techno te faisait attendre… et ça forgeait le caractère 📼
+
+
+    Cassettes à rembobiner, modem qui chante, piles qui lâchent au pire moment : on passait sans doute plus de temps
+    à patienter qu''à profiter. Swipe pour replonger dans ces petites tortures du quotidien.
+
+
+    La dernière slide te fera sûrement lever les yeux au ciel 👀
+
+
+    Tu as connu quelle galère technologique ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces galères la prochaine fois que ton téléphone rame.
+
+
+    📤 Partage-le à un ami, qui regrette encore le bruit du modem.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #culturegenerale #souvenirsdenfance'
+  medias:
+  - medias/2026-10-19/2026-10-24_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-24_1700_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-24_1700_carro/01.jpg
+- id: 2026-10-24_2000_carro
+  jour: samedi
+  date: '2026-10-24'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [truqué], pourtant c'est *100 % réel* !
+    sous_titre: La nature fait mieux que Photoshop
+    slides:
+    - titre: Des [arcs-en-ciel] dans la nuit
+      texte: 'L''arc de lune existe : la lumière de la Lune, bien plus faible que celle du Soleil, peut former un
+        arc aux couleurs pâles, visible la nuit.'
+    - titre: Un lac qui *change de couleur*
+      texte: Certains lacs salés, comme le lac Natron en Tanzanie, peuvent virer au rouge vif. Selon les scientifiques,
+        la salinité et les micro-organismes présents jouent un rôle clé.
+    - titre: Des nuages [lenticulaires] immobiles
+      texte: Ces nuages en forme de soucoupe se forment au-dessus des montagnes quand l'air ondule. Ils semblent
+        figés alors que le vent souffle fort.
+    - titre: Des *cercles* dans le désert
+      texte: 'Les cercles de fées de Namibie intriguent les chercheurs : des zones nues entourées d''herbe. Leur
+        origine exacte fait encore débat.'
+    - titre: Une cascade qui *remonte*
+      texte: 'Par grand vent, les chutes d''eau semblent parfois remonter. Ce n''est pas de la magie : c''est une
+        illusion créée par les rafales.'
+    - titre: Le [ciel] qui brille la nuit
+      texte: Les nuages nacrés brillent parfois après le coucher du soleil, avec des couleurs irisées. Ils sont
+        formés de minuscules cristaux de glace.
+    question_fin: Lequel te semble le plus *impossible* à croire ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Non, ce n''est pas du Photoshop 😳
+
+
+    La nature a des effets spéciaux bien plus fous que ce qu''on imagine. Arcs de lune, lacs rouges, nuages immobiles
+    : tout est réel. Swipe pour voir les six.
+
+
+    Le dernier défie carrément les lois du vent 👀
+
+
+    Tu en connaissais combien avant ce carrousel ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phénomènes quand quelqu''un doute.
+
+
+    📤 Partage-le à un ami, il va forcément dire que c''est truqué 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegénérale #curiosités #naturephenomenes #insolite #saviezvous'
+  medias:
+  - medias/2026-10-19/2026-10-24_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/07.jpg
+  - medias/2026-10-19/2026-10-24_2000_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-24_2000_carro/01.jpg
+- id: 2026-10-24_2100_video
+  jour: samedi
+  date: '2026-10-24'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Et si une seule règle de la nature changeait'
+  accroche: Et si la [PLUIE] *MONTAIT* enfin ?
+  legende: 'Imagine le ciel qui arrose à l''envers 🌧️⬆️
+
+
+    Si la pluie montait demain, tu sortirais quand même ton parapluie ? ☔
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #science #reelsfrance'
+  medias:
+  - medias/2026-10-19/2026-10-24_2100_video/reel.mp4
+  couverture: medias/2026-10-19/2026-10-24_2100_video/couverture.jpg
+  source: 2026-10-24_1400_carro
