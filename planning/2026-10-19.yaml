@@ -9,7 +9,7 @@
 semaine: '2026-10-19'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-17T02:03
+genere_le: 2026-10-18T01:59
 posts:
 - id: 2026-10-19_0800_carro
   jour: lundi
@@ -2179,3 +2179,367 @@ posts:
   - medias/2026-10-19/2026-10-24_2100_video/reel.mp4
   couverture: medias/2026-10-19/2026-10-24_2100_video/couverture.jpg
   source: 2026-10-24_1400_carro
+- id: 2026-10-25_0800_carro
+  jour: dimanche
+  date: '2026-10-25'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: Et si la [GRAVITÉ] tombait en *panne* une minute ?
+    sous_titre: Cinq lieux du quotidien, cinq chaos parfaitement absurdes
+    slides:
+    - titre: La [CUISINE] version *plafond*
+      texte: Ton café décolle, tes céréales suivent, et la confiture refuse de redescendre. Le petit-déj devient
+        une mission spatiale.
+    - titre: Le [SUPERMARCHÉ] en *apesanteur*
+      texte: Les pâtes remontent dans les rayons, les bouteilles d'eau flottent au-dessus des caddies vides. Qui
+        va ranger tout ça là-haut ?
+    - titre: La [PISCINE] qui *s'envole*
+      texte: Imagine l'eau qui se détache du bassin et monte en bulles géantes vers le ciel. Les plongeurs, eux,
+        resteraient collés au fond... mais à l'envers.
+    - titre: Le [BUS] qui *décolle* au feu rouge
+      texte: Les passagers se retrouveraient debout sur le plafond, les sacs de courses au-dessus de leurs têtes.
+        Le trajet domicile-travail prendrait un tout autre sens.
+    - titre: Le [STADE] où le ballon *ne redescend* pas
+      texte: Une minute de gravité inversée et le ballon disparaît dans le ciel. Les tribunes, elles, tiendraient
+        bon, accrochées à leurs sièges.
+    question_fin: Dans quel lieu tu serais le plus *mal à l'aise* quand tout décolle ?
+  sujet: Et si la gravité s'inversait une minute dans le quotidien
+  legende: 'Imagine ta journée à l''envers 🙃
+
+
+    Une minute sans gravité vers le bas, et ta cuisine, ton supermarché ou ton bus deviennent des décors de film
+    catastrophe. Swipe pour voir le chaos.
+
+
+    La dernière slide change tout, et tu ne vas pas revoir ton stade pareil 👀
+
+
+    Tu as un lieu préféré qui décollerait en premier ? 😂
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ne jamais ranger ta cuisine en hauteur.
+
+
+    📤 Partage-le à un ami, ton pote qui oublie toujours de ranger ses affaires se retrouvera au plafond.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #quiz'
+  medias:
+  - medias/2026-10-19/2026-10-25_0800_carro/01.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/02.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/03.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/04.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/05.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/06.jpg
+  - medias/2026-10-19/2026-10-25_0800_carro/07.jpg
+  couverture: medias/2026-10-19/2026-10-25_0800_carro/01.jpg
+- id: 2026-10-25_1100_carro
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : la politesse et les salutations'
+  contenu:
+    titre_couverture: 'LE DUEL FRANCE VS PORTUGAL : [SALUT] ET *BISOUS* ENTRE AMIS'
+    sous_titre: 'Qui dit bonjour le mieux ? Round 1 : la politesse'
+    slides:
+    - titre: '[BISE] ou *poignée* de main ?'
+      texte: En France, on fait la bise, parfois une, parfois deux, et on finit souvent par se demander combien
+        il en faut. Au Portugal, le bonjour passe plus souvent par une poignée de main franche, à ce qu'on raconte.
+        Et vous, vous êtes team quoi ?
+    - titre: Le *bonjour* qui se dit à tout le monde
+      texte: 'Dans beaucoup de petits commerces portugais, on lance un bom dia à voix haute en entrant, même sans
+        rien acheter. Notre opinion : c''est une belle façon de dire à quelqu''un qu''il compte, même deux secondes.'
+    - titre: Le *vouvoiement* qui se perd
+      texte: En France, on hésite longtemps entre vous et tu. Au Portugal, le você existe mais semble réservé aux
+        contextes formels, ce qui pourrait changer l'ambiance des premiers échanges, à en croire les gens qui y
+        vivent.
+    - titre: Le *silence* qui en dit long
+      texte: Un Français qui ne dit pas bonjour en entrant, ça se remarque. Et si on se demandait lequel des deux
+        pays rend les salutations les plus *chaleureuses* ?
+    question_fin: Lequel de ces deux *bonjours* t'aurait le plus *mis à l'aise* ?
+  sujet: 'Le duel France vs Portugal : la politesse et les salutations'
+  legende: 'Bise ou poignée de main, qui gagne le duel ? 👋
+
+
+    France contre Portugal, round politesse. Entre les bises qu''on compte, les bons jours qu''on lance aux commerçants
+    et le vous qui hésite, il y a de quoi se chamailler. Swipe pour voir qui sort vainqueur.
+
+
+    La dernière slide pose une question qui risque de faire débat 👀
+
+
+    Tu fais la bise ou la poignée de main en premier ? Dis-le-nous en commentaire 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ce duel quand tu voyages ou que tu rencontres quelqu''un de nouveau.
+
+
+    📤 Partage-le à un ami, pour savoir qui a le meilleur bonjour dans votre groupe.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #portugal #savoirvivre'
+  medias:
+  - medias/2026-10-19/2026-10-25_1100_carro/01.jpg
+  - medias/2026-10-19/2026-10-25_1100_carro/02.jpg
+  - medias/2026-10-19/2026-10-25_1100_carro/03.jpg
+  - medias/2026-10-19/2026-10-25_1100_carro/04.jpg
+  - medias/2026-10-19/2026-10-25_1100_carro/05.jpg
+  - medias/2026-10-19/2026-10-25_1100_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-25_1100_carro/01.jpg
+- id: 2026-10-25_1300_devin
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 3 × 3 − 3 = ?'
+  reponse: '9 (piège : 15)'
+  legende: 'La réponse n''est pas 15 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-19/2026-10-25_1300_devin/reel.mp4
+  couverture: medias/2026-10-19/2026-10-25_1300_devin/couverture.jpg
+- id: 2026-10-25_1400_carro
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: 'Records naturels fous : animaux, plantes, phénomènes'
+  contenu:
+    titre_couverture: 'Les [champions] fous de la nature : *records* qui défient le bon sens'
+    sous_titre: Swipe si tu crois que la nature manque d'imagination 🌿
+    slides:
+    - titre: Le [champion] du poids plume
+      texte: Le *colibri* bat des ailes à une vitesse folle, parfois plusieurs dizaines de fois par seconde selon
+        les espèces. Ton cerveau, lui, a déjà décroché.
+    - titre: Une plante qui *fait la sieste*
+      texte: La *sensitive* replie ses feuilles au moindre contact. Une plante qui réagit vite, ça change l'idée
+        qu'on se fait du calme végétal.
+    - titre: Le [fond] de l'océan qui *gonfle*
+      texte: 'Certaines éponges de mer peuvent vivre très longtemps et former des colonies impressionnantes. Une
+        idée folle : la nature construit lentement, sans jamais se presser.'
+    - titre: Un *orage* qui sort du volcan
+      texte: Des éclairs apparaissent parfois au-dessus des éruptions volcaniques, probablement grâce à la charge
+        électrique des particules de cendre. La foudre, ici, semble sortir d'un cratère.
+    question_fin: Quel record t'a le plus *bluffé* ?
+  sujet: 'Records naturels fous : animaux, plantes, phénomènes'
+  legende: 'La nature ne fait jamais les choses à moitié 🌿
+
+
+    Oiseaux qui battent des ailes à toute vitesse, plantes qui réagissent comme des animaux, éponges qui vivent
+    très longtemps : on a sélectionné des records étonnants. Swipe pour voir lequel te surprend le plus.
+
+
+    La dernière slide change peut-être ce qu''on pense de la foudre 👀
+
+
+    Tu connaissais lequel de ces records ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces faits quand tu veux épater tes amis.
+
+
+    📤 Partage-le à un ami, il va adorer découvrir que la nature a de l''humour 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #nature #animaux #sciencesfun'
+  medias:
+  - medias/2026-10-19/2026-10-25_1400_carro/01.jpg
+  - medias/2026-10-19/2026-10-25_1400_carro/02.jpg
+  - medias/2026-10-19/2026-10-25_1400_carro/03.jpg
+  - medias/2026-10-19/2026-10-25_1400_carro/04.jpg
+  - medias/2026-10-19/2026-10-25_1400_carro/05.jpg
+  - medias/2026-10-19/2026-10-25_1400_carro/06.jpg
+  couverture: medias/2026-10-19/2026-10-25_1400_carro/01.jpg
+- id: 2026-10-25_1700_carro
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: La météo d'une autre planète vue depuis une ville française
+  contenu:
+    titre_couverture: LA [MÉTÉO] DE *MARS* VUE DEPUIS TA VILLE
+    sous_titre: 'Spoiler : ton parapluie ne sert plus à rien'
+    slides:
+    - titre: '[PLUIE] DE *DIAMANT* SUR VÉNUS'
+      texte: Sur Vénus, certains chercheurs imaginent qu'il pourrait pleuvoir de l'acide sulfurique, mais la pluie
+        s'évaporerait avant d'atteindre le sol. Une pluie qui ne touche jamais la terre, à nos yeux, c'est déjà
+        une idée de génie.
+    - titre: NEIGE DE *FER* SUR MARS
+      texte: Et si, en altitude sur Mars, il neigeait de fines particules de fer ? Imagine ton jardin recouvert
+        d'une poudre rouillée qui brille comme un aimant.
+    - titre: VENTS DE *TROIS CENTS* KM/H
+      texte: Sur Vénus, les nuages feraient le tour de la planète en quelques jours, bien plus vite que sa rotation.
+        Ton mistral local a l'air d'une brise de sieste à côté.
+    - titre: ORAGES QUI DURENT *DES SIÈCLES*
+      texte: Sur Jupiter, la Grande Tache rouge est une tempête observée depuis des siècles, plus large que la Terre.
+        Ton orage d'été, lui, a toujours fini par partir.
+    - titre: SOLEIL *BLEU* AU COUCHER
+      texte: Sur Mars, le coucher de soleil pourrait apparaître bleu, la fine poussière diffusant la lumière différemment.
+        C'est l'inverse de tes couchers d'été, et ça pourrait bien te faire rêver.
+    - titre: Le *TEMPS* QU'IL FAIT, C'EST *TOUT* UNE QUESTION D'ENDROIT
+      texte: Sur une autre planète, ta météo serait une catastrophe, ou une merveille. Et si c'était ton tour de
+        vivre la pluie de fer ?
+    question_fin: Quelle météo extraterrestre te *ferait* le plus peur chez toi ?
+  sujet: La météo d'une autre planète vue depuis une ville française
+  legende: 'Ton parapluie n''a aucune chance sur Vénus 🪐
+
+
+    Pluies qui ne touchent jamais le sol, neige de fer, vents qui font le tour de la planète plus vite qu''elle
+    ne tourne : la météo des autres mondes semble bien plus folle que la tienne. Swipe pour voir ce que tu raterais
+    chez toi.
+
+
+    La dernière slide change tout, on te laisse deviner pourquoi 👀
+
+
+    Tu voudrais vivre sous quel ciel extraterrestre ? 🌍
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois qu''il pleut et que tu râles.
+
+
+    📤 Partage-le à un ami, celui qui se plaint toujours de la météo.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #espace #science #insolite'
+  medias:
+  - medias/2026-10-19/2026-10-25_1700_carro/01.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/02.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/03.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/04.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/05.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/06.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/07.jpg
+  - medias/2026-10-19/2026-10-25_1700_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-25_1700_carro/01.jpg
+- id: 2026-10-25_2000_carro
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les fêtes et anniversaires'
+  contenu:
+    titre_couverture: 'Le duel France vs Norvège : [anniversaire] en *mode* XXL'
+    sous_titre: Fêtes et anniversaires, qui fait la plus belle surprise ?
+    slides:
+    - titre: Le [gâteau] en *cercle* fermé
+      texte: En France, on chante souvent autour du gâteau en se serrant. En Norvège, on sort aussi le drapeau et
+        on cale des petits discours. Chacun son rituel, mais le *fou rire* arrive vite.
+    - titre: Le [drapeau] comme *déco* d'anniversaire
+      texte: En Norvège, petits drapeaux et couleurs nationales sont fréquents pendant les fêtes, même pour un simple
+        anniversaire. Un détail qui surprend souvent les visiteurs, et qui fait sourire.
+    - titre: Les *cadeaux* qu'on ouvre devant tout le monde
+      texte: Dans certaines familles françaises, on déballe tout de suite sous les yeux de l'assemblée. Ailleurs,
+        on attend le départ des invités. Question de pudeur... ou de curiosité ?
+    - titre: La *sieste* après le repas de fête
+      texte: Après un grand repas, la sieste fait partie du programme chez certains, sur un canapé ou au jardin.
+        L'idée de se reposer après la fête est un art de vivre qui divise, et c'est tant mieux.
+    - titre: Le [sauna] après la *fête*
+      texte: Le sauna est une tradition très ancrée en Norvège, parfois pensée comme un moment de détente entre
+        amis. Une idée d'after bien plus zen qu'une soirée à la française, non ?
+    - titre: Le *chant* qui tourne en boucle
+      texte: 'En France, on chante Joyeux anniversaire à tue-tête, souvent en retard sur le rythme. Une idée à garder
+        en tête : le chant reste le moment le plus universel de la fête.'
+    question_fin: Lequel de ces rituels te donnerait le plus *envie* de changer ta fête ?
+  sujet: 'Le duel France vs Norvège : les fêtes et anniversaires'
+  legende: 'Un gâteau, des drapeaux et une sieste : le duel France vs Norvège commence 🎂
+
+
+    On compare nos fêtes et anniversaires avec humour, sans jugement. Entre drapeaux sur le gâteau, cadeaux ouverts
+    devant tout le monde et sauna après la fête, il y a de quoi se reconnaître. Swipe pour voir qui gagne 🇫🇷🇳🇴
+
+
+    La dernière slide est celle que personne n''attend, et elle pourrait bien changer ton prochain anniversaire
+    👀
+
+
+    Quel rituel de fête tu adopterais demain ? Dis-le en commentaire 🎉
+
+
+    💾 Enregistre ce carrousel pour pour garder les idées de fête sous la main le jour J.
+
+
+    📤 Partage-le à un ami, pour lui demander quel camp il choisit pour son prochain anniversaire.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #norvege #france #anniversaire'
+  medias:
+  - medias/2026-10-19/2026-10-25_2000_carro/01.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/02.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/03.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/04.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/05.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/06.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/07.jpg
+  - medias/2026-10-19/2026-10-25_2000_carro/08.jpg
+  couverture: medias/2026-10-19/2026-10-25_2000_carro/01.jpg
+- id: 2026-10-25_2100_video
+  jour: dimanche
+  date: '2026-10-25'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Et si la gravité s''inversait une minute dans le quotidien'
+  accroche: Et si la gravité *lâchait* [PRISE] une minute ?
+  legende: 'Imagine que tu fais tes courses au plafond 🙃🛒
+
+
+    Tu prendrais le bus si il décollait au feu rouge, tu serais plutôt partant ou tu ferais demi-tour ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #gravite #illustrationIA #reelsfrance'
+  medias:
+  - medias/2026-10-19/2026-10-25_2100_video/reel.mp4
+  couverture: medias/2026-10-19/2026-10-25_2100_video/couverture.jpg
+  source: 2026-10-25_0800_carro
