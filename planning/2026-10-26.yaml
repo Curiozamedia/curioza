@@ -1,0 +1,377 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-10-26'
+phase: normal
+tout_valider: false
+genere_le: 2026-10-19T01:58
+posts:
+- id: 2026-10-26_0800_carro
+  jour: lundi
+  date: '2026-10-26'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer
+    solide)
+  contenu:
+    titre_couverture: Et si [UNE SEULE RÈGLE] *changeait* ?
+    sous_titre: Cinq petites révolutions qui font tout basculer
+    slides:
+    - titre: LE *SOLEIL* NE SE COUCHE PLUS
+      texte: Imagine une ville où le jour ne finit jamais. Les volets restent ouverts, les insomnies deviennent
+        la norme, et les rideaux seraient un luxe pour les plus aisés.
+    - titre: LA PLUIE REMONTE AU CIEL
+      texte: Et si les gouttes quittaient le sol pour s'envoler vers les nuages ? Les parapluies deviendraient des
+        entonnoirs géants, et les flaques se viderait vers le haut.
+    - titre: LA MER DEVIENT *SOLIDE*
+      texte: Et si les vagues se figeaient en dunes de verre bleu ? On pourrait marcher sur l'océan, les bateaux
+        resteraient coincés dans la glace, et les mouettes auraient enfin une piste.
+    - titre: LES OBJETS *RESTENT EN L'AIR*
+      texte: Si la gravité prenait des vacances, ton café flotterait sans se renverser. Les chaises pourraient danser,
+        les livres tourner doucement, et ton lit devenir une montgolfière.
+    - titre: LES ARBRES *MARCHENT* ENFIN
+      texte: Et si les racines pouvaient se détacher ? Les forêts traverseraient les routes, les champs migreraient
+        vers l'eau, et la nature deviendrait une grande balade.
+    question_fin: Quelle règle *changerais*-tu en premier, et pourquoi ?
+  sujet: Et si une seule règle de la nature changeait
+  legende: 'Et si la nature décidait de changer ses règles ? 🌍
+
+
+    Plus de nuit, pluie qui remonte, mer qui gèle, objets qui flottent, arbres qui marchent : une seule règle qui
+    casse, et tout le quotidien suit. Swipe pour voir jusqu''où ça peut aller.
+
+
+    La dernière idée est celle qui fait le plus vite basculer le monde entier 👀
+
+
+    Tu choisis quelle règle à changer ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour relire la liste quand tu t''ennuies un dimanche.
+
+
+    📤 Partage-le à un ami, il adorera imaginer le monde à l''envers avec toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #sciencefiction #imagination'
+  medias:
+  - medias/2026-10-26/2026-10-26_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/06.jpg
+  - medias/2026-10-26/2026-10-26_0800_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-26_0800_carro/01.jpg
+- id: 2026-10-26_1100_carro
+  jour: lundi
+  date: '2026-10-26'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les fêtes et anniversaires'
+  contenu:
+    titre_couverture: 'LE DUEL [CORÉE] : FÊTES ET *ANNIVERSAIRES*, QUI GAGNE LA BOUGIE ?'
+    sous_titre: Un Français chambreur face à un Sud-Coréen élégant
+    slides:
+    - titre: '[ÂGE] : *le gâteau* d''abord'
+      texte: En France, on chante souvent pour l'anniversaire et on coupe le gâteau ensemble. En Corée du Sud, l'âge
+        compte beaucoup dans les célébrations, et les *cadeaux* peuvent changer selon l'âge.
+    - titre: Des *bougies* qui brillent
+      texte: Chez nous, on souffle les bougies et on fait un vœu en silence. Là-bas, certaines fêtes misent sur
+        des *décors* soignés et des photos, pour que tout le monde immortalise le moment.
+    - titre: Le *cadeau* sous enveloppe
+      texte: En France, on offre souvent un cadeau emballé, parfois une bouteille ou un livre. En Corée du Sud,
+        on offre aussi souvent de l'argent dans une *enveloppe* soignée, selon la relation.
+    - titre: Fête à la *maison* ou au *restau* ?
+      texte: Chez nous, on aime organiser un dîner à la maison, quitte à tout faire soi-même. Là-bas, on réserve
+        souvent une *salle* au restaurant, avec du karaoké possible après le repas.
+    - titre: Le *verdict* du duel
+      texte: Les deux pays adorent se réunir autour de la nourriture et des rires. Le vrai match ? Savoir qui sera
+        le plus généreux avec la *part de gâteau* du voisin.
+    question_fin: Lequel de ces rituels te mettrait le plus *mal à l'aise* ?
+  sujet: 'Le duel France vs Corée du Sud : fêtes et anniversaires'
+  legende: 'Un anniversaire, deux façons de le fêter 🎂
+
+
+    Gâteau, cadeaux, bougies, restau ou maison : le duel France vs Corée du Sud dévoile quelques habitudes qui surprennent.
+    Entre humour et petites différences, on se découvre des points communs inattendus.
+
+
+    La dernière slide pose la question qui tue : qui gagne la part de gâteau du voisin ? 👀
+
+
+    Tu es team gâteau maison ou team restau karaoké ? 🎤
+
+
+    💾 Enregistre ce carrousel pour Pour le prochain anniversaire, tu sauras quoi offrir.
+
+
+    📤 Partage-le à un ami, Celui qui organise toujours les fêtes de la famille va adorer 🎉.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #coreedusud #anniversaire #cultureG'
+  medias:
+  - medias/2026-10-26/2026-10-26_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/06.jpg
+  - medias/2026-10-26/2026-10-26_1100_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-26_1100_carro/01.jpg
+- id: 2026-10-26_1300_devin
+  jour: lundi
+  date: '2026-10-26'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 + 9 × 9 − 9 = ?'
+  reponse: '81 (piège : 153)'
+  legende: 'La réponse n''est pas 153 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-26_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-26_1300_devin/couverture.jpg
+- id: 2026-10-26_1400_carro
+  jour: lundi
+  date: '2026-10-26'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: Ces [métiers] qui ont *disparu* de nos rues
+    sous_titre: Ta ville d'avant, version boutiques oubliées
+    slides:
+    - titre: Le [rémouleur] ambulant
+      texte: Il passait dans les rues avec sa meule au pied et aiguisait couteaux et ciseaux devant ta porte. Un
+        *service à domicile* bien avant les applis.
+    - titre: Le *marchand de glace* oublié
+      texte: Avant les réfrigérateurs dans chaque cuisine, on achetait parfois de la glace en bloc chez un marchand
+        qui la coupait à la scie. Un *froid qu'on payait au poids*.
+    - titre: Le *porteur d'eau* des villages
+      texte: Dans certaines campagnes, l'eau arrivait encore en seaux et en bidons jusqu'à la maison. Une image
+        qui semble venir d'un autre siècle, et pourtant elle n'est pas si lointaine.
+    - titre: Le *vidéoclub* et ses cassettes
+      texte: Tu choisissais ta cassette dans les rayons, puis tu la rapportais au plus vite, sous peine de payer
+        une pénalité. Une *ritournelle du samedi soir* qu'on regrette, à notre avis.
+    - titre: Le *cordonnier* de quartier
+      texte: Un talon qui lâche ? On le faisait réparer en quelques minutes plutôt que de le jeter. Le *réparateur*
+        a laissé la place au *jetable*.
+    - titre: La *cabine téléphonique* du trottoir
+      texte: Pour appeler, il fallait une pièce ou une carte, et parfois patienter dans la file. Un *lieu public*
+        où l'on attendait son tour, sans savoir qui répondrait.
+    question_fin: Lequel t'a le plus *manqué* en grandissant ?
+  sujet: Métiers et commerces disparus de nos rues (1985-2005)
+  legende: 'Ta rue d''avant avait des commerces que tu ne reverras plus 🛠️
+
+
+    Rémouleur, marchand de glace en bloc, vidéoclub, cordonnier : certains métiers ont disparu sans bruit. On les
+    a remplacés par des gestes plus rapides, et peut-être moins humains.
+
+
+    Les deux dernières slides sont celles qui font souvent réagir les plus anciens 👀
+
+
+    Quel commerce de ton enfance te manque le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux les raconter à tes proches.
+
+
+    📤 Partage-le à un ami, qui a grandi avec les mêmes rues et les mêmes boutiques.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #annees2000'
+  medias:
+  - medias/2026-10-26/2026-10-26_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/05.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/06.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/07.jpg
+  - medias/2026-10-26/2026-10-26_1400_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-26_1400_carro/01.jpg
+- id: 2026-10-26_1700_carro
+  jour: lundi
+  date: '2026-10-26'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: Et si nos vieux objets [revenaient] version *futur absurde* ?
+    sous_titre: Le rétro-futur version délire 🛸
+    slides:
+    - titre: Le [grille-pain] à pattes
+      texte: Ton vieux grille-pain pourrait bien décider de *marcher* jusqu'à la table tout seul. Imagine le petit
+        tour de cuisine avant les tartines, et tu comprendras pourquoi on le surveille.
+    - titre: Le [tourne-disque] volant
+      texte: Et si le tourne-disque des années 70 flottait au-dessus du salon ? Son aiguille danserait toute seule,
+        comme si la *gravité* n'était qu'une suggestion.
+    - titre: La [cabine] téléphonique hologramme
+      texte: Et si les vieilles cabines rouges ne servaient plus à téléphoner ? Elles projetteraient peut-être un
+        *hologramme* d'un proche qui te demande si tu manges bien.
+    - titre: La [machine à écrire] quantique
+      texte: Et si ta vieille machine à écrire tapait trois versions de la même phrase en même temps ? Il te suffirait
+        ensuite de choisir *la bonne* plus tard.
+    question_fin: Lequel de ces objets tu *ressortirais* du grenier en premier ?
+  sujet: Objets d'autrefois réinventés en version futuriste absurde
+  legende: 'Ton grille-pain veut faire une balade 🍞
+
+
+    Et si les objets de nos grands-parents avaient gardé leurs vieux rêves et s''étaient mis au futur ? On a imaginé
+    quatre inventions rétro-futuristes complètement déjantées. Certaines sont sûrement plus *flippantes* que d''autres.
+
+
+    La dernière slide te fera peut-être douter de ton vieux répondeur 👀
+
+
+    Tu garderais quel objet de ton enfance, version robot ou pas ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées quand tu t''ennuies au grenier.
+
+
+    📤 Partage-le à un ami, il va sûrement vouloir lui aussi brancher son vieux grille-pain 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #retrofuturisme #insolite'
+  medias:
+  - medias/2026-10-26/2026-10-26_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-26_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-26_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-26_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-26_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-26_1700_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-26_1700_carro/01.jpg
+- id: 2026-10-26_2000_carro
+  jour: lundi
+  date: '2026-10-26'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: Les [règles] *invisibles* que tu suis sans le savoir
+    sous_titre: Psychologie du quotidien, version sans leçon de morale
+    slides:
+    - titre: L'[ascenseur] du silence
+      texte: Dans un ascenseur, beaucoup de gens fixent les numéros d'étage. Personne ne parle, et personne ne trouve
+        ça bizarre. Ta *règle invisible* vient peut-être de s'activer.
+    - titre: Le [siège] vide d'abord
+      texte: Dans un train presque vide, on s'assoit rarement juste à côté de quelqu'un. Il faut souvent que le
+        cadre soit *plein* pour que la règle lâche. À mon avis, ton cerveau calcule la distance avant toi.
+    - titre: Le [pas] de côté
+      texte: Dans un couloir étroit, deux inconnus ralentissent, puis s'écartent du même côté. Souvent, personne
+        ne l'a décidé. C'est une *chorégraphie* sans répétition.
+    - titre: Le [cadeau] qu'on ne mérite pas
+      texte: Quand quelqu'un dit merci, on répond parfois « de rien » sans y penser. Selon moi, cette réponse est
+        une *règle* sociale qui nous échappe. Un petit mécanisme de réciprocité, peut-être.
+    - titre: Le [faux] silence au téléphone
+      texte: Au téléphone, on attend souvent que l'autre finisse avant de parler, même sans le voir. Le corps ne
+        sait pas forcément que l'autre est loin. Ton cerveau garde peut-être les *tours de parole* à distance.
+    - titre: Le [conseil] concret
+      texte: 'Pour repérer ces règles, observe un seul moment par jour : une porte, une file, un ascenseur. Tu verras
+        la *politesse* sans un mot. Avoue, tu viens de la repérer.'
+    question_fin: Laquelle de ces règles tu *suis* sans jamais y penser ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Tu respectes des règles que personne n''a écrites 👀
+
+
+    Ascenseur, siège vide, couloir, merci : ton cerveau applique peut-être des codes invisibles tous les jours.
+    Swipe pour les repérer et te faire ta propre idée.
+
+
+    La dernière règle est celle qui te fait le plus réagir dès que tu la remarques 👀
+
+
+    Tu en connaissais déjà une ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu remarqueras une règle invisible.
+
+
+    📤 Partage-le à un ami, celui qui te dit toujours « de rien » sans réfléchir.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #culturegenerale #curiosites #savoirs'
+  medias:
+  - medias/2026-10-26/2026-10-26_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/06.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/07.jpg
+  - medias/2026-10-26/2026-10-26_2000_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-26_2000_carro/01.jpg
+- id: 2026-10-26_2100_video
+  jour: lundi
+  date: '2026-10-26'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Et si une seule règle de la nature changeait'
+  accroche: Et si [LE SOLEIL] ne se *couchait* plus jamais ?
+  legende: 'Imagine un monde où le soleil refuse de dire bonne nuit 🌞
+
+
+    Tu préfères vivre dans une journée qui ne finit jamais ou une nuit qui ne finit jamais ? 🤔
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #CultureG #Curiosites #Insolite #Reels #SavaisTuQue'
+  medias:
+  - medias/2026-10-26/2026-10-26_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-26_2100_video/couverture.jpg
+  source: 2026-10-26_0800_carro
