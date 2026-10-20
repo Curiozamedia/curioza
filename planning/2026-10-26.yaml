@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-19T01:58
+genere_le: 2026-10-20T01:58
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -375,3 +375,364 @@ posts:
   - medias/2026-10-26/2026-10-26_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-26_2100_video/couverture.jpg
   source: 2026-10-26_0800_carro
+- id: 2026-10-27_0800_carro
+  jour: mardi
+  date: '2026-10-27'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des insectes agrandis à taille humaine dans des scènes banales du quotidien (dérangeant-drôle)
+  contenu:
+    titre_couverture: Et si les [insectes] redevenaient *géants* dans ta vie de tous les jours ?
+    sous_titre: Dérangeant, mais tellement drôle
+    slides:
+    - titre: Le [facteur] à six pattes
+      texte: Imagine un *bourdon* de la taille d'un camion qui livre le courrier sur ton perron. Il ne sonne pas,
+        il *bourdonne* jusqu'à ce que tu ouvres.
+    - titre: Les *fourmis* font la file
+      texte: Et si des fourmis géantes attendaient calmement à la caisse, chacune avec une miette de pain qu'elle
+        *ne lâcherait jamais* ? Le caissier, lui, aurait sûrement déjà vu pire.
+    - titre: La [coccinelle] du [réveil]
+      texte: 'Et si une coccinelle géante s''accrochait à ta fenêtre à 7 h pile ? Pas pour te réveiller : juste
+        pour *compter tes points* avant la journée.'
+    - titre: La *libellule* dans le [métro]
+      texte: Une libellule de la taille d'un homme monte dans la rame, ses yeux géants reflétant tous les voyageurs.
+        Personne ne lève les yeux de son téléphone, *sauf toi*.
+    question_fin: Laquelle t'a mis le plus *mal à l'aise* ?
+  sujet: Insectes géants dans le quotidien banal
+  legende: 'Imagine ton voisin de palier qui fait 2 mètres de haut et qui a six pattes 🐞
+
+
+    Un bourdon facteur, des fourmis à la caisse du supermarché, une coccinelle qui vient te réveiller : le quotidien
+    devient soudain beaucoup plus bizarre. Swipe pour voir jusqu''où ça peut aller.
+
+
+    La dernière slide est celle qu''on n''oublie pas dans le métro 👀
+
+
+    Tu prends le métro demain ou tu marches à pied ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu vois une mouche collée à la vitre.
+
+
+    📤 Partage-le à un ami, pour qu''il regarde ses plantes d''un autre œil ce soir 🪲.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insectes #absurde #tuSaisQuoi'
+  medias:
+  - medias/2026-10-26/2026-10-27_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-27_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-27_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-27_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-27_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-27_0800_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-27_0800_carro/01.jpg
+- id: 2026-10-27_1100_carro
+  jour: mardi
+  date: '2026-10-27'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours, mais tu sais *d'où ça vient* ?
+    sous_titre: Les expressions françaises et leurs origines [folles]
+    slides:
+    - titre: '[Poser] un lapin, ça vient d''où ?'
+      texte: 'Attendre quelqu''un qui ne vient pas, c''est « poser un lapin ». Une idée souvent citée : au XIXe
+        siècle, des parieurs auraient payé en lapins, *une dette impayée*. Ce n''est qu''une hypothèse, pas une
+        certitude.'
+    - titre: Le *cachot* et ses fameux *dix-sept*
+      texte: 'Sais-tu que le mot « cachot » est lié à l''idée de cacher ? Et qu''on dit « être dans le pétrin »
+        parce que le pétrin est la cuve où l''on pétrit la pâte : une situation collante et coincée.'
+    - titre: '[Mettre] les *pieds dans le plat*'
+      texte: 'Dire ce qu''on ne doit pas dire, c''est mettre les pieds dans le plat. Une origine souvent évoquée
+        : la maladresse à table, *un geste trop brusque*, qui renverse le plat sur la nappe.'
+    - titre: Être *sur les dents*
+      texte: Épuisé et tendu à la fois, on est « sur les dents ». Les dents évoquent la fatigue et la nervosité
+        qui serrent, *un état de tension extrême* que tout le monde a déjà ressenti.
+    - titre: Un *coup de pied de l'âne*
+      texte: 'Frapper quelqu''un qui est déjà à terre : c''est le coup de pied de l''âne. La fable de La Fontaine
+        « L''Âne et le Chien » est souvent citée comme source, *une cruauté gratuite* qu''on critique encore aujourd''hui.'
+    question_fin: Laquelle de ces expressions *utilises-tu* sans le savoir ?
+  sujet: Origine surprenante d'expressions françaises du quotidien
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça vient 🤯
+
+
+    On a pris cinq expressions françaises ultra courantes et on a remonté leur histoire. Certaines viennent peut-être
+    de la boulangerie, d''autres d''une fable de La Fontaine. Tu vas les regarder autrement.
+
+
+    La dernière expression vient peut-être d''une fable qui n''a rien d''un conte pour enfants 👀
+
+
+    Tu connaissais laquelle, toi ? 👇
+
+
+    💾 Enregistre ce carrousel pour tes prochaines discussions autour d''un café 📌.
+
+
+    📤 Partage-le à un ami, celui qui dit « je suis sur les dents » en ce moment 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #expressionsfrancaises #curiosites #anecdotes #francais'
+  medias:
+  - medias/2026-10-26/2026-10-27_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/06.jpg
+  - medias/2026-10-26/2026-10-27_1100_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-27_1100_carro/01.jpg
+- id: 2026-10-27_1300_devin
+  jour: mardi
+  date: '2026-10-27'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 4 + 4 × 4 − 4 = ?'
+  reponse: '16 (piège : 28)'
+  legende: 'La réponse n''est pas 28 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-27_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-27_1300_devin/couverture.jpg
+- id: 2026-10-27_1400_carro
+  jour: mardi
+  date: '2026-10-27'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: Et si les [MONUMENTS] du monde étaient faits de *gelée* ?
+    sous_titre: Culture G version pâte à modeler
+    slides:
+    - titre: La [TOUR] en *gelée* framboise
+      texte: Imagine une tour de fer qui tremble à chaque coup de vent. En version gelée, on se demande si elle
+        tiendrait debout plus de cinq minutes.
+    - titre: Le *désert* en pâte à modeler
+      texte: Des dunes orange vif, sculptées à la main, qui gardent la trace des doigts. Un paysage de bac à sable
+        géant pour adultes.
+    - titre: Un [PALAIS] de glace bleue
+      texte: Des colonnes qui fondent doucement au soleil. Dans cette version, la visite guidée ne durerait sans
+        doute pas longtemps avant la flaque.
+    - titre: Des *briques* de Lego géantes
+      texte: Un temple grec empilé brique par brique, avec des tenons bien visibles sur chaque colonne. Il ne manque
+        plus qu'une notice de montage.
+    - titre: Le *fromage* qui a des trous
+      texte: Une cathédrale en gruyère, avec des vitraux de lumière qui passent par les alvéoles. Un guide touristique
+        imaginaire te conseillerait sûrement de ne pas éternuer.
+    question_fin: Quel monde en matière inattendue te donnerait le plus *envie* de visiter ?
+  sujet: Lieux célèbres du monde en matière inattendue, angle absurde
+  legende: 'Et si les monuments du monde fondaient dans ton assiette ? 🍮
+
+
+    De la tour en gelée au désert en pâte à modeler, chaque lieu change de matière et devient absurde. Swipe pour
+    voir les autres versions, certaines sont très gourmandes.
+
+
+    La dernière slide te fera penser à ton plateau de fromages 👀
+
+
+    Tu choisis quelle matière pour ta maison de rêve ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver les idées les plus folles quand tu veux impressionner tes potes.
+
+
+    📤 Partage-le à un ami, ce sera le meilleur fond d''écran de sa journée 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #insolite #etsi'
+  medias:
+  - medias/2026-10-26/2026-10-27_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/05.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/06.jpg
+  - medias/2026-10-26/2026-10-27_1400_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-27_1400_carro/01.jpg
+- id: 2026-10-27_1700_carro
+  jour: mardi
+  date: '2026-10-27'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les règles de la cour de récré que tout le monde connaissait
+  contenu:
+    titre_couverture: Les [règles] que personne ne t'a jamais écrites à la *récré*
+    sous_titre: Les lois secrètes de la cour, version années 90-2000
+    slides:
+    - titre: Le [ballon] appartient à celui qui l'a apporté
+      texte: Tu le ramènes, tu fais les règles. Et si tu perdais le ballon en plein match, tu devenais l'arbitre
+        de ta propre punition, jusqu'au prochain goûter.
+    - titre: Le *pacte* du chewing-gum partagé
+      texte: À l'école, on avait l'impression qu'un chewing-gum se coupait en deux, parfois en trois, et que refuser
+        la moitié te mettait direct sur la liste noire. Selon nous, c'était une loi tacite plus stricte qu'un règlement.
+    - titre: Le *coin* réservé aux anciens
+      texte: Sur le mur du préau, certains espaces semblaient invisibles mais sacrés. Les plus grands décidaient,
+        dans les souvenirs de beaucoup, qui pouvait s'asseoir, sans jamais l'expliquer.
+    - titre: La *dernière* place au ballon
+      texte: 'Le jeu de l''élastique ou du foot, tout se réglait en une phrase : premier arrivé, premier servi.
+        Et tant pis pour ceux qui arrivaient en retard.'
+    - titre: Le *silence* après la sonnerie
+      texte: Quand la cloche sonnait, il fallait se mettre en rang sans un mot. Une règle absurde, qu'on suivait
+        presque tous sans jamais la discuter.
+    question_fin: Laquelle de ces règles tu appliquais *sans jamais* te poser de question ?
+  sujet: Règles non écrites de la cour de récré des années 90-2000
+  legende: 'Personne ne t''a jamais expliqué ces règles, pourtant tu les connaissais toutes 🏫
+
+
+    Le ballon, le chewing-gum, le coin du préau : la cour avait sa propre justice, sans écrit ni prof. Swipe pour
+    retrouver les lois secrètes de ta récré.
+
+
+    La dernière règle est celle qui faisait pleurer tout le monde, et elle arrive en fin de carrousel 👀
+
+
+    Quelle règle de récré tu respectais encore sans la comprendre ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux raconter ta récré à tes enfants.
+
+
+    📤 Partage-le à un ami, il va reconnaître la cour de son école en deux secondes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #recre #culturegenerale #souvenirsdenfance'
+  medias:
+  - medias/2026-10-26/2026-10-27_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/06.jpg
+  - medias/2026-10-26/2026-10-27_1700_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-27_1700_carro/01.jpg
+- id: 2026-10-27_2000_carro
+  jour: mardi
+  date: '2026-10-27'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton [cerveau] fait des *trucs* dans ton dos
+    sous_titre: Les petites protections que tu ne vois jamais venir
+    slides:
+    - titre: Le [filtre] du regard
+      texte: 'Ton cerveau *zappe* une grande partie de ce que tes yeux captent. Tu ne vois pas le monde en entier
+        : il trie en silence ce qui mérite ton attention.'
+    - titre: Le *réflexe* du mauvais souvenir
+      texte: D'après une idée souvent évoquée en psychologie, ton cerveau accorde parfois plus de poids aux mauvais
+        moments qu'aux bons. Une remarque vexante peut donc te coller à la peau plus longtemps qu'un compliment.
+    - titre: Le *pilote* automatique
+      texte: Sur un trajet que tu connais par cœur, tu fermes la porte et tournes la clé sans y penser. Ton cerveau
+        économise son énergie, et tu oublies parfois la moitié du trajet.
+    - titre: Le [refus] de l'inconnu
+      texte: Face à une situation nouvelle, ton cerveau a tendance à préférer le connu, même quand il est moins
+        bon. On peut y voir une façon de fuir l'incertitude plus que de chercher le confort.
+    - titre: L'alarme *qui se tait*
+      texte: Ton cerveau finit par ignorer un bruit répété, comme le ronronnement du frigo ou de la clim. C'est
+        pratique, mais il peut aussi filtrer un vrai signal d'alerte.
+    - titre: Le *faux* souvenir du passé
+      texte: Ta mémoire reconstruit en partie les souvenirs à chaque fois que tu les rappelles. Ce qui te semble
+        sûr peut donc être légèrement réécrit, sans que tu t'en rendes compte.
+    question_fin: Lequel de ces mécanismes t'a le plus *surpris* ?
+  sujet: Mécanismes de protection automatiques de ton cerveau, expliqués simplement
+  legende: 'Ton cerveau bosse dans ton dos, et tu ne t''en rends jamais compte 🧠
+
+
+    Il trie ce que tu vois, accorde parfois plus de poids au négatif, pilote tes gestes et peut réécrire tes souvenirs.
+    Six petits mécanismes que tu vas reconnaître tout de suite.
+
+
+    La dernière slide touche à ta mémoire, et c''est là que ça devient vraiment troublant 👀
+
+
+    Tu as déjà remarqué un de ces réflexes chez toi ? Dis-le en commentaire 💬
+
+
+    💾 Enregistre ce carrousel pour pour relire ces mécanismes quand tu te sens bloqué 📌.
+
+
+    📤 Partage-le à un ami, parce que ton pote fait sûrement exactement le même pilote automatique 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #curiosites #culturegenerale #biais'
+  medias:
+  - medias/2026-10-26/2026-10-27_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/06.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/07.jpg
+  - medias/2026-10-26/2026-10-27_2000_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-27_2000_carro/01.jpg
+- id: 2026-10-27_2100_video
+  jour: mardi
+  date: '2026-10-27'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Insectes géants dans le quotidien banal'
+  accroche: Le [facteur] à *six pattes* ne livre jamais en retard
+  legende: 'Ton facteur a six pattes, lui, il arrive toujours à l''heure 📬🐞
+
+
+    Et toi, quel insecte géant tu voudrais voir au boulot le matin ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insectes #illustrationIA #reelsfrance'
+  medias:
+  - medias/2026-10-26/2026-10-27_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-27_2100_video/couverture.jpg
+  source: 2026-10-27_0800_carro
