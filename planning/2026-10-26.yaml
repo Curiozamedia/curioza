@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-20T01:58
+genere_le: 2026-10-21T01:52
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -736,3 +736,364 @@ posts:
   - medias/2026-10-26/2026-10-27_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-27_2100_video/couverture.jpg
   source: 2026-10-27_0800_carro
+- id: 2026-10-28_0800_carro
+  jour: mercredi
+  date: '2026-10-28'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le petit-déjeuner'
+  contenu:
+    titre_couverture: 'LE DUEL *France vs Australie* : [PETIT-DÉJEUNER] qui gagne ?'
+    sous_titre: Ce que ton matin dit de toi, selon où tu le prends
+    slides:
+    - titre: Le [café] du matin
+      texte: En France, on boit souvent un *café* serré debout au comptoir. En Australie, le *flat white* est roi,
+        et on s'y attache comme à une routine sacrée.
+    - titre: Tartine contre *avocado toast*
+      texte: Le Français ouvre sa *tartine* beurrée à la confiture. L'Australien, lui, préfère l'*avocat écrasé*
+        sur pain de campagne, parfois avec un œuf poché. Un duel de textures !
+    - titre: Le petit-déj [en plein air]
+      texte: Là-bas, beaucoup mangent sous la véranda ou au jardin, même en semaine. Ici, on prend le petit-déj
+        vite fait, souvent debout, en regardant l'heure.
+    - titre: Sucré ou [salé] ?
+      texte: Le Français pense croissant et confiture. L'Australien peut très bien commencer sa journée par des
+        œufs, du bacon ou des haricots. Pas de règle, juste des habitudes !
+    - titre: Le [verdict] du petit-déj
+      texte: Au fond, le *meilleur petit-déj* est celui qui te donne envie de te lever. Et toi, tu préfères *sucré*
+        ou *salé* au réveil ?
+    question_fin: Et toi, tu es team *sucré* ou team *salé* au réveil ?
+  sujet: 'Le duel France vs Australie : le petit-déjeuner'
+  legende: 'Croissant ou avocat toast, il faut choisir ! 🥐🥑
+
+
+    Entre le café serré français et le flat white australien, les habitudes du matin en disent peut-être long sur
+    nos façons de vivre. Swipe pour voir qui gagne le duel du petit-déj.
+
+
+    La dernière slide va te surprendre sur ce qu''on mange au réveil 👀
+
+
+    Tu te reconnais dans quel camp ? Dis-le en commentaire ☕
+
+
+    💾 Enregistre ce carrousel pour pour le garder sous la main la prochaine fois qu''on te demande ce que tu prends
+    au petit-déj.
+
+
+    📤 Partage-le à un ami, pour savoir si ta team sucré ou salé va gagner la dispute du matin.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #petitdejeuner #australie #france'
+  medias:
+  - medias/2026-10-26/2026-10-28_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/06.jpg
+  - medias/2026-10-26/2026-10-28_0800_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-28_0800_carro/01.jpg
+- id: 2026-10-28_1100_carro
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [truqué] ? Pourtant c'est *100% réel* !
+    sous_titre: La nature fait mieux que Photoshop
+    slides:
+    - titre: Le lac qui n'a pas de bord
+      texte: Sur les salars comme celui d'Uyuni, en Bolivie, une fine pellicule d'eau pendant la saison des pluies
+        transforme le sol en miroir géant. Le ciel et la terre semblent ne faire plus qu'un.
+    - titre: Des nuages qui s'allument
+      texte: Les nuages irisés brillent de couleurs pastel quand le soleil les frôle. Selon les explications des
+        météorologues, ce sont des gouttelettes d'eau de taille presque uniforme qui diffractent la lumière.
+    - titre: Une rivière qui bout
+      texte: 'Dans la forêt amazonienne péruvienne, la légende du Shanay-Timpishka raconte une rivière à l''eau
+        brûlante. Une belle histoire, mais la réalité géologique reste à vérifier : à classer parmi les curiosités,
+        pas parmi les faits établis.'
+    - titre: Le lac qui vire au rose
+      texte: 'Certains lacs deviennent roses à cause d''algues et de micro-organismes halophiles. Le lac Hillier,
+        en Australie, est souvent cité en exemple : tu peux le retrouver sur des photos satellites.'
+    - titre: Des vagues qui gèlent
+      texte: Sur les rives de certains lacs, la glace peut former des disques parfaits quand les vagues tournent
+        sur elles-mêmes. Le phénomène existe, mais il se produit surtout dans des conditions très particulières.
+    question_fin: Lequel te paraît le plus *irréel* ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Non, ce n''est pas un filtre Instagram 🌍
+
+
+    Des miroirs géants, des nuages colorés, des lacs roses : la nature a des effets spéciaux sans budget. Swipe
+    pour voir ce qui semble faux et pourtant existe.
+
+
+    La dernière slide est la plus étrange, mais attention : une des légendes reste une légende 👀
+
+
+    Tu pensais déjà que c''était du montage ? 😏
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand un ami te dit que c''est trafiqué.
+
+
+    📤 Partage-le à un ami, il va vouloir vérifier ça sur Google.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #insolite #saviezvous'
+  medias:
+  - medias/2026-10-26/2026-10-28_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/06.jpg
+  - medias/2026-10-26/2026-10-28_1100_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-28_1100_carro/01.jpg
+- id: 2026-10-28_1300_devin
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 8 + 8 × 8 − 8 = ?'
+  reponse: '64 (piège : 120)'
+  legende: 'La réponse n''est pas 120 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-28_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-28_1300_devin/couverture.jpg
+- id: 2026-10-28_1400_carro
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: '[Ils] ont *tout copié* : les animaux version pire habitude humaine'
+    sous_titre: Scroller, râler, faire la queue… ils ont tout pris
+    slides:
+    - titre: LE PIGEON *SCROLLER*
+      texte: Il tient son téléphone entre les pattes, pouce en mouvement, et ignore les miettes de pain juste devant
+        lui. Tu te reconnais, avoue.
+    - titre: LA TORTUE *FAIT LA QUEUE*
+      texte: Elle attend patiemment au guichet, numéro en main, sans jamais avancer. Franchement, on se demande
+        si elle n'a pas trouvé sa vocation.
+    - titre: LE CHAT *RÂLE AU VOLANT*
+      texte: Il klaxonne un rongeur qui traverse trop lentement, baisse la vitre et soupire fort. Le code de la
+        route ? À mon avis, il l'a lu en diagonale.
+    - titre: LE CASTOR *ACCAPARE LA CAISSE*
+      texte: Il remplit son chariot de bûches jusqu'en haut et refuse de le ranger. Au supermarché, c'est lui qui
+        bloque tout le monde.
+    question_fin: Lequel te ressemble le plus, *sans honte* ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Ils ont tout copié, même le pire 🐾
+
+
+    Pigeon accro au scroll, tortue qui fait la queue, chat qui râle au volant : à mon avis, les animaux ont adopté
+    nos plus mauvaises habitudes. Et tu vas vite te reconnaître.
+
+
+    La dernière slide est celle qui fait le plus rire… 👀
+
+
+    Quelle habitude animale t''a fait éclater de rire ? 😂
+
+
+    💾 Enregistre ce carrousel pour te moquer de toi-même au prochain embouteillage 🚗.
+
+
+    📤 Partage-le à un ami, il est sûrement pire que toi au supermarché 🛒.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #humour #animaux'
+  medias:
+  - medias/2026-10-26/2026-10-28_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-28_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-28_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-28_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-28_1400_carro/05.jpg
+  - medias/2026-10-26/2026-10-28_1400_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-28_1400_carro/01.jpg
+- id: 2026-10-28_1700_carro
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Ce que tu faisais quand il n'y avait pas internet à la maison
+  contenu:
+    titre_couverture: Avant le [WiFi], tu faisais *quoi* exactement ?
+    sous_titre: Les galères et les rituels des années 80 et 90
+    slides:
+    - titre: Le [téléphone] fixe en *otage*
+      texte: Pendant des années, le téléphone fixe de la maison servait à tout le monde. Impossible d'appeler quand
+        quelqu'un *parlait déjà* à toute la famille.
+    - titre: Rembobiner la *cassette* à la main
+      texte: Pour revoir ta chanson préférée, il fallait rembobiner avec un *crayon* glissé dans la roue. Le ruban
+        se chiffonnait, et la musique devenait bizarre.
+    - titre: Les *cartes routières* dépliées
+      texte: Avant les GPS, on dépliait une carte routière sur le siège passager. La replier ensuite était un *exercice
+        impossible* qui finissait souvent en engueulade.
+    - titre: Le *Minitel* et ses bips
+      texte: Certains foyers français avaient le Minitel, un terminal à écran monochrome relié au réseau téléphonique.
+        Chaque connexion se payait à la *durée*, et le bip de connexion faisait partie du décor.
+    - titre: Attendre la *photo* développée
+      texte: Une pellicule se finissait, puis il fallait attendre des jours pour la faire développer. Tu ne savais
+        jamais *vraiment* ce que la photo donnerait avant de la récupérer.
+    question_fin: Lequel de ces souvenirs te donne le plus *envie de pleurer* ?
+  sujet: Ce qu'on faisait quand il n'y avait pas internet à la maison
+  legende: 'Avant le WiFi, tu faisais quoi exactement ? 📞
+
+
+    Pas de Google, pas de streaming, juste un fil de téléphone, un crayon et une carte routière. Swipe pour retrouver
+    les rituels qu''on a tous connus sans y penser.
+
+
+    La dernière slide parle d''une attente qui n''existe plus du tout 👀
+
+
+    Quel était ton rituel préféré sans internet ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces galères quand tu les raconteras à tes enfants.
+
+
+    📤 Partage-le à un ami, qui a grandi avec un téléphone à fil et une cassette rembobinée au crayon.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirs #culturegenerale #curiosites'
+  medias:
+  - medias/2026-10-26/2026-10-28_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/06.jpg
+  - medias/2026-10-26/2026-10-28_1700_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-28_1700_carro/01.jpg
+- id: 2026-10-28_2000_carro
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Les [lieux] de France qui cachent des *histoires de fou*
+    sous_titre: Six endroits réels que tu croyais connaître
+    slides:
+    - titre: '[Le] *mont* qui était une île'
+      texte: Le Mont-Saint-Michel n'a pas toujours été relié à la terre. Avant l'aménagement moderne, on le rejoignait
+        à pied via des *passages* que les marées rendaient parfois dangereux.
+    - titre: Une ville *construite* sur pilotis
+      texte: Venise n'est pas en France, mais chez nous aussi, des maisons anciennes reposent sur des *pieux de
+        bois* enfoncés dans les zones humides. Une idée à creuser pour les curieux.
+    - titre: Le village qui *change* de couleur
+      texte: Roussillon, dans le Vaucluse, est célèbre pour ses falaises d'ocre. Les pigments naturels y ont été
+        exploités pendant des siècles dans des *carrières* à ciel ouvert.
+    - titre: Des *grottes* sous les pieds
+      texte: Le gouffre de Padirac, dans le Lot, descend profondément sous terre. On peut y naviguer en barque sur
+        une rivière souterraine.
+    - titre: Une *forteresse* au bord de l'eau
+      texte: Le château de Chillon, sur les rives du Léman, est souvent cité comme exemple d'architecture fortifiée
+        au bord de l'eau. Une idée à creuser pour les amateurs de *châteaux*.
+    - titre: Le *rocher* qui intrigue
+      texte: À Carnac, des alignements de mégalithes intriguent encore les chercheurs. Personne ne sait exactement
+        pourquoi ils ont été dressés, et c'est ce mystère qui *fascine*.
+    question_fin: Lequel de ces lieux te donne le plus *envie d'y aller* ?
+  sujet: Lieux de France aux histoires étonnantes, angle inédit
+  legende: 'Tu crois connaître la France ? Pas sûr 🗺️
+
+
+    Des îles qui ne le sont plus, des villages peints en ocre, des rivières sous terre. Six lieux réels qui prouvent
+    que la France a des secrets bien cachés.
+
+
+    Le dernier lieu est celui que peu de gens associent au mystère, et pourtant... 👀
+
+
+    Tu en connaissais combien avant de swiper ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver tes futures idées de week-end sans chercher pendant des heures.
+
+
+    📤 Partage-le à un ami, qui rêve de partir en vacances en France sans s''ennuyer.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #france #curiosites #lieuxdefrance #saviezvous'
+  medias:
+  - medias/2026-10-26/2026-10-28_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/06.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/07.jpg
+  - medias/2026-10-26/2026-10-28_2000_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-28_2000_carro/01.jpg
+- id: 2026-10-28_2100_video
+  jour: mercredi
+  date: '2026-10-28'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui ont adopté nos pires habitudes humaines'
+  accroche: Ces animaux ont piqué nos [pires] *habitudes humaines*, tu vas te reconnaître
+  legende: 'Tu te reconnais dans au moins un de ces animaux ? 🐦
+
+
+    Lequel te ressemble le plus : le pigeon scrolleur ou la tortue qui fait la queue ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animaux #humour #insolite'
+  medias:
+  - medias/2026-10-26/2026-10-28_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-28_2100_video/couverture.jpg
+  source: 2026-10-28_1400_carro
