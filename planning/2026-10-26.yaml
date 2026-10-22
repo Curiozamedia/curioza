@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-21T01:52
+genere_le: 2026-10-22T01:45
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -1097,3 +1097,347 @@ posts:
   - medias/2026-10-26/2026-10-28_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-28_2100_video/couverture.jpg
   source: 2026-10-28_1400_carro
+- id: 2026-10-29_0800_carro
+  jour: jeudi
+  date: '2026-10-29'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des inventions totalement inutiles mais magnifiques
+  contenu:
+    titre_couverture: DES [INVENTIONS] *inutiles* mais *magnifiques* 🤯
+    sous_titre: Le génie qui ne sert à rien, et qu'on adore quand même
+    slides:
+    - titre: Le [parapluie] à bulles
+      texte: Un parapluie qui ne protège de rien, mais qui *fait des bulles* à chaque averse. Pourquoi ? Parce que
+        la pluie, c'est déjà triste, et tu mérites mieux.
+    - titre: La [chaise] à musique du vent
+      texte: Un fauteuil couvert de petites cloches de cristal qui tintent quand une *brise* passe. Inutile pour
+        s'asseoir, parfait pour *rêver* dix minutes.
+    - titre: L'[horloge] qui recule
+      texte: Une pendule qui tourne à l'envers, et si ça ralentissait les lundis matin ? Une idée poétique, en tout
+        cas. Les aiguilles n'ont jamais été aussi *poétiques* que dans ce salon bizarre.
+    - titre: Le [grille-pain] à papillons
+      texte: Il ne grille rien, mais il libère des *papillons de papier* à chaque toast. Le petit-déjeuner devient
+        enfin un *spectacle* qu'on n'a pas demandé.
+    question_fin: Laquelle de ces inventions tu *achèterais* sans hésiter, même pour rien ?
+  sujet: Inventions totalement inutiles mais magnifiques
+  legende: 'Des machines qui ne servent à rien… et c''est exactement pour ça qu''on les adore ✨
+
+
+    Un parapluie qui fait des bulles, une chaise qui tinte au vent, une horloge qui recule : l''inutile peut être
+    magnifique. Swipe pour découvrir les autres pépites absurdes.
+
+
+    La dernière invention est celle qui te fera douter de ton grille-pain 👀
+
+
+    Tu inventerais quoi d''inutile mais magnifique ? 💡
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces idées les jours où tu as besoin d''un peu de poésie.
+
+
+    📤 Partage-le à un ami, il aura besoin d''un peu de magie inutile dans sa journée.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #inventions #absurde #insolite'
+  medias:
+  - medias/2026-10-26/2026-10-29_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-29_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-29_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-29_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-29_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-29_0800_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-29_0800_carro/01.jpg
+- id: 2026-10-29_1100_carro
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : l''école et les enfants'
+  contenu:
+    titre_couverture: 'Le duel [France] vs *Grèce* : l''école qui fait débat'
+    sous_titre: 'Cartable, cantine, récré : qui gagne ?'
+    slides:
+    - titre: Le [cartable] en *duel*
+      texte: Chez nous, on dit souvent que le cartable pèse lourd. En Grèce, on a l'impression que les élèves portent
+        surtout des livres. À toi de juger si ça change vraiment la vie !
+    - titre: La *cantine* qui *surprend*
+      texte: Chez nous, la cantine fait partie du quotidien de beaucoup d'enfants. D'après ce qu'on lit souvent,
+        en Grèce beaucoup mangent plutôt à la maison, et les goûters partagés en récré restent une tradition chère
+        à certains. Et toi, tu étais plutôt cantine ou maison ?
+    - titre: La récré, [ballon] ou *jeux* ?
+      texte: 'Ici, on joue souvent au foot. Là-bas, on aime aussi les jeux de main traditionnels. Question à se
+        poser : qui a le meilleur terrain pour inventer ses règles ?'
+    - titre: Le *tableau* et la *bise*
+      texte: Dans toutes les classes, le respect de l'enseignant compte. Le bonjour lancé à voix haute et les salutations
+        chaleureuses donnent, à notre avis, le ton de la journée.
+    - titre: Les *vacances* qui *changent* tout
+      texte: Selon nous, les rythmes scolaires varient d'un pays à l'autre, et l'idée de la grande pause d'été dépend
+        beaucoup de la culture. Et toi, tu préfères les longues vacances ou les petites pauses régulières ?
+    question_fin: Lequel de ces écarts te paraît le plus *surprenant* ?
+  sujet: 'Le duel France vs Grèce : l''école et les enfants'
+  legende: 'Cartable, cantine, récré : le duel France vs Grèce est lancé 🎒
+
+
+    Entre un cartable qui semble bien lourd et une cantine qui ne fait pas partie du quotidien de tous, les habitudes
+    semblent très différentes. Swipe pour voir le duel complet.
+
+
+    Dans les dernières slides, on parle de vacances et de rythmes... avec une question qui divise 👀
+
+
+    Tu as mangé à la cantine ou tu rentrais chez toi le midi ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces comparaisons quand tu parleras école avec tes amis.
+
+
+    📤 Partage-le à un ami, il sera ravi de comparer avec son école d''enfance 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #France #Grece #ecole'
+  medias:
+  - medias/2026-10-26/2026-10-29_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/06.jpg
+  - medias/2026-10-26/2026-10-29_1100_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-29_1100_carro/01.jpg
+- id: 2026-10-29_1300_devin
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 2 + 2 × 9 − 4 = ?'
+  reponse: '16 (piège : 32)'
+  legende: 'La réponse n''est pas 32 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-29_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-29_1300_devin/couverture.jpg
+- id: 2026-10-29_1400_carro
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les phrases que tous les parents disaient
+  contenu:
+    titre_couverture: Ces phrases que [TOUS] nos parents *répétaient* en boucle
+    sous_titre: 'Spoiler : tu les as entendues au moins une fois'
+    slides:
+    - titre: 'La phrase [culte] : *Tu verras quand tu auras mon âge*'
+      texte: Une promesse floue qu'on a tous entendue. Personne ne sait vraiment *à quel âge exactement* on comprend
+        enfin pourquoi il fallait manger ses épinards, mais on a tous attendu ce moment.
+    - titre: Le mythe des *yeux qui restent* collés
+      texte: Tu as sûrement entendu que si tu fais cette grimace, elle va rester. Une menace qu'on ne vérifiait
+        jamais, mais qui semblait très efficace à l'époque.
+    - titre: Le fameux *Va jouer dehors*
+      texte: 'Pas de téléphone, pas d''écran : juste un ballon, une rue et des heures devant soi. Selon nous, cette
+        phrase a façonné toute une génération de *bricoleurs de trottoir*.'
+    question_fin: Laquelle t'a le plus *marqué* dans ton enfance ?
+  sujet: Phrases de parents que tous les enfants des années 85-05 ont entendues
+  legende: 'Tu l''as entendue, toi aussi, et tu as juré de ne jamais la dire 😅
+
+
+    On a tous grandi avec des phrases de parents qui ne voulaient rien dire, mais qui marchaient à tous les coups.
+    Certaines sont des mythes, d''autres des vérités qui ne se comprennent qu''à l''âge adulte.
+
+
+    La dernière slide est celle qui fait toujours rire les parents 👀
+
+
+    Quelle phrase de ta mère ou de ton père tu répètes aujourd''hui sans t''en rendre compte ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+
+
+    📤 Partage-le à un ami, qui va reconnaître sa mère dans la première slide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #anneesdoree'
+  medias:
+  - medias/2026-10-26/2026-10-29_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-29_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-29_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-29_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-29_1400_carro/05.jpg
+  couverture: medias/2026-10-26/2026-10-29_1400_carro/01.jpg
+- id: 2026-10-29_1700_carro
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: Et si ton [chat] faisait la taille d'un *immeuble* ?
+    sous_titre: Bienvenue dans la ville où les croquettes pèsent une tonne
+    slides:
+    - titre: Le [facteur] dépose le courrier
+      texte: Ton chien géant attend le facteur sur le toit, la langue pendante. Le facteur, lui, grimpe à l'échelle
+        sans demander son reste. On peut se demander qui a le plus de courage.
+    - titre: Le *hamster* au parc
+      texte: Un hamster de la taille d'une tour de bureau fait sa roue entre deux immeubles. Les enfants du quartier
+        réclament un *tour de manège* gratuit.
+    - titre: Le *poisson rouge* en vitrine
+      texte: Un poisson rouge géant nage lentement devant une tour de verre. On imagine sans peine les employés
+        du soixantième étage collés aux fenêtres pour le regarder.
+    - titre: Le *perroquet* à l'antenne
+      texte: Ton perroquet de vingt étages répète tout ce que disent les voisins. Le problème ? Il pourrait apprendre
+        les *jurons* du bistrot d'en face, en stéréo.
+    - titre: La *tortue* qui traverse
+      texte: Une tortue géante traverse l'avenue très lentement. Les feux passent au vert, au rouge, puis au vert
+        encore. Et personne ne la *klaxonne*, par respect.
+    question_fin: Lequel de ces animaux géants te mettrait le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie grands comme des immeubles en ville
+  legende: 'Ton chat fait 12 étages et il a faim 🐈
+
+
+    Imagine le facteur qui grimpe pour livrer ton courrier dans la gueule de ton chien géant. Ou le perroquet qui
+    répète les jurons du bistrot d''en face. Swipe, c''est pire à chaque slide.
+
+
+    La slide 5 va te faire regarder les feux de signalisation autrement 👀
+
+
+    Ton animal préféré deviendrait lequel en version immeuble ? 😂
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ce scénario la prochaine fois que ton chat t''ignore.
+
+
+    📤 Partage-le à un ami, il a sûrement un ami qui rêve de devenir une tour 🐕.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #ia #animaux'
+  medias:
+  - medias/2026-10-26/2026-10-29_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/06.jpg
+  - medias/2026-10-26/2026-10-29_1700_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-29_1700_carro/01.jpg
+- id: 2026-10-29_2000_carro
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ce mot que tu crois *français* vient d'ailleurs
+    sous_titre: Emprunts surprenants, et pourquoi ils sont là
+    slides:
+    - titre: Le [kiosque] vient de très loin
+      texte: Le mot vient du persan *kuchk*, un pavillon de jardin. Il est passé par le turc avant d'arriver en
+        français, au XVIIIe siècle.
+    - titre: Le *café* a voyagé par l'Italie
+      texte: Le mot est passé par l'italien *caffè*, lui-même issu du turc *kahve*, avec un détour par l'arabe *qahwa*.
+        Une boisson qui a fait le tour de la Méditerranée avant nos tasses.
+    - titre: Le *bazar* vient de Perse
+      texte: Le mot vient du persan *bāzār*, le marché. Il a voyagé jusqu'au turc puis au français, et il désigne
+        aujourd'hui aussi le joyeux désordre d'une chambre d'ado.
+    - titre: Pourquoi on emprunte des *mots* ?
+      texte: Un mot arrive souvent avec un objet, une mode ou une idée nouvelle. Le français a beaucoup emprunté,
+        mais il a aussi exporté des mots comme *bureau* ou *restaurant* partout dans le monde.
+    question_fin: Quel mot de ta vie *pensais-tu* être français à 100 % ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton français a des passeports étrangers 🌍
+
+
+    Kiosque, café, bazar : trois mots qui ont voyagé avant d''arriver dans ta bouche. Chaque slide raconte le trajet
+    d''un mot et la raison de son arrivée.
+
+
+    Le dernier mot de la série a une histoire qui surprend même les profs de français 👀
+
+
+    Quel mot emprunté t''a le plus surpris ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces origines quand tu briseras la tête d''un pote en quiz 📚.
+
+
+    📤 Partage-le à un ami, il pensera qu''il ne connaissait pas son propre vocabulaire 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #etymologie #francais #curiosites #motsfrancais'
+  medias:
+  - medias/2026-10-26/2026-10-29_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-29_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-29_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-29_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-29_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-29_2000_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-29_2000_carro/01.jpg
+- id: 2026-10-29_2100_video
+  jour: jeudi
+  date: '2026-10-29'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Inventions totalement inutiles mais magnifiques'
+  accroche: Une [chaise] *à musique du vent* qui joue toute seule
+  legende: 'Une chaise qui fait de la musique sans que personne ne s''asseye 🎶
+
+
+    Tu l''achèterais pour ton jardin, ou tu la trouves juste bonne à rendre fou tes voisins ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #inventions #insolite #illustrationIA'
+  medias:
+  - medias/2026-10-26/2026-10-29_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-29_2100_video/couverture.jpg
+  source: 2026-10-29_0800_carro
