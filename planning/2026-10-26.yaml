@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-22T01:45
+genere_le: 2026-10-23T01:45
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -1441,3 +1441,356 @@ posts:
   - medias/2026-10-26/2026-10-29_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-29_2100_video/couverture.jpg
   source: 2026-10-29_0800_carro
+- id: 2026-10-30_0800_carro
+  jour: vendredi
+  date: '2026-10-30'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: LES [MÉTIERS] QUI N'EXISTENT *PAS* MAIS QU'ON AIMERAIT *VOIR* 🤯
+    sous_titre: Swipe si tu veux postuler
+    slides:
+    - titre: Le [CHATOUILLEUR] de nuages
+      texte: 'Son job : faire rire les nuages pour qu''ils *lâchent* leur pluie au bon endroit. Pas de diplôme,
+        juste un sens de l''humour *très* particulier.'
+    - titre: Le *gardien* des ombres
+      texte: Chaque matin, il range les ombres qui traînent sous les meubles et les replie dans une boîte. Attention,
+        ne jamais ouvrir la boîte *avant* midi.
+    - titre: Le [TESTEUR] de lundis
+      texte: 'Son rôle : goûter chaque lundi matin avant tout le monde pour dire s''il est *vraiment* mangeable.
+        Il a déjà tout recraché deux fois.'
+    - titre: Le *rangeur* de chaussettes perdues
+      texte: Il patrouille dans les machines à laver et récupère les chaussettes égarées pour les *rendre* à leurs
+        propriétaires. Il a un registre de plus de mille paires.
+    - titre: Le *chef* des silences
+      texte: Dans les bibliothèques, il choisit le moment exact où tout le monde se tait pour *réveiller* la salle.
+        Mission accomplie quand quelqu'un tousse.
+    question_fin: Lequel de ces métiers te ferait *vraiment* postuler ?
+  sujet: Métiers qui n'existent pas mais qu'on aimerait voir
+  legende: 'Ton CV est prêt pour ces jobs imaginaires ? 😏
+
+
+    Des chatouilleurs de nuages aux testeurs de lundis, ces métiers n''existent pas, mais on les voudrait tous.
+    Swipe pour découvrir le plus absurde.
+
+
+    Le dernier métier est celui qui pourrait vraiment changer ta vie 👀
+
+
+    Tu choisis lequel, et tu inventes le tien en commentaire ? 💼
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces jobs absurdes le jour où tu cherches une reconversion.
+
+
+    📤 Partage-le à un ami, il va enfin comprendre pourquoi tu rêves d''être rangeur de chaussettes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #metiers'
+  medias:
+  - medias/2026-10-26/2026-10-30_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/06.jpg
+  - medias/2026-10-26/2026-10-30_0800_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-30_0800_carro/01.jpg
+- id: 2026-10-30_1100_carro
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Ce que ton corps fait sans que tu le saches
+  contenu:
+    titre_couverture: Ton corps bosse pour toi, [sans] *jamais* te le dire
+    sous_titre: Ce que ton corps fait sans que tu le saches
+    slides:
+    - titre: Tu [clignes] des milliers de fois par jour
+      texte: Sans que tu y penses, tes paupières se referment régulièrement pour hydrater ton œil. Ton cerveau gère
+        ça seul, en *arrière-plan*, pendant que tu lis ce texte.
+    - titre: Ton ventre *réfléchit* tout seul
+      texte: Ton intestin possède un réseau de neurones propre, appelé système nerveux entérique, qui gère une bonne
+        partie de la digestion. Ta tête n'a pas besoin de donner le moindre ordre pour que ça marche.
+    - titre: Ton cœur ne [prend] jamais de pause
+      texte: Il bat en continu, jour et nuit, et pompe le sang sans jamais demander ton avis. Même pendant ton sommeil,
+        il ne s'arrête pas une seconde.
+    - titre: Ta respiration *change* de rythme seule
+      texte: Quand tu dors, elle ralentit ; quand tu cours, elle s'accélère. Tu n'as rien à décider, ton cerveau
+        ajuste l'air en continu.
+    question_fin: Lequel de ces mécanismes t'a le plus *surpris* ?
+  sujet: Mécanismes du corps qui tournent sans toi
+  legende: 'Pendant que tu lis cette légende, ton corps bosse déjà sans toi 🫀
+
+
+    Tes paupières, ton ventre, ton cœur et ta respiration tournent en permanence sans demander ton avis. Swipe pour
+    découvrir ce qui se passe dans ton dos pendant que tu scrolles.
+
+
+    La dernière slide change carrément la façon dont tu vois ta respiration 👀
+
+
+    Tu savais déjà que ton ventre pouvait réfléchir seul ? 🤔
+
+
+    💾 Enregistre ce carrousel pour relire la liste quand tu te sens fatigué et te rappeler que ton corps fait déjà
+    beaucoup pour toi 🧠.
+
+
+    📤 Partage-le à un ami, il va sûrement mentir en disant qu''il savait déjà tout 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #corpshumain #saviezvous'
+  medias:
+  - medias/2026-10-26/2026-10-30_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-30_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-30_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-30_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-30_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-30_1100_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-30_1100_carro/01.jpg
+- id: 2026-10-30_1300_devin
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 5 + 5 × 5 − 5 = ?'
+  reponse: '25 (piège : 45)'
+  legende: 'La réponse n''est pas 45 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-30_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-30_1300_devin/couverture.jpg
+- id: 2026-10-30_1400_carro
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: 'Les vacances chez les grands-parents : ce qu''on y faisait'
+  contenu:
+    titre_couverture: Chez mamie, on vivait [sans écran] avec *des règles bizarres* et des trésors
+    sous_titre: Les vacances chez les grands-parents, version 1985-2005
+    slides:
+    - titre: Le [téléphone] du couloir
+      texte: 'Chez mamie, on tirait sur le *fil* pour appeler un copain, sans savoir qui répondrait. Pas de portable,
+        pas de messages : juste un cordon qui se tortillait.'
+    - titre: Le *grenier* et ses trésors
+      texte: 'Il fallait aller fouiller le grenier pour s''occuper. Vieux magazines, jouets cassés, cartons de vaisselle
+        : on passait des heures à inventer des histoires.'
+    - titre: Le *goûter* sans compter
+      texte: Mamie gardait des bonbons dans une boîte en fer. On ne demandait pas, on attendait qu'elle ouvre le
+        couvercle. Le tri entre les *bonbons à la menthe* et les caramels mous faisait partie du rituel.
+    - titre: Les *règles* de la maison
+      texte: Pas de télé avant l'heure du journal, tout le monde à table à midi pile, et on ne partait pas sans
+        avoir aidé à débarrasser. Des lois que personne n'avait écrites, mais que tout le monde suivait.
+    question_fin: Quel souvenir de chez mamie te rend le plus *nostalgique* ?
+  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
+  legende: 'Tu te souviens de ces vacances chez mamie ? 🏡
+
+
+    Pas d''écran, un téléphone à fil, un grenier plein de trésors et une boîte de bonbons qu''on ne touchait pas
+    sans permission. Swipe pour retrouver les règles qu''on suivait sans jamais les discuter.
+
+
+    La dernière slide est celle que tout le monde a vécue sans jamais la nommer 👀
+
+
+    Quel était ton rituel préféré chez tes grands-parents ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces vacances quand tu voudras replonger dans les années 90 📌.
+
+
+    📤 Partage-le à un ami, celui qui a passé ses étés chez ses grands-parents va replonger direct 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #generation2000 #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-30_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-30_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-30_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-30_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-30_1400_carro/05.jpg
+  - medias/2026-10-26/2026-10-30_1400_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-30_1400_carro/01.jpg
+- id: 2026-10-30_1700_carro
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: LA [MAISON] QUI DÉFIE *LA GRAVITÉ* ET TON BON SENS
+    sous_titre: Swipe si tu oses y dormir 🏠
+    slides:
+    - titre: UNE MAISON *SUR* UN PILIER
+      texte: Certaines maisons sont posées sur des rochers isolés en mer, accessibles seulement à marée basse. Tu
+        ferais le trajet à pied ou tu préfères la barque ?
+    - titre: LA CABANE *DANS* LES ARBRES
+      texte: Dans certaines forêts, des habitations sont construites autour de grands arbres, sans les abattre.
+        Le tronc traverse le salon, littéralement.
+    - titre: UNE MAISON *SOUS* TERRE
+      texte: Dans la région de Matmata, en Tunisie, de nombreuses habitations sont creusées dans la roche, avec
+        une cour centrale à ciel ouvert. Fraîcheur garantie en plein désert.
+    - titre: HABITER *LE VIDE* À PIC
+      texte: 'Au-dessus des falaises, certaines maisons semblent défier la gravité, accrochées à la roche. Une idée
+        folle : et si tu t''endormais face au vide ?'
+    question_fin: Laquelle de ces maisons te donne le plus [mal au ventre] ?
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison de rêve est peut-être au bord du vide 🏠
+
+
+    Un rocher en pleine mer, un arbre qui traverse le salon, une cour cachée sous terre... Certaines maisons existent
+    vraiment et défient, à notre avis, les règles du bon sens. Swipe pour voir jusqu''où on peut aller.
+
+
+    La dernière est tellement haute qu''on hésite à regarder en bas 👀
+
+
+    Tu dormirais dans laquelle ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour le jour où tu veux un logement original.
+
+
+    📤 Partage-le à un ami, celui qui rêve toujours de vivre au bord de l''eau.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #architecture #maisonsinsolites'
+  medias:
+  - medias/2026-10-26/2026-10-30_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-30_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-30_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-30_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-30_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-30_1700_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-30_1700_carro/01.jpg
+- id: 2026-10-30_2000_carro
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ces traditions françaises ont une [origine] que tu ne soupçonnes pas
+    sous_titre: 'Spoiler : rien n''est aussi sage que ça en a l''air'
+    slides:
+    - titre: LE [RÉVEILLON] DE MINUIT
+      texte: Le réveillon n'a pas toujours été une fête de *famille*. Au départ, on veillait surtout pour des raisons
+        religieuses, avant que la table géante ne s'impose au fil des siècles.
+    - titre: LE POISSON D'*AVRIL*
+      texte: 'Une idée reçue tenace : la blague du 1er avril viendrait d''un changement de calendrier au XVIe siècle.
+        L''origine exacte reste débattue, et c''est justement ce qui la rend *amusante*.'
+    - titre: LA GALETTE ET LA *FÈVE*
+      texte: 'Le roi, la fève et la couronne en papier : la tradition des Rois est très ancienne. Autrefois, la
+        fève était un vrai petit objet caché dans la pâtisserie, et le plus jeune désignait les parts.'
+    - titre: LE *MUGUET* DU PREMIER MAI
+      texte: Et si offrir du muguet le 1er mai remontait à une vieille coutume ? On raconte souvent qu'elle est
+        liée à Charles IX au XVIe siècle, mais la source reste discutée. Le brin porte-bonheur s'est ensuite installé
+        dans les habitudes populaires.
+    - titre: LA *BISE* ET SES RÈGLES
+      texte: Et si le nombre de bises changeait d'une région à l'autre parce que personne ne l'a jamais vraiment
+        décidé ? Cette règle sociale s'est construite au fil du temps, sans mode d'emploi officiel.
+    - titre: LE [PAIN] BÉNI DU DIMANCHE
+      texte: Le pain béni, offert à la messe, vient sans doute d'une très vieille habitude de partage. Aujourd'hui,
+        la tradition survit surtout dans quelques villages, comme une *mémoire* discrète.
+    question_fin: Laquelle de ces traditions t'a le plus *surpris* ?
+  sujet: Traditions françaises et leur vraie origine
+  legende: 'Tu fais ces traditions depuis toujours, mais tu connais vraiment leur histoire ? 🤔
+
+
+    Réveillon, galette, muguet, bises : on les pratique sans réfléchir. Certaines origines sont claires, d''autres
+    beaucoup moins, et c''est là que ça devient intéressant.
+
+
+    Les dernières slides parlent d''une habitude que tu fais sûrement chaque semaine 👀
+
+
+    Tu connaissais l''origine de laquelle ? 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un te demande pourquoi on fait ça 📚.
+
+
+    📤 Partage-le à un ami, il va sûrement te dire qu''il le savait déjà 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #traditionsfrancaises #histoirefrance #curiosites #saviezvous'
+  medias:
+  - medias/2026-10-26/2026-10-30_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/06.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/07.jpg
+  - medias/2026-10-26/2026-10-30_2000_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-30_2000_carro/01.jpg
+- id: 2026-10-30_2100_video
+  jour: vendredi
+  date: '2026-10-30'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Métiers qui n''existent pas mais qu''on aimerait voir'
+  accroche: Le [CHATOUILLEUR] de nuages qui *chamboule* tout
+  legende: 'Un métier qui n''existe pas, mais on le veut tout de suite 🌤️
+
+
+    Si tu pouvais embaucher un de ces métiers imaginaires, lequel tu prends et pourquoi ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #CultureG #Curiosites #MetiersImaginaires #IA #Reels'
+  medias:
+  - medias/2026-10-26/2026-10-30_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-30_2100_video/couverture.jpg
+  source: 2026-10-30_0800_carro
