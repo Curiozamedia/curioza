@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-23T01:45
+genere_le: 2026-10-24T02:01
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -1794,3 +1794,364 @@ posts:
   - medias/2026-10-26/2026-10-30_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-30_2100_video/couverture.jpg
   source: 2026-10-30_0800_carro
+- id: 2026-10-31_0800_carro
+  jour: samedi
+  date: '2026-10-31'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  contenu:
+    titre_couverture: Et si ton *goûter* débarquait en [GÉANT] au milieu des montagnes ?
+    sous_titre: 'Culture G & curiosités : version XXL'
+    slides:
+    - titre: Une *pomme* [géante] sur la falaise
+      texte: Imagine une pomme de la taille d'un bus, plantée au bord d'une falaise bretonne. Et si les mouettes
+        faisaient la queue pour la grignoter ?
+    - titre: Un *fromage* [géant] dans le désert
+      texte: Une meule de fromage posée au milieu des dunes, qui fondrait doucement sous le soleil. Les fourmis
+        du coin auraient sûrement beaucoup de chance.
+    - titre: Des *cerises* [géantes] sur un lac
+      texte: Une grappe de cerises flotterait sur un lac de montagne, comme si quelqu'un avait oublié son goûter.
+        Les canards n'oseraient sans doute pas s'approcher.
+    - titre: Un *citron* [géant] au sommet
+      texte: Un citron aussi haut qu'un immeuble trônerait sur un plateau volcanique. Et si les nuages qui passent
+        prenaient une teinte jaune ?
+    - titre: Un *burger* [géant] dans la forêt
+      texte: Un hamburger de la taille d'une maison poserait ses valises entre les sapins. Les écureuils auraient
+        peut-être déjà installé leur campement dessus.
+    question_fin: Lequel de ces aliments géants te donnerait le plus *envie* de partir en randonnée ?
+  sujet: Aliments géants posés dans des paysages naturels
+  legende: 'Imagine un croissant de la taille d''un pré 🥐
+
+
+    On a imaginé des aliments XXL au milieu de falaises, de dunes et de forêts. Certains ont l''air appétissants,
+    d''autres beaucoup moins. Swipe pour voir où la nature pourrait bien faire son goûter.
+
+
+    La dernière slide est celle qui va te donner faim… ou peur 👀
+
+
+    Tu aurais fait quoi face à une pomme géante au bord de la falaise ? 🍎
+
+
+    💾 Enregistre ce carrousel pour retrouver ce carrousel le jour où tu voudras une idée de décor absurde.
+
+
+    📤 Partage-le à un ami, il rira avec toi en voyant le burger dans la forêt 🍔.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #aliments'
+  medias:
+  - medias/2026-10-26/2026-10-31_0800_carro/01.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/02.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/03.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/04.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/05.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/06.jpg
+  - medias/2026-10-26/2026-10-31_0800_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-31_0800_carro/01.jpg
+- id: 2026-10-31_1100_carro
+  jour: samedi
+  date: '2026-10-31'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Pourquoi les objets du quotidien ont cette forme (vraies raisons)
+  contenu:
+    titre_couverture: Pourquoi ton [coude] de bouteille a cette *forme bizarre* ?
+    sous_titre: Les raisons derrière les objets que tu utilises sans jamais les regarder
+    slides:
+    - titre: La [bouteille] n'est pas un hasard
+      texte: Et si son goulot étroit servait surtout à ralentir le liquide ? On peut penser qu'il limite les éclaboussures,
+        une *forme pensée* pour verser sans tout renverser.
+    - titre: Le [clou] du bricoleur
+      texte: 'Sa tête plate ne semble pas là pour faire joli : elle aide sûrement à mieux répartir la force du marteau.
+        Sans elle, le clou risque de s''enfoncer de travers.'
+    - titre: Pourquoi la [poignée] est ronde ?
+      texte: Une poignée ronde se tourne d'un geste du poignet, sans coincer la main. Selon nous, les *anciennes
+        poignées plates* semblaient plus contraignantes à manier.
+    - titre: Les *trous* de la [passoire]
+      texte: Ses petits trous laissent passer l'eau mais retiennent les pâtes. La forme semble faire le tri toute
+        seule, sans que tu aies rien à faire.
+    - titre: Le [crayon] hexagonal, un secret de rouleau
+      texte: Et si la forme hexagonale empêchait le crayon de rouler sur la table ? Une idée simple, qui ressemble
+        à une vraie logique de design.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Pourquoi les objets du quotidien ont cette forme
+  legende: 'Tu utilises ces objets tous les jours sans jamais te demander pourquoi ils ont cette tête-là 🤔
+
+
+    Goulot, tête de clou, poignée ronde, trous de passoire : chaque forme semble avoir une bonne raison. Certaines
+    sont plus malignes qu''elles n''en ont l''air.
+
+
+    Et le dernier crayon de ta trousse cache peut-être une astuce que tu n''as jamais remarquée 👀
+
+
+    Quel objet de ta cuisine ou de ta trousse tu n''avais jamais regardé de près ? 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu tiens un objet banal entre les mains.
+
+
+    📤 Partage-le à un ami, celui qui regarde toujours la forme de ses objets sans jamais rien dire.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #anecdotes #saviezvous #design'
+  medias:
+  - medias/2026-10-26/2026-10-31_1100_carro/01.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/02.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/03.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/04.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/05.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/06.jpg
+  - medias/2026-10-26/2026-10-31_1100_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-31_1100_carro/01.jpg
+- id: 2026-10-31_1300_devin
+  jour: samedi
+  date: '2026-10-31'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 6 + 6 × 6 − 6 = ?'
+  reponse: '36 (piège : 66)'
+  legende: 'La réponse n''est pas 66 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-10-31_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-10-31_1300_devin/couverture.jpg
+- id: 2026-10-31_1400_carro
+  jour: samedi
+  date: '2026-10-31'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les transports du quotidien'
+  contenu:
+    titre_couverture: 'LE DUEL : [VÉLO] *contre* LE MÉTRO, qui gagne ?'
+    sous_titre: France vs Pays-Bas, les transports du quotidien
+    slides:
+    - titre: '[DOUBLE] *voies* cyclables'
+      texte: Aux Pays-Bas, beaucoup de villes proposent de larges pistes cyclables séparées des voitures. Et si
+        le vélo y ressemblait davantage à un vrai mode de transport qu'à un loisir du dimanche ?
+    - titre: Le *vélo* sous la *pluie*
+      texte: Aux Pays-Bas, on pédale aussi sous la pluie, parapluie accroché au guidon. En France, on attend le
+        tram en espérant que le ciel se calme. Un test de caractère, non ?
+    - titre: Le *train* et ses *vélos*
+      texte: Dans beaucoup de gares néerlandaises, de grands parkings à vélos s'étendent sur plusieurs étages. Une
+        idée simple qui pourrait changer tout le trajet du matin.
+    - titre: Ton *trajet* en *question*
+      texte: 'Et si la meilleure façon de se déplacer était celle qui te fait arriver détendu ? Métro, vélo ou train
+        : à toi de trancher.'
+    question_fin: Lequel de ces trajets te paraît le plus *absurde* ou le plus *malin* ?
+  sujet: 'Le duel France vs Pays-Bas : les transports du quotidien'
+  legende: 'Le duel est lancé, qui gagne sur les transports ? 🚲
+
+
+    Entre pistes cyclables XXL, vélo sous la pluie et parkings à vélos de gare, le match est plus serré qu''on ne
+    croit. Swipe pour voir le verdict.
+
+
+    Le dernier duel va te faire regarder ton trajet du matin autrement 👀
+
+
+    Tu prendrais ton vélo ou ton métro ce matin ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les idées de trajets à tester ou à faire découvrir.
+
+
+    📤 Partage-le à un ami, à celui qui râle toujours dans les transports en commun 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegeneral #curiosites #paysbas #transports #duel'
+  medias:
+  - medias/2026-10-26/2026-10-31_1400_carro/01.jpg
+  - medias/2026-10-26/2026-10-31_1400_carro/02.jpg
+  - medias/2026-10-26/2026-10-31_1400_carro/03.jpg
+  - medias/2026-10-26/2026-10-31_1400_carro/04.jpg
+  - medias/2026-10-26/2026-10-31_1400_carro/05.jpg
+  - medias/2026-10-26/2026-10-31_1400_carro/06.jpg
+  couverture: medias/2026-10-26/2026-10-31_1400_carro/01.jpg
+- id: 2026-10-31_1700_carro
+  jour: samedi
+  date: '2026-10-31'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si ta maison était envahie par [GELÉE] ?
+    sous_titre: Ta salle de bain, ta cuisine, ton bureau… version absurde
+    slides:
+    - titre: LA *SALLE DE BAIN* EN MODE LAVE
+      texte: Imagine ta baignoire pleine de sable fin, et ton robinet qui coule… du sable mouillé. Tes serviettes
+        deviennent des dunes.
+    - titre: LA [CUISINE] ENVAHIE DE PLUMES
+      texte: Ton frigo ouvert laisse échapper des milliers de plumes blanches. Le grille-pain en crache aussi, sans
+        raison, sans explication.
+    - titre: LE *BUREAU* SOUS LES BALLONS
+      texte: Ton écran d'ordinateur est coincé derrière une montagne de ballons rouges. Ta chaise flotte doucement
+        à trois centimètres du sol.
+    - titre: LE *COULOIR* EN MODE AQUARIUM
+      texte: Des bulles géantes remplissent le couloir. Les chaussures flottent comme des bateaux, et les chaussettes
+        dansent au plafond.
+    - titre: LA *CUISINE* VERSÉE EN POP-CORN
+      texte: Le four lâche une avalanche de pop-corn qui roule jusqu'au salon. Les tiroirs sont pleins, les tapis
+        croustillent sous les pieds.
+    - titre: LE *SALON* SOUS LES PAILLETTES
+      texte: Un nuage de paillettes dorées se pose sur le canapé, la télé, le tapis. Impossible de passer l'aspirateur
+        sans tout reluire.
+    question_fin: Quel envahisseur te ferait le plus [abandonner] ta maison ?
+  sujet: Ta maison envahie par un seul élément absurde
+  legende: 'Ta maison, submergée par un truc absurde 🫧
+
+
+    Sable dans la baignoire, plumes dans le frigo, ballons au plafond : on a imaginé six pièces du quotidien envahies
+    par des matières impossibles. Chaque slide change de décor et de problème.
+
+
+    La dernière pièce est la plus collante de toutes 👀
+
+
+    Lequel de ces envahisseurs choisirais-tu pour ton salon ? 👇
+
+
+    💾 Enregistre ce carrousel pour le jour où ta cuisine finira en gelée 🍮.
+
+
+    📤 Partage-le à un ami, pour savoir qui aurait le plus de nettoyage à faire 🧹.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #ideesfolles'
+  medias:
+  - medias/2026-10-26/2026-10-31_1700_carro/01.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/02.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/03.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/04.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/05.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/06.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/07.jpg
+  - medias/2026-10-26/2026-10-31_1700_carro/08.jpg
+  couverture: medias/2026-10-26/2026-10-31_1700_carro/01.jpg
+- id: 2026-10-31_2000_carro
+  jour: samedi
+  date: '2026-10-31'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Tu te souviens de ces [galères] qu'on acceptait sans *broncher* ?
+    sous_titre: Souvenirs d'une époque où la patience était obligatoire
+    slides:
+    - titre: Le [répondeur] à cassette
+      texte: Pour savoir si ton *crush* avait appelé, il fallait rembobiner toute la bande. Une minute de silence,
+        et on retenait son souffle.
+    - titre: Le *rembobinage* obligatoire
+      texte: Un film loué en vidéoclub devait être rendu rembobiné, sinon tu risquais la remarque du gérant. Le
+        VHS était un petit tyran.
+    - titre: Le téléphone à [fil] partagé
+      texte: Le téléphone était fixé au mur, le cordon s'emmêlait partout. Impossible de parler en marchant, il
+        fallait rester planté là.
+    - titre: Les piles qui *lâchaient* en plein jeu
+      texte: Le walkman ou la console s'éteignaient au pire moment. Une pile neuve, et il fallait en racheter avant
+        le prochain match.
+    - titre: Le *photo-développement* qui prenait des jours
+      texte: Tu prenais 24 photos sur ta pellicule, sans jamais voir le résultat. Il fallait attendre le développement
+        pour découvrir les ratés.
+    question_fin: Laquelle de ces *galères* te manque le plus, ou tu la détestais ?
+  sujet: 'Galères technologiques d''avant (1985-2005) : attendre, rembobiner, charger'
+  legende: 'Tu te rappelles le répondeur à cassette ? 📼
+
+
+    Rembobiner, attendre une photo, se battre avec un fil de téléphone : avant, la patience était obligatoire. Swipe
+    pour replonger dans ces galères d''un autre temps.
+
+
+    La dernière slide est celle qui fait le plus soupirer les trentenaires 👀
+
+
+    Quelle galère d''avant tu regrettes, ou au contraire, tu n''as jamais regretté ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tes petits frères te demandent ce qu''était une
+    cassette.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître le bruit du rembobinage.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirsdenfance #technologie'
+  medias:
+  - medias/2026-10-26/2026-10-31_2000_carro/01.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/02.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/03.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/04.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/05.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/06.jpg
+  - medias/2026-10-26/2026-10-31_2000_carro/07.jpg
+  couverture: medias/2026-10-26/2026-10-31_2000_carro/01.jpg
+- id: 2026-10-31_2100_video
+  jour: samedi
+  date: '2026-10-31'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Aliments géants posés dans des paysages naturels'
+  accroche: Une [POMME] géante veille sur la *falaise* !
+  legende: 'Une pomme géante sur une falaise, ça ne se refuse pas 🍎
+
+
+    Tu la trouverais où, toi, la prochaine pomme géante : falaise, désert ou forêt ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #aliментsgeants #reelsfrance'
+  medias:
+  - medias/2026-10-26/2026-10-31_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-10-31_2100_video/couverture.jpg
+  source: 2026-10-31_0800_carro
