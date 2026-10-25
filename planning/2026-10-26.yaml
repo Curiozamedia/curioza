@@ -9,7 +9,7 @@
 semaine: '2026-10-26'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-24T02:01
+genere_le: 2026-10-25T01:49
 posts:
 - id: 2026-10-26_0800_carro
   jour: lundi
@@ -2155,3 +2155,367 @@ posts:
   - medias/2026-10-26/2026-10-31_2100_video/reel.mp4
   couverture: medias/2026-10-26/2026-10-31_2100_video/couverture.jpg
   source: 2026-10-31_0800_carro
+- id: 2026-11-01_0800_carro
+  jour: dimanche
+  date: '2026-11-01'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les biais du cerveau qui te piègent chaque jour
+  contenu:
+    titre_couverture: Ton cerveau [triche] et tu ne le *remarques* jamais
+    sous_titre: 5 biais qui décident à ta place, sans te demander ton avis
+    slides:
+    - titre: Le biais du [dernier] regard
+      texte: Tu juges un film, un resto ou un prof sur sa *fin*. Selon une idée souvent reprise par les psychologues,
+        ton cerveau retient surtout le dernier moment et oublie le reste.
+    - titre: Le piège du *déjà-vu* sympa
+      texte: 'Un prénom, un nom de produit, un mot répété : ton cerveau le trouve plus familier, donc parfois plus
+        fiable. C''est ce qu''on appelle l''effet de simple exposition.'
+    - titre: Le biais du *premier* chiffre
+      texte: 'Un prix barré, une suggestion de dose, une estimation : le premier nombre entendu ancre ta décision,
+        même absurde. Les chercheurs appellent ça l''ancrage.'
+    - titre: Le biais de [confirmation] express
+      texte: Tu cherches ce qui confirme ce que tu penses déjà. Le contraire, tu le survoles. Ton fil d'actu adore
+        ça.
+    - titre: 'Le conseil : *ralentis* deux secondes'
+      texte: 'Avant de décider vite, pose-toi une question : et si le premier avis était faux ? À mon avis, deux
+        secondes suffisent souvent à casser le pilote automatique.'
+    question_fin: Lequel de ces biais t'a le plus *piégé* cette semaine ?
+  sujet: Biais cognitifs qui te piègent chaque jour
+  legende: 'Ton cerveau triche, et tu ne t''en rends jamais compte 🧠
+
+
+    Cinq biais qui décident à ta place : la fin d''un film, les prix barrés, les infos qui confirment ce que tu
+    crois déjà. Swipe pour les repérer chez toi.
+
+
+    La dernière slide contient un conseil simple que presque personne n''applique 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les revoir la prochaine fois que tu achètes quelque chose en solde.
+
+
+    📤 Partage-le à un ami, il risque de se reconnaître dans au moins deux exemples.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biaiscognitifs #culturegenerale #curiosites'
+  medias:
+  - medias/2026-10-26/2026-11-01_0800_carro/01.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/02.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/03.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/04.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/05.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/06.jpg
+  - medias/2026-10-26/2026-11-01_0800_carro/07.jpg
+  couverture: medias/2026-10-26/2026-11-01_0800_carro/01.jpg
+- id: 2026-11-01_1100_carro
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des paysages célèbres reconstruits en nourriture, à taille réelle
+  contenu:
+    titre_couverture: Et si on pouvait [croquer] les *paysages* du monde ?
+    sous_titre: Des décors imaginaires, version garde-manger
+    slides:
+    - titre: Une [montagne] de fromage
+      texte: Imagine une falaise de *fromage à pâte dure*, rongée par le vent, avec des trous comme des grottes.
+        Et si le paysage fondait un peu au soleil ? Personne n'oserait y grimper.
+    - titre: Un [désert] de sucre
+      texte: Des dunes de *sucre glace* qui scintillent comme du sable au petit matin. Le vent soulève une poussière
+        blanche qui, paraît-il, sent la vanille.
+    - titre: Des [chutes] de sauce
+      texte: Une cascade de *sauce chocolat* tombe d'une falaise de biscuits sablés. Les rochers de noisettes grillées
+        forment la rive.
+    - titre: Une [forêt] de brocolis
+      texte: Des arbres en *brocolis* géants bordent une rivière de jus d'orange. Une forêt qu'on pourrait presque
+        grignoter.
+    question_fin: Quel paysage tu *goûterais* en premier ?
+  sujet: Paysages imaginaires reconstruits en nourriture à taille réelle
+  legende: 'Et si les plus beaux paysages du monde étaient comestibles ? 🍰
+
+
+    On a reconstruit des décors imaginaires avec de la nourriture, à taille réelle. Montagnes de fromage, dunes
+    de sucre, cascades de chocolat : chaque décor a son goût. Swipe pour tout visiter sans payer le billet d''avion
+    !
+
+
+    La dernière slide est la plus folle, et elle se mange avec une fourchette 👀
+
+
+    Tu choisirais quel décor pour un pique-nique géant ? 🥖
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu auras faim de paysages.
+
+
+    📤 Partage-le à un ami, qui rêve déjà de dévorer une montagne.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #paysages'
+  medias:
+  - medias/2026-10-26/2026-11-01_1100_carro/01.jpg
+  - medias/2026-10-26/2026-11-01_1100_carro/02.jpg
+  - medias/2026-10-26/2026-11-01_1100_carro/03.jpg
+  - medias/2026-10-26/2026-11-01_1100_carro/04.jpg
+  - medias/2026-10-26/2026-11-01_1100_carro/05.jpg
+  - medias/2026-10-26/2026-11-01_1100_carro/06.jpg
+  couverture: medias/2026-10-26/2026-11-01_1100_carro/01.jpg
+- id: 2026-11-01_1300_devin
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 6 + 6 × 6 − 6 = ?'
+  reponse: '36 (piège : 66)'
+  legende: 'La réponse n''est pas 66 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-11-01_1300_devin/reel.mp4
+  couverture: medias/2026-10-26/2026-11-01_1300_devin/couverture.jpg
+- id: 2026-11-01_1400_carro
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Petites habitudes qui changent une journée (avec explication simple)
+  contenu:
+    titre_couverture: Ta journée tient à [trois] petits gestes *minuscules*
+    sous_titre: Le cerveau adore les rituels, et ça peut jouer pour ou contre toi
+    slides:
+    - titre: Le [premier] geste compte
+      texte: Boire un verre d'eau au réveil est une habitude simple. Elle *signale* au corps que la journée commence.
+        Beaucoup de gens sautent cette étape sans y penser.
+    - titre: Le *cerveau* aime les rails
+      texte: 'Quand un geste se répète au même moment, il demande moins d''effort. C''est l''idée de l''habitude
+        : ton cerveau *économise* ton énergie en automatisant ce qui revient chaque jour.'
+    - titre: Ranger *ses affaires* la veille
+      texte: Préparer ses clés, son sac ou ses vêtements la veille réduit les décisions du matin. Moins de choix
+        à faire, c'est peut-être une matinée moins *chaotique*. C'est en tout cas l'idée que je trouve convaincante.
+    - titre: Le petit *pas* qui décide
+      texte: Un objectif géant effraie. Une action minuscule, comme ouvrir son livre à une seule page, passe souvent
+        mieux. Une fois le premier geste fait, il est plus facile de continuer.
+    - titre: Ta *lumière* règle ton humeur
+      texte: Sortir quelques minutes à la lumière du jour au réveil peut aider le corps à caler son horloge interne.
+        Une habitude banale qui peut *changer* ton énergie de l'après-midi, à tester.
+    - titre: Le [mot] que tu te répètes
+      texte: Ce que tu te dis le matin en te regardant dans le miroir compte, selon moi. Les petites phrases répétées,
+        positives ou négatives, peuvent devenir des *scripts* que ton cerveau finit par croire.
+    question_fin: Laquelle de ces habitudes tu *tiens* déjà, et laquelle tu vas *tester* demain ?
+  sujet: Petites habitudes qui changent une journée, expliquées simplement
+  legende: 'Ta journée se joue peut-être dans les 5 premières minutes 🌅
+
+
+    Un verre d''eau, des affaires prêtes la veille, un petit pas minuscule : ces gestes simples peuvent changer
+    le ton de toute ta journée. Le cerveau aime les routines, à toi de choisir les bonnes.
+
+
+    Et la dernière habitude est la plus surprenante, celle que tu fais sans y penser 👀
+
+
+    Quelle petite habitude a déjà changé ta journée ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le matin où tu manques d''élan.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui se lève toujours en retard et a besoin d''un coup de pouce.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #habitudes #developpementpersonnel #culturegenerale'
+  medias:
+  - medias/2026-10-26/2026-11-01_1400_carro/01.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/02.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/03.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/04.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/05.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/06.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/07.jpg
+  - medias/2026-10-26/2026-11-01_1400_carro/08.jpg
+  couverture: medias/2026-10-26/2026-11-01_1400_carro/01.jpg
+- id: 2026-11-01_1700_carro
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le supermarché'
+  contenu:
+    titre_couverture: 'LE DUEL FRANCE VS MAROC : [CADDIE] ET *FILE D''ATTENTE* AU SUPERMARCHÉ'
+    sous_titre: Qui fait ses courses comme un champion ?
+    slides:
+    - titre: LE *CHARIOT* OU LE PANIER ?
+      texte: Chez nous, on attrape parfois un grand chariot pour trois yaourts. Au Maroc, beaucoup préfèrent le
+        panier au bras. Et si le plus malin était celui qui porte le moins ?
+    - titre: LE *MARCHÉ* CONTRE LE RAYON
+      texte: Chez nous, beaucoup de produits sont emballés et alignés en rayon. Dans de nombreuses villes marocaines,
+        on fait encore ses courses au marché de quartier, entre les étals et les vendeurs qui vantent leurs fruits.
+    - titre: LA *CAISSE* QUI TE FAIT PATIENTER
+      texte: 'Le tapis roulant, le sac à remplir et la petite attente : le rituel de la caisse varie d''un pays
+        à l''autre. Et si on comparait les habitudes plutôt que de juger ?'
+    - titre: LE *PAIN* DU QUOTIDIEN
+      texte: Chez nous, la baguette se prend souvent en passant, fraîche du matin. Au Maroc, le pain rond et les
+        galettes se partagent aussi au quotidien, souvent tout juste sortis du four.
+    - titre: LES *PRIX* À L'ÉTIQUETTE
+      texte: 'Ici, on compare les prix au gramme près avec son téléphone. Là-bas, on négocie parfois au marché.
+        Deux façons de dire : le juste prix, c''est peut-être celui qu''on discute.'
+    - titre: LE *SAC* QUI VOYAGE
+      texte: 'Le sac réutilisable se glisse dans la poche ou le cabas. Au Maroc, le couffin en osier accompagne
+        depuis longtemps les courses familiales. Deux idées, une même envie : moins de déchets.'
+    question_fin: Lequel de ces rituels de courses te donne le plus *envie* de changer ?
+  sujet: 'Le duel France vs Maroc : le supermarché'
+  legende: 'Caddie ou panier, lequel gagne ton duel ? 🛒
+
+
+    Le supermarché dit beaucoup de nos habitudes : chariot géant contre panier au bras, rayons alignés contre marché
+    animé. On compare sans se moquer, juste pour rire et apprendre.
+
+
+    Dans la dernière slide, on parle d''un sac qui change tout 👀
+
+
+    Tu fais tes courses plutôt rayon ou marché ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu passes en caisse.
+
+
+    📤 Partage-le à un ami, pour voir qui tient le meilleur panier de la bande 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #maroc #supermarche'
+  medias:
+  - medias/2026-10-26/2026-11-01_1700_carro/01.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/02.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/03.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/04.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/05.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/06.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/07.jpg
+  - medias/2026-10-26/2026-11-01_1700_carro/08.jpg
+  couverture: medias/2026-10-26/2026-11-01_1700_carro/01.jpg
+- id: 2026-11-01_2000_carro
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: ET SI LA [GRAVITÉ] S'INVERSAIT *une minute* chez toi ?
+    sous_titre: Une minute, tout tombe vers le ciel. Accroche-toi.
+    slides:
+    - titre: La [BOULANGERIE] à l'envers
+      texte: Les *baguettes* s'envolent du présentoir et la caissière regarde le plafond. Le pain, lui, n'a jamais
+        été aussi léger.
+    - titre: Le [CAFÉ] qui *remonte*
+      texte: Ton expresso quitte la tasse en une goutte parfaite qui file vers le plafond. Idéal pour boire sans
+        lever le coude... enfin, presque.
+    - titre: Les [PIGEONS] en *panique* inversée
+      texte: Dehors, les pigeons flottent au-dessus des trottoirs pendant que les parapluies tombent vers le ciel.
+        Une vision de ville qui se moque de nous.
+    - titre: Le [PIANO] sans *pesanteur*
+      texte: 'Dans un salon, les partitions s''envolent et le tabouret reste collé au plafond. Question : qui va
+        rattraper la musique ?'
+    - titre: Le [MÉTRO] à *contre-sens*
+      texte: Sur le quai, les sacs, les journaux et les pièces de monnaie remontent vers la voûte. Une minute, et
+        la station devient un aquarium d'air.
+    question_fin: Dans quel lieu tu *flipperais* le plus pendant cette minute ?
+  sujet: Et si la gravité s'inversait une minute dans le quotidien
+  legende: 'Et si la gravité décidait de faire demi-tour pendant 60 secondes ? 🙃
+
+
+    Le pain, le café, le piano et même le métro : tout le quotidien se met à monter vers le plafond. Une minute
+    suffit pour tout bouleverser.
+
+
+    La dernière slide va te faire regarder ton plafond autrement 👀
+
+
+    Tu commences par quoi, toi, quand tout se met à flotter ? 😄
+
+
+    💾 Enregistre ce carrousel pour relire le scénario la prochaine fois que tu manques de sujet de conversation.
+
+
+    📤 Partage-le à un ami, il va sûrement vouloir tester ça dans sa cuisine 🙃.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #gravite'
+  medias:
+  - medias/2026-10-26/2026-11-01_2000_carro/01.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/02.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/03.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/04.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/05.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/06.jpg
+  - medias/2026-10-26/2026-11-01_2000_carro/07.jpg
+  couverture: medias/2026-10-26/2026-11-01_2000_carro/01.jpg
+- id: 2026-11-01_2100_video
+  jour: dimanche
+  date: '2026-11-01'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Paysages imaginaires reconstruits en nourriture à taille réelle'
+  accroche: Et si on construisait un paysage… en nourriture ?
+  legende: 'Un paysage de fromage, ça te donne faim ou ça te choque ? 🧀
+
+
+    Tu vivrais où : dans la montagne de fromage, le désert de sucre ou sous les chutes de sauce ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #insolite #fromage #imagination'
+  medias:
+  - medias/2026-10-26/2026-11-01_2100_video/reel.mp4
+  couverture: medias/2026-10-26/2026-11-01_2100_video/couverture.jpg
+  source: 2026-11-01_1100_carro
