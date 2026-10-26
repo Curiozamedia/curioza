@@ -1,0 +1,366 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-11-02'
+phase: normal
+tout_valider: false
+genere_le: 2026-10-26T01:57
+posts:
+- id: 2026-11-02_0800_carro
+  jour: lundi
+  date: '2026-11-02'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Tu as déjà [rembobiné] une cassette avec un *crayon* ?
+    sous_titre: Les petites tortures que personne ne regrette vraiment
+    slides:
+    - titre: '[ATTENDRE] sans *rien* faire'
+      texte: Avant, une photo se découvrait des jours plus tard. Tu attendais le *développement* en rêvant du résultat,
+        sans savoir si le flash avait marché.
+    - titre: CHARGER, [une fois] par semaine
+      texte: Le *walkman* tenait sur des piles qu'on achetait par paquets. Une seule séance de musique et la batterie
+        rendait l'âme au pire moment.
+    - titre: REMBOBINER avec [un stylo]
+      texte: Une cassette abîmée se réparait parfois à coups de crayon dans les bobines. Tu passais ton samedi à
+        sauver une mixtape comme un trésor.
+    - titre: PATIENTER [pour rien] *du tout*
+      texte: Télécharger une image prenait parfois toute une soirée, avec un bruit de modem qui faisait frémir la
+        maison. On appelait ça *patience*.
+    question_fin: Laquelle de ces galères t'a le plus *fait enrager* ?
+  sujet: Galères technologiques d'avant vues par la génération 85-05
+  legende: 'Avant, la technologie te faisait vraiment attendre 🕰️
+
+
+    Photos, piles, cassettes, modem : on galérait en silence et on trouvait ça normal. Swipe pour retrouver les
+    petites tortures de notre enfance.
+
+
+    La dernière slide est celle qui fait toujours rire les parents 👀
+
+
+    Quelle galère tu as vécue toi aussi ? 😅
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces souvenirs à la prochaine soirée nostalgie.
+
+
+    📤 Partage-le à un ami, qui a grandi avec un walkman et des piles à gogo.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #generation2000'
+  medias:
+  - medias/2026-11-02/2026-11-02_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-02_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-02_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-02_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-02_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-02_0800_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-02_0800_carro/01.jpg
+- id: 2026-11-02_1100_carro
+  jour: lundi
+  date: '2026-11-02'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Ces lieux de [France] cachent des *histoires* de fou
+    sous_titre: 'Tu croyais tout connaître ? Spoiler : pas tout à fait.'
+    slides:
+    - titre: Le *Mont-Saint-Michel* a été une île
+      texte: À marée haute, il est entouré par la mer. Pendant longtemps, les pèlerins devaient traverser les grèves
+        au gré des marées, parfois au risque de leur vie. La digue qui le relie aujourd'hui à la terre a été construite
+        au XIXe siècle.
+    - titre: Une *ville* sous l'ombre des montagnes
+      texte: En Norvège, à Rjukan, le soleil ne descend pas dans la vallée pendant une bonne partie de l'hiver.
+        Ce n'est pas en France, mais ça donne envie de chercher les lieux français les plus improbables.
+    - titre: Le [pont] qui se lève pour les bateaux
+      texte: Certains ponts français ont été conçus pour s'ouvrir, pivoter ou se lever afin de laisser passer les
+        bateaux. Le savoir-faire des ingénieurs de l'époque reste impressionnant.
+    - titre: Une *grotte* qui a gardé son secret
+      texte: Plusieurs grottes françaises ont été découvertes par hasard, parfois par des enfants ou des bergers.
+        Certaines abritent des peintures très anciennes, qui fascinent encore les chercheurs.
+    - titre: Le village qui *change* de nom
+      texte: Certaines communes françaises ont changé de nom au fil de l'histoire. Pourquoi ? Une idée à vérifier
+        localement. Dans le doute, cherche la mairie !
+    question_fin: Quel lieu de France t'a le plus *surpris* ?
+  sujet: Lieux de France aux histoires étonnantes, angle inédit
+  legende: 'Tu croyais connaître la France ? Pas si sûr 🗺️
+
+
+    Des îles qui n''en sont plus, des grottes trouvées par hasard, des ponts qui se lèvent pour les bateaux. La
+    France regorge d''histoires que personne ne raconte vraiment à l''école.
+
+
+    Le dernier lieu est celui qu''on traverse sans le voir... 👀
+
+
+    Tu connaissais lequel de ces lieux, toi ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces lieux le jour où tu prépares un week-end.
+
+
+    📤 Partage-le à un ami, celui qui rêve de voyager sans quitter son canapé.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #histoiredefrance #insolite #patrimoine'
+  medias:
+  - medias/2026-11-02/2026-11-02_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-02_1100_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-02_1100_carro/01.jpg
+- id: 2026-11-02_1300_devin
+  jour: lundi
+  date: '2026-11-02'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 5 − 3 × 3 + 6 × 10 = ?'
+  reponse: '56 (piège : 120)'
+  legende: 'La réponse n''est pas 120 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-02_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-02_1300_devin/couverture.jpg
+- id: 2026-11-02_1400_carro
+  jour: lundi
+  date: '2026-11-02'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: Et si ton [chat] faisait la taille d'un *immeuble* ?
+    sous_titre: Le guide des voisins qui ne demandent pas la permission
+    slides:
+    - titre: Un [hamster] de 60 mètres
+      texte: Ton *hamster* géant ferait tourner une roue plus haute qu'une tour. Le bruit ? Un *vacarme permanent*
+        qui réveillerait tout le quartier.
+    - titre: Le *poisson rouge* en piscine
+      texte: Un poisson rouge de la taille d'un immeuble nagerait dans le bassin d'un *parc urbain*. Les enfants
+        feraient la queue pour lui parler à travers la vitre.
+    - titre: Le *perroquet* réveille la rue
+      texte: Un perroquet géant perché sur un *clocher* commenterait, selon toute vraisemblance, chaque conversation
+        du quartier. Impossible de cacher ses secrets, même à voix basse.
+    - titre: La *tortue* bloque le tram
+      texte: 'Une tortue géante traverserait la ville à sa vitesse habituelle. Résultat, à notre avis : *embouteillage
+        légendaire* et tramways immobilisés pendant des heures.'
+    - titre: Les *croquettes* en livraison
+      texte: Un chien géant mangerait un sac de croquettes par repas. Le camion de livraison deviendrait un *problème
+        d'urbanisme* à lui tout seul.
+    - titre: La *sieste* sur les toits
+      texte: Un chat géant s'endormirait sur les toits, en *plein centre-ville*. Un ronronnement pourrait, peut-être,
+        faire vibrer les vitres du quartier entier.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie géants en ville, angle inédit
+  legende: 'Ton chat pourrait bien devenir ton pire voisin 🐈
+
+
+    Imagine un chien géant qui réclame sa gamelle à 7 h du matin, ou une tortue qui bloque le tram. Swipe pour voir
+    ce que ça donne vraiment en ville.
+
+
+    La dernière slide est celle qui fait vraiment peur 👀
+
+
+    Ton animal ferait quoi, lui, s''il grandissait d''un coup ? 😹
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ce délire la prochaine fois que ton chat te regarde trop fort.
+
+
+    📤 Partage-le à un ami, il rira ou il flippera, dans les deux cas c''est gagné.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #animaux #insolite'
+  medias:
+  - medias/2026-11-02/2026-11-02_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-02_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-02_1400_carro/01.jpg
+- id: 2026-11-02_1700_carro
+  jour: lundi
+  date: '2026-11-02'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Ce que ton corps fait sans que tu le saches
+  contenu:
+    titre_couverture: Ton corps bosse [sans] toi, *à ton insu*
+    sous_titre: Ce que tu ne contrôles jamais vraiment
+    slides:
+    - titre: Tes [paupières] clignent seules
+      texte: Tu cliques des paupières plusieurs fois par minute sans y penser. Ton cerveau gère ça en arrière-plan,
+        pendant que tu fais autre chose.
+    - titre: Ton *ventre* pense à ta place
+      texte: 'Un réseau de neurones entoure ton intestin et travaille en grande partie en autonomie. Certains l''appellent
+        le second cerveau : une image séduisante, à prendre comme une métaphore plutôt que comme une définition
+        exacte.'
+    - titre: Ta respiration [change] sans demander
+      texte: Tu peux la ralentir volontairement, mais dès que tu t'endors, elle repart toute seule. Le tronc cérébral
+        gère une grande part de ce rythme, en continu.
+    - titre: Ton *cœur* ne prend jamais [pause]
+      texte: 'Il bat sans interruption, sans que tu lui donnes d''ordre. Conseil concret : pose une main sur ta
+        poitrine une minute et compte les battements.'
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Mécanismes automatiques du corps, expliqués avec humour
+  legende: 'Ton corps bosse sans toi, et il ne te demande pas la permission 😳
+
+
+    Paupières, ventre, respiration, cœur : tu ne donnes aucun ordre et ça tourne quand même. Un petit exercice concret
+    à la fin pour sentir ton cœur en direct.
+
+
+    La dernière slide contient un test que tu peux faire tout de suite 👀
+
+
+    Tu as déjà essayé de contrôler ta respiration ? Raconte-nous 👇
+
+
+    💾 Enregistre ce carrousel pour relire le conseil du cœur quand tu as besoin d''un petit recentrage.
+
+
+    📤 Partage-le à un ami, il va sûrement te répondre qu''il savait déjà, mais tu lui prouveras le contraire.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #cerveau #santeauquotidien'
+  medias:
+  - medias/2026-11-02/2026-11-02_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-02_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-02_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-02_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-02_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-02_1700_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-02_1700_carro/01.jpg
+- id: 2026-11-02_2000_carro
+  jour: lundi
+  date: '2026-11-02'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les transports du quotidien'
+  contenu:
+    titre_couverture: 'LE DUEL : [TRANSPORTS] DU QUOTIDIEN, FRANCE VS ISLANDE'
+    sous_titre: Qui se déplace le mieux quand il pleut, il vente et il fait nuit à 15 h ?
+    slides:
+    - titre: LE [VÉLO] DU FRANÇAIS
+      texte: Le Français pédale à Paris *en plein trafic*. L'Islandais, lui, sort son vélo quand le vent ne le jette
+        pas dans le fjord.
+    - titre: LE *BUS* QUI DÉBARQUE À L'HEURE ?
+      texte: 'À Reykjavik, le bus file *avec sa propre logique* : l''hiver, les horaires s''adaptent à la neige.
+        Pas de drame, juste du bon sens.'
+    - titre: LE [TRAIN] FANTÔME
+      texte: 'En France, le RER ou le TER peut tomber en panne *sans prévenir*. En Islande, pas de train du tout
+        : la route est reine, et le 4x4 aussi.'
+    - titre: LE *COVOIT'* DE LA NUIT POLAIRE
+      texte: Ici on râle contre les grèves, là-bas on se fie à la route et aux *phares* en plein jour gris. Qui
+        a le meilleur plan B ?
+    question_fin: Lequel de ces deux *trajets* te donnerait le plus envie de *tout quitter* ?
+  sujet: 'Le duel France vs Islande : les transports du quotidien'
+  legende: 'Bus, vélo ou 4x4 : qui gagne le duel des transports ? 🚌
+
+
+    Un Français chambreur face à un Islandais complice, deux façons de se déplacer très différentes. Entre grèves,
+    vent glacial et routes sans train, le match est sans doute plus serré qu''on ne le pense.
+
+
+    La dernière slide change la donne, et tu ne vas pas la voir venir 👀
+
+
+    Tu prends quoi pour aller bosser, toi : métro, vélo ou voiture ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les jours de grève ou de pluie battante.
+
+
+    📤 Partage-le à un ami, celui qui se plaint toujours de son RER 🚆.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #islande #france #transports'
+  medias:
+  - medias/2026-11-02/2026-11-02_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-02_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-02_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-02_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-02_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-02_2000_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-02_2000_carro/01.jpg
+- id: 2026-11-02_2100_video
+  jour: lundi
+  date: '2026-11-02'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux de compagnie géants en ville, angle inédit'
+  accroche: Et si ton [hamster] pesait *60 mètres* ?
+  legende: 'Le hamster géant te regarde depuis les toits 🐹
+
+
+    Si ton animal de compagnie devenait géant, il ferait quoi en premier dans ta ville ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #CultureG #Curiosites #AnimauxGeants #Insolite #Reel'
+  medias:
+  - medias/2026-11-02/2026-11-02_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-02_2100_video/couverture.jpg
+  source: 2026-11-02_1400_carro
