@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-26T01:57
+genere_le: 2026-10-27T02:05
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -364,3 +364,367 @@ posts:
   - medias/2026-11-02/2026-11-02_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-02_2100_video/couverture.jpg
   source: 2026-11-02_1400_carro
+- id: 2026-11-03_0800_carro
+  jour: mardi
+  date: '2026-11-03'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ces mots [français] qui ont voyagé avant toi
+    sous_titre: 'Spoiler : ils ne sont pas tous gaulois'
+    slides:
+    - titre: LE [CHOCOLAT] VIENT D'AILLEURS
+      texte: Le mot nous vient de l'espagnol *chocolate*, qui serait issu du nahuatl, la langue de peuples du Mexique.
+        Le cacao, lui, a voyagé bien avant le mot.
+    - titre: LE *BIDET* A UN PETIT SECRET
+      texte: 'Une piste classique : le mot viendrait du verbe français *bider*, qui voulait dire trottiner. Une
+        cuvette faite pour un cheval qui trotte, c''est drôle, mais l''origine reste discutée.'
+    - titre: LE *KIOSQUE* VIENT DE LOIN
+      texte: Ce mot semble venir du turc *köşk*, qui désignait un pavillon de jardin. Il serait arrivé en France
+        par les échanges avec l'Empire ottoman et les voyageurs.
+    - titre: LE [PYJAMA] EST PERSAN
+      texte: Le mot viendrait du persan *pajama*, qui signifie vêtement de jambe. Il s'est répandu en Europe au
+        XIXe siècle, à l'époque où les tenues venues d'Orient étaient à la mode.
+    question_fin: Quel mot *français* t'a fait le plus *halluciner* ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton vocabulaire a fait le tour du monde sans passeport 🌍
+
+
+    Chocolat, kiosque, pyjama : ces mots ont tous voyagé avant de s''installer chez nous. Certains ont traversé
+    des océans, d''autres des siècles. Swipe pour découvrir d''où ils viennent, d''après les pistes les plus sérieuses.
+
+
+    Le dernier mot est celui que tu utilises sans doute chaque matin 👀
+
+
+    Tu savais déjà d''où venait l''un de ces mots ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces origines le jour où tu feras une blague de culture G.
+
+
+    📤 Partage-le à un ami, il va sûrement se sentir moins bête après ce carrousel 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #etymologie #curiosites #motsfrancais #saviezvous'
+  medias:
+  - medias/2026-11-02/2026-11-03_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-03_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-03_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-03_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-03_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-03_0800_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-03_0800_carro/01.jpg
+- id: 2026-11-03_1100_carro
+  jour: mardi
+  date: '2026-11-03'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des inventions totalement inutiles mais magnifiques
+  contenu:
+    titre_couverture: Des [inventions] *totalement inutiles* mais magnifiques
+    sous_titre: Le génie humain qui ne sert à rien, et c'est tant mieux
+    slides:
+    - titre: Le [parapluie] pour la *pluie intérieure*
+      texte: Un parapluie qui s'ouvre sous une pluie artificielle, au-dessus d'un fauteuil vide. Il ne protège de
+        rien, mais il a de la classe.
+    - titre: Une *chaise* qui ne sert qu'à regarder
+      texte: Un fauteuil en cristal, fait pour être admiré de loin. Impossible de s'y asseoir, mais la lumière s'y
+        brise en arc-en-ciel.
+    - titre: Un *escalier* qui mène nulle part
+      texte: Quelques marches dorées flottent au-dessus d'un lac calme. Elles ne relient rien, à part le ciel et
+        ton imagination.
+    - titre: Une *horloge* qui compte les nuages
+      texte: Son cadran géant n'a pas d'aiguilles, seulement des nuages qui défilent. Elle ne donne peut-être jamais
+        l'heure, mais elle est magnifique.
+    - titre: Un *bateau* qui ne flotte que le dimanche
+      texte: Une coque en verre soufflé posée au bord d'un port. À mon avis, elle ne flotterait pas bien longtemps
+        en pleine mer, mais elle reste superbe à quai.
+    - titre: Une *machine* à pousser des portes ouvertes
+      texte: Un mécanisme en laiton qui pousse doucement des portes déjà ouvertes. Rien ne change, et pourtant tout
+        semble plus solennel.
+    question_fin: Laquelle de ces inventions te donnerait *envie* de la garder chez toi ?
+  sujet: Inventions totalement inutiles mais magnifiques, version absurde
+  legende: 'Une invention inutile, et pourtant magnifique 🛠️✨
+
+
+    Parapluie pour la pluie intérieure, fauteuil en cristal, escalier qui ne mène nulle part... Le génie humain
+    s''amuse parfois à ne rien servir. Swipe pour tout découvrir.
+
+
+    La dernière invention est tellement inutile qu''elle pourrait bien devenir ta préférée 👀
+
+
+    Tu choisis laquelle, toi, dans ton salon ? 💬
+
+
+    💾 Enregistre ce carrousel pour t''inspirer le jour où tu voudras offrir un cadeau absurde.
+
+
+    📤 Partage-le à un ami, il rira avec toi devant un objet qui ne sert strictement à rien.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #inventions #absurde #insolite'
+  medias:
+  - medias/2026-11-02/2026-11-03_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/07.jpg
+  - medias/2026-11-02/2026-11-03_1100_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-03_1100_carro/01.jpg
+- id: 2026-11-03_1300_devin
+  jour: mardi
+  date: '2026-11-03'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 7 × 7 − 7 = ?'
+  reponse: '49 (piège : 91)'
+  legende: 'La réponse n''est pas 91 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-03_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-03_1300_devin/couverture.jpg
+- id: 2026-11-03_1400_carro
+  jour: mardi
+  date: '2026-11-03'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours, mais tu sais [d'où] ça vient ?
+    sous_titre: Les expressions françaises ont des origines *folles* et souvent incertaines
+    slides:
+    - titre: '[Tirer] le *diable* par la queue'
+      texte: 'Vivre avec très peu d''argent. Une piste évoquée : les *mines* ou les *ateliers*, où l''on remontait
+        un seau au fond d''un puits. L''origine exacte reste discutée, donc on garde le doute.'
+    - titre: Poser un *lapin* à quelqu'un
+      texte: 'Ne pas venir à un rendez-vous. Une idée souvent évoquée : les lapins et la *mauvaise réputation* des
+        chasseurs. Mais l''origine précise n''est pas établie, c''est une piste, pas une certitude.'
+    - titre: Avoir la [banane] aujourd'hui
+      texte: Être de bonne humeur. On relie parfois son origine au *sourire* large que dessine une banane, mais
+        aucune source ancienne ne le prouve. Disons que c'est une belle idée.
+    - titre: Mettre les *pieds* dans le plat
+      texte: 'Dire une maladresse au mauvais moment. Image simple et parlante : un convive qui pose le pied dans
+        le plat du dîner. Rien de plus sérieux, mais l''image se comprend en une seconde.'
+    - titre: Un [froid] de canard
+      texte: Un froid très vif. L'expression circule depuis longtemps, mais son lien avec les canards reste une
+        hypothèse. Les canards ne sont pas plus frileux que nous, c'est déjà un indice amusant.
+    - titre: Tomber dans les *pommes*
+      texte: 'Perdre connaissance. Une piste évoquée : le *cidre* et les pommes qui tombent, mais l''origine exacte
+        n''est pas tranchée. Tu peux la ressortir à table sans risque.'
+    question_fin: Laquelle de ces expressions *utilises-tu* sans jamais y avoir réfléchi ?
+  sujet: Origine surprenante d'expressions françaises du quotidien
+  legende: 'Tu dis ça tous les jours, mais tu connais son histoire ? 🤔
+
+
+    On passe en revue six expressions françaises qu''on lâche sans réfléchir. Certaines ont une origine probable,
+    d''autres restent un vrai mystère. Et tu vas voir que le doute est parfois plus drôle que la réponse.
+
+
+    La dernière expression est celle que tout le monde utilise en hiver, et son origine fait sourire 👀
+
+
+    Tu connaissais laquelle de ces expressions ? Dis-le-moi en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les ressortir au prochain dîner pour briller.
+
+
+    📤 Partage-le à un ami, qui parle trop souvent sans réfléchir 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #expressionsfrancaises #curiosites #languefrancaise #anecdotes'
+  medias:
+  - medias/2026-11-02/2026-11-03_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-03_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-03_1400_carro/01.jpg
+- id: 2026-11-03_1700_carro
+  jour: mardi
+  date: '2026-11-03'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : la politesse et les salutations'
+  contenu:
+    titre_couverture: 'Le duel : [France] vs Mexique, *qui dit bonjour* le mieux ?'
+    sous_titre: Bises, poignées de main et politesses qui surprennent
+    slides:
+    - titre: Le [bisou] en mode sport
+      texte: En France, on fait souvent *deux bises*, parfois trois selon la région, et on ne sait pas toujours
+        combien en donner. Au Mexique, l'*abrazo* chaleureux et la tape amicale dans le dos sont tout aussi courants,
+        à ce qu'on raconte. Bref, à toi de juger quelle méthode te met le plus à l'aise.
+    - titre: Le *chapeau* qui salue
+      texte: Dans certaines régions du Mexique, enlever son chapeau ou toucher son bord reste un geste de respect,
+        surtout envers les aînés. Un petit geste qui, selon beaucoup, en dit long sans un mot.
+    - titre: Le *tu* ou le *vous* ?
+      texte: En français, on hésite souvent entre *vous* et *tu* avant de se présenter. En espagnol, le choix entre
+        *usted* et *tú* peut changer le ton d'une conversation, et c'est un vrai casse-tête pour les débutants.
+    - titre: Le *café* offert d'office
+      texte: Dans beaucoup de foyers mexicains, on propose souvent à boire à un invité, même pour une courte visite.
+        En France, on répond volontiers *ça va aller* en refusant poliment, et ça peut vite prêter à confusion.
+    question_fin: Lequel de ces gestes tu trouves le plus *difficile* à faire sans gêne ?
+  sujet: 'Le duel France vs Mexique : la politesse et les salutations'
+  legende: 'Bise, abrazo ou chapeau qui se lève ? 🤝
+
+
+    Le duel France vs Mexique revient sur la politesse et les salutations du quotidien. Entre bises comptées, gestes
+    de respect et verre offert d''office, les différences sont plus drôles qu''on pense.
+
+
+    La dernière slide parle d''un refus poli qui peut vite devenir un petit malentendu 👀
+
+
+    Tu fais combien de bises quand tu dis bonjour, toi ? 😄
+
+
+    💾 Enregistre ce carrousel pour les prochaines fois que tu dois dire bonjour à quelqu''un de nouveau.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours trois bises alors que tout le monde en fait deux.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #mexique #savoirinutile'
+  medias:
+  - medias/2026-11-02/2026-11-03_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-03_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-03_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-03_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-03_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-03_1700_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-03_1700_carro/01.jpg
+- id: 2026-11-03_2000_carro
+  jour: mardi
+  date: '2026-11-03'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  contenu:
+    titre_couverture: Et si la [nature] servait de *plat* principal ?
+    sous_titre: Des aliments géants, posés là où on ne les attend pas
+    slides:
+    - titre: Une *pomme* au bord du lac
+      texte: Imagine une pomme rouge de la taille d'une maison, posée au bord d'un lac calme. Le reflet donne presque
+        l'impression qu'elle flotte sur l'eau.
+    - titre: Un [citron] sur la falaise
+      texte: Un citron géant perché au bord d'une falaise battue par les vagues. On a presque envie de le pousser
+        pour voir s'il roule jusqu'à la mer.
+    - titre: Une *baguette* dans le désert
+      texte: Une baguette longue comme un terrain de foot, couchée dans les dunes. À première vue, on jurerait que
+        le sable est de la farine.
+    - titre: Un *melon* dans la forêt
+      texte: Un melon entier niché entre les fougères d'une forêt humide. Une fente parfaite, et la lumière qui
+        filtre comme dans un film.
+    - titre: Un *œuf* sur la banquise
+      texte: Un œuf géant posé sur la glace, comme un nid oublié par un oiseau colossal. Le silence du pôle rend
+        la scène encore plus étrange.
+    - titre: Un *fromage* au milieu des vignes
+      texte: Une meule géante posée au milieu d'un vignoble, entourée de rangs de vigne. On pourrait croire qu'elle
+        a été livrée par erreur.
+    question_fin: Lequel de ces aliments géants poserais-tu en *premier* au milieu de ta région ?
+  sujet: Aliments géants posés dans des paysages naturels, angle original
+  legende: 'Un citron sur une falaise, ça te paraît normal ? 🍋
+
+
+    On a posé des aliments géants dans des paysages naturels : pomme au bord d''un lac, baguette dans le désert,
+    œuf sur la banquise. Le résultat est aussi absurde qu''hypnotisant.
+
+
+    Les dernières slides sont les plus étranges, on te laisse découvrir 👀
+
+
+    Quel aliment géant tu installerais dans ton coin préféré ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les avoir sous la main quand un ami te demande une idée décalée.
+
+
+    📤 Partage-le à un ami, il va forcément vouloir voir la baguette dans le désert.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #imagination #insolite'
+  medias:
+  - medias/2026-11-02/2026-11-03_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/06.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/07.jpg
+  - medias/2026-11-02/2026-11-03_2000_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-03_2000_carro/01.jpg
+- id: 2026-11-03_2100_video
+  jour: mardi
+  date: '2026-11-03'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Inventions totalement inutiles mais magnifiques, version absurde'
+  accroche: Une [invention] qui ne sert à *rien* mais que tu veux *absolument*
+  legende: 'Une invention 100 % inutile, 100 % magnifique, 100 % à voir ✨
+
+
+    Quelle invention inutile tu aurais voulu avoir chez toi ? Dis-le en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #inventions #absurde #reels'
+  medias:
+  - medias/2026-11-02/2026-11-03_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-03_2100_video/couverture.jpg
+  source: 2026-11-03_1100_carro
