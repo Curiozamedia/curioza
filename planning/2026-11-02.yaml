@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-27T02:05
+genere_le: 2026-10-28T02:15
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -728,3 +728,370 @@ posts:
   - medias/2026-11-02/2026-11-03_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-03_2100_video/couverture.jpg
   source: 2026-11-03_1100_carro
+- id: 2026-11-04_0800_carro
+  jour: mercredi
+  date: '2026-11-04'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les biais du cerveau qui te piègent chaque jour
+  contenu:
+    titre_couverture: Ton cerveau te [mène] en bateau tous les jours
+    sous_titre: 6 pièges mentaux que tu ne vois jamais venir
+    slides:
+    - titre: LE BIAIS DU [PREMIER] VENU
+      texte: Tu lis un prix, et le premier chiffre que tu vois *ancre* ton jugement. Selon les psychologues, même
+        un prix exagéré peut te paraître correct si on te l'a montré en premier.
+    - titre: L'EFFET *MIROIR* DU PETIT SAVOIR
+      texte: Plus tu croises un mot ou une idée, plus tu as l'impression de le connaître. Et si ton cerveau confondait
+        familiarité et compréhension ?
+    - titre: LE PIÈGE DE LA [SUNK] COST
+      texte: Tu restes devant un film nul parce que tu as déjà payé. Ce qui est *perdu* ne devrait plus compter,
+        mais ton cerveau a du mal à lâcher prise.
+    - titre: LE BIAIS DE *CONFIRMATION* EN MODE
+      texte: Tu cherches des preuves pour ce que tu crois déjà. Les infos qui te contredisent, tu as tendance à
+        les zapper sans vraiment les lire.
+    - titre: L'EFFET *SPOTLIGHT* SUR TOI
+      texte: Tu as l'impression que tout le monde remarque ta gaffe. Selon les chercheurs, on surestime souvent
+        à quel point les autres nous observent.
+    - titre: LE CONSEIL [ANTI-PIÈGE] À TESTER
+      texte: 'Avant une décision, demande-toi : *et si* c''était l''inverse ? Ce petit réflexe peut casser le pilote
+        automatique de ton cerveau.'
+    question_fin: Lequel de ces pièges t'a le plus *piégé* cette semaine ?
+  sujet: Biais cognitifs qui piègent ton cerveau chaque jour
+  legende: 'Ton cerveau te ment, et tu ne t''en rends pas compte 🧠
+
+
+    Six biais du quotidien que tu subis sans le savoir, expliqués simplement avec un réflexe concret à tester dès
+    aujourd''hui. Certains vont te faire grincer des dents.
+
+
+    La dernière slide change tout, et elle tient en une seule question 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu prends une décision importante.
+
+
+    📤 Partage-le à un ami, il y a de fortes chances qu''il se reconnaisse dans au moins deux pièges.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-02/2026-11-04_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/06.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/07.jpg
+  - medias/2026-11-02/2026-11-04_0800_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-04_0800_carro/01.jpg
+- id: 2026-11-04_1100_carro
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: Les [objets] de ta chambre d'ado que tu as *forcément* eus
+    sous_titre: Sans marques, mais avec beaucoup de nostalgie
+    slides:
+    - titre: Le [baladeur] à piles
+      texte: Il avalait six *piles* en quelques heures et sautait à chaque pas. Tu le portais partout, même en cours,
+        avec des écouteurs qui tenaient mal aux oreilles.
+    - titre: Les *posters* collés au mur
+      texte: Un mur entier couvert de posters, collés avec de la *pâte à fixe* qui arrachait la peinture. Ton déménagement
+        commençait toujours par là.
+    - titre: Le [tamagotchi] au cou
+      texte: Un petit œuf en plastique accroché à ton sac, qui exigeait d'être nourri et nettoyé. Oublier de le
+        soigner, c'était *mourir de honte* devant tout le couloir.
+    - titre: Le *journal intime* cadenassé
+      texte: Un cahier fermé par un minuscule cadenas dont la clé se perdait toujours. Tu y écrivais tes secrets,
+        puis tu le cachais *sous ton matelas*.
+    - titre: La [télécommande] du poste
+      texte: Sur la télé cathodique, il fallait se lever pour changer de chaîne ou régler le son. Les *piles* de
+        la télécommande ne duraient jamais *assez longtemps*.
+    question_fin: Lequel t'a le plus *marqué* dans ta chambre d'ado ?
+  sujet: Objets de chambre d'ado des années 85-05, sans marques
+  legende: 'Ta chambre d''ado de 2000 te manque ? 📼
+
+
+    Baladeur à piles, posters collés à la pâte à fixe, journal cadenassé : on a tous eu ces objets. Swipe pour retrouver
+    ceux que tu croyais oubliés.
+
+
+    Le dernier objet te fera sûrement sortir ton vieux téléphone à clapet 👀
+
+
+    Tu en avais combien de ces objets dans ta chambre ? 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta jeunesse.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa chambre d''ado en deux secondes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees2000 #generation90 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-02/2026-11-04_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-04_1100_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-04_1100_carro/01.jpg
+- id: 2026-11-04_1300_devin
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 − 3 × 4 + 12 × 2 = ?'
+  reponse: '15 (piège : 24)'
+  legende: 'La réponse n''est pas 24 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-04_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-04_1300_devin/couverture.jpg
+- id: 2026-11-04_1400_carro
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
+  contenu:
+    titre_couverture: 'Des [animaux] au *boulot* : ils bossent vraiment'
+    sous_titre: Six métiers trop sérieux pour être vrais
+    slides:
+    - titre: '[Pigeon] facteur, tournée du matin'
+      texte: Pendant la Seconde Guerre mondiale, des *pigeons voyageurs* ont transporté des messages. Leur sens
+        de l'orientation en faisait déjà de bons concurrents des GPS, à leur façon.
+    - titre: Le *chien* sauveteur des Alpes
+      texte: Les chiens du Saint-Bernard ont la réputation d'avoir secouru des voyageurs en montagne, même si cette
+        légende est plus romancée que documentée. Leur flair et leur endurance restent impressionnants.
+    - titre: Le *dauphin* qui garde la mer
+      texte: Des dauphins ont été entraînés par la marine américaine pour repérer des objets sous l'eau. À notre
+        avis, ce sont de sacrés *coéquipiers*, même s'ils ne touchent ni salaire ni pause café.
+    - titre: L'*abeille* contrôleuse qualité
+      texte: Les abeilles repèrent vite une fleur riche en nectar. Des chercheurs étudient aussi leur odorat pour
+        détecter certaines substances, une piste qui reste à confirmer.
+    - titre: Le *rat* déminateur
+      texte: En Afrique, des rats géants sont entraînés à flairer des mines antipersonnel. Légers, ils peuvent *inspecter*
+        un terrain bien plus vite qu'une équipe à pied, et sans risque pour eux.
+    - titre: Le *chat* chef d'orchestre
+      texte: Dans l'imaginaire populaire, les chats font juste la sieste. Pourtant, un chat qui trône sur un pupitre,
+        ça aurait de la gueule pour un *concert* de jazz.
+    question_fin: Quel métier animal te paraît le plus *crédible* ?
+  sujet: Animaux exerçant de vrais métiers humains avec sérieux
+  legende: 'Ils bossent plus sérieusement que toi 🐾
+
+
+    Pigeons facteurs, chiens sauveteurs, dauphins coéquipiers : certains animaux ont déjà eu de vrais rôles au travail.
+    Swipe pour découvrir les six candidats.
+
+
+    La dernière slide est celle que personne n''attend 👀
+
+
+    Lequel embaucherais-tu en premier dans ton entreprise ? 🐶
+
+
+    💾 Enregistre ce carrousel pour retrouver ces exemples le jour où tu veux briller en soirée.
+
+
+    📤 Partage-le à un ami, il va enfin comprendre pourquoi son chat ne fait jamais rien.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosités #animaux #insolite #saviezvous'
+  medias:
+  - medias/2026-11-02/2026-11-04_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-04_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-04_1400_carro/01.jpg
+- id: 2026-11-04_1700_carro
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: 'LA NATURE [TRUQUÉE] ? ET POURTANT *VRAI* : 5 PHÉNOMÈNES QUI FONT DOUTER'
+    sous_titre: Swipe si tu oses croire tes yeux
+    slides:
+    - titre: LE LAC [ROSE] *FLUO*
+      texte: Certains lacs salés, comme le lac Retba au Sénégal, prennent une teinte rose vif. Une algue, la Dunaliella
+        salina, est souvent citée comme responsable de ce pigment, dont l'intensité varie avec la salinité.
+    - titre: LES NUAGES [EN ROULEAUX]
+      texte: Des nuages horizontaux, appelés rouleaux, se forment parfois au-dessus de la baie de Plenty en Nouvelle-Zélande.
+        On dirait un décor posé à la main, et c'est pourtant de la météo pure.
+    - titre: LA RIVIÈRE *BICOLORE*
+      texte: En Colombie, le Caño Cristales se pare de rouge, de jaune et de vert pendant la saison sèche. Ce sont
+        surtout des plantes aquatiques du genre Macarenia qui donnent ces couleurs.
+    - titre: LES ARBRES [EN SPIRALE]
+      texte: Certaines forêts ont des troncs tordus en spirale, un phénomène dont les causes restent débattues.
+        Personne ne s'accorde vraiment sur son origine, et c'est ce mystère qui fascine.
+    - titre: LA MER qui *SE RETIRE*
+      texte: Certaines côtes voient la mer se retirer sur des kilomètres à marée basse, laissant des bancs de sable
+        immenses. À ce moment-là, des chemins apparaissent comme par magie, et c'est bien réel.
+    question_fin: Lequel te paraît le plus *irréel* ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Tu crois que c''est du photoshop ? Pas du tout 😳
+
+
+    Lacs roses, nuages en rouleaux, rivières multicolores : la nature fait parfois mieux que les effets spéciaux.
+    Et tout ça est bien réel.
+
+
+    La dernière slide change carrément la façon de voir la plage 👀
+
+
+    Tu en avais déjà entendu parler, toi ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phénomènes quand tu voudras les vérifier.
+
+
+    📤 Partage-le à un ami, qui doute de tout ce qu''il voit en ligne.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #nature #insolite #saviezvous'
+  medias:
+  - medias/2026-11-02/2026-11-04_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/06.jpg
+  - medias/2026-11-02/2026-11-04_1700_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-04_1700_carro/01.jpg
+- id: 2026-11-04_2000_carro
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: ET SI LA [GRAVITÉ] S'INVERSAIT *une minute* chez toi ?
+    sous_titre: 'Cuisine, salle de bain, bureau : tout part en l''air'
+    slides:
+    - titre: LA [CUISINE] EN APESANTEUR
+      texte: Les *assiettes* se décrochent du placard, les *cuillères* flottent et ton café devient une fontaine
+        qui remonte. Le petit-déj' version plafond.
+    - titre: LA *SALLE DE BAIN* RENVERSÉE
+      texte: Le *savon* quitte la baignoire, les *gouttes* tombent vers le plafond et le rideau de douche se gonfle
+        vers le haut comme une voile.
+    - titre: LE [BUREAU] SOUS LE PLAFOND
+      texte: Stylos, post-it et tasse de thé s'envolent. Ton *ordinateur* reste collé à ton bureau, mais tes papiers,
+        eux, ont décidé de partir en vacances.
+    - titre: LE *CHAT* QUI NAGE DANS L'AIR
+      texte: 'Le *chat* ne comprend plus rien : sa gamelle, ses croquettes et sa pelote de laine montent vers le
+        plafond. Il se croit enfin dans l''espace.'
+    - titre: LA *MINUTE* D'APRÈS
+      texte: Et après soixante secondes, tout retombe d'un coup. Imagine juste le *bruit* quand la vaisselle du
+        salon se rattrape au sol.
+    question_fin: Dans quelle pièce tu aurais le plus *peur* de voir tout partir en l'air ?
+  sujet: Et si la gravité s'inversait une minute dans le quotidien
+  legende: 'Une minute sans gravité, et ta maison devient un décor de film 🙃
+
+
+    Cuisine, salle de bain, bureau, salon : on a fait le tour de la maison pour voir ce qui décolle en premier.
+    Le chat, lui, n''a pas du tout apprécié.
+
+
+    Et la dernière slide, la plus chaotique, arrive au moment où tout retombe 👀
+
+
+    Tu aurais sauvé quoi en premier, ta tasse de café ou ton téléphone ? 😂
+
+
+    💾 Enregistre ce carrousel pour retrouver ce scénario absurde la prochaine fois que tu renverses ton café.
+
+
+    📤 Partage-le à un ami, pour voir si ton pote garde son sang-froid quand son yaourt décolle 🤣.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #questionsdroles #savoirinutile'
+  medias:
+  - medias/2026-11-02/2026-11-04_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/06.jpg
+  - medias/2026-11-02/2026-11-04_2000_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-04_2000_carro/01.jpg
+- id: 2026-11-04_2100_video
+  jour: mercredi
+  date: '2026-11-04'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux exerçant de vrais métiers humains avec sérieux'
+  accroche: Le [PIGEON] qui fait *la tournée* du matin
+  legende: 'Un facteur à plumes qui ne rate jamais sa tournée 🐦📬
+
+
+    Quel animal te paraît le plus crédible dans son métier, et lequel tu engagerais demain ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animauxdrôles #insolite #iamart'
+  medias:
+  - medias/2026-11-02/2026-11-04_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-04_2100_video/couverture.jpg
+  source: 2026-11-04_1400_carro
