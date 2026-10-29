@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-28T02:15
+genere_le: 2026-10-29T02:21
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -1095,3 +1095,368 @@ posts:
   - medias/2026-11-02/2026-11-04_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-04_2100_video/couverture.jpg
   source: 2026-11-04_1400_carro
+- id: 2026-11-05_0800_carro
+  jour: jeudi
+  date: '2026-11-05'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: 'Les vacances chez les grands-parents : ce qu''on y faisait'
+  contenu:
+    titre_couverture: 'Les [vacances] chez mamie : ce qu''on *faisait* sans rien dire'
+    sous_titre: Spécial génération 85-05
+    slides:
+    - titre: Le [goûter] du jeudi
+      texte: Pain, *beurre* et sucre en poudre, mangés debout dans le jardin. Pas d'écran, juste le bourdonnement
+        des guêpes et l'odeur de la lessive.
+    - titre: Le *tiroir* à bazar
+      texte: 'Piles usées, ficelles, boutons, vieux stylos qui marchent un jour sur deux. Chez mamie, on jetait
+        rarement : on rangeait, au cas où.'
+    - titre: La [télé] à heure fixe
+      texte: Une seule chaîne le soir, un poste qu'il fallait allumer à la main et attendre que l'image chauffe.
+        On *patientait* ensemble, sans zapper.
+    - titre: Le *jardin* comme terrain de jeu
+      texte: Cabane en planches, cueillette de groseilles et tomates piquées au potager. Le vrai danger ? Les orties,
+        et le *retour* à l'heure du dîner.
+    - titre: Le *courrier* qui prenait des jours
+      texte: Une carte postale envoyée de la plage, puis une lettre de mamie qui arrivait après le retour. On attendait,
+        on relisait, on gardait tout.
+    question_fin: Quel souvenir de *mamie* t'a le plus marqué ?
+  sujet: Vacances chez les grands-parents des années 85-05
+  legende: 'Tu as passé tes vacances chez mamie sans savoir que c''était un luxe 🏡
+
+
+    Goûters dans le jardin, tiroir à bazar, télé qu''il fallait chauffer : on te raconte ce qu''on faisait sans
+    y penser. Swipe, ça va te rappeler des trucs.
+
+
+    La dernière slide est celle qui fait toujours rire les parents 👀
+
+
+    Dis-nous ce que tu faisais chez tes grands-parents ! 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux les raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître son enfance dedans.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #generation80 #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-05_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/06.jpg
+  - medias/2026-11-02/2026-11-05_0800_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-05_0800_carro/01.jpg
+- id: 2026-11-05_1100_carro
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Pourquoi les objets du quotidien ont cette forme (vraies raisons)
+  contenu:
+    titre_couverture: Pourquoi ton [quotidien] a cette *forme* bizarre ?
+    sous_titre: Les raisons derrière ces formes, sans blabla
+    slides:
+    - titre: Le [bouchon] de la bouteille
+      texte: 'Le bouchon en liège est souple et étanche : il se compresse dans le goulot et bloque le vin. Une forme
+        pensée pour boucher, sans fuite.'
+    - titre: Les *trous* de la passoire
+      texte: 'Les trous d''une passoire ne sont pas décoratifs : ils laissent passer l''eau et retiennent les pâtes.
+        Une forme simple pour une fonction précise.'
+    - titre: La [poignée] de la tasse
+      texte: 'La poignée est pensée pour un corps humain qui boit chaud : on la saisit sans se brûler les doigts.
+        Le design suit le corps, et non l''inverse.'
+    - titre: Le *bec* de la théière
+      texte: Le bec est placé plus haut que le fond de la théière. Le niveau du liquide reste donc à l'intérieur,
+        et le thé ne coule pas partout.
+    - titre: Les [dents] du zip
+      texte: Les dents d'une fermeture éclair s'emboîtent une à une. Un système pensé pour fermer vite et solidement,
+        avec des rangées bien alignées.
+    - titre: Le *fil* de la prise électrique
+      texte: Selon nous, la forme des broches sert surtout à éviter les mauvais branchements. Une hypothèse de design
+        qui mérite d'être regardée de près.
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Pourquoi les objets du quotidien ont cette forme (vraies raisons)
+  legende: 'Tu utilises ces objets tous les jours sans jamais te demander pourquoi ils ont cette forme 🤔
+
+
+    Un bouchon, une passoire, une poignée de tasse : chaque forme cache une raison. Certaines sont évidentes, d''autres
+    te surprendront.
+
+
+    Le dernier objet paraît anodin, mais sa forme pourrait bien cacher une histoire de sécurité 👀
+
+
+    Tu connaissais lequel de ces objets ? 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu cuisines ou que tu bois un café.
+
+
+    📤 Partage-le à un ami, il regardera sa cuisine autrement 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #anecdotes #saviezvous #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-05_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/07.jpg
+  - medias/2026-11-02/2026-11-05_1100_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-05_1100_carro/01.jpg
+- id: 2026-11-05_1300_devin
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 6 + 12 × 11 − 11 = ?'
+  reponse: '127 (piège : 187)'
+  legende: 'La réponse n''est pas 187 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-05_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-05_1300_devin/couverture.jpg
+- id: 2026-11-05_1400_carro
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: Les [règles] *invisibles* que tu suis sans jamais les avoir apprises
+    sous_titre: Psychologie et cerveau au quotidien
+    slides:
+    - titre: Le [silence] de l'ascenseur
+      texte: Dans un ascenseur, chacun fixe les numéros d'étage. Personne ne l'a décidé, et pourtant beaucoup le
+        font. On peut y voir une *distance sociale* tacite, une façon d'éviter le contact.
+    - titre: Le [faux] pas de côté
+      texte: Sur un trottoir étroit, tu décales ton épaule de quelques centimètres sans y penser. Les piétons se
+        croisent comme une *chorégraphie* qu'on ne t'a jamais enseignée.
+    - titre: Le [sourire] de service
+      texte: Quand tu croises un inconnu dans un couloir, tu fais souvent un petit sourire ou un hochement de tête.
+        Peut-être un *contrat tacite* de bonne cohabitation, sans signature.
+    - titre: Le [merci] silencieux
+      texte: Dans un ascenseur ou un couloir, on remercie celui qui maintient la porte, parfois sans même le regarder.
+        Ce petit *merci* ressemble à une dette invisible qu'on rembourse à notre tour.
+    - titre: La [file] invisible
+      texte: À l'arrêt de bus, personne ne donne de consigne, et pourtant une file se forme souvent toute seule.
+        Ton cerveau semble retenir *l'ordre d'arrivée* et le respecter la plupart du temps.
+    - titre: Le [conseil] concret
+      texte: Pour repérer ces règles, observe les moments où tout le monde fait *la même chose* sans se concerter.
+        Une fois que tu les vois, difficile de les oublier.
+    question_fin: Laquelle de ces règles *invisibles* tu respectes sans y penser ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Personne ne t''a jamais appris ces règles, et pourtant tu les suis presque tous les jours 🫣
+
+
+    De l''ascenseur à l''arrêt de bus, on se coordonne souvent sans un mot. Ton cerveau gère une partie de la vie
+    sociale en pilote automatique. Swipe pour repérer celles que tu fais sans t''en rendre compte.
+
+
+    La dernière règle est celle qui fait le plus rire quand on la remarque 👀
+
+
+    Tu en connaissais combien avant ce carrousel ? 😏
+
+
+    💾 Enregistre ce carrousel pour relire la liste la prochaine fois que tu prends l''ascenseur.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître ses propres réflexes 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #cerveau #vieaquotidien'
+  medias:
+  - medias/2026-11-02/2026-11-05_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-05_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-05_1400_carro/01.jpg
+- id: 2026-11-05_1700_carro
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: ET SI TON [GRILLE-PAIN] AVAIT FAIT *MARS* ?
+    sous_titre: Les vieux objets version futur, en mode délire total
+    slides:
+    - titre: LE [TÉLÉPHONE] À FIL 2.0
+      texte: Ton vieux téléphone à cadran se transforme peut-être en *casque holographique* géant qui se déplie
+        comme un parapluie. Il sonne encore, et l'univers t'appelle, selon nous.
+    - titre: LA *MACHINE À LAVER* SPATIALE
+      texte: Et si le lave-linge à tambour devenait un *vaisseau de nettoyage* qui fait tourner des planètes entières
+        ? Les chaussettes disparues ? Parties dans l'espace, à notre avis.
+    - titre: LE *CADRAN* DES ÉTOILES
+      texte: 'Le vieux réveil à aiguilles pourrait devenir une *horloge galactique* qui affiche des années-lumière.
+        Impossible de le snoozer : il tournerait à la vitesse d''une galaxie, à en croire notre imagination.'
+    - titre: LE *MINITEL* DEVENU ORACLE
+      texte: Le Minitel gris et son petit écran vert pourraient devenir une *boule de cristal* connectée. Ta question
+        ? Elle arriverait avec le bruit de la tonalité, version 3000.
+    question_fin: Lequel de ces objets retrouverait le plus *vite* sa place dans ta vie ?
+  sujet: Objets d'autrefois réinventés en version futuriste absurde
+  legende: 'Ton grille-pain a peut-être des ambitions spatiales 🚀
+
+
+    On a pris des objets de nos grands-parents et de notre enfance pour les envoyer dans le futur, version délire
+    total. Une machine à laver qui part dans l''espace, un réveil qui tourne comme une galaxie, un Minitel devenu
+    oracle.
+
+
+    La dernière slide est celle que personne n''a vu venir 👀
+
+
+    Quel objet d''autrefois aimerais-tu voir revenir en version futuriste ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu t''ennuies.
+
+
+    📤 Partage-le à un ami, qui rêve encore d''un grille-pain sur Mars 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #futur #nostalgie'
+  medias:
+  - medias/2026-11-02/2026-11-05_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-05_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-05_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-05_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-05_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-05_1700_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-05_1700_carro/01.jpg
+- id: 2026-11-05_2000_carro
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les fêtes et anniversaires'
+  contenu:
+    titre_couverture: '[ANNIVERSAIRE] : le *duel* France vs Irlande, qui fête le mieux ?'
+    sous_titre: 'Gâteau, chansons et cadeaux : qui fait la fête à sa façon ?'
+    slides:
+    - titre: Le [gâteau] ou la *pinte* ?
+      texte: En France, on souffle une bougie sur un gâteau. En Irlande, on lève plutôt son verre pour trinquer.
+        Et si on tranchait ? À toi de voter !
+    - titre: Chanter *faux* en *chœur*
+      texte: Le « Happy birthday » entonné par toute la table, un rituel qu'on retrouve un peu partout. Selon nous,
+        la version irlandaise sonne encore mieux avec une voix bien éraillée façon pub.
+    - titre: Cadeau *enveloppé* ou *surprise* ?
+      texte: Le Français aime parfois les cadeaux emballés avec soin, ruban bien noué. L'Irlandais, lui, glisse
+        peut-être une carte avec un clin d'œil. On dit ça, on ne dit rien !
+    - titre: Fête *jusqu'au bout* de la nuit
+      texte: En France, la fête finit souvent tôt, entre le dernier métro et le voisin qui tape au mur. Outre-Manche,
+        on a l'impression que la soirée s'étire volontiers jusqu'au petit matin.
+    - titre: Quel *duel* te [convainc] ?
+      texte: 'Gâteau à la bougie ou verre levé : chaque pays a sa recette pour fêter. Et toi, tu soufflerais ou
+        tu trinquerais ?'
+    question_fin: Chez toi, c'est le gâteau ou la *pinte* qui gagne ?
+  sujet: 'Le duel France vs Irlande : fêtes et anniversaires'
+  legende: 'Bougie ou pinte, qui fête le mieux ? 🎂
+
+
+    Gâteau, chansons, cadeaux et fin de soirée : le duel France vs Irlande fait ressortir de petites différences
+    qui font sourire. Chaque slide joue la carte de l''humour sans se moquer de personne, et les avis restent les
+    nôtres.
+
+
+    La dernière slide pourrait bien décider du vainqueur 👀
+
+
+    Tu fêtes comment tes anniversaires, plutôt gâteau ou verre levé ? 🥳
+
+
+    💾 Enregistre ce carrousel pour la prochaine fête d''anniversaire où tu voudras briller 🎉.
+
+
+    📤 Partage-le à un ami, celui qui organise toujours les anniversaires de la famille 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #irlande #anniversaire'
+  medias:
+  - medias/2026-11-02/2026-11-05_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/06.jpg
+  - medias/2026-11-02/2026-11-05_2000_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-05_2000_carro/01.jpg
+- id: 2026-11-05_2100_video
+  jour: jeudi
+  date: '2026-11-05'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Objets d''autrefois réinventés en version futuriste absurde'
+  accroche: Ton [téléphone] à fil va *parler* au futur
+  legende: 'Un téléphone à fil qui prédit l''avenir, c''est possible dans ta tête 📞✨
+
+
+    Si ton vieux objet pouvait te répondre, tu lui demanderais quoi en premier ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #retrofutur #objetsvintage #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-05_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-05_2100_video/couverture.jpg
+  source: 2026-11-05_1700_carro
