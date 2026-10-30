@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-29T02:21
+genere_le: 2026-10-30T02:16
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -1460,3 +1460,366 @@ posts:
   - medias/2026-11-02/2026-11-05_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-05_2100_video/couverture.jpg
   source: 2026-11-05_1700_carro
+- id: 2026-11-06_0800_carro
+  jour: vendredi
+  date: '2026-11-06'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: Les [ADIEU] aux *commerces* qui ont fermé pendant ton enfance
+    sous_titre: Tu les as forcément croisés, sans savoir qu'ils allaient disparaître
+    slides:
+    - titre: Le [vidéoclub] du samedi soir
+      texte: Tu choisissais tes *cassettes* en te disant que la soirée se jouait là. Rembobiner, c'était ton *devoir*
+        avant de rendre le film.
+    - titre: Le [marchand] de cassettes
+      texte: 'Le *cordonnier* de quartier, le *rémouleur* qui aiguisait couteaux et ciseaux au coin de la rue :
+        des métiers que tu croisais sans jamais y penser.'
+    - titre: Le [téléphone] à pièces
+      texte: Les *cabines téléphoniques* demandaient une pièce ou une *carte* pour appeler. Sans portable, un rendez-vous,
+        c'était une promesse faite au coin de la rue.
+    - titre: Le [kiosque] du marchand de journaux
+      texte: Le *kiosque* vendait journaux, bonbons et *cartes à collectionner*. Entrer là, c'était déjà une petite
+        aventure avant même d'avoir payé.
+    question_fin: Lequel de ces *commerces* te manque le plus ?
+  sujet: Métiers et commerces disparus de nos rues (1985-2005)
+  legende: 'Tu as forcément poussé la porte d''un de ces endroits 🏪
+
+
+    Vidéoclub, rémouleur, cabine téléphonique, kiosque : ces petits commerces ont disparu sans prévenir. Certains
+    tu les as connus, d''autres tu les as juste croisés sans y prêter attention.
+
+
+    Le dernier exemple est celui que tu ne soupçonnais pas 👀
+
+
+    Quel commerce de ton enfance te manque le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces lieux qui n''existent plus.
+
+
+    📤 Partage-le à un ami, qui a grandi entre 1985 et 2005 et risque de se reconnaître.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirs #culturegenerale #anneesdeenfance'
+  medias:
+  - medias/2026-11-02/2026-11-06_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-06_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-06_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-06_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-06_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-06_0800_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-06_0800_carro/01.jpg
+- id: 2026-11-06_1100_carro
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: 'Ils ont piqué nos [pires] *habitudes* : les animaux ne sont plus si sauvages'
+    sous_titre: 'Scroll, queue, klaxon : ça te rappelle quelqu''un ?'
+    slides:
+    - titre: Le [scroll] infini
+      texte: Une pieuvre au fond de l'océan qui fait défiler des vidéos de crabes jusqu'à 3 heures du matin ? *Elle*
+        en serait capable, on te le jure.
+    - titre: La *queue* au guichet
+      texte: Des pingouins alignés devant la banquise, bien serrés, sans jamais dépasser. Ils attendent leur poisson
+        comme on attend son tour à la boulangerie.
+    - titre: Le klaxon *furieux*
+      texte: Un bernard-l'hermite qui s'énerve parce que le crabe devant lui ne bouge pas. Il tape sur sa coquille
+        en guise de klaxon, c'est la rage au bord de la plage.
+    - titre: Le *chef* de chantier
+      texte: 'Les castors ne se contentent pas de bâtir : ils surveillent le chantier, râlent quand le voisin prend
+        trop de bois et refont les plans en pleine nuit.'
+    - titre: Le *réveil* qui snooze
+      texte: Le hérisson qui appuie cinq fois sur snooze avant de sortir de son terrier. On ne sait pas trop s'il
+        dort ou s'il fait semblant, mais la tactique est identique.
+    - titre: Le *mode avion* permanent
+      texte: Le chat qui ignore son humain depuis son perchoir, téléphone en patte, et qui répond uniquement quand
+        il a faim. Mais est-ce vraiment un chat, ou un petit génie de l'ignorance ?
+    question_fin: Lequel de ces animaux te ressemble le plus *sans* que tu oses l'avouer ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Les animaux ont récupéré nos pires habitudes, et ça se voit 🦦
+
+
+    Scroll infini, queue au guichet, klaxon en pleine digue : on a l''impression de voir des gens déguisés en bêtes.
+    Swipe pour voir qui a pris la pire habitude.
+
+
+    La dernière slide est celle qu''on reconnaît le plus, promis 👀
+
+
+    Quel animal t''a fait éclater de rire ou te rappelle quelqu''un ? 😏
+
+
+    💾 Enregistre ce carrousel pour te moquer de tes habitudes au prochain repas de famille 😅.
+
+
+    📤 Partage-le à un ami, pour voir s''il se reconnaît dans le hérisson qui snooze 🦔.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #insolite #humour'
+  medias:
+  - medias/2026-11-02/2026-11-06_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/07.jpg
+  - medias/2026-11-02/2026-11-06_1100_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-06_1100_carro/01.jpg
+- id: 2026-11-06_1300_devin
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 8 + 8 × 8 − 8 = ?'
+  reponse: '64 (piège : 120)'
+  legende: 'La réponse n''est pas 120 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-06_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-06_1300_devin/couverture.jpg
+- id: 2026-11-06_1400_carro
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: Les [accidents] qui ont changé le *monde* en secret
+    sous_titre: Des erreurs qui ont fini dans ta cuisine, ta poche ou ton frigo
+    slides:
+    - titre: Le [micro-ondes] par accident
+      texte: 'Selon une anecdote souvent racontée, un ingénieur travaillant sur des radars aurait vu une barre de
+        chocolat fondre dans sa poche. Une idée qui vaut le coup d''être creusée : le *four à micro-ondes* serait
+        né d''un drôle de hasard.'
+    - titre: Le *Post-it* raté
+      texte: Une colle trop faible, et personne ne voulait l'acheter au départ. Des années plus tard, ces notes
+        *amovibles* sont devenues indispensables sur bien des bureaux.
+    - titre: Une pilule *pas comme prévue*
+      texte: Ce médicament avait été pensé pour d'autres usages que celui qui l'a rendu célèbre. Si l'histoire du
+        hasard te fascine, c'est déjà une bonne raison de creuser le sujet.
+    - titre: Le *Teflon* par hasard
+      texte: Selon l'histoire habituelle, un chimiste tombe en 1938 sur un matériau glissant et très résistant en
+        travaillant sur des gaz. Aujourd'hui, on le retrouve dans beaucoup de cuisines.
+    - titre: Le *papier* bulle
+      texte: Au départ, son motif en relief devait servir à décorer des murs. L'idée de l'utiliser pour protéger
+        des objets fragiles serait venue plus tard, par détournement.
+    - titre: Le *sucre* qui a tout changé
+      texte: 'Et si l''erreur la plus savoureuse de l''histoire des desserts se cachait sous tes yeux ? Teste ta
+        mémoire : tu la retrouveras peut-être sur la dernière slide.'
+    question_fin: Laquelle de ces erreurs te paraît la plus *folle* ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Une erreur peut changer ta cuisine pour toujours 🍫
+
+
+    Des inventions nées d''un ratage, d''une colle trop faible ou d''un détournement inattendu. Le hasard fait parfois
+    mieux que les plus grands plans.
+
+
+    La dernière slide est celle que tout le monde ignore, mais elle est peut-être déjà dans ta cuisine 👀
+
+
+    Tu connaissais laquelle de ces erreurs ? 🤔
+
+
+    💾 Enregistre ce carrousel pour le jour où quelqu''un dira que c''est pas une vraie découverte 😏.
+
+
+    📤 Partage-le à un ami, celui qui jure que les découvertes se font toujours par génie 🧠.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoire #anecdotes'
+  medias:
+  - medias/2026-11-02/2026-11-06_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-06_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-06_1400_carro/01.jpg
+- id: 2026-11-06_1700_carro
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le logement'
+  contenu:
+    titre_couverture: 'LE DUEL *FRANCE* VS [BELGIQUE] : CHEZ TOI, C''EST QUOI LE PLUS BIZARRE ?'
+    sous_titre: 'Le duel France vs Belgique : le logement'
+    slides:
+    - titre: LE *RADIATEUR* QUI FAIT TOUT
+      texte: 'En France, beaucoup rêvent d''un chauffage central bien réglé. En Belgique, on voit encore souvent
+        des chaudières au gaz plus anciennes : à chacun son jeu de patience. (Idée à vérifier selon les immeubles,
+        pas une règle générale.)'
+    - titre: LA *CAVE* ET SES TRÉSORS
+      texte: 'Dans beaucoup d''immeubles, la cave devient un petit royaume : bric-à-brac, vélos, conserves et bouteilles.
+        Un espace de rangement qu''on oublie... jusqu''à la prochaine panne.'
+    - titre: LES *FENÊTRES* À GUILLOTINE
+      texte: Dans beaucoup de vieilles maisons, les fenêtres se lèvent de bas en haut. Ce petit détail change, à
+        notre avis, la façon d'aérer, de bricoler et même de discuter avec le voisin.
+    - titre: LE *SALON* QUI SERT À TOUT
+      texte: 'Le salon français est souvent sacré : on n''y mange pas, on n''y bricole pas. Dans d''autres logements,
+        la pièce de vie devient cuisine, bureau et salle de jeux à la fois.'
+    - titre: LA *TERRASSE* EN ATTENTE
+      texte: 'Balcon minuscule ou jardin minuscule : la terrasse fait rêver des deux côtés de la frontière. Qui
+        en profite le plus souvent, toi ou ton voisin ?'
+    question_fin: Lequel de ces détails te donnerait le plus [envie de déménager] ?
+  sujet: 'Le duel France vs Belgique : le logement du quotidien'
+  legende: 'Le duel France vs Belgique, version logement 🏠
+
+
+    Chauffage capricieux, cave remplie de trésors, fenêtres qui se lèvent, salon polyvalent... Les petits détails
+    de la maison en disent long sur nos habitudes. Swipe pour voir qui gagne ton cœur.
+
+
+    La dernière slide pourrait bien te surprendre 👀
+
+
+    Ton logement ressemble à quel camp, France ou Belgique ? 🤔
+
+
+    💾 Enregistre ce carrousel pour le jour où tu chercheras un appart ou que tu voudras comparer tes idées déco
+    🏡.
+
+
+    📤 Partage-le à un ami, à celui qui rêve de changer de pays sans quitter son canapé 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #belgique #logement'
+  medias:
+  - medias/2026-11-02/2026-11-06_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/06.jpg
+  - medias/2026-11-02/2026-11-06_1700_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-06_1700_carro/01.jpg
+- id: 2026-11-06_2000_carro
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si ta maison était envahie par [GELÉE] ?
+    sous_titre: Ta salle de bain, ta cuisine, ton bureau… version absurde
+    slides:
+    - titre: SALLE DE BAIN *en mousse* ?
+      texte: Imagine ouvrir la porte de ta salle de bain et tomber sur une mer de *mousse à raser* jusqu'aux chevilles.
+        Et si ça sentait le neuf ? Ou le pire ? À toi de trancher.
+    - titre: BUREAU *sous les plumes*
+      texte: Ton bureau disparaît sous des *plumes* blanches qui volent au moindre courant d'air. Ton ordi ressemble
+        à un oreiller qui a explosé. Honnêtement, ça a son charme.
+    - titre: CUISINE *pleine de sable*
+      texte: 'Tu ouvres le frigo : *sable fin* à perte de vue. Les placards aussi. Un petit château de sable dépasse
+        même de la cafetière.'
+    - titre: SALON *rempli de ballons*
+      texte: Le canapé a disparu sous des *ballons rouges* par milliers. Il faut nager pour atteindre la télé. Et
+        ça, ce n'est que le début.
+    question_fin: Laquelle de ces invasions serait la plus *difficile à nettoyer* pour toi ?
+  sujet: Ta maison envahie par une seule chose absurde
+  legende: 'Ta maison, envahie. Tu tiens le coup ? 🏠
+
+
+    Gelée, sable, plumes, ballons : une seule chose absurde qui transforme chaque pièce en décor de cauchemar drôle.
+    Swipe pour voir ce que ça donnerait chez toi.
+
+
+    La dernière invasion est celle qui ferait fuir tout le monde 👀
+
+
+    Tu choisis quelle invasion pour ton appart ? 😂
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces scénarios la prochaine fois que tu rentres chez toi.
+
+
+    📤 Partage-le à un ami, il rira de l''invasion de plumes dans son bureau.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #insolite #etsi'
+  medias:
+  - medias/2026-11-02/2026-11-06_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-06_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-06_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-06_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-06_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-06_2000_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-06_2000_carro/01.jpg
+- id: 2026-11-06_2100_video
+  jour: vendredi
+  date: '2026-11-06'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui ont adopté nos pires habitudes humaines'
+  accroche: Tu fais pareil que [ces animaux] sans le *savoir* ?
+  legende: 'Ton pouce ne dort jamais, et toi non plus 📱
+
+
+    Quel animal te ressemble le plus au quotidien, et pourquoi ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #animaux #savoirinutile'
+  medias:
+  - medias/2026-11-02/2026-11-06_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-06_2100_video/couverture.jpg
+  source: 2026-11-06_1100_carro
