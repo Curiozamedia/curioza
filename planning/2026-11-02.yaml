@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-30T02:16
+genere_le: 2026-10-31T02:18
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -1823,3 +1823,365 @@ posts:
   - medias/2026-11-02/2026-11-06_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-06_2100_video/couverture.jpg
   source: 2026-11-06_1100_carro
+- id: 2026-11-07_0800_carro
+  jour: samedi
+  date: '2026-11-07'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: 'Le [goûter] qui a bercé ta récré : *tu t''en souviens ?*'
+    sous_titre: Les années 90-2000, sans marques, sans filtre
+    slides:
+    - titre: LE [papier] D'ALU
+      texte: Un sandwich enveloppé dans du *papier alu* chiffonné, parfois replié et réutilisé. À mon avis, le vrai
+        luxe, c'était d'avoir du pain *frais*.
+    - titre: LA *brique de jus* D'ANTAN
+      texte: Une petite brique de jus à percer avec une paille en plastique pliable. Il fallait un petit coup de
+        pouce pour la *percer* sans tout renverser.
+    - titre: LA [boîte] À GOÛTER EN MÉTAL
+      texte: Une boîte rigide qui claquait à chaque ouverture, avec un intérieur qui sentait le *pain d'épices*
+        et la gomme. On la laissait traîner au fond du cartable.
+    - titre: LE *troc* DE LA RÉCRÉ
+      texte: Échanger un biscuit contre un bout de pain au chocolat, une sorte de monnaie officieuse. Qui avait
+        *le meilleur troc* ? À mon avis, il fallait négocier comme un vrai commerçant.
+    - titre: LA *pomme* QUE PERSONNE NE MANGEAIT
+      texte: 'Des fruits entiers rangés au fond du sac, ramenés intacts à la maison. Beaucoup finissaient, sans
+        doute, à la poubelle : une *petite honte* qu''on oubliait vite.'
+    question_fin: Lequel t'a laissé le plus *nostalgique* ?
+  sujet: Goûters d'école des années 90-2000, angle inédit
+  legende: 'Tu te souviens du goûter de récré ? 🥪
+
+
+    Papier alu réutilisé, brique de jus à percer, troc de biscuits en pleine cour : les goûters des années 90-2000
+    avaient leurs codes. Swipe pour retrouver les détails oubliés.
+
+
+    La dernière slide parle d''une habitude que personne n''avouait vraiment 👀
+
+
+    Quel goûter de ton enfance te manque le plus ? 🍪
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta récré.
+
+
+    📤 Partage-le à un ami, qui a forcément eu la même boîte à goûter que toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-07_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/06.jpg
+  - medias/2026-11-02/2026-11-07_0800_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-07_0800_carro/01.jpg
+- id: 2026-11-07_1100_carro
+  jour: samedi
+  date: '2026-11-07'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: Et si les [monuments] du monde étaient faits de *gelée* ou de *pâte à modeler* ?
+    sous_titre: Six lieux mous, givrés ou en plastique, prêts à être pétris
+    slides:
+    - titre: Une [Tour] en *pâte à modeler*
+      texte: Imagine une tour de fer géante, mais façonnée à la main comme un enfant qui s'ennuie. Les *empreintes
+        de doigts* seraient visibles sur chaque arche.
+    - titre: Un *palais* en [glace] fondante
+      texte: Un château royal taillé dans la glace, qui perd doucement ses tourelles sous le soleil. Les *gouttes*
+        glissent comme des larmes de sucre.
+    - titre: Des *briques* géantes [colorées]
+      texte: Et si une cathédrale gothique était assemblée en petits blocs colorés ? Il faudrait *des heures* pour
+        la reconstruire bloc par bloc.
+    - titre: Une *mosquée* en [gelée] tremblante
+      texte: Des coupoles qui frémissent à chaque pas, comme un dessert qu'on n'ose pas toucher. Le *soleil* traverse
+        les dômes et colore les murs.
+    - titre: Un *pont* en [caramel] qui coule
+      texte: Un pont suspendu qui ondule lentement au-dessus d'un fleuve, prêt à s'étirer au moindre vent. Les *câbles*
+        ressemblent à des fils de sucre filé.
+    - titre: Une *statue* en [neige] qui pousse
+      texte: Une statue de héros qui se couvre de givre chaque nuit et repousse en sculptures plus folles. On ne
+        sait jamais *à quoi* elle ressemblera demain.
+    question_fin: Quel monument tu *transformerais* en matière la plus bizarre ?
+  sujet: Lieux célèbres du monde transformés en matière inattendue
+  legende: 'Et si les monuments du monde étaient en gelée ? 🍮
+
+
+    Pâte à modeler, glace, briques colorées ou caramel : six lieux célèbres changent complètement de visage. Certains
+    tremblent, d''autres fondent, et l''un d''eux pourrait bien se couvrir de givre chaque nuit.
+
+
+    La dernière slide est la plus bizarre, tu ne vas pas y croire 👀
+
+
+    Lequel de ces monuments tu aurais peur de toucher ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces images quand tu voudras rire un coup 🍬.
+
+
+    📤 Partage-le à un ami, il va forcément te répondre avec la pire matière possible 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #monde'
+  medias:
+  - medias/2026-11-02/2026-11-07_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/07.jpg
+  - medias/2026-11-02/2026-11-07_1100_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-07_1100_carro/01.jpg
+- id: 2026-11-07_1300_devin
+  jour: samedi
+  date: '2026-11-07'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 12 × 9 − 12 = ?'
+  reponse: '99 (piège : 123)'
+  legende: 'La réponse n''est pas 123 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-07_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-07_1300_devin/couverture.jpg
+- id: 2026-11-07_1400_carro
+  jour: samedi
+  date: '2026-11-07'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: 'Records naturels fous : animaux, plantes, phénomènes'
+  contenu:
+    titre_couverture: LA NATURE A DES *RECORDS* QUI FONT [DOUTER] TON BON SENS
+    sous_titre: Swipe si tu crois que la planète se calme un peu
+    slides:
+    - titre: Le [pic-vert] au front de béton
+      texte: Le *pic-vert* tape le bois des milliers de fois par jour. Pourquoi il ne se fracasse pas le crâne ?
+        Les scientifiques parlent d'amortissement, mais le mystère reste un beau sujet de débat.
+    - titre: Le *champion* du silence
+      texte: Certains *poissons* produisent des sons en faisant vibrer leurs muscles autour de la vessie natatoire.
+        Sous l'eau, ce chant porte loin, et on peut se demander jusqu'où il s'entend vraiment.
+    - titre: Une plante qui [mange]
+      texte: 'La *dionée attrape-mouche* referme ses feuilles en piège quand un insecte touche ses poils sensibles.
+        Un seul contact ne suffit pas : il en faut plusieurs, rapprochés.'
+    - titre: Le [tonnerre] de la mer
+      texte: Le *cachalot* plonge à plus de mille mètres pour chasser et retient son souffle très longtemps. Franchement,
+        on peut le considérer comme l'un des plongeurs les plus impressionnants de la planète.
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: 'Records naturels fous : animaux, plantes, phénomènes'
+  legende: 'La nature gagne toujours les concours de bizarreries 🌿
+
+
+    Un oiseau qui cogne des milliers de fois par jour, une plante qui piège ses repas, un géant des océans champion
+    de l''apnée. Swipe, et vérifie par toi-même.
+
+
+    Le dernier record est celui qui fait le plus plonger 👀
+
+
+    Tu connaissais lequel de ces records ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu veux épater la galerie.
+
+
+    📤 Partage-le à un ami, il adore les faits qui font hurler "non c''est pas vrai".
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #nature #animaux #faitsinsolites'
+  medias:
+  - medias/2026-11-02/2026-11-07_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-07_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-07_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-07_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-07_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-07_1400_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-07_1400_carro/01.jpg
+- id: 2026-11-07_1700_carro
+  jour: samedi
+  date: '2026-11-07'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Petites habitudes qui changent une journée (avec explication simple)
+  contenu:
+    titre_couverture: '[PETITES] *HABITUDES* qui changent ta journée'
+    sous_titre: Ton cerveau adore les routines (même les mauvaises)
+    slides:
+    - titre: '[LE] *PREMIER* geste compte'
+      texte: Ta main attrape ton téléphone avant même que tu sois réveillé. Ce réflexe du *matin* décide peut-être
+        de ton humeur pour la journée entière.
+    - titre: Le *verre d'eau* qui réveille
+      texte: Boire un grand verre d'eau au réveil est une habitude simple. Beaucoup de gens se sentent plus lents
+        le matin, et un peu d'eau peut aider à démarrer en douceur.
+    - titre: Le pouvoir de la *règle des deux minutes*
+      texte: Si une tâche prend moins de deux minutes, fais-la tout de suite. Selon nous, cela libère de la place
+        dans ta tête pour penser à autre chose.
+    - titre: Ranger *une seule chose* le soir
+      texte: Poser ses clés au même endroit ou ranger une tasse évite de chercher ses affaires le lendemain. Un
+        cadre prévisible rend, à notre avis, la matinée moins stressante.
+    - titre: Marcher *dix minutes* après le repas
+      texte: 'Une petite balade après manger peut aider à digérer et à relancer l''énergie de l''après-midi. Pas
+        besoin de sport : bouger, même un peu, change souvent la sensation de la journée.'
+    question_fin: Laquelle de ces habitudes tu *zappes* chaque jour ?
+  sujet: Petites habitudes qui changent une journée, expliquées simplement
+  legende: 'Une petite habitude peut changer toute ta journée ☀️
+
+
+    Pas besoin de révolution : quelques gestes simples, un verre d''eau, une tâche rapide, un rangement, une balade.
+    Swipe pour voir pourquoi ton cerveau adore ces petits rituels.
+
+
+    La dernière habitude est celle que tu fais déjà sans le savoir 👀
+
+
+    Quelle habitude tu vas tester demain ? 👇
+
+
+    💾 Enregistre ce carrousel pour les tester une semaine entière.
+
+
+    📤 Partage-le à un ami, qui vit encore sur le pilote automatique.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #cerveau #habitudes'
+  medias:
+  - medias/2026-11-02/2026-11-07_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/06.jpg
+  - medias/2026-11-02/2026-11-07_1700_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-07_1700_carro/01.jpg
+- id: 2026-11-07_2000_carro
+  jour: samedi
+  date: '2026-11-07'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours, mais tu sais *d'où ça vient* ?
+    sous_titre: Les [origines] cachées de nos expressions
+    slides:
+    - titre: '[Poser] un lapin'
+      texte: 'Tu dis *poser un lapin* quand quelqu''un ne vient pas au rendez-vous. Une piste populaire : l''expression
+        ferait référence à un lapin qu''on laissait en gage, sans que personne ne vienne le récupérer. L''origine
+        exacte reste incertaine.'
+    - titre: Être *dans le pétrin*
+      texte: Le *pétrin* est la grande cuve où l'on pétrit la pâte à pain. Être dedans, c'est être coincé, sans
+        issue, comme une pâte qu'on ne peut plus sortir.
+    - titre: Avoir un *chat* dans la gorge
+      texte: 'Avoir un chat dans la gorge, c''est être enroué. L''image est très ancienne : on imagine qu''elle
+        vient d''une voix rauque comparée à un miaulement coincé. C''est une hypothèse séduisante, pas une certitude.'
+    - titre: Rentrer dans le *lard*
+      texte: 'Se faire *rentrer dans le lard* signifie se faire frapper ou attaquer violemment. L''expression vient
+        d''un vieux mot argot, mais son étymologie exacte reste incertaine : c''est une piste, pas une certitude.'
+    - titre: Se *lever du pied gauche*
+      texte: Se lever du pied gauche, c'est être de mauvaise humeur toute la journée. Dans la tradition, le pied
+        gauche était jugé maladroit, mais cette origine reste une idée populaire, pas un fait prouvé.
+    question_fin: Laquelle de ces expressions tu dis sans y penser, et tu *ignorais* son origine ?
+  sujet: Origine de 5 expressions françaises du quotidien
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça vient 🤯
+
+
+    On passe en revue cinq expressions françaises du quotidien, avec leur origine connue ou une piste sérieuse.
+    Certaines sont plus folles qu''on ne l''imagine.
+
+
+    La dernière est la plus incertaine, et on te dit pourquoi 👀
+
+
+    Tu en connaissais combien avant de swiper ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un te pose un lapin ou te dit que tu es dans le
+    pétrin 🐇.
+
+
+    📤 Partage-le à un ami, celui qui se lève toujours du pied gauche 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #expressionsfrancaises #anecdotes #etymologie #culturegeneraleFR'
+  medias:
+  - medias/2026-11-02/2026-11-07_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/06.jpg
+  - medias/2026-11-02/2026-11-07_2000_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-07_2000_carro/01.jpg
+- id: 2026-11-07_2100_video
+  jour: samedi
+  date: '2026-11-07'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Lieux célèbres du monde transformés en matière inattendue'
+  accroche: Une [Tour] en *pâte à modeler* ? Attends la suite...
+  legende: 'Et si les monuments du monde fondaient comme des glaçons ? 🗼🧊
+
+
+    Quel monument tu transformerais en matière bizarre en premier, et en quoi ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #lieuxcelebres #iaart'
+  medias:
+  - medias/2026-11-02/2026-11-07_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-07_2100_video/couverture.jpg
+  source: 2026-11-07_1100_carro
