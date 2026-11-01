@@ -9,7 +9,7 @@
 semaine: '2026-11-02'
 phase: normal
 tout_valider: false
-genere_le: 2026-10-31T02:18
+genere_le: 2026-11-01T02:15
 posts:
 - id: 2026-11-02_0800_carro
   jour: lundi
@@ -2185,3 +2185,356 @@ posts:
   - medias/2026-11-02/2026-11-07_2100_video/reel.mp4
   couverture: medias/2026-11-02/2026-11-07_2100_video/couverture.jpg
   source: 2026-11-07_1100_carro
+- id: 2026-11-08_0800_carro
+  jour: dimanche
+  date: '2026-11-08'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des insectes agrandis à taille humaine dans des scènes banales du quotidien (dérangeant-drôle)
+  contenu:
+    titre_couverture: LES [INSECTES] QUI ONT DÉCIDÉ DE *DÉBARQUER* CHEZ TOI
+    sous_titre: Quand la bestiole rentre dans la cuisine, ça change tout
+    slides:
+    - titre: LE [CAFARD] DU MÉTRO
+      texte: Imagine un *scarabée* géant qui monte dans la rame de 8h, sac à dos sur le dos, et qui s'assoit en
+        face de toi sans *jamais* lâcher son journal.
+    - titre: LA [GUÊPE] AU GUICHET
+      texte: Une *guêpe* géante fait la queue à la poste, patiente, carte d'identité en main. Personne n'ose lui
+        dire que le guichet ferme à 17h.
+    - titre: LE [MANTE] DU SUPERMARCHÉ
+      texte: Une *mante religieuse* géante pousse un caddie entre les rayons, hésite longuement devant les yaourts
+        et finit par tout prendre en *promotion*.
+    - titre: LA [FOURMI] DE LA SIESTE
+      texte: Une *fourmi* géante s'endort sur un transat au bord d'une piscine municipale, lunettes de soleil sur
+        la tête. Elle, au moins, sait *prendre son temps*.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Insectes géants à taille humaine dans le quotidien
+  legende: 'Ta prochaine rencontre dans le métro pourrait avoir six pattes 🐞
+
+
+    Quatre scènes banales, un seul détail qui cloche : la bestiole est à taille humaine. Métro, poste, supermarché,
+    piscine, chacun a sa petite galère. Swipe pour voir qui fait la queue.
+
+
+    La dernière scène est celle où tu vas le plus rire… ou flipper 👀
+
+
+    Tu aurais fait quoi à sa place, tu aurais osé doubler ? 🐜
+
+
+    💾 Enregistre ce carrousel pour te souvenir de la prochaine fois que tu croiseras une guêpe au guichet.
+
+
+    📤 Partage-le à un ami, pour qu''il comprenne enfin pourquoi tu fuis les insectes en été.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insectes #absurde #humour'
+  medias:
+  - medias/2026-11-02/2026-11-08_0800_carro/01.jpg
+  - medias/2026-11-02/2026-11-08_0800_carro/02.jpg
+  - medias/2026-11-02/2026-11-08_0800_carro/03.jpg
+  - medias/2026-11-02/2026-11-08_0800_carro/04.jpg
+  - medias/2026-11-02/2026-11-08_0800_carro/05.jpg
+  - medias/2026-11-02/2026-11-08_0800_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-08_0800_carro/01.jpg
+- id: 2026-11-08_1100_carro
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton [cerveau] lance des *protections* dans ton dos
+    sous_titre: Cinq petits mécanismes que tu ne sens jamais venir
+    slides:
+    - titre: Le [filtre] des mauvaises nouvelles
+      texte: Ton cerveau *trie* ce qu'il retient. Après une mauvaise journée, il pourrait bien mettre en avant les
+        pires moments, comme s'il voulait te prévenir d'un danger, même si la journée était correcte.
+    - titre: Le [réflexe] du couloir sombre
+      texte: Dans le noir, ton cerveau a l'air d'exagérer les formes. Un manteau peut devenir une silhouette, et
+        ton cœur accélère avant que tu comprennes ce que tu vois.
+    - titre: Le [pilote] automatique du trajet
+      texte: Tu arrives chez toi sans te souvenir du trajet ? Ton cerveau semble *économiser* ses ressources en
+        passant en mode habitude pour les routines répétées.
+    - titre: Le [bouclier] de l'oubli
+      texte: Ton cerveau semble *effacer* une partie des détails douloureux ou gênants. Ce tri n'est pas parfait,
+        mais il t'évite peut-être de revivre la scène en boucle.
+    - titre: Le [mensonge] de la certitude
+      texte: Ton cerveau *comble les trous* de ce que tu ne vois pas et te donne l'impression de tout voir. Tu n'as
+        pas de vision parfaite, juste une bonne illusion.
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Mécanismes cérébraux qui te protègent sans prévenir
+  legende: 'Ton cerveau te protège, et il ne te prévient jamais 🧠
+
+
+    Cinq petits mécanismes invisibles qui trient, exagèrent, oublient et comblent à ta place. Chacun vient avec
+    un conseil simple pour mieux les gérer.
+
+
+    La dernière slide change la façon dont tu regardes tes propres souvenirs 👀
+
+
+    Tu t''es reconnu dans lequel ? 💬
+
+
+    💾 Enregistre ce carrousel pour relire le conseil bonus la prochaine fois que ta journée paraît pourrie.
+
+
+    📤 Partage-le à un ami, il va sûrement se reconnaître dans au moins deux slides.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegeneral #curiosites #psychologie #cerveau #biais'
+  medias:
+  - medias/2026-11-02/2026-11-08_1100_carro/01.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/02.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/03.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/04.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/05.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/06.jpg
+  - medias/2026-11-02/2026-11-08_1100_carro/07.jpg
+  couverture: medias/2026-11-02/2026-11-08_1100_carro/01.jpg
+- id: 2026-11-08_1300_devin
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 11 + 6 × 7 − 11 = ?'
+  reponse: '42 (piège : 108)'
+  legende: 'La réponse n''est pas 108 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-08_1300_devin/reel.mp4
+  couverture: medias/2026-11-02/2026-11-08_1300_devin/couverture.jpg
+- id: 2026-11-08_1400_carro
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: Des [métiers] qui n'existent pas mais qu'on *aimerait* voir
+    sous_titre: Le ticket de caisse à nuages, et autres pépites
+    slides:
+    - titre: Le [trieur] de nuages
+      texte: Et si chaque matin, quelqu'un choisissait les nuages *trop lourds* pour les poser doucement sur les
+        toits ? On aimerait bien que ce job existe.
+    - titre: Le *goûteur* de pluie
+      texte: Et s'il dégustait chaque averse pour dire si elle est *trop salée* ou assez fraîche ? Son verdict déciderait
+        si on sort le parapluie.
+    - titre: Le [réveilleur] de feuilles
+      texte: 'Son job rêvé : frotter les feuilles d''automne pour les *faire rougir* juste avant qu''elles tombent.
+        Personne ne sait vraiment si ça marche, et c''est ce qui rend le métier fascinant.'
+    - titre: Le *sculpteur* d'ombres
+      texte: Il taillerait les ombres des arbres le soir pour qu'elles *dessinent des formes* sur les trottoirs.
+        Une vraie œuvre d'art, le temps d'une soirée.
+    - titre: Le [gardien] des chaussettes perdues
+      texte: Il classerait les chaussettes qui disparaissent dans la machine et les rangerait dans un *entrepôt
+        géant* où elles attendent leur jumelle.
+    - titre: Le *livreur* de silences
+      texte: Dans les bibliothèques bruyantes, il déposerait des silences en bocaux. Tu pourrais en commander un
+        pour *tes soirées* trop agitées.
+    question_fin: Lequel de ces métiers aurais-tu envie de *recruter* pour ta vie ?
+  sujet: Métiers imaginaires qu'on aimerait voir au quotidien
+  legende: 'Et si ton prochain boulot était de trier des nuages ? ☁️
+
+
+    Six métiers qui n''existent pas, mais qu''on aimerait voir dans nos rues. Certains sont drôles, d''autres un
+    peu bizarres, et un seul pourrait te sauver une soirée.
+
+
+    La dernière slide change tout, et tu ne vas pas la voir venir 👀
+
+
+    Quel métier imaginaire voudrais-tu voir ouvrir dans ta ville ? 💬
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu veux rire un coup 😄.
+
+
+    📤 Partage-le à un ami, il va forcément vouloir postuler 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #imagination'
+  medias:
+  - medias/2026-11-02/2026-11-08_1400_carro/01.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/02.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/03.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/04.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/05.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/06.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/07.jpg
+  - medias/2026-11-02/2026-11-08_1400_carro/08.jpg
+  couverture: medias/2026-11-02/2026-11-08_1400_carro/01.jpg
+- id: 2026-11-08_1700_carro
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : l''école et les enfants'
+  contenu:
+    titre_couverture: 'Le duel France vs Danemark : [l''école] et les *enfants* de 6 ans'
+    sous_titre: Qui a la meilleure recette pour les petits écoliers ?
+    slides:
+    - titre: Les *dehors* par tous les temps
+      texte: Au Danemark, beaucoup de classes sortent dehors même quand il pleut, avec des vêtements adaptés. Selon
+        toi, le grand air devrait-il faire partie de la journée d'école ?
+    - titre: Le *goûter* à la fourchette
+      texte: En France, on parle souvent de goûter. Au Danemark, on imagine plutôt des tartines et des pauses cadrées.
+        Chacun ses rituels, et à chacun sa recette !
+    - titre: Le *débat* sur les cartables
+      texte: Un cartable lourd, c'est la galère dans tous les pays. Moins de devoirs ou plus de sorties ? Les avis
+        divergent. Et toi, tu étais team quoi ?
+    - titre: La *récré* qui ne finit jamais
+      texte: Au Danemark, on mise beaucoup sur le jeu libre et les pauses dehors. En France, la récré a parfois
+        des règles bien pensées. À ton avis, laquelle rend les enfants plus heureux ?
+    question_fin: Lequel de ces écarts te donne le plus *envie* de changer ton école ?
+  sujet: 'Le duel France vs Danemark : l''école et les enfants'
+  legende: 'Ton école, version française contre version danoise 🎒
+
+
+    Dehors sous la pluie, goûters tartinés, cartables qui pèsent une tonne : le duel est lancé. Swipe pour voir
+    qui gagne chaque round.
+
+
+    Le dernier round touche à la récré, et là, ça devient sérieux 👀
+
+
+    Tu étais team cour de récré ou team goûter ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces comparaisons quand tu discuteras école avec tes enfants 📚.
+
+
+    📤 Partage-le à un ami, pour que ton pote trouve la récré danoise trop cool et le cartable français toujours
+    aussi lourd 🎒.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #danemark #ecole'
+  medias:
+  - medias/2026-11-02/2026-11-08_1700_carro/01.jpg
+  - medias/2026-11-02/2026-11-08_1700_carro/02.jpg
+  - medias/2026-11-02/2026-11-08_1700_carro/03.jpg
+  - medias/2026-11-02/2026-11-08_1700_carro/04.jpg
+  - medias/2026-11-02/2026-11-08_1700_carro/05.jpg
+  - medias/2026-11-02/2026-11-08_1700_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-08_1700_carro/01.jpg
+- id: 2026-11-08_2000_carro
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Des [MAISONS] *impossibles* qui défient la gravité
+    sous_titre: Tu y habiterais, toi ?
+    slides:
+    - titre: La maison [suspendue] *sur la falaise*
+      texte: Imagine une maison plantée au bord d'une falaise, les fenêtres face au vide. Le seul voisin, c'est
+        le vent et quelques oiseaux *curieux*.
+    - titre: Un [phare] *au milieu* d'un lac gelé
+      texte: Une cabane solitaire posée sur une banquise qui craque sous les pieds. Pour rentrer chez toi, il faut
+        *marcher* sur la glace.
+    - titre: Une cabane [au sommet] *d'un arbre géant*
+      texte: Des maisons perchées dans les branches d'arbres centenaires existent vraiment. Elles ne tiennent pas
+        sur des fondations, mais sur des *troncs vivants*.
+    - titre: Une maison [sous] *la rivière* ?
+      texte: 'Imagine une demeure sur pilotis au milieu d''un fleuve, avec une porte qui donne directement sur l''eau.
+        Question : tu prendrais le *bateau* ou la *passerelle* pour aller au pain ?'
+    question_fin: Laquelle de ces maisons te donnerait le plus *le vertige* ?
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison, elle tient sur quoi, exactement ? 🏡
+
+
+    Falaise, lac gelé, cime d''arbre ou rivière : certaines habitations défient totalement l''idée qu''on se fait
+    d''un toit. Swipe pour voir où tu aurais posé tes valises.
+
+
+    La dernière slide pose une question que tu n''as pas envie de te poser le matin 👀
+
+
+    Tu choisis laquelle, toi, et pourquoi ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées de maisons insolites quand tu voudras rêver d''un nouveau
+    décor.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse avec toi la maison la plus folle.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #maisoninsolite #architecture #insolite'
+  medias:
+  - medias/2026-11-02/2026-11-08_2000_carro/01.jpg
+  - medias/2026-11-02/2026-11-08_2000_carro/02.jpg
+  - medias/2026-11-02/2026-11-08_2000_carro/03.jpg
+  - medias/2026-11-02/2026-11-08_2000_carro/04.jpg
+  - medias/2026-11-02/2026-11-08_2000_carro/05.jpg
+  - medias/2026-11-02/2026-11-08_2000_carro/06.jpg
+  couverture: medias/2026-11-02/2026-11-08_2000_carro/01.jpg
+- id: 2026-11-08_2100_video
+  jour: dimanche
+  date: '2026-11-08'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Insectes géants à taille humaine dans le quotidien'
+  accroche: Tu croiseras un [CAFARD] géant dans le *métro* demain ?
+  legende: 'Le métro, c''est déjà pas drôle sans cafard géant 🪳
+
+
+    Tu prendrais le métro à côté d''un cafard de ta taille, toi ? 👀
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insectes #reels #culturegenerale'
+  medias:
+  - medias/2026-11-02/2026-11-08_2100_video/reel.mp4
+  couverture: medias/2026-11-02/2026-11-08_2100_video/couverture.jpg
+  source: 2026-11-08_0800_carro
