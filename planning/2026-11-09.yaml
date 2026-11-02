@@ -1,0 +1,361 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-11-09'
+phase: normal
+tout_valider: false
+genere_le: 2026-11-02T02:19
+posts:
+- id: 2026-11-09_0800_carro
+  jour: lundi
+  date: '2026-11-09'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: Et si la [gravité] s'inversait une *minute* ?
+    sous_titre: Le chaos domestique version apesanteur inversée
+    slides:
+    - titre: LA [PLUIE] À L'ENVERS
+      texte: 'Imaginons que les *gouttes* remontent vers les nuages : ton parapluie tenterait alors de s''envoler
+        tout seul. Le ciel deviendrait un sol.'
+    - titre: LE *CAFÉ* QUI REMONTE
+      texte: 'Ta tasse se viderait vers le haut : le liquide formerait une colonne brune suspendue au-dessus de
+        la table. Impossible de boire, mais le spectacle serait parfait.'
+    - titre: LES *MIETTES* AU PLAFOND
+      texte: Les miettes de ta tartine quitteraient la nappe pour coller au plafond de la cuisine. Au bout d'une
+        minute, la pièce ressemblerait à une constellation.
+    - titre: LE *LIT* QUI DÉCOLLE
+      texte: Ta couette, tes oreillers et ton matelas se soulèveraient doucement. Le seul endroit où tu veux rester
+        deviendrait le plus dangereux de la maison.
+    question_fin: Lequel de ces chaos te ferait le plus [paniquer] ?
+  sujet: Gravité inversée une minute dans le quotidien
+  legende: 'Imagine ta cuisine un matin sans gravité 🙃
+
+
+    Ta pluie remonterait, ton café refuserait de descendre et tes miettes deviendraient des étoiles. Une minute
+    suffirait pour tout chambouler chez toi.
+
+
+    Attends la dernière slide, le lit est peut-être l''endroit le plus risqué de la maison 👀
+
+
+    Tu lâcherais ton petit-déj'' ou tu courrais après ton lit ? 😂
+
+
+    💾 Enregistre ce carrousel pour relire ce délire la prochaine fois que tu renverses ton café.
+
+
+    📤 Partage-le à un ami, pour qu''il imagine avec toi le chaos de sa cuisine 🌀.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #gravite #insolite'
+  medias:
+  - medias/2026-11-09/2026-11-09_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-09_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-09_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-09_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-09_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-09_0800_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-09_0800_carro/01.jpg
+- id: 2026-11-09_1100_carro
+  jour: lundi
+  date: '2026-11-09'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: Les [règles] *invisibles* qui gouvernent tes journées
+    sous_titre: Personne ne les a écrites, beaucoup les respectent sans y penser
+    slides:
+    - titre: Le [silence] de l'ascenseur
+      texte: Tu montes, tu te tournes face à la porte, et personne ne dit rien. Aucune loi ne l'impose, pourtant
+        *tout le monde* semble s'y plier.
+    - titre: Le [faux] regard qui évite
+      texte: Dans le métro, tu fixes le vide ou ton téléphone. Croiser un regard trop longtemps devient *gênant*,
+        sans que personne ne l'ait décidé.
+    - titre: Le [pas de côté] discret
+      texte: Sur un trottoir étroit, deux personnes qui marchent face à face s'écartent souvent au même moment.
+        Une *chorégraphie* jamais répétée.
+    - titre: Le [délai] avant de répondre
+      texte: Quand quelqu'un te dit « ça va ? », tu réponds « ça va, et toi ? » presque sans réfléchir. Le script
+        social tourne tout seul, *automatiquement*.
+    - titre: Le [sourire] de l'inconnu
+      texte: Tu tiens une porte, la personne derrière sourit ou dit merci. Ce petit échange ne coûte presque rien,
+        mais il *reste gravé* dans la journée.
+    question_fin: Laquelle de ces règles te paraît la plus *absurde* quand tu y penses ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Personne ne les a écrites, pourtant tu les suis presque tous les jours 🤫
+
+
+    Ascenseur, métro, trottoir, bonjour automatique : plusieurs petites règles invisibles guident tes gestes sans
+    que tu t''en rendes compte. Swipe pour les voir une par une, et regarde-les autrement.
+
+
+    Dans la dernière slide, il y a une règle qui te fera sourire, même si tu la pratiques sans y penser 👀
+
+
+    Tu en connaissais combien avant de swiper ? 😏
+
+
+    💾 Enregistre ce carrousel pour retrouver ces petites règles la prochaine fois que tu te sens observé dans un
+    ascenseur.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître son propre comportement dans l''ascenseur 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #savoirinutile #viequotidienne'
+  medias:
+  - medias/2026-11-09/2026-11-09_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/06.jpg
+  - medias/2026-11-09/2026-11-09_1100_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-09_1100_carro/01.jpg
+- id: 2026-11-09_1300_devin
+  jour: lundi
+  date: '2026-11-09'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 12 × 10 − 4 = ?'
+  reponse: '123 (piège : 186)'
+  legende: 'La réponse n''est pas 186 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-09_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-09_1300_devin/couverture.jpg
+- id: 2026-11-09_1400_carro
+  jour: lundi
+  date: '2026-11-09'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: Le goûter de *ton* école était [secret] d'État
+    sous_titre: Ce qu'on mangeait à 16h dans la cour, sans un seul logo
+    slides:
+    - titre: Le [pain] au chocolat de la honte
+      texte: Dans beaucoup d'écoles, le goûter tenait souvent dans un sac en papier gras. Le *pain* et la *tablette
+        de chocolat* régnaient, avec un emballage qu'on ne pensait pas encore à recycler.
+    - titre: Le goûter *fait maison* en boîte
+      texte: Beaucoup de mamans glissaient une *compote* dans une petite boîte en plastique à couvercle, avec une
+        cuillère minuscule. Le *dessert* voyageait sans doute mieux qu'un yaourt à boire.
+    - titre: Le *jus de fruit* qui tachait tout
+      texte: 'Une petite brique à paille, percée au coude, promettait l''exotisme pour quelques francs. Résultat
+        : un pull taché et une maîtresse qui soupirait. Tu t''en souviens ?'
+    - titre: La *récré* commençait par l'échange
+      texte: Une *image* ou une petite carte à collectionner se négociait souvent contre un biscuit. Le goûter devenait
+        une monnaie d'échange, et le plus malin repartait sans doute avec le meilleur lot.
+    question_fin: Quel goûter de ta cour t'a *manqué* le plus ?
+  sujet: Goûters d'école des années 90-2000, sans marques
+  legende: 'Ton goûter de 16h était peut-être une vraie monnaie d''échange 🍪
+
+
+    Pain, compote en boîte, brique de jus qui tachait tout : on repasse en revue les goûters d''école des années
+    90-2000. Chaque slide ravive un souvenir précis de la cour.
+
+
+    La dernière slide révèle, selon nous, le roi des échanges de récré 👀
+
+
+    Tu échangeais quoi contre ton goûter à l''école ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux les raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa propre brique de jus dans la slide 3 🧃.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-09_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-09_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-09_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-09_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-09_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-09_1400_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-09_1400_carro/01.jpg
+- id: 2026-11-09_1700_carro
+  jour: lundi
+  date: '2026-11-09'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le petit-déjeuner'
+  contenu:
+    titre_couverture: 'Le duel France vs Canada : le [petit-déjeuner] qui divise nos *matins*'
+    sous_titre: Café noir, sirop d'érable ou tartine ? Round 1 du matin
+    slides:
+    - titre: Le [café] ou le *sirop d'érable* ?
+      texte: Beaucoup de Français commencent leur matinée par un café noir et une tartine. Au Canada, le sirop d'érable
+        coule sur les crêpes comme de l'or liquide. Ton matin, il ressemble à quoi ?
+    - titre: Les *crêpes* contre les *pancakes*
+      texte: En France, la crêpe est souvent fine comme une dentelle. Au Canada, le pancake est souvent plus épais
+        et moelleux. Deux façons de dire bonjour à la poêle, et aucune n'est fausse.
+    - titre: Le *petit-déj* qui fait *voyager*
+      texte: Certains Canadiens aiment le sirop d'érable même sur du bacon salé ou des œufs. Un contraste sucré-salé
+        que certains Français trouvent audacieux, d'autres carrément géniaux. Et toi, tu tentes ?
+    - titre: Ton *matin* en *duel*
+      texte: Le café noir d'un côté, le sirop doré de l'autre. Et si le vrai vainqueur, c'était celui qui partage
+        sa table ? Qui gagne dans ta cuisine ?
+    question_fin: Lequel de ces petits-déjeuners te donne le plus *envie* de te lever ?
+  sujet: 'Le duel France vs Canada : le petit-déjeuner'
+  legende: 'Café noir ou sirop d''érable, ton matin ne sera plus pareil 🥞
+
+
+    Le Français et le Canadien n''ont pas forcément les mêmes réflexes au réveil. Entre tartines, crêpes fines et
+    pancakes gorgés de sirop, le duel est lancé. Swipe pour voir qui tient la cuillère.
+
+
+    La dernière slide pourrait bien te surprendre, et te donner faim 👀
+
+
+    Tu choisis quel camp au petit-déj ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu hésites devant ton grille-pain.
+
+
+    📤 Partage-le à un ami, pour savoir qui de vous deux finira avec le plus de sirop sur la chemise 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #petitdejeuner #canada #france'
+  medias:
+  - medias/2026-11-09/2026-11-09_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-09_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-09_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-09_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-09_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-09_1700_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-09_1700_carro/01.jpg
+- id: 2026-11-09_2000_carro
+  jour: lundi
+  date: '2026-11-09'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: Ta [chambre] d'ado des années 2000 était une *caverne au trésor* ?
+    sous_titre: Les objets que tu as forcément eus, sans marques
+    slides:
+    - titre: Le [baladeur] et ses piles
+      texte: Des piles qui s'épuisaient vite, et une pochette qu'on remplissait de *CD* gravés à la main. Le *mixtape*
+        du dimanche soir, version 2003.
+    - titre: Le *tamagotchi* qu'on cachait
+      texte: Un petit œuf numérique qu'il fallait nourrir, nettoyer et consoler, même pendant le cours de maths.
+        Les plus malins le gardaient sous la table en *classe*.
+    - titre: La *boîte à souvenirs* de l'ado
+      texte: Les petits mots pliés en triangle, les photos d'identité en double, la chambre transformée en *musée*
+        de soi-même. Rien d'officiel, tout sentimental.
+    - titre: Le *téléphone à clapet* sacré
+      texte: Pas d'écran tactile, juste des SMS payés au caractère et une sonnerie choisie avec soin. Le *prix*
+        du message donnait déjà une leçon de discipline.
+    - titre: Le *radioréveil* qui te faisait lever
+      texte: Un bip strident, un bouton snooze qu'on martyrisait, et la radio qui te réveillait en plein refrain.
+        Tu te levais souvent avec *un tube* dans la tête.
+    question_fin: Lequel t'a *le plus marqué* ?
+  sujet: Objets de chambre d'ado des années 85-05, angle inédit
+  legende: 'Ta chambre d''ado des années 2000, c''était un vrai musée 📼
+
+
+    Piles rechargeables, tamagotchi caché en cours, mots pliés en triangle : on a tous eu au moins un de ces objets.
+    On a fait le tri pour toi.
+
+
+    La dernière slide contient l''objet que personne n''osait avouer avoir possédé 👀
+
+
+    Quel objet de ta chambre d''ado tu aurais gardé en secret ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans les années 2000.
+
+
+    📤 Partage-le à un ami, qui a forcément eu la même chambre que toi à l''époque.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees2000 #culturegenerale #souvenirs #generation90'
+  medias:
+  - medias/2026-11-09/2026-11-09_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/06.jpg
+  - medias/2026-11-09/2026-11-09_2000_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-09_2000_carro/01.jpg
+- id: 2026-11-09_2100_video
+  jour: lundi
+  date: '2026-11-09'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Gravité inversée une minute dans le quotidien'
+  accroche: Ta pluie tombe... à l'envers ?
+  legende: 'Gravité en mode off, le café remonte dans la tasse 🤯
+
+
+    Tu tiendrais combien de temps dans une pièce où tout tombe vers le plafond ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #gravite #science #insolite'
+  medias:
+  - medias/2026-11-09/2026-11-09_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-09_2100_video/couverture.jpg
+  source: 2026-11-09_0800_carro
