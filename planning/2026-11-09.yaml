@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-02T02:19
+genere_le: 2026-11-03T02:05
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -359,3 +359,369 @@ posts:
   - medias/2026-11-09/2026-11-09_2100_video/reel.mp4
   couverture: medias/2026-11-09/2026-11-09_2100_video/couverture.jpg
   source: 2026-11-09_0800_carro
+- id: 2026-11-10_0800_carro
+  jour: mardi
+  date: '2026-11-10'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets du quotidien fabriqués dans la pire matière possible (chaise en gelée, parapluie en papier,
+    casque en verre…)
+  contenu:
+    titre_couverture: Ton quotidien fabriqué dans la [pire] matière possible
+    sous_titre: 'Ces objets existeraient-ils vraiment ? Spoiler : non, et c''est tant mieux'
+    slides:
+    - titre: Une [chaise] en *gelée*
+      texte: Tu t'assois, elle tremble, puis te rend poliment ton dos. Parfait pour un dîner qui part en vrai n'importe
+        comment.
+    - titre: Un parapluie en *papier* [mouillé]
+      texte: Il tient pile le temps d'une averse légère. Ensuite, il devient une serviette grise qui te regarde
+        avec tristesse.
+    - titre: Un casque en *verre* [fragile]
+      texte: Design futuriste, zéro bruit parasite... sauf quand tu secoues la tête. Le silence, lui, se brise au
+        premier faux mouvement.
+    - titre: Des *pantoufles* en [glace]
+      texte: Chaleur zéro, confort zéro, mais un glissement de pied magistral. Idéal pour entrer dans le salon en
+        mode patineur.
+    - titre: Un lit en *sable* [mouvant]
+      texte: Tu te couches, tu t'enfonces doucement, et au matin tu es enterré avec la couette. Dormir devient une
+        aventure archéologique.
+    question_fin: Lequel tu refuserais *sans* hésiter, et pourquoi le lit en sable te fait-il déjà *frissonner*
+      ?
+  sujet: Objets du quotidien faits dans la pire matière possible
+  legende: 'Ton quotidien, mais fabriqué dans la pire matière possible 🫠
+
+
+    Chaise en gelée, parapluie en papier, casque en verre : on a imaginé le pire des objets du quotidien. Le résultat
+    est absurde, et on comprend tout de suite pourquoi personne ne les fabrique.
+
+
+    La dernière slide est celle qui pourrait bien te donner des envies de sieste... ou de cauchemar 👀
+
+
+    Quel objet tu choisis de fabriquer dans la pire matière possible ? 😂
+
+
+    💾 Enregistre ce carrousel pour rire en plein cours de la prochaine réunion ou de la prochaine galère de ménage.
+
+
+    📤 Partage-le à un ami, pour voir si ton pote ose s''asseoir sur la chaise en gelée 🪑.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #insolite #rigolade'
+  medias:
+  - medias/2026-11-09/2026-11-10_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/06.jpg
+  - medias/2026-11-09/2026-11-10_0800_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-10_0800_carro/01.jpg
+- id: 2026-11-10_1100_carro
+  jour: mardi
+  date: '2026-11-10'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Ces lieux de France ont des [histoires] que personne ne te raconte
+    sous_titre: Swipe, tu vas pas en revenir
+    slides:
+    - titre: '[Carcassonne] : le château refait à sa façon'
+      texte: La cité médiévale que tu vois sur les cartes a été largement *restaurée* au XIXe siècle. À mon avis,
+        une bonne partie de ce qu'on admire est une *interprétation* du passé, plus qu'une copie exacte.
+    - titre: Le *Mont-Saint-Michel* était une île
+      texte: Ce rocher était entouré de *marées* spectaculaires. Au fil des siècles, des digues et l'ensablement
+        ont changé son rapport à la mer, au point de le relier à la terre par une route.
+    - titre: Le *gouffre* de Padirac, rivière sous terre
+      texte: Sous le Lot, une rivière coule dans des galeries immenses. Le lieu est connu pour ses *grottes* et
+        ses cours d'eau souterrains, et se visite encore aujourd'hui.
+    - titre: Une *ville* entière construite sur l'eau
+      texte: Sur le bassin d'Arcachon, les cabanes tchanquées sont perchées sur leurs pilotis. Une architecture
+        *typique* qui raconte les métiers de la mer et de l'ostréiculture.
+    question_fin: Lequel de ces lieux t'a le plus *surpris* ?
+  sujet: Lieux de France aux histoires étonnantes, angle inédit des villages-mystères
+  legende: 'La France cache des lieux plus bizarres que tu ne l''imagines 🗺️
+
+
+    Un château reconstruit à sa façon, une île qui n''en est plus vraiment une, une rivière sous terre et des maisons
+    sur pilotis. Ça fait réfléchir sur ce qu''on croit savoir.
+
+
+    Le dernier lieu est celui que tu as sûrement déjà vu sans jamais y penser 👀
+
+
+    Tu connaissais lequel de ces endroits ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu planifies un week-end en France.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours semblant de tout savoir sur la France 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #francedecouverte #histoiredefrance #lieuxinsolites'
+  medias:
+  - medias/2026-11-09/2026-11-10_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-10_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-10_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-10_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-10_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-10_1100_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-10_1100_carro/01.jpg
+- id: 2026-11-10_1300_devin
+  jour: mardi
+  date: '2026-11-10'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
+  reponse: '100 (piège : 190)'
+  legende: 'La réponse n''est pas 190 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-10_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-10_1300_devin/couverture.jpg
+- id: 2026-11-10_1400_carro
+  jour: mardi
+  date: '2026-11-10'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: '[LIEUX] *célèbres* du monde... mais en gelée tremblante'
+    sous_titre: Swipe si tu oses marcher dessus
+    slides:
+    - titre: '[GELÉE] *tremblante* en centre-ville'
+      texte: Imagine une grande place pavée transformée en gelée rose qui frémit à chaque pas. Les pigeons glissent,
+        les bancs dansent, et personne ne sait plus où s'asseoir.
+    - titre: '[MOUSSE] *au chocolat* sur les hauteurs'
+      texte: Une montagne enneigée qui ressemblerait à de la mousse au chocolat, avec des crêtes lisses et des coulures
+        sombres. Et si la randonnée devenait franchement gourmande ?
+    - titre: '[PÂTE À MODELER] *colorée* sous les arches'
+      texte: Et si un pont antique était modelé à la main, avec des empreintes de doigts dans l'argile orange ?
+        On se demande combien de temps il faudrait pour sculpter chaque arche.
+    - titre: '[GLACE] *fondante* au pied de la tour'
+      texte: Et si une tour de fer élancée était sculptée en glace bleutée, qui s'affaisse doucement sous le soleil
+        d'été ? Selon nous, elle perdrait vite quelques étages.
+    question_fin: Quel lieu tu *refuserais* de visiter dans cette matière ?
+  sujet: Lieux célèbres du monde faits dans une matière absurde
+  legende: 'Et si les monuments du monde fondaient, tremblaient ou se modelaient à la main ? 🍮
+
+
+    Gelée, mousse au chocolat, pâte à modeler, glace : on prend des lieux connus et on les fait changer de matière.
+    Résultat : des paysages qu''on n''oserait jamais toucher. Swipe, certains sont franchement délicieux.
+
+
+    La dernière slide fond littéralement sous nos yeux 👀
+
+
+    Tu choisis quelle matière pour ta ville préférée ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu voudras briller en soirée.
+
+
+    📤 Partage-le à un ami, qu''il découvre une ville qu''il ne reconnaîtra plus 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #insolite #etsi'
+  medias:
+  - medias/2026-11-09/2026-11-10_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-10_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-10_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-10_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-10_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-10_1400_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-10_1400_carro/01.jpg
+- id: 2026-11-10_1700_carro
+  jour: mardi
+  date: '2026-11-10'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours, mais tu sais [d'où] *ça vient* ?
+    sous_titre: 'Expressions françaises : l''origine qui surprend'
+    slides:
+    - titre: Avoir [le cafard]
+      texte: 'Le *cafard* n''a rien à voir avec l''insecte, selon nous. On peut y voir une idée : le mot a servi
+        à désigner une tristesse profonde, et son origine exacte reste une question ouverte.'
+    - titre: Poser un [lapin]
+      texte: 'Poser un lapin, c''est arriver en retard ou ne pas venir. Certains y voient une ancienne histoire
+        de paris, mais personne ne peut vraiment trancher : l''origine reste *incertaine*.'
+    - titre: Être sur [les dents]
+      texte: 'Cette expression évoque l''épuisement. Son origine précise est *discutée* : certains y voient peut-être
+        un lien avec la fatigue d''une longue journée de travail.'
+    - titre: Tirer le [diable] par la queue
+      texte: Vivre pauvrement, avoir du mal à joindre les deux bouts. L'expression est *ancienne* et son sens premier
+        fait débat chez les spécialistes, ce qui la rend fascinante.
+    - titre: Mettre les [pieds dans le plat]
+      texte: Aborder un sujet délicat sans précaution. L'image renvoie à un repas bousculé, mais à notre avis l'expression
+        est *plus ancienne* qu'on ne le pense, et son origine précise reste floue.
+    question_fin: Laquelle de ces expressions tu utilises sans jamais y *réfléchir* ?
+  sujet: Origine surprenante d'expressions françaises qu'on dit tous les jours
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça vient 🤯
+
+
+    On passe en revue cinq expressions françaises du quotidien et ce que l''on sait vraiment de leur origine. Certaines
+    sont plus floues qu''on ne le croit, et c''est justement ça qui est drôle.
+
+
+    Sur la dernière slide, une expression qu''on pense connaître par cœur cache une histoire qu''on n''imagine pas
+    👀
+
+
+    Tu en connaissais combien ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu les lâches en soirée pour briller.
+
+
+    📤 Partage-le à un ami, celui qui dit « j''ai le cafard » tous les lundis.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #expressionsfrancaises #languefrancaise #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-10_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/06.jpg
+  - medias/2026-11-09/2026-11-10_1700_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-10_1700_carro/01.jpg
+- id: 2026-11-10_2000_carro
+  jour: mardi
+  date: '2026-11-10'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer
+    solide)
+  contenu:
+    titre_couverture: Et si [la nature] avait *oublié* une seule règle ?
+    sous_titre: Un monde presque identique, sauf un détail qui tout dérègle
+    slides:
+    - titre: Plus jamais de nuit
+      texte: Imagine un soleil qui ne se couche jamais. Les *rideaux* deviendraient l'objet le plus précieux de
+        la maison, et on rêverait sûrement d'un masque de sommeil.
+    - titre: La pluie remonte *vers le ciel*
+      texte: Et si les gouttes montaient vers les nuages ? Les parapluies se retourneraient tout seuls, et les flaques
+        deviendraient des *miroirs* au sol.
+    - titre: Les *objets* en suspension
+      texte: Si les choses ne tombaient plus, une pomme resterait suspendue dans l'air. Le *ménage* deviendrait
+        un vrai casse-tête, et on regretterait sûrement la gravité.
+    - titre: Le *sable* qui coule
+      texte: Imagine des dunes qui coulent comme de l'eau, avec des vagues de sable. Ton *château* de plage finirait
+        emporté par la rivière, et ce serait une sacrée sieste.
+    question_fin: Laquelle de ces règles *casserait* ta journée en premier ?
+  sujet: Une seule règle de la nature qui change
+  legende: 'Et si la nature oubliait une seule règle ? 🌍
+
+
+    On change une seule loi de l''univers et tout le reste se dérègle. Pas de nuit, une pluie qui remonte, des objets
+    suspendus : le quotidien deviendrait vite un film d''horreur drôle.
+
+
+    La dernière idée est la plus folle, tu la verras en glissant 👀
+
+
+    Quelle règle changerais-tu toi en premier ? 👇
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces idées la prochaine fois que tu rêves d''un monde différent.
+
+
+    📤 Partage-le à un ami, parce que son cerveau va forcément partir dans un délire total.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #sciencesfun #etsi'
+  medias:
+  - medias/2026-11-09/2026-11-10_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-10_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-10_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-10_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-10_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-10_2000_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-10_2000_carro/01.jpg
+- id: 2026-11-10_2100_video
+  jour: mardi
+  date: '2026-11-10'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Version Reel : Objets du quotidien faits dans la pire matière possible'
+  legende: 'Ton quotidien, mais fabriqué dans la pire matière possible 🫠
+
+
+    Chaise en gelée, parapluie en papier, casque en verre : on a imaginé le pire des objets du quotidien. Le résultat
+    est absurde, et on comprend tout de suite pourquoi personne ne les fabrique.
+
+
+    La dernière slide est celle qui pourrait bien te donner des envies de sieste... ou de cauchemar 👀
+
+
+    Quel objet tu choisis de fabriquer dans la pire matière possible ? 😂
+
+
+    💾 Enregistre cette vidéo pour rire en plein cours de la prochaine réunion ou de la prochaine galère de ménage.
+
+
+    📤 Partage-le à un ami, pour voir si ton pote ose s''asseoir sur la chaise en gelée 🪑.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #insolite #rigolade'
+  medias:
+  - medias/2026-11-09/2026-11-10_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-10_0800_carro/01.jpg
+  source: 2026-11-10_0800_carro
+  note: 'vidéo IA impossible (Veo : vidéo refusée ou vide ({''@type'': ''type.googleapis.com/cloud.ai.large_models.vision.GenerateVideoResponse'',
+    ''raiMediaFilteredCount'': 1, ''raiMediaFilteredRe) : diaporama de secours'
