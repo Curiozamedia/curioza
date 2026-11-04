@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-03T02:05
+genere_le: 2026-11-04T02:09
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -725,3 +725,368 @@ posts:
   source: 2026-11-10_0800_carro
   note: 'vidéo IA impossible (Veo : vidéo refusée ou vide ({''@type'': ''type.googleapis.com/cloud.ai.large_models.vision.GenerateVideoResponse'',
     ''raiMediaFilteredCount'': 1, ''raiMediaFilteredRe) : diaporama de secours'
+- id: 2026-11-11_0800_carro
+  jour: mercredi
+  date: '2026-11-11'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Tu te souviens de [ROULER] *l'attente* ?
+    sous_titre: Les galères high-tech de nos parents… et de nous
+    slides:
+    - titre: '[ATTENDRE] *en silence*'
+      texte: Avant, pour voir une photo, il fallait finir la pellicule, la porter au développement et attendre des
+        jours. Le suspense était total.
+    - titre: Le *rembobinage* obligatoire
+      texte: Avant de rendre une cassette louée, il fallait la rembobiner à la main, avec un crayon glissé dans
+        la roulette. Sinon, bonjour la galère.
+    - titre: Quand le *téléphone* tenait au mur
+      texte: Le téléphone fixe était partagé par toute la famille, et le cordon en spirale s'emmêlait sans cesse.
+        On se cachait pour parler à son crush.
+    - titre: Le *Minitel* qui chantait
+      texte: Le modem faisait un bruit strident avant de se connecter, et chaque minute de connexion pesait sur
+        la facture. On sentait chaque seconde passer.
+    - titre: Charger *la batterie* à 0%
+      texte: Les piles des walkmans et des jeux portables tenaient quelques heures. Avoir des piles de rechange
+        dans son sac, c'était le minimum vital.
+    - titre: Le *silence* du répondeur
+      texte: 'Pas de SMS : on laissait un message sur le répondeur et on attendait le retour, en pensant à chaque
+        mot. Certains messages se réécoutaient, peut-être une dizaine de fois.'
+    question_fin: Laquelle de ces galères t'a le plus *marqué* ?
+  sujet: Galères technologiques d'avant vues par la génération 85-05
+  legende: 'Avant, la technologie te faisait... attendre 🕰️
+
+
+    Pellicule, cassettes à rembobiner, téléphone à cordon, modem qui chante : on a tous connu ces galères. Swipe
+    pour replonger dans ces souvenirs.
+
+
+    La dernière slide est celle qui fait le plus rire les parents 👀
+
+
+    Quelle galère tech t''a le plus marqué ? Dis-le-nous en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces galères à raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, il va reconnaître ses propres années 90 et 2000.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #generation85 #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-11_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/06.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/07.jpg
+  - medias/2026-11-09/2026-11-11_0800_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-11_0800_carro/01.jpg
+- id: 2026-11-11_1100_carro
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: Et si ton [chat] faisait *vingt étages* ?
+    sous_titre: Quand la boule de poils bouche la rue
+    slides:
+    - titre: LE [CHIEN] DU QUARTIER
+      texte: Imagine un *labrador* de cent mètres qui réclame sa balade. Les trottinettes deviennent des jouets,
+        les laisses des câbles de pont.
+    - titre: LA [TORTUE] SUR LE TOIT
+      texte: Une tortue géante posée sur un immeuble, *carapace* en guise de terrasse. Les pigeons font du covoiturage
+        sur son dos.
+    - titre: LE [POISSON] ROUGE GÉANT
+      texte: Un poisson rouge de la taille d'une tour nage entre les gratte-ciel. Les *bulles* qu'il souffle font
+        office de fontaines publiques.
+    - titre: LE [HAMSTER] DE LA TOUR
+      texte: Un hamster géant dans sa roue, tour de cinquante étages. Chaque tour de roue fait *trembler* tout le
+        quartier au petit matin.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie géants en immeubles urbains
+  legende: 'Ton chat fait 300 mètres et personne ne te répond au téléphone 🐱
+
+
+    Quatre animaux de compagnie qui ont décidé de grandir un peu trop. Le chien, la tortue, le poisson rouge et
+    le hamster ne se comportent pas comme on l''imagine en ville.
+
+
+    La dernière slide est celle qui fait vraiment flipper les voisins 👀
+
+
+    Tu le garderais dans ton immeuble ou tu déménagerais direct ? 😅
+
+
+    💾 Enregistre ce carrousel pour t''en souvenir la prochaine fois que ton chat te regarde de haut 🐾.
+
+
+    📤 Partage-le à un ami, qu''il vérifie que son animal n''a pas grandi pendant la nuit 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #animaux #ettsi'
+  medias:
+  - medias/2026-11-09/2026-11-11_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-11_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-11_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-11_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-11_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-11_1100_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-11_1100_carro/01.jpg
+- id: 2026-11-11_1300_devin
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
+  reponse: '100 (piège : 190)'
+  legende: 'La réponse n''est pas 190 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-11_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-11_1300_devin/couverture.jpg
+- id: 2026-11-11_1400_carro
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [photoshoppé] mais c'est la *NATURE* qui pose
+    sous_titre: Swipe si tu crois encore que tout est retouché
+    slides:
+    - titre: Des [nuages] en rouleaux parfaits
+      texte: Les *rouleaux de nuages* apparaissent parfois en tubes alignés sur de longues distances. Selon les
+        météorologues, c'est le vent et l'air froid qui les façonnent, sans aucun logiciel.
+    - titre: Un *lac* qui rougit
+      texte: Certains lacs salés, comme le lac Retba au Sénégal, prennent une teinte rose vif. Des micro-organismes
+        et des algues y contribueraient, c'est la piste la plus souvent évoquée.
+    - titre: Les [arbres] qui saignent
+      texte: Le sang de dragon, une résine rouge sombre, suinte de certains arbres tropicaux. Elle tache et coule
+        comme une blessure, alors que c'est simplement de la sève.
+    - titre: Une *cascade* qui gèle à l'envers
+      texte: Des coulées d'eau peuvent geler en formant des sculptures pendant que l'eau continue de couler dessous.
+        Un spectacle figé qui semble sorti d'un studio.
+    - titre: Des [pierres] qui glissent seules
+      texte: Dans la Racetrack Playa, aux États-Unis, de lourdes pierres laissent de longues traces sur le sol sec.
+        Personne ne les a vues bouger, et la cause fait encore débat.
+    question_fin: Lequel te semble le plus *faux* alors qu'il est vrai ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Ça a l''air truqué, et pourtant non 🌍
+
+
+    Nuages en tubes, lac rose, arbres qui saignent, cascades figées et pierres qui glissent seules. La nature fait
+    peut-être mieux que n''importe quel logiciel, à toi de juger.
+
+
+    La dernière slide est celle que personne ne croit au début 👀
+
+
+    Tu en connaissais combien avant aujourd''hui ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand quelqu''un dit que tout est retouché 📌.
+
+
+    📤 Partage-le à un ami, pour voir si lui aussi se fait avoir 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #phenomenesnaturels #insolite'
+  medias:
+  - medias/2026-11-09/2026-11-11_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/06.jpg
+  - medias/2026-11-09/2026-11-11_1400_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-11_1400_carro/01.jpg
+- id: 2026-11-11_1700_carro
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : l''école et les enfants'
+  contenu:
+    titre_couverture: '[Le duel] *France vs Espagne* : l''école et les enfants'
+    sous_titre: Qui gagne la bataille du cartable ?
+    slides:
+    - titre: Le *cartable* en question
+      texte: 'À mon avis, le cartable français est un vrai marathon sur le dos des enfants. En Espagne, les sacs
+        semblent parfois tout aussi lourds : la question du poids mérite d''être posée des deux côtés.'
+    - titre: L'heure de la *sieste*
+      texte: Et si la France s'offrait une vraie pause en plein après-midi ? Chez nos voisins, le rythme de la journée
+        semble plus étiré, et l'idée fait rêver. Qu'en penses-tu ?
+    - titre: Les *cours de rue* entre copains
+      texte: 'Le trajet école-maison à pied, en groupe, avec les copains : à mon avis, c''est une excellente école
+        de l''autonomie, loin des écrans.'
+    - titre: Le *tableau* et les blagues
+      texte: Un prof qui plaisante en cours, on en rêve tous ! À mon avis, l'humour reste une arme redoutable pour
+        capter l'attention d'une classe, peu importe le pays.
+    - titre: Les *fêtes* de fin d'année
+      texte: Dans les deux pays, la fin de l'année scolaire se célèbre à sa façon. Qui fête le plus fort ? Le débat
+        reste ouvert, et il est bien animé.
+    - titre: Le *goûter* sans compromis
+      texte: 'Pain, fruit, tartine ou petit gâteau : chaque famille a sa recette du goûter. Et toi, tu préfères
+        le goûter sucré ou le goûter salé ?'
+    question_fin: Lequel de ces duels t'a donné le plus *envie de retourner à l'école* ?
+  sujet: 'Le duel France vs Espagne : l''école et les enfants'
+  legende: 'Le cartable, la sieste et les blagues du prof : qui gagne ? 🎒
+
+
+    On compare l''école française et espagnole à travers des habitudes très concrètes, du poids du sac aux goûters.
+    Certaines idées pourraient bien te faire sourire, et d''autres te donner envie de débattre.
+
+
+    La dernière slide est celle où les deux compères se chamaillent sur les fêtes de fin d''année 👀
+
+
+    Tu votes pour quel pays, et pourquoi ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces comparaisons le jour où tu feras la leçon à un ami.
+
+
+    📤 Partage-le à un ami, pour lui demander de quel côté il se range dans ce duel.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #espagne #ecole'
+  medias:
+  - medias/2026-11-09/2026-11-11_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/06.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/07.jpg
+  - medias/2026-11-09/2026-11-11_1700_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-11_1700_carro/01.jpg
+- id: 2026-11-11_2000_carro
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si ta salle de bain était [ENVAHIE] par des *pingouins* ?
+    sous_titre: 'Culture G & curiosités : le délire du quotidien'
+    slides:
+    - titre: '[SALLE] DE BAIN SOUS LES *PLUMES*'
+      texte: Imagine ta douche transformée en nid géant. Et si les plumes blanches débarquaient par tonnes, serrées
+        les unes contre les autres comme des manchots qui se tiennent chaud ? Ton carrelage n'aurait aucune chance.
+    - titre: '[CUISINE] EN MODE *GELÉE* TREMBLANTE'
+      texte: 'Ton frigo a cédé, la gelée a pris le contrôle : elle tremble sur le plan de travail, dégouline sur
+        les placards et attend ton prochain toast. Franchement, on peut se demander si elle ne bouge pas toute seule.'
+    - titre: '[BUREAU] SOUS UNE *MER* DE SABLE'
+      texte: 'Ton bureau ne tient plus : le sable fin s''est infiltré partout, sur ton clavier, dans tes tiroirs,
+        jusque sous ta chaise. On dirait que le désert a décidé de faire des heures sup.'
+    - titre: '[SALON] NOYÉ DANS LES *BALLONS*'
+      texte: Des centaines de ballons multicolores remplissent ton salon jusqu'au plafond. Ce n'est plus une fête,
+        c'est une colonie. Impossible de retrouver la télécommande.
+    - titre: '[ENTRÉE] ENVAHIE PAR LES *ESCARGOTS*'
+      texte: 'Des escargots géants glissent lentement dans le couloir, laissant derrière eux une traînée brillante.
+        Une chose est sûre : tu n''auras pas le temps de les doubler, ils avancent à leur rythme et ta patience
+        sera mise à l''épreuve.'
+    question_fin: Quelle invasion te ferait le plus *fuir* de chez toi ?
+  sujet: Ta maison envahie par une matière absurde, version surprenante
+  legende: 'Ta maison envahie par un truc absurde, tu tiendrais combien de temps ? 🏠
+
+
+    Des plumes dans la douche, de la gelée sur le plan de travail, du sable sur le clavier... Swipe pour voir le
+    chaos complet. Chaque slide pose une question bête mais réaliste.
+
+
+    La dernière invasion est la plus lente de toutes... 👀
+
+
+    Tu choisis quelle invasion pour ta maison ? 😂
+
+
+    💾 Enregistre ce carrousel pour le jour où ta maison déraille vraiment.
+
+
+    📤 Partage-le à un ami, qui va forcément se reconnaître dans le chaos 🤣.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #curiosites #cultureG #insolite #absurde #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-11_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/06.jpg
+  - medias/2026-11-09/2026-11-11_2000_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-11_2000_carro/01.jpg
+- id: 2026-11-11_2100_video
+  jour: mercredi
+  date: '2026-11-11'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux de compagnie géants en immeubles urbains'
+  accroche: LE [CHIEN] GÉANT QUI *VIT EN IMMEUBLE*
+  legende: 'Imagine partager ton palier avec un chien gros comme un canapé 🐶🏢
+
+
+    Tu le garderais dans ton immeuble, ce chien géant, ou tu déménages direct ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animauxgeants #insolite #fungeek'
+  medias:
+  - medias/2026-11-09/2026-11-11_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-11_2100_video/couverture.jpg
+  source: 2026-11-11_1100_carro
