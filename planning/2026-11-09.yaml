@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-04T02:09
+genere_le: 2026-11-05T02:19
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -1090,3 +1090,363 @@ posts:
   - medias/2026-11-09/2026-11-11_2100_video/reel.mp4
   couverture: medias/2026-11-09/2026-11-11_2100_video/couverture.jpg
   source: 2026-11-11_1100_carro
+- id: 2026-11-12_0800_carro
+  jour: jeudi
+  date: '2026-11-12'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ces mots *français* qui ne le sont pas du tout
+    sous_titre: Le [vrai] passeport de nos mots
+    slides:
+    - titre: Le [bistrot] a voyagé
+      texte: 'Le mot viendrait probablement du russe « bystro », qui signifie « vite ». L''histoire des soldats
+        russes pressés dans les cafés parisiens de 1814 est racontée souvent, mais reste une légende : à toi de
+        la prendre comme une anecdote, pas comme une certitude.'
+    - titre: Le *yaourt* venu de Turquie
+      texte: Le mot turc « yoğurt » désigne ce lait épaissi par des ferments. Il est entré dans notre langue au
+        XXe siècle, bien après que le produit a traversé les frontières.
+    - titre: Le *caramel* a une origine floue
+      texte: Le mot vient probablement de l'espagnol « caramelo » ou du latin médiéval « calamellus ». Les linguistes
+        ne tranchent pas totalement, et c'est déjà une belle énigme.
+    - titre: Le [bazar] vient du persan
+      texte: Le mot persan « bāzār » désignait le marché couvert. Il a voyagé jusqu'à nous via l'Empire ottoman,
+        avant de devenir synonyme de désordre dans la bouche des Français.
+    - titre: Le *toboggan* vient du Canada
+      texte: Le mot viendrait d'une langue algonquienne, peut-être « odabaggan », qui désignait un traîneau. Il
+        a été adopté en français au XIXe siècle, lors des échanges avec les peuples autochtones d'Amérique du Nord.
+    - titre: Le [kiosque] vient de Perse
+      texte: Le mot persan « kōshk » désignait un pavillon ouvert. Il a pris le sens de petit édifice de jardin
+        et de vente de journaux, comme un clin d'œil à l'architecture voyageuse.
+    question_fin: Quel mot *français* t'a le plus [surpris] ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton mot préféré est peut-être venu du russe 🇷🇺
+
+
+    Le français a emprunté à des dizaines de langues. Ces six mots montrent que notre vocabulaire a beaucoup voyagé,
+    parfois sans passeport.
+
+
+    La dernière slide ouvre un mot qui viendrait d''une langue amérindienne 👀
+
+
+    Lequel de ces mots tu croyais vraiment français ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu brilleras en soirée culture G.
+
+
+    📤 Partage-le à un ami, il va adorer apprendre d''où vient son mot préféré 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #etymologie #languefrancaise #curiosites #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-12_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/06.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/07.jpg
+  - medias/2026-11-09/2026-11-12_0800_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-12_0800_carro/01.jpg
+- id: 2026-11-12_1100_carro
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
+  contenu:
+    titre_couverture: Quand les [animaux] prennent le *boulot* des humains
+    sous_titre: Six métiers exercés avec un sérieux déconcertant
+    slides:
+    - titre: LE [PILOTE] DE LIGNE
+      texte: Un *cormoran* en uniforme miniature, assis bien droit devant ses instruments, qui semble vérifier chaque
+        cadran avant de décoller. On lui confierait bien les clés, non ?
+    - titre: LE *BIBLIOTHÉCAIRE* EN CHEF
+      texte: Un *écureuil* range ses noisettes en petits tas, chacun avec son étiquette. Franchement, certains bibliothécaires
+        humains pourraient en prendre de la graine.
+    - titre: LE *SOMMELIER* DES ABEILLES
+      texte: Un *blaireau* goûte le miel à l'aveugle, fait tourner le verre et hoche la tête gravement. Dommage
+        que le miel ne se déguste pas avec une carte des vins.
+    - titre: LE *CHEF* DE CUISINE
+      texte: Un *castor* découpe ses bûches en rondelles bien régulières et dresse son assiette avec soin. Son cuisinier
+        humain n'a qu'à bien se tenir.
+    - titre: LE *JUGE* DE LA FORÊT
+      texte: Une *chouette* observe la scène en silence, les yeux grands ouverts, et rend son verdict sans un mot.
+        Une idée qui ferait réfléchir plus d'un tribunal.
+    - titre: LE *FACTEUR* DU VILLAGE
+      texte: Un *pigeon* livre le courrier chaque matin, ne se trompe jamais de boîte et connaît sans doute toutes
+        les adresses du quartier. Le GPS peut aller se rhabiller.
+    question_fin: Quel métier animal te paraît le plus *crédible* ?
+  sujet: Animaux qui exercent de vrais métiers humains
+  legende: 'Ton chat ne sera jamais pilote, mais le cormoran, lui, pourrait 🐦✈️
+
+
+    Six animaux qui prennent leur travail très au sérieux, du juge de la forêt au sommelier du miel. Certains ont
+    sûrement plus de sérieux que ton patron. Swipe pour voir leur carrière.
+
+
+    La dernière slide est celle qui fait vraiment réfléchir sur nos propres métiers 👀
+
+
+    Quel animal embaucherais-tu dans ton entreprise ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir de l''animal qui fera ton prochain exposé.
+
+
+    📤 Partage-le à un ami, il rêve sûrement de devenir juge de la forêt 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #insolite #absurde'
+  medias:
+  - medias/2026-11-09/2026-11-12_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/06.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/07.jpg
+  - medias/2026-11-09/2026-11-12_1100_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-12_1100_carro/01.jpg
+- id: 2026-11-12_1300_devin
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 12 + 8 × 2 − 4 = ?'
+  reponse: '24 (piège : 36)'
+  legende: 'La réponse n''est pas 36 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-12_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-12_1300_devin/couverture.jpg
+- id: 2026-11-12_1400_carro
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les biais du cerveau qui te piègent chaque jour
+  contenu:
+    titre_couverture: Ton [cerveau] te *ment* chaque jour
+    sous_titre: 5 pièges mentaux que tu fais sans le voir
+    slides:
+    - titre: '[Le] *dernier* mot'
+      texte: Tu lâches une info, puis tu la défends jusqu'au bout. À mon avis, ce n'est pas l'argument qui gagne,
+        c'est ton ego qui refuse de perdre la face.
+    - titre: Le piège du *tout ou rien*
+      texte: Un seul raté et ta journée est « foutue ». Ton cerveau semble aimer les étiquettes simples, même quand
+        la réalité est plus nuancée.
+    - titre: Ton *smartphone* décide pour toi
+      texte: Tu ouvres l'appli pour une minute, tu ressors une heure plus tard. Les notifications jouent sur ton
+        envie de nouveauté, et ton cerveau semble adorer ça.
+    - titre: Le biais de *l'ancre*
+      texte: Le premier prix que tu vois devient ta référence, même absurde. Ton cerveau s'accroche au premier chiffre
+        comme à une bouée.
+    - titre: Tu *confirmes* ce que tu crois
+      texte: Tu cherches les infos qui t'arrangent et tu zappes les autres. Le biais de confirmation te donne raison,
+        tout en silence.
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Biais cognitifs qui piègent ton cerveau chaque jour, angle surprenant
+  legende: 'Ton cerveau te joue des tours en silence 🧠
+
+
+    Cinq pièges mentaux qu''on fait tous chaque jour, sans s''en rendre compte. Certains sont plus drôles qu''on
+    ne le pense, d''autres vraiment tenaces. Swipe pour les découvrir.
+
+
+    Le dernier piège concerne ta façon de chercher la vérité… 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te rappeler de les repérer la prochaine fois qu''ils te piègent.
+
+
+    📤 Partage-le à un ami, parce qu''il est sûr de tomber dans au moins un de ces pièges.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-09/2026-11-12_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/06.jpg
+  - medias/2026-11-09/2026-11-12_1400_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-12_1400_carro/01.jpg
+- id: 2026-11-12_1700_carro
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: Des [MÉTIERS] qui n'existent *pas* encore
+    sous_titre: Et on rêve tous de les voir au boulot
+    slides:
+    - titre: '[Réveilleur] de *lundis*'
+      texte: 'Son job : tirer les orteils de ta grasse-matinée à 6h47 avec la délicatesse d''un chat. Il ne demande
+        jamais, il *ronronne* juste assez fort.'
+    - titre: Chef des *nuages* perdus
+      texte: Il rattrape les ballons, cerfs-volants et parapluies envolés, puis les renvoie gentiment au sol. Selon
+        nous, ses bureaux seraient forcément au-dessus des toits.
+    - titre: Testeur de *silences* parfaits
+      texte: 'Sa mission : vérifier qu''une bibliothèque est assez calme pour qu''on entende une plume tomber. Il
+        a un casque en feutre et un chronomètre.'
+    - titre: Gardien des *fins* de soirée
+      texte: Il reste la dernière personne éveillée au bar et range poliment les chaises sur les tables. On imagine
+        qu'il connaît tous les secrets de la nuit, sans jamais en parler.
+    question_fin: Lequel de ces métiers [rêverais]-tu d'avoir dans ta vie ?
+  sujet: Métiers qui n'existent pas mais qu'on aimerait voir
+  legende: 'Un métier qui n''existe pas, et pourtant tu le veux déjà 🧑‍🔧
+
+
+    Réveilleur de lundis, chef des nuages perdus, testeur de silences parfaits… On a imaginé des jobs farfelus qui
+    rendraient le quotidien bien plus doux. Swipe, et choisis ton préféré.
+
+
+    Le dernier métier est celui qu''on rêve en secret de faire 👀
+
+
+    Tu embaucherais lequel pour ta vie de tous les jours ? 💬
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu auras besoin d''un peu de magie au boulot.
+
+
+    📤 Partage-le à un ami, il rêve sûrement d''un de ces jobs-là aussi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #metiers #absurde'
+  medias:
+  - medias/2026-11-09/2026-11-12_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-12_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-12_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-12_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-12_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-12_1700_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-12_1700_carro/01.jpg
+- id: 2026-11-12_2000_carro
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Ce que ton corps fait sans que tu le saches
+  contenu:
+    titre_couverture: Ton [corps] bosse en secret, *sans ton accord*
+    sous_titre: Les mécanismes automatiques qui tournent pendant que tu scrolles
+    slides:
+    - titre: Tu [clignes] sans y penser
+      texte: Ton cerveau déclenche des clignements en permanence, sans rien te demander. Même pendant que tu lis
+        cette phrase, ça continue.
+    - titre: Ton *estomac* se met à travailler
+      texte: Dès qu'il reçoit de la nourriture, il lance des contractions appelées péristaltisme. Tu n'as rien eu
+        à commander, il s'en charge seul.
+    - titre: Ta *respiration* se règle toute seule
+      texte: Pendant ton sommeil comme pendant ta course, ton corps ajuste son rythme selon le besoin. Tu peux la
+        surveiller si tu veux, sans effort de ta part.
+    - titre: Ton *cerveau* trie ce que tu vois
+      texte: 'À mon avis, il filtre en permanence une énorme quantité d''infos pour ne garder que l''essentiel.
+        Essaie : repère trois objets bleus autour de toi, ton attention se réveille.'
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Ce que ton corps fait sans que tu le saches
+  legende: 'Ton corps travaille pendant que tu ne fais rien 🫀
+
+
+    Clignements, digestion, respiration, tri de ce que tu vois : ton corps gère tout en coulisses. Swipe pour découvrir
+    ce qui tourne en fond sans ton accord.
+
+
+    La dernière slide change la façon dont tu regardes ton environnement 👀
+
+
+    Quel mécanisme ignorais-tu complètement ? 👇
+
+
+    💾 Enregistre ce carrousel pour les relire quand tu te sens fatigué et te rappeler que ton corps bosse pour toi.
+
+
+    📤 Partage-le à un ami, il va se dire que son corps fait des heures sup sans le prévenir 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #corps #cerveau #curiosites #culturegenerale #sciencesaucourantdujour'
+  medias:
+  - medias/2026-11-09/2026-11-12_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-12_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-12_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-12_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-12_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-12_2000_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-12_2000_carro/01.jpg
+- id: 2026-11-12_2100_video
+  jour: jeudi
+  date: '2026-11-12'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui exercent de vrais métiers humains'
+  accroche: Ce [PILOTE] de ligne a un *copilote* très spécial
+  legende: 'Quand l''aviation rencontre la sagesse, ça décolle encore mieux ✈️🦉
+
+
+    Tu prendrais l''avion si le pilote était un hibou, oui ou non ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animaux #insolite #reels'
+  medias:
+  - medias/2026-11-09/2026-11-12_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-12_2100_video/couverture.jpg
+  source: 2026-11-12_1100_carro
