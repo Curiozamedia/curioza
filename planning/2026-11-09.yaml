@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-05T02:19
+genere_le: 2026-11-06T02:25
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -1450,3 +1450,352 @@ posts:
   - medias/2026-11-09/2026-11-12_2100_video/reel.mp4
   couverture: medias/2026-11-09/2026-11-12_2100_video/couverture.jpg
   source: 2026-11-12_1100_carro
+- id: 2026-11-13_0800_carro
+  jour: vendredi
+  date: '2026-11-13'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: Ton [génie] est peut-être né d'une *erreur* de laboratoire
+    sous_titre: Ces inventions doivent peut-être leur existence à un raté
+    slides:
+    - titre: Le [four] à micro-ondes ?
+      texte: 'Selon une anecdote très répandue, un ingénieur travaillant sur des radars aurait vu une barre de chocolat
+        fondre dans sa poche. Une belle histoire, mais le récit reste une légende : à toi de juger.'
+    - titre: Le *papier* collant qui a raté
+      texte: Une colle jugée trop faible pendant des années. Un collègue s'en sert pour fixer ses marque-pages,
+        et les notes repositionnables prennent vie. Un échec devenu succès, selon l'histoire habituelle.
+    - titre: La [pénicilline] du hasard
+      texte: En 1928, une boîte de cultures oubliée sur une paillasse est contaminée par une moisissure. Ce *désordre*
+        de laboratoire serait à l'origine du premier antibiotique moderne, et la découverte a changé la médecine.
+    - titre: Le *caoutchouc* brûlé
+      texte: On raconte qu'un mélange de soufre et de caoutchouc aurait touché un poêle chaud. Le résultat, un matériau
+        plus solide, aurait changé l'histoire des pneus. Une idée séduisante, à vérifier avant de la répéter.
+    question_fin: Quelle *erreur* du quotidien pourrait devenir la prochaine grande invention ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Ton invention préférée est peut-être un accident 💥
+
+
+    Le micro-ondes, les notes repositionnables, un antibiotique et les pneus sont souvent présentés comme nés d''un
+    raté. Swipe pour voir ce qui est solide et ce qui relève de la légende.
+
+
+    La dernière histoire commence par un simple oubli sur un poêle 👀
+
+
+    Tu connaissais laquelle de ces histoires ? 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir que parfois, rater c''est inventer.
+
+
+    📤 Partage-le à un ami, il rira en apprenant que son micro-ondes vient peut-être d''une barre de chocolat fondue.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #inventions #histoire #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-13_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-13_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-13_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-13_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-13_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-13_0800_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-13_0800_carro/01.jpg
+- id: 2026-11-13_1100_carro
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: Ces [métiers] qui ont *disparu* de nos rues
+    sous_titre: Tu les as croisés sans savoir qu'ils allaient s'éteindre
+    slides:
+    - titre: Le [rémouleur] ambulant
+      texte: Il passait avec sa meule sur le dos et aiguisait couteaux et ciseaux au pas des portes. Un *son strident*
+        annonçait sa venue dans les rues.
+    - titre: Le *marchand* de journaux du coin
+      texte: Dans beaucoup de quartiers, la kiosquière connaissait ton nom et gardait ton magazine de côté. Aujourd'hui,
+        de nombreux petits kiosques ont *fermé*.
+    - titre: Le [vidéoclub] de quartier
+      texte: 'Tu y passais le samedi, tu hésitais devant les jaquettes et tu rembobinais avant de rendre la cassette.
+        Selon une idée répandue, ils ont *tous* disparu : et si certains résistaient encore ?'
+    - titre: Le *laitier* qui passait tôt
+      texte: Avant l'aube, le livreur déposait bouteilles de lait et yaourts devant la porte. Une tournée *silencieuse*
+        que peu de gens remarquaient encore.
+    question_fin: Lequel de ces commerces te *manque* le plus ?
+  sujet: Métiers et commerces disparus de nos rues (1985-2005)
+  legende: 'Ils ont disparu sans prévenir 🕰️
+
+
+    Rémouleur, marchand de journaux, vidéoclub, laitier : des gestes du quotidien qui ont fini par s''éteindre.
+    Tu en as forcément croisé au moins un.
+
+
+    La dernière slide te fera regarder ta propre rue autrement 👀
+
+
+    Lequel tu as connu dans ton quartier ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces métiers la prochaine fois que tu passes devant une vitrine
+    vide 📌.
+
+
+    📤 Partage-le à un ami, lui rappeler les bons vieux jours du vidéoclub et du laitier 📲.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirs #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-13_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-13_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-13_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-13_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-13_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-13_1100_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-13_1100_carro/01.jpg
+- id: 2026-11-13_1300_devin
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 + 12 × 5 − 5 = ?'
+  reponse: '64 (piège : 100)'
+  legende: 'La réponse n''est pas 100 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-13_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-13_1300_devin/couverture.jpg
+- id: 2026-11-13_1400_carro
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [truqué], pourtant c'est *100% vrai* sur Terre
+    sous_titre: 'Culture G & curiosités : la nature a plus d''effets spéciaux que Hollywood'
+    slides:
+    - titre: Un lac [rose] en Australie
+      texte: Le lac Hillier, en Australie-Occidentale, est *rose vif* en permanence. Sa couleur vient d'algues et
+        de sel, et les scientifiques l'expliquent depuis des décennies.
+    - titre: Des nuages qui [ondulent] en rouleaux
+      texte: Les nuages en rouleaux ressemblent à des vagues figées dans le ciel. Ils se forment quand l'air ondule
+        entre deux couches de vent aux vitesses différentes.
+    - titre: Une [foudre] qui tombe en ciel clair
+      texte: Les éclairs secs peuvent frapper le sol sans une goutte de pluie. Quand les gouttes s'évaporent avant
+        d'atteindre la terre, l'énergie garde toute sa puissance.
+    - titre: Des rochers qui [flottent] sur le sable
+      texte: Des sphères de grès, les Moeraki Boulders en Nouvelle-Zélande, paraissent posées par une main géante.
+        Elles se sont formées au fil de millions d'années dans la roche.
+    - titre: Une mer qui se [coupe] en deux
+      texte: À marée basse, une route de sable apparaît entre l'île et le continent, comme si la mer s'ouvrait.
+        Le phénomène est lié aux marées et au relief du fond marin.
+    question_fin: Lequel t'a le plus *bluffé* ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'La nature a plus d''effets spéciaux que Hollywood 🌍✨
+
+
+    Lac rose, nuages-vagues, éclairs sans pluie, sphères de pierre : tout semble sorti d''un film. Et pourtant,
+    tout est réel. Swipe pour voir ce que la Terre fait sans prévenir.
+
+
+    La dernière slide défie carrément les lois de la marée 👀
+
+
+    Tu pensais que lequel était truqué ? 😏
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phénomènes quand quelqu''un te dira que c''est photoshop.
+
+
+    📤 Partage-le à un ami, il va forcément vérifier sur Google avant de répondre 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #naturefascinante #anecdotes #sciencefacile'
+  medias:
+  - medias/2026-11-09/2026-11-13_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/06.jpg
+  - medias/2026-11-09/2026-11-13_1400_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-13_1400_carro/01.jpg
+- id: 2026-11-13_1700_carro
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux miniatures dans un monde à taille humaine
+  contenu:
+    titre_couverture: Et si les [animaux] rétrécissaient jusqu'à *ta taille* ?
+    sous_titre: Le monde vu depuis la patte d'une souris, version XXL
+    slides:
+    - titre: Le [hérisson] du métro
+      texte: Un hérisson miniature *monte dans le métro* et s'installe sur un siège. Les voyageurs le regardent
+        comme s'il avait réservé une place en première classe.
+    - titre: Le [chaton] à la banque
+      texte: Un chaton minuscule attend son tour devant un *guichet géant*. Le comptoir lui arrive au menton, et
+        il garde pourtant la tête haute.
+    - titre: Le [lapin] de l'ascenseur
+      texte: Un lapin miniature *appuie sur le bouton* d'un ascenseur d'immeuble. Les touches sont plus hautes que
+        lui, et ça ne semble pas le déranger.
+    - titre: La [tortue] au stade
+      texte: Une tortue minuscule traverse une pelouse de *stade immense*, sous les projecteurs. Elle avance lentement,
+        et on peut imaginer le public attendre avec patience.
+    question_fin: Lequel de ces animaux te *ferait le plus rire* en vrai ?
+  sujet: Animaux miniatures dans un monde à taille humaine
+  legende: 'Et si ton hamster prenait le métro à ta place ? 🐹
+
+
+    Quatre scènes où les animaux minuscules vivent dans un monde fait pour nous. Le résultat est absurde, mignon
+    et un peu flippant.
+
+
+    La dernière slide pose une question que personne n''a jamais osé se poser... 👀
+
+
+    Tu prendrais le hérisson comme compagnon de métro ? 😂
+
+
+    💾 Enregistre ce carrousel pour retrouver ces scènes quand tu voudras rire un coup 🐢.
+
+
+    📤 Partage-le à un ami, il va forcément vouloir voir la tortue au stade 🏟️.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #animaux #insolite'
+  medias:
+  - medias/2026-11-09/2026-11-13_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-13_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-13_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-13_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-13_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-13_1700_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-13_1700_carro/01.jpg
+- id: 2026-11-13_2000_carro
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le logement'
+  contenu:
+    titre_couverture: 'LE DUEL [FRANCE] VS SUISSE : *LOGEMENT* QUI GAGNE VRAIMENT ?'
+    sous_titre: Le duel France vs Suisse, épisode logement
+    slides:
+    - titre: Le [sol] à ta façon
+      texte: 'En France, on pense carrelage et froid sous les pieds. En Suisse, on voit souvent du parquet ou de
+        la moquette selon l''immeuble. Mon avis : le choix dépend surtout du bâtiment, pas seulement du goût.'
+    - titre: Les *volets* qui racontent
+      texte: 'Volets roulants et persiennes existent des deux côtés, mais chaque pays a ses habitudes. On dit que
+        certains Suisses ferment leurs volets en plein été pour garder la fraîcheur : une idée à vérifier, mais
+        qui fait sourire.'
+    - titre: Le [balcon] et ses plantes
+      texte: 'Un balcon fleuri ici, une terrasse bien rangée là-bas : le débat du *vis-à-vis* revient souvent. Chez
+        toi, c''est quoi la règle non écrite de l''immeuble ?'
+    - titre: Le *chauffage* en question
+      texte: 'Dans beaucoup de logements, la gestion du chauffage et des fenêtres ouvertes fait débat. Mon avis
+        : l''idée reçue n''est pas toujours la bonne, et tout dépend souvent de l''installation plus que du caractère.'
+    - titre: La *cave* et le grenier
+      texte: 'Beaucoup d''immeubles ont une cave, un local à vélos ou un grenier. Idée à creuser : et si le rangement
+        commun devenait un vrai lieu de vie entre voisins ?'
+    question_fin: Lequel de ces détails t'a le plus *surpris* ?
+  sujet: 'Le duel France vs Suisse : le logement du quotidien'
+  legende: 'Le logement, c''est le terrain de jeu rêvé du duel France vs Suisse 🏠
+
+
+    Sols, volets, balcons, chauffage : on compare le quotidien entre voisins européens, sans jugement. Certains
+    détails vont te faire sourire, d''autres te donner envie de changer ta façon de vivre chez toi.
+
+
+    La dernière slide pourrait bien départager nos deux champions 👀
+
+
+    Tu es team France ou team Suisse sur ce coup-là ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les prochaines fois où tu discutes appartement avec tes potes.
+
+
+    📤 Partage-le à un ami, celui qui pense que tout le monde vit pareil en Europe.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #suisse #logement'
+  medias:
+  - medias/2026-11-09/2026-11-13_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/06.jpg
+  - medias/2026-11-09/2026-11-13_2000_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-13_2000_carro/01.jpg
+- id: 2026-11-13_2100_video
+  jour: vendredi
+  date: '2026-11-13'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux miniatures dans un monde à taille humaine'
+  accroche: Un hérisson dans le métro, c'est *normal* ? Attends la fin
+  legende: 'Quand le métro devient ta jungle, tout devient possible 🦔
+
+
+    Tu aurais fait quoi si un hérisson montait dans ton wagon ? 👀
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animauxminiatures #insolite #hedgehog'
+  medias:
+  - medias/2026-11-09/2026-11-13_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-13_2100_video/couverture.jpg
+  source: 2026-11-13_1700_carro
