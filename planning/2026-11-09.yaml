@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-06T02:25
+genere_le: 2026-11-07T02:10
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -1799,3 +1799,363 @@ posts:
   - medias/2026-11-09/2026-11-13_2100_video/reel.mp4
   couverture: medias/2026-11-09/2026-11-13_2100_video/couverture.jpg
   source: 2026-11-13_1700_carro
+- id: 2026-11-14_0800_carro
+  jour: samedi
+  date: '2026-11-14'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Ce que tu faisais quand il n'y avait pas internet à la maison
+  contenu:
+    titre_couverture: Avant [Wi-Fi], tu faisais *quoi* au juste ?
+    sous_titre: Les années sans écran connecté, version surprenante
+    slides:
+    - titre: Le [Minitel] du salon
+      texte: Avant la box, on pianotait sur un *Minitel* pour consulter les horaires ou réserver un train. Ça grésillait,
+        ça coûtait cher à la minute, et ça t'apprenait une patience de moine.
+    - titre: Les *pages jaunes* en vrai
+      texte: Pour trouver un plombier, tu ouvrais un gros annuaire papier et tu passais le doigt sur les colonnes.
+        Certains le gardaient des années, couverture écornée.
+    - titre: Attendre la *tonalité* du modem
+      texte: 'Pour se connecter, il fallait écouter un concert de bips et de sifflements. Et une fois en ligne,
+        impossible de téléphoner : la maison entière était coupée, à moins de tout débrancher.'
+    - titre: Le *cahier de recettes* griffonné
+      texte: Les recettes se copiaient sur des fiches cartonnées ou se demandaient à la voisine. Chaque page était
+        un petit patchwork de taches de sauce et d'écriture à la main.
+    - titre: Rendez-vous *sans portable*
+      texte: 'Pas de SMS : on se donnait rendez-vous devant la gare à 15 heures, et on espérait que l''autre serait
+        là. Si personne ne venait, on repartait en se disant qu''il fallait réessayer demain.'
+    question_fin: Lequel de ces souvenirs te donne le plus *envie de revivre* ça ?
+  sujet: Ce que tu faisais sans internet à la maison (1985-2005)
+  legende: 'Tu te souviens de la tonalité du modem ? 📞
+
+
+    Avant le Wi-Fi, ton quotidien tournait autour d''objets bien concrets : annuaires, cahiers de recettes, rendez-vous
+    qu''on ne pouvait pas annuler d''un message. Certains gestes ont disparu sans bruit.
+
+
+    La dernière slide va te faire rire jaune sur ta propre patience d''avant 👀
+
+
+    Quel souvenir de ta jeunesse sans internet tu gardes précieusement ? 💬
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces souvenirs la prochaine fois que quelqu''un te demande comment
+    c''était avant.
+
+
+    📤 Partage-le à un ami, il va rire, ou au moins se rendre compte qu''il attendait pour de vrai.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #sansinternet'
+  medias:
+  - medias/2026-11-09/2026-11-14_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/06.jpg
+  - medias/2026-11-09/2026-11-14_0800_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-14_0800_carro/01.jpg
+- id: 2026-11-14_1100_carro
+  jour: samedi
+  date: '2026-11-14'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: Ces [inventions] sont nées d'une *erreur* totale
+    sous_titre: Le hasard a parfois fait mieux que les ingénieurs
+    slides:
+    - titre: LE *PAPIER* DE FER
+      texte: 'Une histoire de papier peint raconte qu''un ingénieur l''aurait inventé par accident, mais on n''en
+        est pas sûr. Ce qui est solide : plusieurs découvertes majeures sont nées d''un café renversé ou d''une
+        mauvaise manip.'
+    - titre: LE [MICRO-ONDES] DU CHOCOLAT
+      texte: La légende veut qu'un chercheur travaillant sur des radars ait vu une barre de chocolat fondre dans
+        sa poche. Le *four à micro-ondes* serait né de cette observation, sans plan prévu.
+    - titre: LE *POST-IT* RATÉ
+      texte: Une colle trop faible, créée par erreur, n'a pas été jetée. Des années plus tard, elle a servi à coller
+        des petites notes qu'on peut décoller sans abîmer.
+    - titre: LE *CELLOPHANE* DOUBLE
+      texte: Une matière collante testée par erreur sur des tissus a donné un film transparent. Il est devenu l'emballage
+        qui protège nos aliments depuis des décennies.
+    - titre: LE *VULCANISATION* ACCIDENTEL
+      texte: Un inventeur a fait tomber du caoutchouc sur un poêle chaud. Le matériau est devenu plus solide et
+        plus élastique, base de nos pneus modernes.
+    question_fin: Laquelle de ces erreurs te semble la plus *géniale* ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Une erreur de manip, et hop, une invention 🧪
+
+
+    Café renversé, colle trop faible, chocolat fondu dans la poche : le hasard a fait des merveilles. Swipe pour
+    voir les cinq histoires les plus folles.
+
+
+    La dernière slide est celle que personne ne croit au début 👀
+
+
+    Tu connaissais laquelle de ces histoires ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces anecdotes quand tu voudras briller en soirée.
+
+
+    📤 Partage-le à un ami, il va sûrement se dire que les erreurs ont du bon.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoirevraie #anecdotes'
+  medias:
+  - medias/2026-11-09/2026-11-14_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/06.jpg
+  - medias/2026-11-09/2026-11-14_1100_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-14_1100_carro/01.jpg
+- id: 2026-11-14_1300_devin
+  jour: samedi
+  date: '2026-11-14'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
+  reponse: '100 (piège : 190)'
+  legende: 'La réponse n''est pas 190 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-14_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-14_1300_devin/couverture.jpg
+- id: 2026-11-14_1400_carro
+  jour: samedi
+  date: '2026-11-14'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des paysages célèbres reconstruits en nourriture, à taille réelle
+  contenu:
+    titre_couverture: Et si les [paysages] du monde se mangeaient ?
+    sous_titre: Des décors naturels version *buffet*, à taille réelle
+    slides:
+    - titre: Une [montagne] en pain d'épice
+      texte: Imagine des sommets enneigés en *meringue* qui fondent doucement sous le soleil. Le vertige, mais version
+        dessert.
+    - titre: Des [dunes] de sucre glace
+      texte: Un désert où chaque dune est un tas de *sucre glace*. Le vent soulève la poudre, et tes pas laissent
+        des traces blanches.
+    - titre: Une [cascade] de sauce chocolat
+      texte: Une chute d'eau qui coule en *sauce chocolat* épaisse, tombant dans un lac de caramel. Attention aux
+        éclaboussures.
+    - titre: Des [falaises] de fromage
+      texte: Des falaises marbrées de *bleu* et de comté, creusées par le temps comme de vraies roches. Le fromage
+        aussi a ses canyons.
+    - titre: Une [forêt] de brocolis géants
+      texte: Des arbres en *brocolis* qui forment une forêt dense, sous une lumière verte. Les écureuils n'ont jamais
+        eu autant de choix.
+    - titre: Un [lac] de soupe glacée
+      texte: Un lac immense de *gaspacho* rouge, glacé en surface comme une patinoire. Ne tombe pas, tu finirais
+        en salade.
+    question_fin: Lequel de ces paysages-*buffet* tu irais dévorer en premier ?
+  sujet: Paysages imaginaires reconstruits en nourriture à taille réelle
+  legende: 'Et si le paysage était le dessert ? 🍰
+
+
+    Montagnes en pain d''épice, dunes de sucre glace, cascade de chocolat... Six décors qu''on ne reconstruira jamais
+    en vrai, mais qui font furieusement envie. Le tout à taille réelle, bien sûr.
+
+
+    La dernière slide est une vraie *invitation* à la faim, et on te laisse deviner laquelle 👀
+
+
+    Tu choisis quel paysage pour ton pique-nique ultime ? 😋
+
+
+    💾 Enregistre ce carrousel pour t''en souvenir la prochaine fois que tu as faim devant un plat-paysage.
+
+
+    📤 Partage-le à un ami, ton pote gourmand voudra forcément en goûter un bout.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #nourriture #illustrationIA'
+  medias:
+  - medias/2026-11-09/2026-11-14_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/06.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/07.jpg
+  - medias/2026-11-09/2026-11-14_1400_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-14_1400_carro/01.jpg
+- id: 2026-11-14_1700_carro
+  jour: samedi
+  date: '2026-11-14'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le supermarché'
+  contenu:
+    titre_couverture: 'LE DUEL : [SUPERMARCHÉ] France vs Italie, qui fait ses courses le mieux ?'
+    sous_titre: Caddie, file, sacs et petites habitudes
+    slides:
+    - titre: '[CAISSE] *file d''attente*'
+      texte: En France, on fait souvent la *queue* en silence, les yeux rivés sur le tapis. En Italie, la file se
+        transforme vite en *conversation* avec la caissière, parfois même avec le voisin. Et toi, tu es plutôt silencieux
+        ou bavard ?
+    - titre: Le *caddie* en mode bataille
+      texte: Le Français pousse son chariot comme un sport de combat, *slalom* entre les rayons. L'Italien, lui,
+        avance au rythme d'une promenade et prend le temps de *regarder* les tomates. Selon moi, c'est ça la vraie
+        différence de style.
+    - titre: Le *marché* contre le rayon
+      texte: Dans beaucoup de supermarchés français, tout paraît rangé au cordeau. En Italie, on croise souvent
+        des *étals* de fruits et légumes frais près de l'entrée, comme un petit marché en plein magasin. Une impression
+        de voyageur, à vérifier selon les enseignes.
+    - titre: Le *sac* oublié, le vrai *duel*
+      texte: 'Oublier ses sacs réutilisables, c''est le classique de tout le monde. La vraie question : qui les
+        sort en premier, et qui finit par *acheter* un sac en plastique en caisse ?'
+    question_fin: Lequel de ces duels t'a le plus *fait sourire* ?
+  sujet: 'Le duel France vs Italie : le supermarché'
+  legende: 'Le supermarché, c''est un vrai terrain de duel 🛒
+
+
+    Caisse, caddie, étals de légumes, sacs oubliés : le Français et l''Italien ne font peut-être pas leurs courses
+    de la même façon. Tu te reconnais dans lequel ?
+
+
+    La dernière slide va te faire rire, je te le promets 👀
+
+
+    Tu fais tes courses plutôt en mode bulldozer ou en mode balade ? 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ces petites différences la prochaine fois que tu passes en caisse.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son camp dans ce duel 🛒.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #italie #duel'
+  medias:
+  - medias/2026-11-09/2026-11-14_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-14_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-14_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-14_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-14_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-14_1700_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-14_1700_carro/01.jpg
+- id: 2026-11-14_2000_carro
+  jour: samedi
+  date: '2026-11-14'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: 'Records naturels fous : animaux, plantes, phénomènes'
+  contenu:
+    titre_couverture: LA NATURE A DES [RECORDS] DÉLIRANTS QUE TU NE CROIS PAS
+    sous_titre: Swipe si tu oses les découvrir
+    slides:
+    - titre: LE [VÉGÉTAL] LE PLUS *VIEUX*
+      texte: Un pin de Bristlecone, surnommé Methuselah, pousse dans les White Mountains, aux États-Unis. On l'estime
+        à plus de 4 000 ans, un âge qui force le respect. Il survit là où presque rien d'autre ne pousse.
+    - titre: UN *ANIMAL* QUI SURVIT AU VIDE
+      texte: Le tardigrade peut se déshydrater presque totalement, passer en mode veille et revenir à la vie après
+        une réhydratation. Selon des expériences scientifiques, il résiste aussi à l'exposition au vide spatial.
+    - titre: LE [PHÉNOMÈNE] QUI TE FAIT *SURSAUTER*
+      texte: Au Venezuela, le Catatumbo est célèbre pour ses éclairs presque incessants au-dessus d'un lac, certaines
+        nuits. Beaucoup le considèrent comme l'un des endroits les plus orageux de la planète.
+    - titre: LA *FLEUR* LA PLUS GÉANTE
+      texte: La Rafflesia arnoldii peut atteindre environ un mètre de diamètre. Elle n'a ni tige ni feuilles visibles,
+        et dégage une odeur de chair en décomposition pour attirer ses pollinisateurs.
+    question_fin: Quel record t'a le plus *surpris* ?
+  sujet: 'Records naturels fous : animaux, plantes, phénomènes'
+  legende: 'Tu crois tout connaître de la nature ? Pas vraiment 😳
+
+
+    Un arbre qui pousse depuis des millénaires, une bestiole qui résiste au vide spatial, une fleur qui sent la
+    viande avariée... La nature ne fait pas dans la demi-mesure.
+
+
+    La dernière slide est tellement bizarre que tu vas vouloir vérifier 👀
+
+
+    Lequel de ces records te paraît le plus fou ? Tu choisis lequel ? 🌿
+
+
+    💾 Enregistre ce carrousel pour les retrouver quand tu veux briller en soirée.
+
+
+    📤 Partage-le à un ami, à celui qui pense que la nature est ennuyeuse.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #anecdotes #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-14_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-14_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-14_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-14_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-14_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-14_2000_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-14_2000_carro/01.jpg
+- id: 2026-11-14_2100_video
+  jour: samedi
+  date: '2026-11-14'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Paysages imaginaires reconstruits en nourriture à taille réelle'
+  accroche: Une [MONTAGNE] en *PAIN D'ÉPICE* ? Attends la fin 🍰
+  legende: 'Ce paysage se mange, et il est encore plus beau à taille réelle 🤤
+
+
+    Tu goûterais quel paysage en premier : la montagne en pain d''épice ou la cascade de chocolat ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #CultureG #Curiosites #Food #Insolite #ArtIA'
+  medias:
+  - medias/2026-11-09/2026-11-14_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-14_2100_video/couverture.jpg
+  source: 2026-11-14_1400_carro
