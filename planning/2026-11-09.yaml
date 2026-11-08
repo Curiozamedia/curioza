@@ -9,7 +9,7 @@
 semaine: '2026-11-09'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-07T02:10
+genere_le: 2026-11-08T02:16
 posts:
 - id: 2026-11-09_0800_carro
   jour: lundi
@@ -2159,3 +2159,365 @@ posts:
   - medias/2026-11-09/2026-11-14_2100_video/reel.mp4
   couverture: medias/2026-11-09/2026-11-14_2100_video/couverture.jpg
   source: 2026-11-14_1400_carro
+- id: 2026-11-15_0800_carro
+  jour: dimanche
+  date: '2026-11-15'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: 'Les vacances chez les grands-parents : ce qu''on y faisait'
+  contenu:
+    titre_couverture: 'Les [vacances] chez *mamie et papy* : ce qu''on y faisait vraiment'
+    sous_titre: 'Spoiler : aucun écran n''a vraiment survécu à la campagne'
+    slides:
+    - titre: Le [silence] de la campagne
+      texte: Pas de Wi-Fi, pas de réseau, juste le *tic-tac* de l'horloge et le chant des oiseaux. On s'ennuyait,
+        et c'était peut-être le but.
+    - titre: Le *jardin* comme terrain de jeu
+      texte: Cabanes de branches, potager à piller, cerises mangées directement sur l'arbre. Ici, la liberté se
+        mesurait en mètres de haie.
+    - titre: Le [vieux] poste de radio
+      texte: Pour capter une station, il fallait tourner le bouton *doucement* et tendre l'oreille. Parfois, la
+        musique se coupait au milieu d'une chanson.
+    - titre: Les *conserves* du placard
+      texte: Confitures maison, bocaux alignés, pots de compote à rallonge. Dans le placard de mamie, on trouvait
+        toujours un trésor sucré.
+    question_fin: Lequel te rend le plus *nostalgique* ?
+  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (1985-2005)'
+  legende: 'Tu te souviens de l''odeur de la confiture chez mamie ? 🍒
+
+
+    Pas d''écran, des cabanes dans les arbres et une radio qu''il fallait régler à la main. Les vacances chez les
+    grands-parents, c''était un autre monde. Swipe pour replonger dedans.
+
+
+    La dernière slide est celle que tout le monde a vécue sans jamais la remarquer 👀
+
+
+    Quel souvenir de chez tes grands-parents te revient en premier ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger en enfance.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître son enfance dans ces images.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance #vacancesenfance #souvenirs'
+  medias:
+  - medias/2026-11-09/2026-11-15_0800_carro/01.jpg
+  - medias/2026-11-09/2026-11-15_0800_carro/02.jpg
+  - medias/2026-11-09/2026-11-15_0800_carro/03.jpg
+  - medias/2026-11-09/2026-11-15_0800_carro/04.jpg
+  - medias/2026-11-09/2026-11-15_0800_carro/05.jpg
+  - medias/2026-11-09/2026-11-15_0800_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-15_0800_carro/01.jpg
+- id: 2026-11-15_1100_carro
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Des [MAISONS] *perchées* où personne ne devrait dormir
+    sous_titre: Et si ton toit était au-dessus du vide ?
+    slides:
+    - titre: Une maison au *sommet* du vide
+      texte: Sur une falaise, une maison semble tenir en équilibre au-dessus de l'eau. Le plus fou ? On peut imaginer
+        une petite terrasse et une vue sans fin, et c'est justement ce qui fait rêver.
+    - titre: Chez les *nuages* andins
+      texte: Dans les Andes, des habitations en pierre s'accrochent à des parois abruptes. Elles semblent défier
+        la gravité, loin de tout et tout près du ciel.
+    - titre: Une maison dans la *roche*
+      texte: En Cappadoce, certaines habitations sont creusées directement dans la roche tendre. Ici, la maison
+        est une grotte, et la façade semble presque avoir disparu.
+    - titre: Un cabanon sur *l'eau*
+      texte: Sur certains lacs, des maisons flottent sur des pontons. Elles bougent avec les vagues, comme un village
+        qui navigue.
+    - titre: Une maison *sur pilotis*
+      texte: 'Sur certaines côtes, des maisons sur pilotis défient la marée. Idée à méditer : et si la prochaine
+        tempête te rappelait que la mer décide aussi du plan cadastral ?'
+    - titre: Habiter *sous* la surface
+      texte: Imaginer une maison au fond de l'eau relève encore du rêve de science-fiction. Quelques projets expérimentaux
+        ont exploré cette idée, et elle continue d'intriguer.
+    question_fin: Laquelle de ces maisons tu *habiterais* vraiment ?
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison a le vertige ? 🏚️
+
+
+    Falaises, grottes, lacs flottants : certaines maisons défient la logique. Swipe pour voir les plus folles, et
+    tu verras que le toit n''est pas toujours là où on l''attend.
+
+
+    La dernière est sous l''eau, et elle a une vue unique 👀
+
+
+    Tu vivrais dans laquelle, honnêtement ? 🤔
+
+
+    💾 Enregistre ce carrousel pour le jour où tu voudras une maison vraiment originale.
+
+
+    📤 Partage-le à un ami, à celui qui rêve de déménager au bord du vide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #architecture #insolite #maisons'
+  medias:
+  - medias/2026-11-09/2026-11-15_1100_carro/01.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/02.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/03.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/04.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/05.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/06.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/07.jpg
+  - medias/2026-11-09/2026-11-15_1100_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-15_1100_carro/01.jpg
+- id: 2026-11-15_1300_devin
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 9 − 3 = ?'
+  reponse: '97 (piège : 177)'
+  legende: 'La réponse n''est pas 177 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-09/2026-11-15_1300_devin/reel.mp4
+  couverture: medias/2026-11-09/2026-11-15_1300_devin/couverture.jpg
+- id: 2026-11-15_1400_carro
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton cerveau [triche] pour te *protéger* sans te prévenir
+    sous_titre: 5 petits mécanismes que tu ne remarques jamais
+    slides:
+    - titre: Le *filtre* des mauvaises nouvelles
+      texte: 'Selon une idée répandue, ton cerveau repère souvent les menaces plus vite que les bonnes choses. Résultat
+        possible : une remarque négative te reste en tête, alors que les compliments s''envolent. Conseil : note
+        trois petites réussites chaque soir.'
+    - titre: Le *pilote automatique* du matin
+      texte: 'Ton cerveau transforme souvent les gestes répétés en routine, ce qui peut économiser de l''énergie.
+        Tu as déjà vérifié une porte sans te souvenir de l''avoir fait ? C''est lui qui gère. Conseil : change un
+        trajet quotidien pour le réveiller.'
+    - titre: Le *grand oubli* des détails
+      texte: 'Il semble que ton cerveau trie les détails et garde surtout l''essentiel. Tu retiens peut-être le
+        sentiment d''une journée plutôt que chaque minute. Une façon de limiter la saturation, sans doute. Conseil
+        : écris les idées importantes dans l''heure qui suit.'
+    - titre: Le *réflexe* de l'alerte
+      texte: 'Face à un bruit soudain, ton corps peut réagir avant que ta tête ait compris. Ce réflexe sert probablement
+        à te mettre en alerte très vite. Conseil : respire lentement trois fois pour reprendre la main.'
+    - titre: Le *biais* qui te rassure
+      texte: 'Ton cerveau a tendance à privilégier ce qu''il croit déjà plutôt que de remettre en question. C''est
+        confortable, mais ça peut limiter ta vision. Conseil : cherche une idée qui te dérange une fois par semaine.'
+    question_fin: Lequel t'a le plus *surpris* ?
+  sujet: Mécanismes protecteurs du cerveau qui agissent à ton insu
+  legende: 'Ton cerveau joue peut-être en secret pour te protéger 🧠
+
+
+    Il filtre, il automatise, il oublie, il sursaute et il te rassure avec tes propres idées. Chaque mécanisme vient
+    avec un petit conseil concret pour reprendre la main.
+
+
+    La dernière slide est celle qui fait le plus réagir 👀
+
+
+    Lequel de ces mécanismes te ressemble le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour relire le conseil du jour quand ton cerveau fait des siennes.
+
+
+    📤 Partage-le à un ami, pour qu''il découvre lui aussi ce qui se passe dans sa tête.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #developpementpersonnel'
+  medias:
+  - medias/2026-11-09/2026-11-15_1400_carro/01.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/02.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/03.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/04.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/05.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/06.jpg
+  - medias/2026-11-09/2026-11-15_1400_carro/07.jpg
+  couverture: medias/2026-11-09/2026-11-15_1400_carro/01.jpg
+- id: 2026-11-15_1700_carro
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: 'Records naturels fous : animaux, plantes, phénomènes'
+  contenu:
+    titre_couverture: LA NATURE A DES *RECORDS* [DINGUES]
+    sous_titre: Six champions qui défient ton imagination
+    slides:
+    - titre: LE [CHAMPION] DU TEMPS
+      texte: 'Certains *arbres* peuvent vivre plusieurs milliers d''années. Le pin de Bristlecone, en Californie,
+        compte parmi les plus anciens connus : certains individus sont plus vieux que les pyramides d''Égypte.'
+    - titre: LA *FOURMI* BÂTISSEUSE
+      texte: Les fourmis légionnaires peuvent former des ponts vivants avec leurs propres corps. Elles s'accrochent
+        les unes aux autres pour franchir un ruisseau.
+    - titre: LE [GEYSER] QUI JAILLIT
+      texte: Certains phénomènes ressemblent à des éruptions de fête. Le geyser Old Faithful, dans le Wyoming, jaillit
+        à intervalles assez réguliers, d'où son nom.
+    - titre: LE *POISSON* QUI CHANGE DE SEXE
+      texte: Chez le poisson-clown, tous les individus naissent mâles. Si la femelle dominante disparaît, le plus
+        grand mâle peut devenir femelle. Une vraie ascension sociale, non ?
+    - titre: LA *PLANTE* QUI PUE
+      texte: Le titan arum possède la plus grande inflorescence non ramifiée du monde. Il peut dépasser les deux
+        mètres et dégage une odeur de chair en décomposition pour attirer les insectes.
+    - titre: LE *CHAMPION* DE LA VITESSE
+      texte: Le faucon pèlerin plonge en piqué à des vitesses qui donnent le vertige, parmi les plus élevées du
+        monde animal. On le considère souvent comme l'animal le plus rapide de la planète.
+    question_fin: Lequel de ces *records* t'a le plus bluffé ?
+  sujet: 'Records naturels fous : animaux, plantes, phénomènes'
+  legende: 'La nature rivalise de records absurdes 🌿
+
+
+    Une plante qui sent la charogne, un poisson qui change de sexe, une colonie de fourmis qui fabrique un pont
+    vivant... On a sélectionné six champions qui dépassent la fiction.
+
+
+    Le dernier record est celui d''un oiseau, et il va te donner le vertige 👀
+
+
+    Tu connaissais lequel de ces animaux ou de ces plantes ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces records quand tu en auras besoin en soirée quiz.
+
+
+    📤 Partage-le à un ami, il rêve sûrement de briller au prochain dîner de famille.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #nature #animaux #saviezvous'
+  medias:
+  - medias/2026-11-09/2026-11-15_1700_carro/01.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/02.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/03.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/04.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/05.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/06.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/07.jpg
+  - medias/2026-11-09/2026-11-15_1700_carro/08.jpg
+  couverture: medias/2026-11-09/2026-11-15_1700_carro/01.jpg
+- id: 2026-11-15_2000_carro
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  contenu:
+    titre_couverture: Et si ton [petit-déj] se posait sur la *nature* ?
+    sous_titre: Des aliments XXL dans des paysages réels… en mode fausse photo
+    slides:
+    - titre: '[Pomme de terre] au *bord du lac*'
+      texte: Imagine une patate géante posée au bord d'un lac, comme un rocher oublié par un géant bien affamé.
+        On peut se demander si elle n'a pas déjà sa place dans les blagues de pique-nique.
+    - titre: Une *pastèque* au milieu du désert
+      texte: Une pastèque grosse comme une voiture, plantée au milieu des dunes, qui attend qu'un chameau vienne
+        la goûter. Le désert n'a jamais eu aussi bonne mine.
+    - titre: Des *champignons* en forêt de pins
+      texte: Des champignons de la taille d'une maison poussent entre les pins, comme s'ils avaient décidé de faire
+        la sieste ensemble. Attention où tu marches la prochaine fois.
+    - titre: Un [fromage] géant sur la *falaise*
+      texte: 'Une meule de fromage XXL, perchée au bord d''une falaise face à la mer. Question qui fâche : est-ce
+        que les mouettes ont le droit de se servir ?'
+    question_fin: Lequel t'a mis le plus *faim* ou le plus *mal à l'aise* ?
+  sujet: Aliments géants posés dans des paysages naturels
+  legende: 'Ta prochaine balade va sentir la pâtisserie 🍩
+
+
+    Des aliments géants posés au milieu de paysages naturels, version absurde et délicieusement incohérente. Chaque
+    slide transforme un coin de nature en garde-manger démesuré.
+
+
+    La dernière slide pose une question que personne n''avait osé se poser 👀
+
+
+    Quel aliment géant voudrais-tu voir dans ta région ? 🍉
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un te dit que la nature est ennuyeuse 🌿.
+
+
+    📤 Partage-le à un ami, à celui qui a toujours faim à la campagne 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #nature'
+  medias:
+  - medias/2026-11-09/2026-11-15_2000_carro/01.jpg
+  - medias/2026-11-09/2026-11-15_2000_carro/02.jpg
+  - medias/2026-11-09/2026-11-15_2000_carro/03.jpg
+  - medias/2026-11-09/2026-11-15_2000_carro/04.jpg
+  - medias/2026-11-09/2026-11-15_2000_carro/05.jpg
+  - medias/2026-11-09/2026-11-15_2000_carro/06.jpg
+  couverture: medias/2026-11-09/2026-11-15_2000_carro/01.jpg
+- id: 2026-11-15_2100_video
+  jour: dimanche
+  date: '2026-11-15'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Maisons construites dans des endroits impossibles'
+  accroche: Des maisons là où on ne devrait *jamais* en voir
+  legende: 'Certaines maisons défient la gravité et le bon sens 🏔️
+
+
+    Tu habiterais où ? Au bord du vide, dans la roche ou sur l''eau ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #architecture #insolite #maisons'
+  medias:
+  - medias/2026-11-09/2026-11-15_2100_video/reel.mp4
+  couverture: medias/2026-11-09/2026-11-15_2100_video/couverture.jpg
+  source: 2026-11-15_1100_carro
