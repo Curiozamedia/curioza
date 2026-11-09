@@ -1,0 +1,368 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-11-16'
+phase: normal
+tout_valider: false
+genere_le: 2026-11-09T02:28
+posts:
+- id: 2026-11-16_0800_carro
+  jour: lundi
+  date: '2026-11-16'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  contenu:
+    titre_couverture: Et si la [nature] servait de *cuisine* géante ?
+    sous_titre: Six paysages où la nourriture prend toute la place
+    slides:
+    - titre: Une [pomme] sur la falaise
+      texte: Imagine une *pomme rouge* gigantesque posée au bord d'une falaise, face à la mer. À mon avis, elle
+        a l'air d'attendre qu'on la croque.
+    - titre: Le *croissant* dans la vallée
+      texte: Un croissant aussi grand qu'une colline repose dans une vallée d'herbe verte. Les moutons, eux, ont
+        sûrement un avis là-dessus.
+    - titre: Une [banane] au fond du lac
+      texte: Une *banane* géante flotte sur un lac calme, entourée de montagnes enneigées. Qui l'a posée là ? Ça
+        reste une belle énigme, et on peut rêver.
+    - titre: Des *fraises* sur la dune
+      texte: Des fraises énormes poussent comme des rochers sur une dune de sable doré. On dirait qu'elles attendent
+        une vague de chaleur, non ?
+    - titre: Le *fromage* dans la forêt
+      texte: Une meule de fromage géante trône au milieu d'une forêt de sapins, couverte de mousse. Tu imagines
+        déjà l'odeur depuis le sentier.
+    - titre: Un [burger] sur le glacier
+      texte: Un burger géant, couches bien empilées, repose sur un glacier bleuté. Le vent froid n'a pas l'air de
+        l'avoir entamé, et ça, c'est presque le plus impressionnant.
+    question_fin: Laquelle de ces *fringales* géantes te donne envie de *grignoter* ?
+  sujet: Aliments géants posés dans des paysages naturels, angle original
+  legende: 'Et si la nature avait un buffet géant ? 🍎
+
+
+    Six paysages où la nourriture prend toute la place, des falaises aux glaciers. Certaines images semblent sorties
+    d''un rêve, d''autres d''un frigo oublié. Swipe pour voir la suite.
+
+
+    La dernière slide est la plus folle, et elle se mange avec les yeux 👀
+
+
+    Tu choisis quel aliment géant pour ton prochain pique-nique ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces paysages les jours où tu as faim de rêver 🍽️.
+
+
+    📤 Partage-le à un ami, parce qu''il va forcément dire « moi je prends le croissant » 🥐.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #nourriture #paysages'
+  medias:
+  - medias/2026-11-16/2026-11-16_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/06.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/07.jpg
+  - medias/2026-11-16/2026-11-16_0800_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-16_0800_carro/01.jpg
+- id: 2026-11-16_1100_carro
+  jour: lundi
+  date: '2026-11-16'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ces phénomènes ont l'air [truqués] mais la nature les *fabrique* vraiment
+    sous_titre: Swipe, tu vas douter de tes yeux
+    slides:
+    - titre: '[Lumière] qui se ballade'
+      texte: 'Les *aurores boréales* ne sont pas un filtre : ce sont des particules du Soleil qui percutent la haute
+        atmosphère. Le ciel joue en vrai.'
+    - titre: Le lac qui *change de couleur*
+      texte: Certains lacs salés passent du rose au vert selon les algues et les micro-organismes présents. Aucun
+        colorant n'est ajouté, la nature fait la peinture.
+    - titre: Des *nuages* en forme d'onde
+      texte: Les nuages en rouleaux, appelés mammatus, ont des formes de poches qui pendent sous l'enclume d'un
+        orage. On dirait une sculpture, pourtant c'est de la vapeur d'eau.
+    - titre: Une *falaise* qui pleure
+      texte: Des sources ferrugineuses colorent certaines chutes d'eau en rouge sang. Le fer oxydé fait tout le
+        travail, sans aucune mise en scène.
+    - titre: Le *sable* qui chante
+      texte: Certaines dunes émettent un grondement grave quand on glisse dessus. Les grains qui roulent et vibrent
+        produisent ce son, un phénomène bien documenté.
+    question_fin: Lequel t'a fait dire « impossible » en *premier* ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Tu crois que c''est photoshoppé ? Non, c''est la nature 🌍
+
+
+    Aurores, lacs roses, nuages en poches, cascades rouge sang : la nature a des effets spéciaux sans budget. Chaque
+    exemple a une explication scientifique.
+
+
+    La dune qui chante est la plus bizarre, attends la fin 👀
+
+
+    Tu en avais déjà vu un en vrai ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un dit que c''est photoshoppé.
+
+
+    📤 Partage-le à un ami, il va douter de tout ce qu''il voit sur les réseaux 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nature #curiosites #culturegenerale #phenomenesnaturels #saviezvous'
+  medias:
+  - medias/2026-11-16/2026-11-16_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-16_1100_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-16_1100_carro/01.jpg
+- id: 2026-11-16_1300_devin
+  jour: lundi
+  date: '2026-11-16'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 8 + 5 × 4 − 8 = ?'
+  reponse: '20 (piège : 44)'
+  legende: 'La réponse n''est pas 44 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-16_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-16_1300_devin/couverture.jpg
+- id: 2026-11-16_1400_carro
+  jour: lundi
+  date: '2026-11-16'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Ce que tu faisais quand il n'y avait pas internet à la maison
+  contenu:
+    titre_couverture: Avant [Wi-Fi], tu faisais *quoi* exactement ?
+    sous_titre: Les gestes oubliés de l'époque sans écran partout
+    slides:
+    - titre: '[Annuaire] en *papier* épais'
+      texte: Avant Google, on cherchait un numéro dans les *pages blanches*. Une vraie liasse de papier, qu'on feuilletait
+        en mangeant ses tartines.
+    - titre: Le *plan routier* déplié par terre
+      texte: Pour partir en vacances, papa dépliait une carte routière qui couvrait tout le salon. Impossible de
+        la replier correctement, *c'était une épreuve*.
+    - titre: Le *répondeur* qu'on rembobinait
+      texte: Un message laissé sur le répondeur, c'était une petite cassette à rembobiner. On appuyait sur play
+        en retenant son souffle.
+    - titre: Attendre la *photo* développée
+      texte: On ne savait jamais si la photo était réussie. Il fallait attendre plusieurs jours chez le photographe,
+        et *le suspense* était total.
+    - titre: Le *téléphone fixe* au bout du fil
+      texte: Le téléphone était fixé au mur, le cordon tendu jusqu'au couloir. Pour avoir un peu d'intimité, il
+        fallait *s'enfermer* dans les toilettes ou sortir.
+    question_fin: Lequel t'a le plus *fait sourire* ?
+  sujet: Ce que tu faisais quand il n'y avait pas internet à la maison
+  legende: 'Tu te souviens comment on vivait sans Wi-Fi ? 📼
+
+
+    Annuaires, cartes routières, répondeurs à cassette : des gestes que plus personne ne fait. Swipe pour retrouver
+    ces souvenirs qui sentent bon le papier.
+
+
+    Les dernières slides sont celles que les plus jeunes ne croiront jamais 👀
+
+
+    Quel objet de ton enfance tu regrettes le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux les raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître son enfance à travers ces images.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance80 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-16/2026-11-16_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/06.jpg
+  - medias/2026-11-16/2026-11-16_1400_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-16_1400_carro/01.jpg
+- id: 2026-11-16_1700_carro
+  jour: lundi
+  date: '2026-11-16'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les valeurs à transmettre à un enfant (format qui marche chez Opulancia, formulation neuve)
+  contenu:
+    titre_couverture: Ce que tu transmets [sans le vouloir] à ton enfant
+    sous_titre: Les valeurs passent surtout par ce que tu fais, pas par ce que tu dis
+    slides:
+    - titre: Le [modèle] avant le discours
+      texte: Un enfant apprend beaucoup en *imitant*. Ta façon de gérer une file d'attente ou une erreur pèse peut-être
+        plus lourd qu'un long sermon.
+    - titre: La *gentillesse* qui se voit
+      texte: Selon l'idée de l'apprentissage par observation, un enfant qui voit un adulte aider un inconnu retient
+        peut-être le geste autant que la leçon.
+    - titre: Le *droit à se tromper*
+      texte: Dire « je me suis trompé, désolé » montre qu'une erreur ne détruit rien. Une idée simple, et pourtant
+        rare dans beaucoup de foyers.
+    - titre: L'*ennui* comme valeur
+      texte: Laisser un enfant s'ennuyer un peu l'aide peut-être à inventer ses propres idées. C'est une piste souvent
+        discutée, à tester à ta façon.
+    question_fin: Quelle valeur tu transmets sans [t'en rendre compte] ?
+  sujet: Valeurs à transmettre à un enfant, angle cerveau surprenant
+  legende: 'Tu n''enseignes pas la politesse avec tes mots, mais avec tes gestes 👀
+
+
+    Un enfant copie peut-être plus ce qu''il voit qu''il n''écoute ce qu''on lui dit. Quatre pistes concrètes pour
+    repérer les valeurs que tu transmets sans le vouloir.
+
+
+    La dernière slide parle d''un truc que beaucoup de parents évitent 👀
+
+
+    Tu as une valeur que tu veux transmettre à tes enfants ? 💬
+
+
+    💾 Enregistre ce carrousel pour relire ces idées quand tu doutes de tes réactions.
+
+
+    📤 Partage-le à un ami, à celui qui répète toujours la même leçon à ses enfants 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #education #parentalite #psychologie #cerveau #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-16_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-16_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-16_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-16_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-16_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-16_1700_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-16_1700_carro/01.jpg
+- id: 2026-11-16_2000_carro
+  jour: lundi
+  date: '2026-11-16'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le logement'
+  contenu:
+    titre_couverture: '[CHAUFFAGE] ET *MAISON* : LE DUEL QUI FAIT FROID DANS LE DOS'
+    sous_titre: 'France vs Norvège : le logement du quotidien'
+    slides:
+    - titre: LES *FENÊTRES* DOUBLES
+      texte: En Norvège, beaucoup de logements ont des fenêtres doubles, voire triples. Le Français, lui, ouvre
+        sa fenêtre pour dire bonjour au courant d'air.
+    - titre: LE *CHAUFFAGE* AU BOIS
+      texte: Dans les maisons norvégiennes, le poêle à bois sert souvent de point de rencontre. Ici, on se dispute
+        surtout la place près du radiateur.
+    - titre: CHAUSSONS *OBLIGATOIRES* ?
+      texte: Enlever ses chaussures à l'entrée est une habitude très répandue en Norvège. Chez toi, les chaussures
+        restent-elles au pied ou au placard ?
+    - titre: LE *BALCON* ET LE SOLEIL
+      texte: Quand le soleil revient, certains Norvégiens sortent leur chaise sur le balcon pour profiter du moindre
+        rayon. Le Français, lui, a déjà sorti son café dehors depuis dix minutes.
+    question_fin: Lequel de ces logements te donnerait le plus *envie* de déménager ?
+  sujet: 'Le duel France vs Norvège : le logement du quotidien'
+  legende: 'Fenêtres doubles contre courant d''air : le duel commence 🏠❄️
+
+
+    Entre poêle à bois, chaussons obligatoires et balcon qu''on investit au premier rayon de soleil, le logement
+    révèle nos petites différences. Un duel léger, sans gagnant officiel !
+
+
+    La dernière slide pourrait bien te faire réviser ta façon de rentrer chez toi 👀
+
+
+    Tu es team chaussons à l''entrée ou team chaussures au pied ? 😏
+
+
+    💾 Enregistre ce carrousel pour tes prochaines discussions sur le logement et les petites habitudes de voisinage.
+
+
+    📤 Partage-le à un ami, celui qui se croit toujours plus frileux que toi 🥶.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #norvege #france #logement'
+  medias:
+  - medias/2026-11-16/2026-11-16_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-16_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-16_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-16_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-16_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-16_2000_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-16_2000_carro/01.jpg
+- id: 2026-11-16_2100_video
+  jour: lundi
+  date: '2026-11-16'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Aliments géants posés dans des paysages naturels, angle original'
+  accroche: Une [pomme] géante veut conquérir la *falaise* !
+  legende: 'Un fruit géant sur une falaise, ça se discute 🍎
+
+
+    Tu aurais mis quel aliment géant dans quel paysage, toi ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #illustrationIA #aliments #insolite'
+  medias:
+  - medias/2026-11-16/2026-11-16_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-16_2100_video/couverture.jpg
+  source: 2026-11-16_0800_carro
