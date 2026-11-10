@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-09T02:28
+genere_le: 2026-11-10T02:27
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -366,3 +366,360 @@ posts:
   - medias/2026-11-16/2026-11-16_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-16_2100_video/couverture.jpg
   source: 2026-11-16_0800_carro
+- id: 2026-11-17_0800_carro
+  jour: mardi
+  date: '2026-11-17'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: Les [ANIMAUX] ont pris nos *pires* habitudes
+    sous_titre: 'Scroller, râler, faire la queue : ils ont tout copié'
+    slides:
+    - titre: Le [SCROLL] infini
+      texte: Un hibou posé sur sa branche fait défiler une pile de feuilles mortes, la tête penchée, sans jamais
+        la relever. On se demande s'il trouve ça fatigant ou s'il a juste l'habitude.
+    - titre: La *queue* des fourmis
+      texte: Des fourmis alignées en file indienne devant une goutte de miel, sans un mot, *patientes* comme au
+        guichet de la poste. Personne ne double, par principe.
+    - titre: Le klaxon de la *grenouille*
+      texte: Une grenouille bloquée sur une route de campagne tape du pied et coasse de colère face au camion d'en
+        face. À mon avis, le trajet n'est pas plus rapide pour autant.
+    - titre: Le *râleur* des corbeaux
+      texte: Des corbeaux se plaignent de la météo sur un fil électrique, bec contre bec, comme une terrasse de
+        café un dimanche pluvieux. Ça ne change rien, mais ça soulage, paraît-il.
+    question_fin: Lequel t'a le plus fait rire ou te rappelle quelqu'un ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Les animaux ont copié nos pires habitudes et on les comprend 🐸
+
+
+    Un hibou accro au pouce, des fourmis qui ne doublent jamais, une grenouille qui klaxonne. Swipe pour voir jusqu''où
+    ils vont trop loin.
+
+
+    La dernière slide est la plus relou, mais la plus vraie 👀
+
+
+    Quel animal te ressemble le plus au volant ou dans la file ? 😂
+
+
+    💾 Enregistre ce carrousel pour te moquer de toi-même au prochain embouteillage 🚗.
+
+
+    📤 Partage-le à un ami, pour qu''il reconnaisse sa propre grenouille 🐸.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #humour #insolite'
+  medias:
+  - medias/2026-11-16/2026-11-17_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-17_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-17_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-17_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-17_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-17_0800_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-17_0800_carro/01.jpg
+- id: 2026-11-17_1100_carro
+  jour: mardi
+  date: '2026-11-17'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ce mot que tu dis tous les jours vient de [l'arabe] et du *persan* ?
+    sous_titre: Le français a beaucoup emprunté, et il n'a pas fini
+    slides:
+    - titre: '[Café] et *la Turquie*'
+      texte: Le mot *café* vient de l'arabe *qahwa*, passé par le turc *kahve*. Il est entré en français au XVIIe
+        siècle, avec la boisson.
+    - titre: '[Orange] vient de *la Perse*'
+      texte: Le mot *orange* descend du persan *narang*, passé par l'arabe. Au Moyen Âge, le fruit voyageait par
+        les routes commerciales.
+    - titre: Ton *pyjama* vient d'*Inde*
+      texte: Le mot *pyjama* vient de l'hindoustani *pāy-jāma*, un vêtement de jambes porté dans le sous-continent.
+        Les Britanniques l'ont ramené en Europe.
+    - titre: '[Cravate] et les *Croates*'
+      texte: Le mot *cravate* vient de *croate*. Des mercenaires croates portaient un foulard noué au cou au XVIIe
+        siècle, et le style a été repris à la cour de Louis XIV. Certains historiens discutent encore de ce lien
+        exact.
+    - titre: '*Bistrot* : un mot *russe* ?'
+      texte: L'origine de *bistrot* reste incertaine. Une histoire parle du russe *bystro*, qui veut dire vite.
+        C'est une idée populaire, pas un fait établi.
+    - titre: Le *français* emprunte à *tout le monde*
+      texte: Des mots viennent de l'anglais, de l'italien, de l'allemand ou du japonais. Une langue qui emprunte,
+        c'est une langue qui a voyagé.
+    question_fin: Quel mot du quotidien t'a le plus [surpris] ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton vocabulaire est un passeport venu d''ailleurs 🌍
+
+
+    Café, orange, pyjama : ces mots ont voyagé avant toi. Swipe pour découvrir d''où ils viennent et pourquoi le
+    français les a adoptés.
+
+
+    Le dernier mot est celui que tu ne soupçonnes pas du tout 👀
+
+
+    Tu connaissais lequel de ces mots, ou c''est une découverte pour toi ? 💬
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu liras un mot au hasard dans une conversation.
+
+
+    📤 Partage-le à un ami, celui qui adore les mots et les histoires cachées derrière.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #etymologie #languefrancaise #saviezvous'
+  medias:
+  - medias/2026-11-16/2026-11-17_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/07.jpg
+  - medias/2026-11-16/2026-11-17_1100_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-17_1100_carro/01.jpg
+- id: 2026-11-17_1300_devin
+  jour: mardi
+  date: '2026-11-17'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 − 3 × 2 + 12 × 5 = ?'
+  reponse: '64 (piège : 130)'
+  legende: 'La réponse n''est pas 130 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-17_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-17_1300_devin/couverture.jpg
+- id: 2026-11-17_1400_carro
+  jour: mardi
+  date: '2026-11-17'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: Et si la [gravité] s'inversait *une minute* ?
+    sous_titre: Le chaos commence dans ta cuisine
+    slides:
+    - titre: '[Cuisine] à l''envers'
+      texte: Les *gouttes d'eau* remontent du robinet vers le plafond, et ton café refuse de rester dans la tasse.
+        Ton bol de céréales, lui, file déjà vers la lampe.
+    - titre: Le *salon* fait le plafond
+      texte: Les coussins du canapé se soulèvent, la télécommande se coince contre le lustre et ton tapis flotte
+        comme une voile. Le [plafond] devient, le temps d'une minute, ton nouveau sol.
+    - titre: La *salle de bain* en apesanteur
+      texte: Le savon file vers le plafond et la mousse forme une grosse bulle collée au miroir. Impossible de te
+        brosser les dents sans t'accrocher au lavabo.
+    - titre: Le *bureau* qui tombe à l'envers
+      texte: Les stylos remontent, les feuilles s'envolent vers la lampe et ton ordinateur flotte au-dessus du plafond.
+        Ta productivité, elle, file droit vers le haut.
+    - titre: La *rue* entière suspendue
+      texte: Les voitures garées se soulèvent, les pigeons plongent vers le ciel et les feuilles montent entre les
+        façades. Une minute, et la ville ressemble à un rêve bizarre.
+    question_fin: Dans quel endroit tu *tiendrais* le moins une minute à l'envers ?
+  sujet: Gravité inversée une minute dans le quotidien
+  legende: 'Une minute sans gravité, et ta maison devient un champ de bataille 🙃
+
+
+    Ton café qui refuse de rester dans la tasse, ton canapé accroché au plafond, ta voiture qui décolle : on a imaginé
+    le quotidien d''une minute où tout part vers le ciel. Swipe pour voir le chaos complet.
+
+
+    La dernière slide pourrait bien te faire regarder ta rue autrement 👀
+
+
+    Tu ferais quoi en premier si la gravité s''inversait pendant une minute ? 😏
+
+
+    💾 Enregistre ce carrousel pour le jour où ton cerveau a besoin d''un peu de folie.
+
+
+    📤 Partage-le à un ami, pour voir qui paniquerait le plus dans son salon 🙃.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #gravite #absurde #insolite'
+  medias:
+  - medias/2026-11-16/2026-11-17_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/06.jpg
+  - medias/2026-11-16/2026-11-17_1400_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-17_1400_carro/01.jpg
+- id: 2026-11-17_1700_carro
+  jour: mardi
+  date: '2026-11-17'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les règles de la cour de récré que tout le monde connaissait
+  contenu:
+    titre_couverture: Les [RÈGLES] *non écrites* de la cour de récré
+    sous_titre: Tu les suivais sans jamais les avoir apprises
+    slides:
+    - titre: Le [coin] du mur réservé
+      texte: Il existait un *mur* où personne ne s'appuyait sans permission. Les *grands* l'avaient décrété, et
+        personne ne demandait pourquoi.
+    - titre: Le *ballon* appartenait à celui qui l'apportait
+      texte: 'Dans beaucoup de cours, celui qui amenait le ballon avait un vrai pouvoir pendant la récré. Sans lui,
+        pas de match : à toi de juger si c''était de la justice ou du chantage.'
+    - titre: Mourir au *jeu du chat* était interdit
+      texte: Quand on te touchait, tu étais le chat, point final. Refuser le rôle ou crier "pas comptée" déclenchait
+        des procès à rallonge.
+    - titre: Le [cordon] de la corde à sauter
+      texte: 'Sauter à la corde à deux était une affaire sérieuse : celui qui ratait prenait la place de l''un des
+        tourneurs. Les tourneurs, eux, n''avaient pas le droit de rire.'
+    question_fin: Laquelle de ces *règles* tu appliquais sans jamais la remettre en question ?
+  sujet: Règles non écrites de la cour de récré (1985-2005)
+  legende: 'Personne ne t''a jamais expliqué ces règles, pourtant tu les connaissais toutes 🏫
+
+
+    Pas de règlement affiché, pas de surveillant qui les rappelait : juste une loi tacite, transmise de grand en
+    petit. Ces règles de la cour de récré, on les suivait sans réfléchir, et certaines paraissaient plus strictes
+    que le vrai règlement.
+
+
+    Les dernières règles sont celles que personne n''osait enfreindre, même les plus culottés 👀
+
+
+    Quelle règle de récré tu respectais par pure peur du *jugement* des autres ? 😅
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta cour d''école.
+
+
+    📤 Partage-le à un ami, pour qu''il retrouve la loi du ballon et du mur interdit avec toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #recre #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-17_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-17_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-17_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-17_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-17_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-17_1700_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-17_1700_carro/01.jpg
+- id: 2026-11-17_2000_carro
+  jour: mardi
+  date: '2026-11-17'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton [cerveau] te *protège* en secret, et tu ne t'en rends jamais compte
+    sous_titre: Petits mécanismes cachés, expliqués simplement
+    slides:
+    - titre: Le [réflexe] du regard évité
+      texte: Tu détournes les yeux d'une scène choquante avant même de la comprendre. Ton cerveau *filtre* les images
+        trop brutales pour ne garder que l'essentiel.
+    - titre: Ton cerveau *oublie* les mauvais moments
+      texte: 'Un souvenir pénible perd souvent de sa netteté avec le temps. Ce n''est pas un défaut : c''est un
+        *tri* qui t''évite de rester bloqué dans le passé.'
+    - titre: Le [sursaut] qui te fait lâcher prise
+      texte: Quand tu sens un danger, ton corps réagit avant que ta pensée arrive. Tes muscles se tendent, ton souffle
+        change, et ton attention *se resserre* d'un coup.
+    - titre: Le *biais* qui garde tes certitudes
+      texte: Ton cerveau cherche surtout les infos qui confirment ce que tu penses déjà. C'est rapide, confortable,
+        mais ça peut te *garder* dans ton coin sans que tu le voies.
+    - titre: Le conseil à [tester] ce soir
+      texte: 'Quand une réaction te surprend, demande-toi ce qu''elle *protège*. Nomme-la à voix haute : ce simple
+        geste ramène ton cerveau au *contrôle*.'
+    question_fin: Lequel de ces mécanismes t'a le plus *surpris* ?
+  sujet: Mécanismes protecteurs du cerveau qui agissent à ton insu
+  legende: 'Ton cerveau bosse pour toi en coulisses 🧠
+
+
+    Il filtre, oublie, réagit avant toi et adore confirmer ce que tu penses déjà. Chaque slide révèle un petit mécanisme
+    que tu vis sans jamais le remarquer.
+
+
+    La dernière slide contient un conseil simple que tu peux tester dès ce soir 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le en commentaire 💬
+
+
+    💾 Enregistre ce carrousel pour relire ces mécanismes la prochaine fois que tu te sens bizarre.
+
+
+    📤 Partage-le à un ami, il voudra sûrement savoir pourquoi son cerveau fait des siennes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-16/2026-11-17_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/06.jpg
+  - medias/2026-11-16/2026-11-17_2000_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-17_2000_carro/01.jpg
+- id: 2026-11-17_2100_video
+  jour: mardi
+  date: '2026-11-17'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui ont adopté nos pires habitudes humaines'
+  accroche: Ces animaux ont copié [TES] pires *habitudes* humaines
+  legende: 'Les animaux ont aussi leurs mauvaises manies, et elles ressemblent furieusement aux nôtres 🐜
+
+
+    Laquelle de ces habitudes animales te agace le plus chez les humains, le klaxon ou le râleur ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #nature #saviezvous'
+  medias:
+  - medias/2026-11-16/2026-11-17_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-17_2100_video/couverture.jpg
+  source: 2026-11-17_0800_carro
