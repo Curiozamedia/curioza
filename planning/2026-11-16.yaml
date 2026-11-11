@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-10T02:27
+genere_le: 2026-11-11T02:22
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -723,3 +723,355 @@ posts:
   - medias/2026-11-16/2026-11-17_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-17_2100_video/couverture.jpg
   source: 2026-11-17_0800_carro
+- id: 2026-11-18_0800_carro
+  jour: mercredi
+  date: '2026-11-18'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Des [maisons] qui défient *la gravité* et le bon sens
+    sous_titre: Swipe si tu oserais y dormir 🏠
+    slides:
+    - titre: Une maison *sur* [un pilier]
+      texte: Il existe des maisons bâties sur des rochers marins ou des piliers naturels, accessibles seulement
+        à marée basse. Le facteur doit avoir du cran.
+    - titre: Un logis *accroché* à [la falaise]
+      texte: Certaines habitations sont creusées ou posées à flanc de falaise, face au vide. Idéal pour le balcon,
+        moins pour les enfants qui courent.
+    - titre: Une cabane *flottante* au milieu [du lac]
+      texte: Des maisons sur pilotis ou sur plateformes flottent sur des lacs, à l'écart de la terre ferme. Pas
+        besoin de tondre la pelouse.
+    - titre: Une demeure *perchée* [dans les arbres]
+      texte: Des maisons ont été construites entre les branches de grands arbres, sur des plateformes suspendues.
+        La forêt devient le jardin.
+    question_fin: Laquelle tu *jamais* habiterais, même gratuitement ?
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison a une vue… un peu trop dramatique 🏠
+
+
+    Sur un pilier marin, sur une falaise ou au milieu d''un lac, certaines maisons semblent défier le bon sens.
+    Vertige garanti, ou rêve absolu ? Swipe pour choisir ton camp.
+
+
+    La dernière slide pourrait bien te faire regarder ton canapé autrement 👀
+
+
+    Tu dormirais dans laquelle ? Dis-le en commentaire 😅
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées de maisons le jour où tu rêveras d''ailleurs.
+
+
+    📤 Partage-le à un ami, qui rêve déjà de déménager au-dessus du vide.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #architecture #maisons'
+  medias:
+  - medias/2026-11-16/2026-11-18_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-18_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-18_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-18_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-18_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-18_0800_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-18_0800_carro/01.jpg
+- id: 2026-11-18_1100_carro
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Les [lieux] de France qui cachent des *histoires* folles
+    sous_titre: Tu croyais tout connaître de ton pays ?
+    slides:
+    - titre: Une île qui change de côté
+      texte: 'Le Mont-Saint-Michel ne ressemble plus vraiment à une île : une digue relie désormais le rocher au
+        continent. Autrefois, la marée le coupait du monde deux fois par jour. Île ou presqu''île, à toi de trancher.'
+    - titre: Un village qui n'existe pas
+      texte: Certains cartographes glissaient des lieux imaginaires sur leurs cartes pour repérer les copieurs.
+        On appelle ça une *ville-piège*. Un petit détail suffit à révéler qui a copié qui.
+    - titre: Des maisons dans la roche
+      texte: En Ardèche, à Rochemaure, des habitations ont été creusées dans la falaise au fil des siècles. Quand
+        la montagne fait office de murs, pas besoin de terrain plat.
+    - titre: Un nom né d'une erreur
+      texte: Certains noms de communes viendraient d'une mauvaise lecture ou d'une copie approximative. Une seule
+        lettre mal recopiée, et voilà un village rebaptisé. Une belle idée, à vérifier au cas par cas.
+    - titre: Le village le plus petit ?
+      texte: Combien de villages français tiennent encore dans quelques rues ? Certains semblent oubliés, d'autres
+        vivent au rythme d'une seule boulangerie. Et toi, tu y vivrais ?
+    question_fin: Lequel de ces lieux t'a le plus *surpris* ?
+  sujet: 'Lieux de France aux histoires étonnantes : villes et villages insolites'
+  legende: 'La France cache des lieux qui ressemblent à des légendes 🏰
+
+
+    Une île qui n''en est plus vraiment une, des maisons creusées dans la falaise, des villages inventés sur les
+    cartes... Swipe pour découvrir ce que ton pays cache sous ses pierres.
+
+
+    Dans la dernière slide, on parle d''un village qui tient dans quelques rues 👀
+
+
+    Tu connaissais lequel de ces lieux ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour pour retrouver ces anecdotes le jour où tu briseras le silence d''un dîner.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui pense que la France n''a plus de secrets.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #France #curiosites #anecdotes #lieuxinsolites'
+  medias:
+  - medias/2026-11-16/2026-11-18_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-18_1100_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-18_1100_carro/01.jpg
+- id: 2026-11-18_1300_devin
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 − 6 × 4 + 12 × 7 = ?'
+  reponse: '69 (piège : 168)'
+  legende: 'La réponse n''est pas 168 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-18_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-18_1300_devin/couverture.jpg
+- id: 2026-11-18_1400_carro
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: Et si ton *vieux* [PAGER] revenait en version futuriste ?
+    sous_titre: Le passé version 3000, sans filtre
+    slides:
+    - titre: Le [TÉLÉPHONE] à fil
+      texte: Imagine un combiné à *fil* qui se déroule tout seul dans l'espace, jusqu'à une station orbitale. Le
+        cordon, lui, s'étire encore.
+    - titre: La *cassette* qui roule
+      texte: Une cassette audio devient un véhicule qui roule sur des rails de lumière. Le rembobinage ? Il se fait
+        à la vitesse d'un train.
+    - titre: Le *cadran* qui vole
+      texte: Un vieux téléphone à cadran devient un drone qui tourne ses numéros dans le ciel. Chaque chiffre lâche
+        une petite bulle de lumière.
+    - titre: Le [BAladeur] cosmique
+      texte: Le baladeur des années 80 se transforme en casque géant qui capte les étoiles. À mon avis, idéal pour
+        écouter l'univers, un peu trop fort.
+    - titre: La *machine à écrire* robot
+      texte: Une machine à écrire devient un robot qui tape tout seul des lettres holographiques. Il n'oublie jamais
+        la touche espace, lui.
+    - titre: Le *pèse-personne* qui prédit
+      texte: Une balance à aiguille devient un oracle qui affiche ton avenir en hologramme. Le problème ? À mon
+        avis, elle ne te ment jamais sur le poids.
+    question_fin: Lequel de ces objets d'autrefois te donne envie de le *ressortir* du grenier ?
+  sujet: Objets d'autrefois réinventés en futur absurde
+  legende: 'Ton vieux téléphone à fil version spatiale, ça te tente ? 📞
+
+
+    On a pris des objets de notre enfance et on les a envoyés dans le futur, sans permission. Le résultat est absurde,
+    un peu drôle, parfois flippant. Swipe pour voir ce que deviennent cassettes, cadrans et balances.
+
+
+    La dernière slide n''a rien à voir avec la technologie, promis 👀
+
+
+    Quel objet de ton enfance tu aurais voulu voir version robot ? 🤖
+
+
+    💾 Enregistre ce carrousel pour retrouver ces images quand tu voudras rire un coup 😄.
+
+
+    📤 Partage-le à un ami, qui a gardé un vieux walkman au fond d''un tiroir 📼.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #annees80 #futurisme #imaginationIA'
+  medias:
+  - medias/2026-11-16/2026-11-18_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/06.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/07.jpg
+  - medias/2026-11-16/2026-11-18_1400_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-18_1400_carro/01.jpg
+- id: 2026-11-18_1700_carro
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: 'Avant, [TOUT] se *méritait* : 6 galères que tu as sûrement oubliées'
+    sous_titre: 'Attendre, souffler, rembobiner : la vie sans bouton pause'
+    slides:
+    - titre: '[ATTENDRE] en *silence* devant la télé'
+      texte: Pour voir ton dessin animé préféré, il fallait être pile à l'heure. Rater le début, c'était *accepter*
+        la fin sans générique.
+    - titre: Rembobiner, c'était une *vraie* mission
+      texte: Une cassette louée, un crayon glissé dans la bobine, et des minutes perdues à tourner la molette. Oublier
+        de rembobiner coûtait parfois *une amende*.
+    - titre: Le *répondeur* qui clignote en rouge
+      texte: 'Pas de SMS : on écoutait les messages en rembobinant la bande. Certains gardaient le même message
+        des semaines, *par flemme* de l''effacer.'
+    - titre: Charger son walkman, c'était *piles* à gogo
+      texte: Quatre piles dans le compartiment, et la musique ralentissait dangereusement en fin de vie. Les plus
+        malins gardaient toujours une pile de rechange dans leur poche.
+    question_fin: Laquelle de ces galères te *manque* le plus, honnêtement ?
+  sujet: Galères technologiques d'avant vues par la génération 85-05
+  legende: 'Avant, on attendait vraiment les choses. 📼
+
+
+    Pas de streaming, pas de pause, pas de SMS : tout demandait de la patience et un peu de bricolage. Quatre galères
+    que la génération 85-05 a connues et que les plus jeunes ont du mal à imaginer.
+
+
+    La dernière galère est celle qui faisait pester tout le quartier 👀
+
+
+    Quelle galère t''a le plus marqué, toi ? 💬
+
+
+    💾 Enregistre ce carrousel pour te rappeler que la patience avait un goût particulier.
+
+
+    📤 Partage-le à un ami, à celui qui a encore une cassette planquée dans un tiroir.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #annees2000'
+  medias:
+  - medias/2026-11-16/2026-11-18_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-18_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-18_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-18_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-18_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-18_1700_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-18_1700_carro/01.jpg
+- id: 2026-11-18_2000_carro
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer
+    solide)
+  contenu:
+    titre_couverture: Et si [UNE SEULE RÈGLE] *changeait* ?
+    sous_titre: Quatre petites rébellions de la physique
+    slides:
+    - titre: '[PLUS DE] *gravité* sur les toits'
+      texte: 'Imagine que les objets légers s''envolent tout seuls : tes *ballons* et tes *feuilles mortes* grimperaient
+        vers le ciel dès le matin. Les oiseaux, eux, auraient de sacrés soucis pour rester posés.'
+    - titre: Pluie qui *monte* vers le ciel
+      texte: Et si les gouttes remontaient des flaques pour retourner dans les nuages ? Le parapluie deviendrait
+        un objet de décoration bien inutile, et les enfants riraient à l'envers.
+    - titre: Le *silence* des voitures
+      texte: Si le son ne s'éteignait jamais, chaque klaxon resterait suspendu dans l'air. Une ville entière deviendrait
+        une chorale impossible à faire taire.
+    - titre: Mer *solide* et marche sur l'eau
+      texte: Et si l'eau devenait solide au contact de l'air ? Les bateaux ressembleraient à des bijoux figés, et
+        on pourrait peut-être marcher jusqu'à l'horizon, à condition de ne jamais oser la moindre vague.
+    question_fin: Laquelle de ces règles *changerait* le plus ta vie au quotidien ?
+  sujet: Et si une seule règle de la nature changeait
+  legende: 'Et si la physique décidait de faire grève ? 🌍
+
+
+    On garde presque toutes les lois de la nature, mais on en change une seule. Résultat : des feuilles qui montent
+    au ciel, une pluie qui remonte et une mer qui se transforme en parquet glacé. Swipe, ça devient vite bizarre.
+
+
+    La dernière règle est peut-être celle qui chamboulerait vraiment ton quotidien 👀
+
+
+    Tu choisirais quelle règle à changer ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces scénarios la prochaine fois que tu regardes le ciel.
+
+
+    📤 Partage-le à un ami, il va sûrement vouloir refaire le monde avec toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureg #curiosites #physique #lesaviezvous #absurde'
+  medias:
+  - medias/2026-11-16/2026-11-18_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-18_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-18_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-18_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-18_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-18_2000_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-18_2000_carro/01.jpg
+- id: 2026-11-18_2100_video
+  jour: mercredi
+  date: '2026-11-18'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Maisons construites dans des endroits impossibles'
+  accroche: 'Des maisons qui défient la gravité : [IMPOSSIBLE] ? Regarde jusqu''au bout !'
+  legende: 'Ces maisons se moquent de la gravité et de la logique 🏠💨
+
+
+    Tu habiterais dans laquelle, la maison sur pilier, la falaise ou le lac ? Dis-moi pourquoi en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #CultureG #Curiosites #MaisonsInsolites #SaviezVous #Architecture'
+  medias:
+  - medias/2026-11-16/2026-11-18_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-18_2100_video/couverture.jpg
+  source: 2026-11-18_0800_carro
