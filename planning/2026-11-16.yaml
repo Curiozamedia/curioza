@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-11T02:22
+genere_le: 2026-11-12T02:37
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -1075,3 +1075,381 @@ posts:
   - medias/2026-11-16/2026-11-18_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-18_2100_video/couverture.jpg
   source: 2026-11-18_0800_carro
+- id: 2026-11-19_0800_carro
+  jour: jeudi
+  date: '2026-11-19'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le travail et les pauses'
+  contenu:
+    titre_couverture: 'Le duel France vs Portugal : [PAUSE] et *pause-café* sous le soleil'
+    sous_titre: Qui sait vraiment décrocher de son boulot ?
+    slides:
+    - titre: Le *café* ne attend pas
+      texte: En France, la pause café est presque un *rituel sacré* au bureau. Au Portugal, le petit café serré,
+        la « bica », se boit souvent debout au comptoir, en quelques gorgées.
+    - titre: Le *déjeuner* à rallonge
+      texte: Ici, on parle de l'heure du déjeuner comme d'un petit événement. Là-bas, beaucoup de Portugais prennent
+        aussi leur temps à table, avec un rythme qui laisse place à la conversation.
+    - titre: La *sieste* en question
+      texte: La sieste au bureau fait sourire chez nous, mais l'idée d'une courte pause après le repas fait débat
+        partout. Au Portugal, elle reste une question qu'on se pose volontiers.
+    - titre: Pause *dans la rue*
+      texte: Chez nous, la pause se prend souvent à l'écart, dans son bureau ou sa voiture. Au Portugal, on voit
+        beaucoup de gens sortir sur le trottoir pour discuter cinq minutes.
+    - titre: Le *vendredi* qui commence tôt
+      texte: 'Et si la vraie question était : qui sait le mieux finir sa semaine ? Entre pauses bien placées et
+        discussions au soleil, chaque pays a sa propre méthode.'
+    question_fin: Et toi, quelle pause tu ne *lâcherais* pour rien au monde ?
+  sujet: 'Le duel France vs Portugal : le travail et les pauses'
+  legende: 'Le duel France vs Portugal : qui sait vraiment décrocher ? ☕
+
+
+    Pause café, déjeuner, sieste, discussions sur le trottoir : on compare nos habitudes du travail, avec un peu
+    de chambrage. Certaines surprises pourraient bien te faire sourire.
+
+
+    La dernière slide change complètement la façon de voir le vendredi 👀
+
+
+    Tu fais quelle pause au boulot, toi ? Dis-le en commentaire 😄
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu auras envie de sortir prendre l''air au bureau.
+
+
+    📤 Partage-le à un ami, à celui qui n''a jamais su faire une vraie pause.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #portugal #vieaubureau'
+  medias:
+  - medias/2026-11-16/2026-11-19_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/06.jpg
+  - medias/2026-11-16/2026-11-19_0800_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-19_0800_carro/01.jpg
+- id: 2026-11-19_1100_carro
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours et tu ne sais pas [d'où] ça vient
+    sous_titre: Les expressions françaises ont des origines bien plus folles que tu crois
+    slides:
+    - titre: Avoir la *gueule de bois*
+      texte: On parle de gueule de bois pour la sensation après une cuite, et l'expression est ancienne. Une piste
+        la rattache au bois mal dégrossi, rugueux, un peu comme une bouche pâteuse au réveil. C'est une idée qu'on
+        aime bien, pas une certitude.
+    - titre: Poser un *lapin*
+      texte: Le lapin pourrait venir des anciens rendez-vous manqués, où l'on attendait quelqu'un en vain. Certains
+        racontent même des histoires de lapins laissés à des personnes. L'origine exacte reste discutée, alors on
+        la prend avec humour.
+    - titre: Tirer le *diable* par la queue
+      texte: L'expression parle d'une lutte pour survivre, comme si l'on tirait le diable par la queue pour le retenir.
+        On l'utilise pour la pauvreté de tous les jours, toujours là. Son origine exacte reste à creuser.
+    - titre: Un *coup de pied* de l'âne
+      texte: On dit coup de pied de l'âne pour une attaque lâche contre quelqu'un déjà à terre. Certains y voient
+        un écho des fables de La Fontaine, mais le lien précis reste une piste à creuser, pas un fait établi.
+    - titre: Mettre les *points sur les i*
+      texte: L'image de la précision vient sans doute des manuscrits anciens, où le point sur le i évitait les confusions.
+        L'histoire est souvent racontée, mais elle reste plausible sans être totalement prouvée. Elle parle à tout
+        le monde.
+    - titre: Avoir un *poil* dans la main
+      texte: Cette expression sert à dire qu'on ne veut rien faire, et son origine reste une histoire populaire,
+        pas une certitude. Tu la ressors quand ton canapé t'appelle.
+    question_fin: Laquelle de ces expressions tu utilises sans même y penser ?
+  sujet: Origine surprenante d'expressions françaises qu'on dit tous les jours
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça sort 🤯
+
+
+    Gueule de bois, coup de pied de l''âne, poser un lapin... Ces expressions ont des origines bien plus étranges
+    que ce qu''on imagine, et souvent elles restent un mystère. Swipe pour découvrir les histoires derrière les
+    mots.
+
+
+    Les deux dernières expressions sont celles que tu ressors quand tu veux éviter l''effort 👀
+
+
+    Tu connaissais laquelle de ces origines ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces histoires à ressortir au prochain dîner.
+
+
+    📤 Partage-le à un ami, celui qui dit toujours qu''il a un poil dans la main 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegénérale #expressionsfrançaises #curiosités #étymologie #anecdotes'
+  medias:
+  - medias/2026-11-16/2026-11-19_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/07.jpg
+  - medias/2026-11-16/2026-11-19_1100_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-19_1100_carro/01.jpg
+- id: 2026-11-19_1300_devin
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 2 + 2 × 2 − 2 = ?'
+  reponse: '4 (piège : 6)'
+  legende: 'La réponse n''est pas 6 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-19_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-19_1300_devin/couverture.jpg
+- id: 2026-11-19_1400_carro
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets du quotidien fabriqués dans la pire matière possible (chaise en gelée, parapluie en papier,
+    casque en verre…)
+  contenu:
+    titre_couverture: '[PIRE] MATIÈRE, *MEILLEURE* IDÉE ?'
+    sous_titre: Des objets du quotidien, mais en matière catastrophique
+    slides:
+    - titre: '[CHAISE] EN GELÉE'
+      texte: Une chaise en gelée de fruits ? Elle tremble à chaque mouvement. Confort discutable, *fou rire* quasi
+        garanti.
+    - titre: PARAPLUIE EN *PAPIER BUVARD*
+      texte: Il s'ouvre sous la pluie, puis se gorge d'eau comme une éponge. Idéal pour *tremper* ton humour, moins
+        pour tes chaussures.
+    - titre: CASQUE EN *VERRE SOUFFLÉ*
+      texte: Protection maximale ? Pas sûr. Le verre se brise net au moindre choc, et ça, c'est tout sauf rassurant.
+        Une *idée* à ne pas tester.
+    - titre: BALAI EN *SPAGHETTIS CRUS*
+      texte: Il balaie ta cuisine... et perd des morceaux en route. Une *belle* leçon de fragilité.
+    - titre: LAMPE EN *GLAÇON*
+      texte: Elle éclaire la pièce le temps que la glace fonde. Une ampoule qui *s'évapore* avec style.
+    - titre: MATELAS EN *SABLE MOUILLÉ*
+      texte: Ça a l'air confortable sur la photo. En vrai, on imagine bien le réveil couvert de grains partout,
+        façon *château fort* en pleine plage.
+    question_fin: Lequel tu *refuserais* même gratuitement ?
+  sujet: Objets du quotidien fabriqués dans des matières absurdes
+  legende: 'Ton parapluie en papier buvard, tu le tiendrais combien de secondes ? 🌧️
+
+
+    Six objets du quotidien refaits dans la pire matière possible. Chaise en gelée, lampe en glaçon, balai en spaghettis
+    crus : certains sont absurdes, d''autres carrément dangereux pour ton canapé.
+
+
+    Le dernier objet est celui qu''on voudrait tous essayer... ou pas 👀
+
+
+    Quelle matière tu choisirais pour ta maison ? 🏠
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ne jamais fabriquer de casque en verre 😅.
+
+
+    📤 Partage-le à un ami, pour qu''il rigole avec toi devant la chaise en gelée 🤣.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #insolite #humour'
+  medias:
+  - medias/2026-11-16/2026-11-19_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/06.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/07.jpg
+  - medias/2026-11-16/2026-11-19_1400_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-19_1400_carro/01.jpg
+- id: 2026-11-19_1700_carro
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Petites habitudes qui changent une journée (avec explication simple)
+  contenu:
+    titre_couverture: Ces [micro-gestes] qui changent ta *journée* en 5 minutes
+    sous_titre: Psychologie du quotidien, version sans blabla
+    slides:
+    - titre: LA [règle] des deux minutes
+      texte: Une tâche qui prend *moins de deux minutes* se fait mieux tout de suite. À mon avis, ton cerveau repousse
+        les petites choses, et elles finissent par s'accumuler en pile mentale.
+    - titre: Le *verre d'eau* du réveil
+      texte: 'Boire un verre d''eau au réveil est une habitude simple. L''idée : après une nuit sans boire, un peu
+        d''eau peut aider à commencer la journée plus *alerte*.'
+    - titre: Ranger ses *clés* au même endroit
+      texte: Toujours poser tes clés au même endroit, c'est une façon de alléger le matin. Ton cerveau n'a plus
+        à chercher, il *économise* son énergie pour le reste.
+    - titre: Le [décompte] avant l'écran
+      texte: Quand tu prends ton téléphone, dis-toi trois secondes à voix basse. Cette courte pause peut casser
+        le geste automatique et te laisser *choisir* ce que tu fais.
+    - titre: Marcher *dix minutes* après manger
+      texte: Une petite marche après le repas peut aider la digestion et le *bien-être*, selon ce qu'on entend souvent.
+        Ce n'est pas un sport, c'est juste un rituel facile à tenter.
+    - titre: Nommer ce que tu *ressens*
+      texte: Mettre un mot sur une émotion la rend souvent moins envahissante. Dire « je suis agacé » calme peut-être
+        plus que de ruminer en silence, c'est en tout cas ce que je ressens en l'essayant.
+    question_fin: Laquelle de ces habitudes tu *ignores* encore depuis des mois ?
+  sujet: Petites habitudes qui changent une journée, expliquées simplement
+  legende: 'Cinq minutes par jour, et ta journée peut changer de visage 🌅
+
+
+    Pas besoin de grand plan de vie. Quelques gestes minuscules peuvent alléger ton cerveau. Ces six idées sont
+    simples, faciles à tester dès demain et souvent surprenantes.
+
+
+    La dernière habitude est peut-être celle qui rend les autres plus faciles 👀
+
+
+    Tu fais déjà laquelle, honnêtement ? 👇
+
+
+    💾 Enregistre ce carrousel pour les relire le matin, quand ta motivation est au plus bas.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui dit toujours qu''il n''a pas le temps de changer.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #habitudes #developpementpersonnel #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-19_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/06.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/07.jpg
+  - medias/2026-11-16/2026-11-19_1700_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-19_1700_carro/01.jpg
+- id: 2026-11-19_2000_carro
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: Ces [métiers] que tu croisais en bas de chez toi et qui ont *disparu*
+    sous_titre: Le carnet de rue des années 85-05, version souvenirs
+    slides:
+    - titre: Le [rémouleur] du marché
+      texte: Il affûtait couteaux et ciseaux sur sa meule à pédale, en sifflant dans la rue. Aujourd'hui, on jette
+        et on rachète. Peut-être qu'on aurait intérêt à réparer davantage.
+    - titre: Le *marchand de journaux* du coin
+      texte: Il vendait aussi des cartes postales, des bonbons et des piles. Le kiosque faisait un peu office de
+        petite épicerie de quartier.
+    - titre: La *cabine* téléphonique
+      texte: Pièces dans la fente, numéro composé à la main, et la file derrière. Attendre son tour, c'était une
+        règle non écrite que tout le monde respectait.
+    - titre: Le *vidéoclub* et ses cassettes
+      texte: On choisissait une cassette en rembobinant la précédente, avec la crainte de payer une pénalité. Le
+        samedi soir, c'était presque un rituel.
+    - titre: Le *cordonnier* en deux minutes
+      texte: 'Talon refait, semelle recollée, lacet remplacé : il réparait au lieu de remplacer. Une leçon de sobriété
+        qu''on a peut-être oubliée.'
+    - titre: Le *laitier* livré à domicile
+      texte: Bouteilles de verre posées devant la porte à l'aube, bruit de caisses métalliques. Le livreur connaissait
+        sans doute tout le quartier.
+    question_fin: Lequel de ces *métiers* t'a le plus manqué quand tu étais petit ?
+  sujet: Métiers et commerces disparus de nos rues, 1985-2005
+  legende: 'Tu te souviens du rémouleur qui sifflait dans ta rue ? 🛠️
+
+
+    Avant les grandes surfaces et le tout-jetable, les rues vivaient au rythme de petits artisans et commerçants.
+    Certains ont disparu sans bruit, et on s''en rend compte trop tard. Swipe pour retrouver les tiens.
+
+
+    Le dernier métier de la liste est celui que tu faisais sans même y penser 👀
+
+
+    Quel commerce de ton enfance te manque le plus ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs de rue quand tu veux replonger dans les années 85-05.
+
+
+    📤 Partage-le à un ami, il va reconnaître au moins un de ces commerces de son quartier.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirs #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-16/2026-11-19_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/06.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/07.jpg
+  - medias/2026-11-16/2026-11-19_2000_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-19_2000_carro/01.jpg
+- id: 2026-11-19_2100_video
+  jour: jeudi
+  date: '2026-11-19'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Objets du quotidien fabriqués dans des matières absurdes'
+  accroche: Ces objets existent... [CHAISE] en *GELÉE* ?
+  legende: 'Une chaise qui tremble comme un flan, le monde est devenu fou 🍮
+
+
+    Tu t''assiérais sur une chaise en gelée, toi, ou tu préfères le parapluie en papier buvard ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #insolite #saviezvous #objetsdromadaires'
+  medias:
+  - medias/2026-11-16/2026-11-19_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-19_2100_video/couverture.jpg
+  source: 2026-11-19_1400_carro
