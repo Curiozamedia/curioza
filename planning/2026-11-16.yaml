@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-12T02:37
+genere_le: 2026-11-13T08:02
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -1453,3 +1453,364 @@ posts:
   - medias/2026-11-16/2026-11-19_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-19_2100_video/couverture.jpg
   source: 2026-11-19_1400_carro
+- id: 2026-11-20_0800_carro
+  jour: vendredi
+  date: '2026-11-20'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: Ces [inventions] sont nées d'une *erreur* totale
+    sous_titre: Le hasard a fait mieux que les ingénieurs
+    slides:
+    - titre: Le [micro-ondes] du hasard
+      texte: Selon une anecdote très répandue, un chercheur travaillant sur des radars aurait vu une barre de chocolat
+        fondre dans sa poche. On l'imagine comme point de départ du *four à micro-ondes*, même si l'histoire exacte
+        reste discutée.
+    - titre: Le *Post-it* raté
+      texte: Une colle jugée trop faible pendant des années a fini par devenir un bloc de notes [repositionnable]
+        qu'on trouve aujourd'hui sur presque tous les bureaux.
+    - titre: La *pénicilline* oubliée
+      texte: 'En 1928, Alexander Fleming revient de vacances et retrouve des cultures bactériennes contaminées par
+        une moisissure. Ce moisi tue les bactéries autour de lui : c''est le point de départ des *antibiotiques*.'
+    - titre: Le *Velcro* du hasard
+      texte: Selon la légende, l'inventeur aurait remarqué des graines accrochées aux poils de son chien lors d'une
+        promenade. Une idée qui a inspiré la [fermeture] à crochets qu'on utilise encore aujourd'hui.
+    question_fin: Laquelle de ces erreurs te donne le plus *envie d'essayer* ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Le hasard a inventé plus de trucs que les ingénieurs 😅
+
+
+    Un four, des antibiotiques, des notes autocollantes : tout ça vient d''une erreur ou d''un oubli. Swipe pour
+    voir comment le hasard a bossé à ta place.
+
+
+    La dernière erreur est celle qui a inspiré une fermeture qu''on utilise tous les jours 👀
+
+
+    Tu connaissais laquelle ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces exemples quand quelqu''un dit que les erreurs ne servent à rien.
+
+
+    📤 Partage-le à un ami, il sera ravi de savoir que son micro-ondes doit peut-être sa naissance à une barre de
+    chocolat.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoire #science'
+  medias:
+  - medias/2026-11-16/2026-11-20_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-20_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-20_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-20_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-20_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-20_0800_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-20_0800_carro/01.jpg
+- id: 2026-11-20_1100_carro
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des paysages célèbres reconstruits en nourriture, à taille réelle
+  contenu:
+    titre_couverture: Et si on [MANGEAIT] le paysage ?
+    sous_titre: Des décors imaginaires, version buffet à taille réelle
+    slides:
+    - titre: LA [FALAISE] DE FROMAGE
+      texte: Imagine une falaise de *gruyère* qui brille au soleil, trouée de trous creusés par le vent. Une vue
+        qui donne faim, et des alpinistes qui n'ont plus rien à craindre... sauf la fonte.
+    - titre: UN *LAC* DE MIEL
+      texte: Imagine un lac immobile, couleur ambre, qui semble ne presque pas couler. Les berges seraient en *sablé*
+        et les reflets scintilleraient comme du sucre cristallisé.
+    - titre: LA [FORÊT] DE BROCOLI
+      texte: Et si chaque arbre était un bouquet de brocoli géant, planté sur des troncs de *carotte* et un sol
+        de semoule ? Une forêt qui pousse dans ton assiette, sans payer le café.
+    - titre: UNE *CHUTE* DE SAUCE
+      texte: Imagine une cascade de sauce tomate qui tombe d'une falaise de *pâtes* en spirales. Au pied, une rivière
+        de pesto vert qui serpente jusqu'à l'horizon.
+    - titre: LE [DÉSERT] DE SEL ROSE
+      texte: Des dunes de *sucre* rose qui ondulent sous le vent, des cactus en réglisse et un ciel de meringue.
+        Le paysage parfait pour une faim... infinie.
+    question_fin: Quel paysage *mangerais*-tu en premier ?
+  sujet: Paysages reconstruits en nourriture à taille réelle
+  legende: 'Et si les plus beaux paysages se mangeaient ? 🍽️
+
+
+    Falaises de fromage, lac de miel, forêt de brocoli : on a imaginé des décors en nourriture à taille réelle.
+    Swipe pour voir lequel te donne le plus faim.
+
+
+    Le dernier décor est tellement sucré qu''il pourrait te donner mal aux dents 👀
+
+
+    Tu choisis quel décor pour ton prochain pique-nique ? 🧺
+
+
+    💾 Enregistre ce carrousel pour retrouver l''idée quand tu auras faim de voyage 🥐.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse le décor de votre prochain dîner 🍰.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #paysages #insolite #ia'
+  medias:
+  - medias/2026-11-16/2026-11-20_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-20_1100_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-20_1100_carro/01.jpg
+- id: 2026-11-20_1300_devin
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 7 × 2 − 11 = ?'
+  reponse: '6 (piège : 9)'
+  legende: 'La réponse n''est pas 9 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-20_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-20_1300_devin/couverture.jpg
+- id: 2026-11-20_1400_carro
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : l''école et les enfants'
+  contenu:
+    titre_couverture: 'LE DUEL FRANCE VS JAPON : [RÉCRÉ] *SANS* CRIS ?'
+    sous_titre: Ce que l'école française et l'école japonaise font différemment avec les enfants
+    slides:
+    - titre: Le *grand* ménage de classe
+      texte: Au Japon, beaucoup d'élèves participent eux-mêmes au nettoyage de leur classe. Et si le balai était
+        un *outil* d'apprentissage, et pas seulement une corvée ?
+    - titre: La récré, *libre* ?
+      texte: En France, la cour est souvent un espace de jeux libres. Au Japon, les pauses sont courtes, mais beaucoup
+        d'enfants passent du temps dehors. Et si la récré était *plus* importante qu'on ne le pense ?
+    - titre: Le *repas* en équipe
+      texte: Dans certaines écoles japonaises, les élèves mangent en classe et participent au service de la cantine.
+        Une façon concrète d'apprendre l'autonomie et le *collectif*.
+    - titre: Le *cartable*, ça se discute
+      texte: En France, on entend souvent que le cartable est trop lourd. Au Japon, beaucoup d'enfants utilisent
+        un sac rigide très solide. Et toi, tu préférais quel *modèle* ?
+    question_fin: Lequel de ces écarts t'a le plus [surpris] ?
+  sujet: 'Le duel France vs Japon : l''école et les enfants'
+  legende: 'Le duel France vs Japon, round école 🎒
+
+
+    Balai, cantine, récré : deux façons de grandir à l''école, très différentes. Swipe pour voir qui gagne le round
+    du quotidien.
+
+
+    La dernière slide va te faire réfléchir à ton propre cartable 👀
+
+
+    Tu étais plutôt équipe balai ou équipe récré ? 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ces différences le jour où tu discutes école avec tes proches.
+
+
+    📤 Partage-le à un ami, qui a toujours une anecdote sur son cartable.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #japon #france #ecole'
+  medias:
+  - medias/2026-11-16/2026-11-20_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-20_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-20_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-20_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-20_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-20_1400_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-20_1400_carro/01.jpg
+- id: 2026-11-20_1700_carro
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: Des [métiers] qui n'existent *pas* mais qu'on aimerait voir
+    sous_titre: Swipe si tu postules 👀
+    slides:
+    - titre: Le [réveilleur] de nuages
+      texte: 'Son job : pousser *gentiment* les nuages paresseux pour qu''ils arrivent à l''heure. Sans lui, la
+        météo serait sûrement moins ponctuelle, dit-il.'
+    - titre: Le *gardien* des chaussettes perdues
+      texte: Il patrouille la machine à laver chaque soir et range les chaussettes orphelines dans une vitrine.
+        Certaines attendent peut-être leur jumelle depuis longtemps.
+    - titre: Le *dompteur* de files d'attente
+      texte: 'Sa mission : apaiser les queues interminables avec une musique douce et une chaise pliante. Il affirme
+        que la patience se dompte presque comme un lion.'
+    - titre: Le *cartographe* des rêves
+      texte: Chaque matin, il dessine sur une carte les endroits où tu as rêvé cette nuit. Et si certains quartiers
+        étaient déjà saturés de rêves de voyage ?
+    - titre: Le *testeur* d'ombres
+      texte: Il vérifie que les ombres des arbres font bien leur travail et ne bougent pas sans permission. Une
+        ombre rebelle pourrait bien changer l'heure de ton déjeuner.
+    - titre: Le *livreur* de silences
+      texte: Il apporte du calme aux bureaux bruyants dans des boîtes scellées. Tu l'as peut-être déjà croisé dans
+        un open space trop bavard.
+    question_fin: Lequel de ces jobs rêverais-tu d'avoir ?
+  sujet: Métiers qui n'existent pas mais qu'on aimerait voir
+  legende: 'Ton CV pour ces jobs est prêt ? 💼
+
+
+    Dompteur de files d''attente, gardien de chaussettes orphelines, livreur de silences... Ces métiers n''existent
+    pas, mais on les voudrait tous. Swipe pour découvrir les six candidats.
+
+
+    Le dernier métier est celui qu''on rêve tous d''avoir au bureau 👀
+
+
+    Quel métier imaginaire tu ajouterais à la liste ? 😏
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées quand ton job te gonfle.
+
+
+    📤 Partage-le à un ami, qui rêve de changer de carrière demain matin.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #metiers #insolite #absurde'
+  medias:
+  - medias/2026-11-16/2026-11-20_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/06.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/07.jpg
+  - medias/2026-11-16/2026-11-20_1700_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-20_1700_carro/01.jpg
+- id: 2026-11-20_2000_carro
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Ces choses qu'on trouvait normales il y a 20-30 ans (format qui marche chez Opulancia, exemples neufs)
+  contenu:
+    titre_couverture: Ces choses qu'on trouvait [normales] il y a *20 ans* seulement
+    sous_titre: Tu vas te demander comment on a fait
+    slides:
+    - titre: Le [répondeur] à cassette
+      texte: Ton message d'absence était gravé sur une bande magnétique. Impossible de l'effacer sans *rembobiner*
+        et prier pour ne pas casser le ruban.
+    - titre: Le *plan papier* du voyage
+      texte: Avant le GPS, on dépliait une carte routière de la taille d'une nappe. Les *pliures* étaient un art,
+        et l'itinéraire se préparait des jours avant.
+    - titre: Le *carnet* d'adresses
+      texte: Les numéros de tes amis étaient notés à la main dans un petit carnet. Le perdre, c'était risquer de
+        *tout effacer d'un coup*. Et ça, on y pense encore aujourd'hui.
+    - titre: L'*appareil photo* jetable
+      texte: On ne voyait jamais le résultat tout de suite. Vingt-sept poses, un développement, et parfois des photos
+        floues qu'on gardait quand même.
+    - titre: Le *Minitel* et son bip
+      texte: Pour chercher un numéro ou réserver un train, il fallait attendre le bip, puis regarder les lettres
+        s'afficher une à une sur un écran vert. Patience obligatoire, *aucune autre option*.
+    - titre: Le *walkman* à piles
+      texte: Une cassette, deux écouteurs à partager, et une pile qui lâchait au pire moment. Rembobiner avec un
+        crayon, c'était devenu un *réflexe* de cette époque.
+    question_fin: Lequel de ces objets tu aurais voulu *garder* toute ta vie ?
+  sujet: Choses normales il y a 20-30 ans, aujourd'hui oubliées
+  legende: 'Ça paraissait normal à l''époque, non ? 📼
+
+
+    Répondeur, carte routière, carnet d''adresses, appareil jetable, Minitel, walkman : des objets banals qu''on
+    utilisait sans réfléchir. Aujourd''hui, ils ressemblent à des reliques.
+
+
+    Les dernières slides parlent d''une habitude que tu faisais sans y penser… 👀
+
+
+    Quel objet de ta jeunesse tu regrettes le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces objets quand tu les expliqueras à tes enfants.
+
+
+    📤 Partage-le à un ami, qui a grandi avec un walkman et qui va se reconnaître 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #annees2000'
+  medias:
+  - medias/2026-11-16/2026-11-20_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/06.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/07.jpg
+  - medias/2026-11-16/2026-11-20_2000_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-20_2000_carro/01.jpg
+- id: 2026-11-20_2100_video
+  jour: vendredi
+  date: '2026-11-20'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Paysages reconstruits en nourriture à taille réelle'
+  accroche: Tu rêverais de vivre dans [LA FALAISE] de *FROMAGE* ?
+  legende: 'Un paysage entier en fromage, ça te donne faim ou ça te fait peur ? 🧀
+
+
+    Tu choisirais quel paysage gourmand pour une randonnée : la falaise de fromage ou le lac de miel ? 🍯
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #insolite #food #paysagesgourmands'
+  medias:
+  - medias/2026-11-16/2026-11-20_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-20_2100_video/couverture.jpg
+  source: 2026-11-20_1100_carro
