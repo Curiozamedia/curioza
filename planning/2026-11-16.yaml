@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-13T08:02
+genere_le: 2026-11-14T07:35
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -1814,3 +1814,355 @@ posts:
   - medias/2026-11-16/2026-11-20_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-20_2100_video/couverture.jpg
   source: 2026-11-20_1100_carro
+- id: 2026-11-21_0800_carro
+  jour: samedi
+  date: '2026-11-21'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: Les règles de politesse que personne n'a *écrites* mais que [tout le monde] suit
+    sous_titre: Psychologie et cerveau au quotidien
+    slides:
+    - titre: Le [silence] de l'ascenseur
+      texte: Dans un ascenseur, beaucoup de gens fixent les numéros d'étage. Personne ne l'a décidé, mais *regarder
+        ailleurs* ressemble fort à la règle n°1 de la cohabitation.
+    - titre: Le [pas de côté] du trottoir
+      texte: Deux inconnus qui marchent face à face semblent souvent se décaler du même côté. Il se peut que ton
+        cerveau *anticipe* l'autre sans rien te demander.
+    - titre: Le faux [merci] de la porte
+      texte: 'Tenir une porte, puis la lâcher dès que quelqu''un arrive derrière : c''est un *geste de relais* que
+        beaucoup reconnaissent sans l''avoir appris.'
+    - titre: Le [demi-tour] du sourire
+      texte: 'Croiser quelqu''un qu''on connaît à peine et sourire à moitié, ça dure une demi-seconde. Un *micro-signal*
+        qui dit, en gros : je te vois, mais je ne te dérange pas.'
+    question_fin: Laquelle de ces règles tu *respectes* sans même y penser ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Personne ne t''a jamais appris ces règles, et pourtant tu les suis tous les jours 👀
+
+
+    Ascenseur, trottoir, porte, sourire : ton cerveau applique peut-être des codes invisibles en une fraction de
+    seconde. Swipe pour voir ce qui se cache derrière chaque geste.
+
+
+    La dernière règle est celle qui fait le plus rire quand on la remarque 👀
+
+
+    Tu en connaissais combien avant de lire ça ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un te fixe dans un ascenseur 😅.
+
+
+    📤 Partage-le à un ami, pour vérifier si vous suivez les mêmes règles 🙃.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #culturegenerale #curiosites #comportement'
+  medias:
+  - medias/2026-11-16/2026-11-21_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-21_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-21_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-21_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-21_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-21_0800_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-21_0800_carro/01.jpg
+- id: 2026-11-21_1100_carro
+  jour: samedi
+  date: '2026-11-21'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le petit-déjeuner'
+  contenu:
+    titre_couverture: '[PETIT-DÉJ] : le *duel* France vs Allemagne'
+    sous_titre: 'Tartine, céréales ou pain noir : qui gagne le matin ?'
+    slides:
+    - titre: Le *pain* en duel
+      texte: En France, on attrape souvent une *baguette* fraîche ou une tartine. En Allemagne, le *pain complet*
+        et les tranches garnies sont très présents au petit-déj, à notre avis.
+    - titre: Le *café* contre le thé
+      texte: Ici, le *café noir* coule à flots dans les bols. Là-bas, le *thé* a aussi sa place le matin, avec un
+        vrai rituel, selon nous.
+    - titre: Les *tartines* sur le pouce
+      texte: Une tartine beurrée à la main, ça se mange vite. Les *garnitures* salées, fromage et charcuterie, transforment
+        le petit-déj en vrai repas.
+    - titre: Le *muesli* qui fait débat
+      texte: 'Flocons d''avoine, yaourt, fruits frais : le petit-déj *healthy* a ses fans partout. Question : qui
+        le prépare la veille pour gagner dix minutes ?'
+    - titre: Le *verdict* du matin
+      texte: 'Pas de gagnant absolu : la vraie victoire, c''est *prendre le temps* de s''asseoir. Et toi, tu manges
+        quoi en premier ?'
+    question_fin: Tu gardes ta *baguette* ou tu passes au pain noir ?
+  sujet: 'Le duel France vs Allemagne : le petit-déjeuner'
+  legende: 'Baguette ou pain noir : le duel du matin est lancé ☕🥖
+
+
+    Pain, café, tartines, muesli : on compare les petits-déjs français et allemands, sans chercher de gagnant absolu.
+    Tu vas sûrement reconnaître tes propres habitudes.
+
+
+    La dernière slide tranche le débat... ou pas 👀
+
+
+    Ton petit-déj, il est plutôt salé ou sucré ? 🤔
+
+
+    💾 Enregistre ce carrousel pour pour le prochain matin où tu voudras changer de routine 🥐.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui ne peut pas commencer sa journée sans café ☕.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #France #Allemagne #petitdejeuner'
+  medias:
+  - medias/2026-11-16/2026-11-21_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/06.jpg
+  - medias/2026-11-16/2026-11-21_1100_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-21_1100_carro/01.jpg
+- id: 2026-11-21_1300_devin
+  jour: samedi
+  date: '2026-11-21'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 8 × 8 − 2 = ?'
+  reponse: '69 (piège : 118)'
+  legende: 'La réponse n''est pas 118 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-21_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-21_1300_devin/couverture.jpg
+- id: 2026-11-21_1400_carro
+  jour: samedi
+  date: '2026-11-21'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: LES GOÛTERS QUI [FAISAIENT] NOTRE ENFANCE
+    sous_titre: Ce qu'on mangeait à 16 h 30 sans jamais se poser de questions
+    slides:
+    - titre: LE *pain* QUI TENAIT LIEU DE SNACK
+      texte: Une tartine de pain, un bout de chocolat coincé dedans, et hop, le goûter était prêt. Pas de sachet,
+        pas d'emballage, juste *du bon sens* et un peu de beurre.
+    - titre: LA GOURDE *en métal* QUI SENTAIT LE SIROP
+      texte: Dans ton sac, une gourde en aluminium cabossée, et au fond, le sirop de grenadine qui laissait une
+        odeur tenace. Personne ne la nettoyait vraiment, et ça marchait quand même.
+    - titre: LE *papier journal* EN GUISE D'EMBALLAGE
+      texte: Ton goûter était parfois enveloppé dans une page de journal ou un vieux cahier. On lisait les petites
+        annonces en mangeant, et c'était le meilleur moment de la journée.
+    - titre: LE *cornet de bonbons* ACHETÉ À LA POIGNÉE
+      texte: À la sortie de l'école, une petite pièce suffisait pour un cornet rempli de bonbons vendus au poids.
+        Le prix ? Une question qu'on se pose encore aujourd'hui avec un peu de nostalgie.
+    - titre: LA *cloche* QUI DÉCIDAIT DE TOUT
+      texte: 'Pas de montre à consulter : c''était la sonnerie de la récré qui annonçait le goûter. Une règle simple,
+        que personne ne discutait, et qui réglait la journée des écoliers.'
+    question_fin: Lequel te rappelle le plus *ton enfance* ?
+  sujet: Goûters d'école des années 90-2000, sans marques
+  legende: 'Ton goûter de 16 h 30 te manque encore ? 🥖
+
+
+    Une tartine, une gourde cabossée, du papier journal en guise d''emballage : on mangeait simple, et on était
+    bien. Swipe pour retrouver les goûters qu''on n''oublie pas.
+
+
+    La dernière slide change tout, tu ne vas pas la voir venir 👀
+
+
+    Quel goûter d''école tu regrettes le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ton enfance.
+
+
+    📤 Partage-le à un ami, ce goûter-là, il a forcément compté pour lui aussi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-16/2026-11-21_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/06.jpg
+  - medias/2026-11-16/2026-11-21_1400_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-21_1400_carro/01.jpg
+- id: 2026-11-21_1700_carro
+  jour: samedi
+  date: '2026-11-21'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: Et si les [monuments] du monde étaient faits de *gelée* ?
+    sous_titre: 'Culture G & curiosités : le monde version matière absurde'
+    slides:
+    - titre: La [tour] en *pâte à modeler*
+      texte: Imagine une grande tour en acier, mais fabriquée en pâte à modeler. Un coup de doigt et elle se déforme.
+        Le *vent* deviendrait ton pire ennemi.
+    - titre: Une *cathédrale* en glace
+      texte: Des vitraux, des arcs, des gargouilles... tout en glace transparente. Selon moi, le *soleil* d'été
+        la ferait fondre en quelques heures, sans demander la permission.
+    - titre: Un [pont] en briques plastiques
+      texte: Un pont suspendu fait de petites briques empilées. Chaque pièce s'emboîte, et une seule retirée pourrait
+        fragiliser l'ensemble. Le *jeu* serait risqué.
+    - titre: Une *statue* en caramel mou
+      texte: Une statue géante qui brille et colle aux doigts. Certains la lécheraient bien, d'autres se demandent
+        surtout combien de temps elle tiendrait *avant de couler*.
+    question_fin: Quel monument fondrait le plus *vite* selon toi ?
+  sujet: Lieux célèbres du monde faits dans des matières absurdes
+  legende: 'Et si les monuments du monde étaient faits de n''importe quoi ? 🍮
+
+
+    Gelée, glace, pâte à modeler, caramel : on imagine des lieux mythiques faits de matières qui ne tiennent pas
+    debout. Résultat : des images folles et un peu inquiétantes. Swipe pour voir la suite.
+
+
+    Le dernier monument est celui qui pourrait te faire le plus *saliver*... 👀
+
+
+    Tu choisis quelle matière pour ta ville préférée ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées absurdes quand tu veux impressionner tes potes.
+
+
+    📤 Partage-le à un ami, il va se demander pourquoi son monument préféré fond en gelée 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #imaginetonmonde #ialart'
+  medias:
+  - medias/2026-11-16/2026-11-21_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-21_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-21_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-21_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-21_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-21_1700_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-21_1700_carro/01.jpg
+- id: 2026-11-21_2000_carro
+  jour: samedi
+  date: '2026-11-21'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: 'Ce génie est né d''une [erreur] : 5 inventions *par accident* qui ont changé ta vie'
+    sous_titre: Le hasard fait-il mieux que les ingénieurs ? Ça se discute.
+    slides:
+    - titre: Le [micro-ondes] né d'un bonbon fondu
+      texte: Un ingénieur travaillait sur des radars quand sa barre chocolatée a fondu dans sa poche. Selon l'histoire
+        qu'on raconte, c'est le point de départ d'une idée *réchauffer* le monde. Anecdote ou pas, elle fait rêver.
+    - titre: Le *Post-it* raté
+      texte: Un chimiste cherchait une colle ultra-forte et obtint une substance qui collait à peine. Des années
+        plus tard, ce mélange raté est devenu le *papier collant repositionnable* de nos bureaux.
+    - titre: La *pénicilline* inattendue
+      texte: En 1928, une boîte de cultures oubliée se couvre de moisissure. Ce hasard mène à la *pénicilline*,
+        un antibiotique qui a sauvé d'innombrables vies.
+    - titre: Le *caoutchouc* chauffé
+      texte: Charles Goodyear laissa tomber du soufre sur du caoutchouc chaud, sans le vouloir au départ. Le résultat,
+        la *vulcanisation*, rend le caoutchouc plus solide et plus stable.
+    - titre: Le *four* qui a tout changé
+      texte: Percy Spencer, en travaillant sur des radars, remarqua que la chaleur venait de son propre matériel.
+        Ce hasard a inspiré une idée devenue *gigantesque* dans nos cuisines.
+    question_fin: Laquelle de ces erreurs te semble la plus *géniale* ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Une erreur de labo peut changer le monde 🧪
+
+
+    Un chocolat fondu, une boîte de cultures oubliée, un caoutchouc trop chauffé : le hasard a parfois plus d''idées
+    que les ingénieurs. Swipe pour voir les 5 histoires.
+
+
+    La dernière est tellement banale que tu l''as dans ta cuisine 👀
+
+
+    Tu connaissais laquelle de ces découvertes ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir des histoires à ressortir en soirée.
+
+
+    📤 Partage-le à un ami, il adorera la story du chocolat fondu.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoire #saviezvous'
+  medias:
+  - medias/2026-11-16/2026-11-21_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/06.jpg
+  - medias/2026-11-16/2026-11-21_2000_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-21_2000_carro/01.jpg
+- id: 2026-11-21_2100_video
+  jour: samedi
+  date: '2026-11-21'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Lieux célèbres du monde faits dans des matières absurdes'
+  accroche: Une [TOUR] en *PÂTE À MODELER* ? Attends la fin !
+  legende: 'Une tour en pâte à modeler, ça tient vraiment debout ? 🤔
+
+
+    Tu construirais quoi avec de la pâte à modeler géante ? Dis-moi en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #insolite #lieuxcelebres #ia'
+  medias:
+  - medias/2026-11-16/2026-11-21_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-21_2100_video/couverture.jpg
+  source: 2026-11-21_1700_carro
