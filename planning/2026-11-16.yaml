@@ -9,7 +9,7 @@
 semaine: '2026-11-16'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-14T07:35
+genere_le: 2026-11-15T07:38
 posts:
 - id: 2026-11-16_0800_carro
   jour: lundi
@@ -2166,3 +2166,357 @@ posts:
   - medias/2026-11-16/2026-11-21_2100_video/reel.mp4
   couverture: medias/2026-11-16/2026-11-21_2100_video/couverture.jpg
   source: 2026-11-21_1700_carro
+- id: 2026-11-22_0800_carro
+  jour: dimanche
+  date: '2026-11-22'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: 'Ta [chambre d''ado] des années 2000 : les *objets* que tu avais forcément'
+    sous_titre: Sans marques, juste la nostalgie pure 📼
+    slides:
+    - titre: Le [baladeur] et ses piles
+      texte: Dans ta poche, un *baladeur CD* qui sautait à chaque pas. Tu comptais les secondes de *silence* avant
+        que la piste ne reprenne.
+    - titre: Le *cahier secret*
+      texte: Pas de téléphone à ta portée, alors tu gribouillais des *mots doux* et des dessins dans les marges.
+        Ton journal intime tenait dans un petit cadenas.
+    - titre: Le [tapis de souris] imprimé
+      texte: Un rectangle en mousse avec un paysage ou un animal, et tu le trouvais trop stylé. Il finissait souvent
+        *plié* en quatre sous le clavier.
+    - titre: La *lampe à lave* hypnotique
+      texte: Ta lampe à lave avait un petit air hypnotique, et son ampoule chauffait fort. Tu la laissais allumée
+        toute la nuit, *sans y penser*.
+    - titre: Le *poster* scotché
+      texte: Un poster collé aux quatre coins, décollé en hiver, qui laissait un rectangle plus clair sur le mur.
+        Quitter la chambre, c'était voir ces *traces*.
+    - titre: Le [répondeur] clignotant
+      texte: Sur le téléphone fixe de la maison, un petit répondeur clignotait. Tu rentrais vite pour écouter les
+        messages, parfois *une seule phrase* suffisait à te faire sourire.
+    question_fin: Lequel t'a le plus *fait replonger* dans ta chambre d'ado ?
+  sujet: Objets de chambre d'ado des années 2000
+  legende: 'Ta chambre d''ado, version 2000 : tu te souviens de tout ? 📼
+
+
+    Piles, cadenas, tapis de souris froissé, lampe à lave... Des objets que beaucoup ont eus, sans marque ni logo.
+    Certains t''ont peut-être marqué plus que tu ne crois.
+
+
+    Le dernier objet est celui que tu cachais sous ton lit 👀
+
+
+    Quel objet de ta chambre d''ado te manque le plus ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans tes années ado.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître sa propre chambre.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees2000 #generation90 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-16/2026-11-22_0800_carro/01.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/02.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/03.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/04.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/05.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/06.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/07.jpg
+  - medias/2026-11-16/2026-11-22_0800_carro/08.jpg
+  couverture: medias/2026-11-16/2026-11-22_0800_carro/01.jpg
+- id: 2026-11-22_1100_carro
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: '[ENVAHI] : quand ta maison est *colonisée* par un seul truc absurde'
+    sous_titre: 'Salle de bain, cuisine, bureau : qui gagne la bataille ?'
+    slides:
+    - titre: SALLE DE BAIN *sous le sable*
+      texte: Imagine ta douche remplie de sable fin jusqu'au pommeau. Tu ne te laves plus, tu *creuses*. Et le savon
+        ? Introuvable depuis lundi.
+    - titre: CUISINE *en mode gelée*
+      texte: Le frigo s'ouvre et une vague de gelée tremblotante s'échappe. Les casseroles flottent, les assiettes
+        se figent. Bon appétit, *ou pas*.
+    - titre: BUREAU *sous les ballons*
+      texte: Ton bureau disparaît sous des centaines de ballons gonflés à l'hélium. Ton ordi flotte, tes dossiers
+        aussi. Impossible de bosser, *impossible* de partir.
+    - titre: LE *grand gagnant* ?
+      texte: Et si l'invasion était la meilleure chose qui t'arrive ? Certains diront que c'est le plus beau bazar
+        de leur vie, d'autres chercheront *la sortie de secours*.
+    question_fin: Quelle invasion tu prendrais *sans hésiter* chez toi ?
+  sujet: Ta maison envahie par une seule chose absurde
+  legende: 'Ta maison envahie par un seul truc absurde 🫧
+
+
+    Sable dans la douche, gelée dans le frigo, ballons au bureau : on a imaginé le pire bazar possible. Tu tiendrais
+    combien de temps ?
+
+
+    La dernière slide pose une question qui pourrait tout changer 👀
+
+
+    Ton invasion préférée, c''est laquelle ? 👇
+
+
+    💾 Enregistre ce carrousel pour le jour où ta maison tourne au chaos absurde.
+
+
+    📤 Partage-le à un ami, il rigolera en imaginant sa cuisine pleine de plumes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #savaistu #insolite'
+  medias:
+  - medias/2026-11-16/2026-11-22_1100_carro/01.jpg
+  - medias/2026-11-16/2026-11-22_1100_carro/02.jpg
+  - medias/2026-11-16/2026-11-22_1100_carro/03.jpg
+  - medias/2026-11-16/2026-11-22_1100_carro/04.jpg
+  - medias/2026-11-16/2026-11-22_1100_carro/05.jpg
+  - medias/2026-11-16/2026-11-22_1100_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-22_1100_carro/01.jpg
+- id: 2026-11-22_1300_devin
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 + 7 × 11 − 5 = ?'
+  reponse: '79 (piège : 149)'
+  legende: 'La réponse n''est pas 149 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-16/2026-11-22_1300_devin/reel.mp4
+  couverture: medias/2026-11-16/2026-11-22_1300_devin/couverture.jpg
+- id: 2026-11-22_1400_carro
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ta [tradition] a une origine *beaucoup* plus bizarre que tu crois
+    sous_titre: Les coulisses de nos habitudes les plus françaises
+    slides:
+    - titre: Le [réveillon] des *veillées*
+      texte: Le mot « réveillon » vient de « réveiller ». On dit que le repas de Noël a longtemps suivi des veillées,
+        mais l'origine exacte du mot reste discutée. À toi de juger si le repas a gardé le nom de la nuit.
+    - titre: Le *pain* qui se partage à [table]
+      texte: 'La galette des rois est liée à une tradition ancienne de tirage au sort d''un roi du jour, que certains
+        rattachent aux fêtes romaines de Saturnales. Le lien reste une hypothèse : l''idée a peut-être voyagé, la
+        fève est restée.'
+    - titre: Les *crêpes* de la chandeleur
+      texte: Le 2 février, on mange des crêpes pour la Chandeleur, fête religieuse liée à la lumière et aux chandelles.
+        Pour certains, la forme ronde des crêpes rappelait le soleil. C'est une explication populaire, pas une certitude.
+    - titre: Le [muguet] du *premier mai*
+      texte: Le brin de muguet offert le 1er mai est associé à une tradition de porte-bonheur. Sa vente de rue,
+        autorisée ce jour-là, est un usage qui s'est installé au fil du temps. Un bel exemple de rituel qui se réinvente.
+    question_fin: Laquelle de ces traditions te paraît la plus *absurde* une fois expliquée ?
+  sujet: Traditions françaises et leur vraie origine, surprenantes
+  legende: 'Ta tradition préférée a sûrement un passé plus étrange que prévu 🥐
+
+
+    Entre veillées, fève venue peut-être de Rome et crêpes qui rappellent le soleil, nos rituels ont souvent une
+    histoire plus floue, et plus drôle, qu''on ne le pense. Swipe pour voir ce qui se cache derrière.
+
+
+    La dernière slide est celle que personne n''attend 👀
+
+
+    Tu connaissais l''origine de laquelle ? Dis-le en commentaire 🤔
+
+
+    💾 Enregistre ce carrousel pour tu la ressortiras au prochain repas de famille.
+
+
+    📤 Partage-le à un ami, il jurera qu''il savait déjà 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #traditionsfrancaises #histoire #anecdotes'
+  medias:
+  - medias/2026-11-16/2026-11-22_1400_carro/01.jpg
+  - medias/2026-11-16/2026-11-22_1400_carro/02.jpg
+  - medias/2026-11-16/2026-11-22_1400_carro/03.jpg
+  - medias/2026-11-16/2026-11-22_1400_carro/04.jpg
+  - medias/2026-11-16/2026-11-22_1400_carro/05.jpg
+  - medias/2026-11-16/2026-11-22_1400_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-22_1400_carro/01.jpg
+- id: 2026-11-22_1700_carro
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : la politesse et les salutations'
+  contenu:
+    titre_couverture: 'Le duel France vs Maroc : [Bonjour] ou *salam* ? Qui dit bonjour en premier ?'
+    sous_titre: 'Le duel : la politesse et les salutations'
+    slides:
+    - titre: La *bise* ou la main sur le cœur
+      texte: En France, on fait souvent la *bise* aux amis, parfois plusieurs fois selon la région. Au Maroc, la
+        main posée sur le cœur accompagne un salut chaleureux. Et toi, tu préfères quel geste ?
+    - titre: Demander des *nouvelles* d'abord
+      texte: Dans beaucoup de pays du Maghreb, on prend le temps de demander comment va la famille avant d'entrer
+        dans le sujet. Pour certains, c'est une question de respect. Pour d'autres, c'est juste une habitude agréable.
+    - titre: Le *bonjour* qui ouvre les portes
+      texte: Dans une boutique de quartier, lancer un bonjour avant toute question paraît naturel pour beaucoup.
+        Oublier cette formule peut donner l'impression d'entrer sans frapper. Une idée qui fait débat, mais elle
+        est souvent partagée.
+    - titre: Le *bonsoir* qui n'en finit pas
+      texte: En France, on dit souvent bonne journée et on passe vite à autre chose. Au Maroc, les formules de politesse
+        s'enchaînent souvent, avec des voeux et des questions. Tu préfères quel rythme ?
+    question_fin: Lequel de ces *rituels* te paraît le plus naturel au quotidien ?
+  sujet: 'Le duel France vs Maroc : la politesse et les salutations'
+  legende: 'Bonjour, salam, bise ou main sur le cœur ? 🤝
+
+
+    Le duel France vs Maroc se joue sur la politesse et les salutations. Entre la bise, les nouvelles de la famille
+    et le thé à la menthe, les codes ne sont pas les mêmes, mais l''intention est souvent la même.
+
+
+    Dans la dernière slide, une habitude de politesse qui fait sourire tout le monde 👀
+
+
+    Et chez toi, on dit bonjour à qui en premier ? 😄
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu croises quelqu''un qui a d''autres codes de politesse.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours la bise à tout le monde 😉.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #maroc #politesse #france'
+  medias:
+  - medias/2026-11-16/2026-11-22_1700_carro/01.jpg
+  - medias/2026-11-16/2026-11-22_1700_carro/02.jpg
+  - medias/2026-11-16/2026-11-22_1700_carro/03.jpg
+  - medias/2026-11-16/2026-11-22_1700_carro/04.jpg
+  - medias/2026-11-16/2026-11-22_1700_carro/05.jpg
+  - medias/2026-11-16/2026-11-22_1700_carro/06.jpg
+  couverture: medias/2026-11-16/2026-11-22_1700_carro/01.jpg
+- id: 2026-11-22_2000_carro
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des insectes agrandis à taille humaine dans des scènes banales du quotidien (dérangeant-drôle)
+  contenu:
+    titre_couverture: Et si les [insectes] avaient la taille de *ton voisin* ?
+    sous_titre: Scènes banales, version XXL et franchement dérangeante
+    slides:
+    - titre: '[Boulangerie] à *six pattes*'
+      texte: 'Une mante religieuse géante fait la queue devant la boulangerie. Elle a une question : *le pain est-il
+        frais* ?'
+    - titre: Le *covoiturage* version coccinelle
+      texte: Une coccinelle XXL attend le bus à côté de toi. Elle tapote sa carapace comme si elle comptait les
+        minutes.
+    - titre: Pique-nique [anormal] pour fourmis
+      texte: Une colonie de fourmis géantes s'installe sur ta nappe. Elles ne volent rien, elles *organisent* juste
+        le goûter.
+    - titre: Bureau *ultra-silencieux* et bourdon
+      texte: Un bourdon géant bourdonne à côté de ton ordinateur. Impossible de savoir s'il rédige ton rapport ou
+        s'il *attend* ton café.
+    - titre: Ascenseur à *trois* passagers
+      texte: Une libellule géante se glisse dans l'ascenseur, une araignée tient la porte. Personne n'ose appuyer
+        sur le bouton.
+    question_fin: Lequel de ces voisins t'aurait le plus *mal à l'aise* ?
+  sujet: Insectes géants dans le quotidien banal
+  legende: 'Ton voisin de bus a six pattes et une carapace 🪲
+
+
+    On a pris des scènes banales du quotidien et on a juste agrandi les insectes à taille humaine. Le résultat est
+    drôle, un peu glaçant, et impossible à oublier. Tu vas regarder les arrêts de bus autrement.
+
+
+    La dernière scène se passe dans un ascenseur, et personne ne veut appuyer sur le bouton 👀
+
+
+    Tu aurais pris l''escalier ou attendu l''ascenseur ? 🪳
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ne jamais prendre l''ascenseur avec une libellule.
+
+
+    📤 Partage-le à un ami, il va sûrement te répondre qu''il a déjà vu une mante à la boulangerie 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegénérale #curiosités #insectes #absurde #siaddictive'
+  medias:
+  - medias/2026-11-16/2026-11-22_2000_carro/01.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/02.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/03.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/04.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/05.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/06.jpg
+  - medias/2026-11-16/2026-11-22_2000_carro/07.jpg
+  couverture: medias/2026-11-16/2026-11-22_2000_carro/01.jpg
+- id: 2026-11-22_2100_video
+  jour: dimanche
+  date: '2026-11-22'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Ta maison envahie par une seule chose absurde'
+  accroche: 'Ta maison envahie : [CHAQUE PIÈCE] *a basculé*'
+  legende: 'Ta maison peut vite devenir un décor de film absurde 🏖️
+
+
+    Tu préfères vivre dans le sable ou dans la gelée ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #culturegenerale #illustrationIA'
+  medias:
+  - medias/2026-11-16/2026-11-22_2100_video/reel.mp4
+  couverture: medias/2026-11-16/2026-11-22_2100_video/couverture.jpg
+  source: 2026-11-22_1100_carro
