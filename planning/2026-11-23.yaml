@@ -1,0 +1,367 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-11-23'
+phase: normal
+tout_valider: false
+genere_le: 2026-11-16T08:02
+posts:
+- id: 2026-11-23_0800_carro
+  jour: lundi
+  date: '2026-11-23'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets du quotidien vivants avec des émotions humaines (expressions de visage seulement)
+  contenu:
+    titre_couverture: Ton *grille-pain* a [des émotions] et il te juge
+    sous_titre: Six objets qui ont (sûrement) une vie intérieure
+    slides:
+    - titre: '[Lampe] qui boude dans le noir'
+      texte: Ta lampe de chevet fait la tête quand tu l'éteins *trop tard*. Elle a l'air vexée, et elle n'a pas
+        tort.
+    - titre: Le *frigo* qui soupire à minuit
+      texte: Chaque fois que tu ouvres la porte, il lâche un long soupir glacé. Il compte les restes, lui aussi.
+    - titre: La *clé* qui fuit les serrures
+      texte: Elle se cache au fond du sac, sous les miettes. Plus tu la cherches, plus elle se planque, *par pur
+        plaisir*.
+    - titre: Le *parapluie* qui rêve d'orage
+      texte: Il reste fermé tant que le ciel est bleu. Dès qu'il pleut, il s'ouvre en criant de joie, *sans jamais
+        se tromper*.
+    - titre: Le *tapis* qui en a marre
+      texte: Tu marches dessus depuis dix ans. Il a les plis froncés et une tête de quelqu'un qui n'en peut plus.
+    - titre: Le *miroir* qui ment un peu
+      texte: Il te renvoie ton reflet, mais en plus fatigué le lundi matin. Certains disent que c'est juste la lumière.
+        Vraiment ?
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Objets du quotidien vivants avec émotions humaines
+  legende: 'Ton grille-pain te juge depuis des années 🍞
+
+
+    Et si chaque objet de ta maison avait un caractère, une humeur et des petits défauts ? Six exemples pour regarder
+    ta cuisine autrement.
+
+
+    La dernière slide pourrait bien te faire douter de ton propre reflet 👀
+
+
+    Quel objet de chez toi boude le plus ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que ton frigo soupire ou que ta clé disparaît.
+
+
+    📤 Partage-le à un ami, celui qui range toujours tout à la même place 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #objetsdumquotidien'
+  medias:
+  - medias/2026-11-23/2026-11-23_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/06.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/07.jpg
+  - medias/2026-11-23/2026-11-23_0800_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-23_0800_carro/01.jpg
+- id: 2026-11-23_1100_carro
+  jour: lundi
+  date: '2026-11-23'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les règles de la cour de récré que tout le monde connaissait
+  contenu:
+    titre_couverture: LES [RÈGLES] NON ÉCRITES DE LA *COUR DE RÉCRÉ* QUE TOUT LE MONDE CONNAISSAIT
+    sous_titre: Version détaillée, sans pitié pour ta mémoire
+    slides:
+    - titre: LA [TOUCHE] DU *GENOU* INTERDITE
+      texte: 'Dans la cour, toucher le genou de quelqu''un sans le dire, c''était un *contrat* immédiat : tu étais
+        « dedans ». Personne n''avait signé, tout le monde savait.'
+    - titre: LE *PAS DE TROP* DANS LE CARRÉ
+      texte: 'Le carré de marelle ou le bitume du jeu de billes avait ses *frontières* invisibles : un pied qui
+        dépasse et tout le jeu s''arrêtait. Une loi physique, pas juridique.'
+    - titre: LE [DERNIER] QUI TOUCHE A PERDU
+      texte: 'Le *chat* : une règle sans exception, mais avec une clause cachée, celle du « c''est pas juste » qui
+        pouvait faire recommencer la partie dix fois. La justice de la cour avait ses *caprices*.'
+    - titre: LE *SILENCE* DU PREMIER QUI CRIE
+      texte: Dans les jeux de cache-cache sous les préaux, celui qui criait « je suis là » perdait sans appel. Une
+        règle jamais écrite, transmise de grand en petit, comme un *secret* de famille.
+    question_fin: Laquelle de ces règles t'a le plus *marqué* dans ta cour ?
+  sujet: Règles du jeu de la cour de récré, des années 1985 à 2005
+  legende: 'Tu appliquais ces règles sans jamais les avoir apprises 🏫
+
+
+    Toucher un genou, poser un pied dans le carré, crier trop tôt : la cour avait son code, souvent plus strict
+    que n''importe quel règlement. Swipe pour retrouver les lois oubliées de ta récré.
+
+
+    La dernière règle est celle qui faisait le plus de dégâts entre potes 👀
+
+
+    Tu en connaissais d''autres dans ta cour ? Raconte-les en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour le jour où tu veux expliquer les règles de la récré à un enfant.
+
+
+    📤 Partage-le à un ami, celui qui était dans ta cour en 1995 et qui se souvient encore de la loi du genou.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #recre #souvenirs #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-23_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-23_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-23_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-23_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-23_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-23_1100_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-23_1100_carro/01.jpg
+- id: 2026-11-23_1300_devin
+  jour: lundi
+  date: '2026-11-23'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 2 + 12 × 6 − 3 = ?'
+  reponse: '71 (piège : 81)'
+  legende: 'La réponse n''est pas 81 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-23_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-23_1300_devin/couverture.jpg
+- id: 2026-11-23_1400_carro
+  jour: lundi
+  date: '2026-11-23'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : l''école et les enfants'
+  contenu:
+    titre_couverture: 'LE DUEL [FRANCE] VS *PAYS-BAS* : L''ÉCOLE ET LES ENFANTS'
+    sous_titre: 'Vélo, pauses et cartable : qui gagne ?'
+    slides:
+    - titre: '[VÉLO] AVANT LE CARTABLE'
+      texte: Aux Pays-Bas, on voit souvent des enfants venir à l'école à vélo, parfois avec un petit frère installé
+        à l'arrière. Ici, le cartable pèse déjà lourd sur le dos, on dirait.
+    - titre: '*PAUSES* ET RÉCRÉ DEHORS'
+      texte: Certaines écoles néerlandaises misent sur de longues pauses et une vraie vie dehors. Et si, selon toi,
+        la récré comptait autant que la leçon ?
+    - titre: LE *GOÛTER* EN SAC
+      texte: Dans plusieurs écoles, on voit souvent des enfants apporter leur propre goûter et leur gourde. À notre
+        avis, le duel porte sur la routine, pas sur la qualité des repas.
+    - titre: '[RÉSULTAT] DU DUEL'
+      texte: Entre vélo, pauses et goûter maison, chacun a ses points forts. Selon nous, le vrai score dépend surtout
+        de ce que tu valorises pour un enfant.
+    question_fin: Lequel de ces trois points t'aurait le plus *mal à l'aise* en tant qu'élève ?
+  sujet: 'Le duel France vs Pays-Bas : l''école et les enfants'
+  legende: 'Le duel France vs Pays-Bas, c''est parti 🚲
+
+
+    Vélo dès le primaire, pauses plus longues, goûter maison : la France et les Pays-Bas ne jouent pas du tout la
+    même partie. Swipe pour voir qui marque les points.
+
+
+    La dernière slide surprend, et elle ne dit pas qui gagne 👀
+
+
+    Tu aurais préféré aller à l''école à vélo ou à pied ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver le duel quand tu discuteras école avec tes amis 📚.
+
+
+    📤 Partage-le à un ami, celui qui a fait l''école en France et celui qui rêve d''un vélo 🚲.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #paysbas #ecole'
+  medias:
+  - medias/2026-11-23/2026-11-23_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-23_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-23_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-23_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-23_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-23_1400_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-23_1400_carro/01.jpg
+- id: 2026-11-23_1700_carro
+  jour: lundi
+  date: '2026-11-23'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours et tu ne sais pas [d'où] ça vient
+    sous_titre: Cinq expressions *françaises* qui cachent des histoires *bizarres*
+    slides:
+    - titre: Poser un [lapin]
+      texte: On dit que ça vient d'un vieux pari ou d'un rendez-vous manqué, mais personne ne peut le prouver. Pour
+        l'instant, c'est une piste, pas une certitude.
+    - titre: Avoir un *chat* dans la gorge
+      texte: L'expression serait ancienne, sans doute médiévale. Elle parle d'une gêne dans la gorge comme si un
+        animal s'y était coincé. C'est une image, pas une explication médicale.
+    - titre: Être *sur les dents*
+      texte: L'expression évoque l'épuisement, comme si on était à bout de forces. Une piste souvent citée la relie
+        à un cheval fatigué qui ne tient plus que sur ses dents, mais rien ne le confirme vraiment.
+    - titre: Être *à un poil* de
+      texte: L'expression parle d'une distance minuscule, presque invisible. On peut penser qu'elle vient du vocabulaire
+        de la précision, mais c'est une hypothèse, pas un fait établi.
+    - titre: Tomber dans les *pommes*
+      texte: Pour s'évanouir, l'expression est familière et très populaire. Certains y voient un lien avec des malaises
+        dans les vergers, mais aucune preuve solide ne le confirme.
+    question_fin: Laquelle de ces expressions tu utilises le plus *sans y penser* ?
+  sujet: Origine d'expressions françaises qu'on dit tous les jours
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça sort 🐇
+
+
+    Un lapin posé, un chat dans la gorge, un cheval sur les dents : des images bizarres qu''on répète sans réfléchir.
+    On a choisi cinq expressions aux origines plus ou moins claires, et on te dit ce qui est sûr et ce qui reste
+    une hypothèse.
+
+
+    La dernière expression est sûrement celle que tu utilises le plus, et son origine reste très discutée 👀
+
+
+    Tu en connaissais combien avant de swiper ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que quelqu''un te sort une expression bizarre au dîner.
+
+
+    📤 Partage-le à un ami, celui qui dit « je suis à un poil de craquer » en réunion.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #expressionsfrancaises #curiosites #francais #etymologie'
+  medias:
+  - medias/2026-11-23/2026-11-23_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/06.jpg
+  - medias/2026-11-23/2026-11-23_1700_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-23_1700_carro/01.jpg
+- id: 2026-11-23_2000_carro
+  jour: lundi
+  date: '2026-11-23'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Tu te souviens de ces [galères] qui *rythmaient* ta vie ?
+    sous_titre: Le temps où la technologie te faisait patienter
+    slides:
+    - titre: '[ATTENDRE] en *silence*'
+      texte: Avant, pour voir une photo, il fallait finir la pellicule, puis *attendre* le développement, parfois
+        plusieurs jours. Le suspense avait un goût de papier glacé.
+    - titre: '[REMBOBINER] la *cassette*'
+      texte: 'Pas de bouton magique : il fallait *rembobiner* la cassette avec un crayon ou un stylo à bille, en
+        tournant la roulette à la main. Mieux valait ne pas la rendre au vidéoclub avec le ruban froissé.'
+    - titre: Le [répondeur] et ses *bips*
+      texte: Tu rentrais chez toi et le voyant clignotait. Il fallait écouter le message en entier, noter le numéro
+        au dos d'une enveloppe, et espérer que la bande ne soit pas pleine.
+    - titre: Charger son *téléphone* à 1 %
+      texte: Les premiers mobiles tenaient parfois plusieurs jours, mais une batterie vide loin de toute prise,
+        c'était la panique. Tu cherchais un coin de mur pour la *prise* comme un trésor.
+    - titre: Le *modem* qui chante
+      texte: 'Connexion internet : un bip, un grésillement, puis une mélodie stridente. Tu patientais, la ligne
+        de la maison était bloquée, et personne ne devait décrocher pendant ce temps-là.'
+    question_fin: Laquelle de ces galères te *fait sourire* le plus, ou te donne des frissons ?
+  sujet: Galères technologiques d'avant vues par les 85-05
+  legende: 'Tu te souviens de la galère qui te rendait fou ? 📼
+
+
+    Attendre une photo, rembobiner une cassette au crayon, chercher une prise pour charger son téléphone : on vivait
+    avec ça sans y penser. Swipe pour replonger dans ces petites épreuves du quotidien.
+
+
+    Et la dernière slide te rappellera un bruit que tu n''as jamais oublié 👀
+
+
+    Quelle galère d''avant tu regrettes, et laquelle tu ne regretteras jamais ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces galères à ressortir au prochain dîner entre amis.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître au moins une galère de sa jeunesse 📱.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #generation85 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-23/2026-11-23_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-23_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-23_2000_carro/01.jpg
+- id: 2026-11-23_2100_video
+  jour: lundi
+  date: '2026-11-23'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Objets du quotidien vivants avec émotions humaines'
+  accroche: Ton [frigo] a un *secret* à minuit
+  legende: 'Ton frigo fait des bruits bizarres la nuit, et tu fais semblant de rien ? 🧊
+
+
+    Ton frigo soupire à minuit, toi aussi tu l''as déjà entendu ? Dis-le en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #fungeek #saviezvous #objetsanimes'
+  medias:
+  - medias/2026-11-23/2026-11-23_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-23_2100_video/couverture.jpg
+  source: 2026-11-23_0800_carro
