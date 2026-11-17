@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-16T08:02
+genere_le: 2026-11-17T09:11
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -365,3 +365,372 @@ posts:
   - medias/2026-11-23/2026-11-23_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-23_2100_video/couverture.jpg
   source: 2026-11-23_0800_carro
+- id: 2026-11-24_0800_carro
+  jour: mardi
+  date: '2026-11-24'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ce mot que tu crois [français] vient peut-être d'ailleurs
+    sous_titre: 'Culture G : les emprunts cachés de ta langue'
+    slides:
+    - titre: Le [bistrot] venu de Russie
+      texte: 'Une explication souvent racontée veut que « bistro » vienne de soldats russes entrés à Paris en 1814,
+        qui auraient crié « vite ! » en russe. L''origine reste discutée : c''est une belle histoire de *comptoir*,
+        pas une certitude.'
+    - titre: Le *tennis* qui parle français
+      texte: « Tennis » vient très probablement du français « tenez ! », lancé avant de servir la balle. Le mot
+        a ensuite traversé la Manche avant de revenir sur nos courts, sous une forme anglaise.
+    - titre: Le [week-end] des Anglais
+      texte: Le mot « week-end » vient de l'anglais, et il s'est installé dans notre quotidien au point que beaucoup
+        de Français le pensent *carrément* français. Un vrai tour de passe-passe linguistique.
+    - titre: Le *caramel* venu d'Espagne
+      texte: Le mot « caramel » vient probablement de l'espagnol « caramelo », dont l'origine exacte reste discutée.
+        Dans ton bonbon mou, il y a donc un peu de vocabulaire qui a voyagé.
+    - titre: Le [choc] des mots empruntés
+      texte: Les emprunts arrivent surtout quand il faut nommer une chose nouvelle, une idée ou un objet venu d'ailleurs.
+        Ton vocabulaire ressemble donc à une carte des rencontres, des conflits et des échanges.
+    question_fin: Quel mot de ta vie de tous les jours tu *soupçonnais* d'être étranger ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Ton français a des passeports étrangers 🛂
+
+
+    Bistro, tennis, week-end, caramel : des mots qu''on croit bien de chez nous et qui ont voyagé avant de s''installer.
+    Swipe pour voir d''où ils viennent et pourquoi.
+
+
+    Le dernier mot est le plus surprenant, et il explique tous les autres 👀
+
+
+    Lequel te surprend le plus, et tu en connais d''autres ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu croises un mot « tout français » en soirée.
+
+
+    📤 Partage-le à un ami, il va sûrement te dire que son mot préféré est pourtant bien français 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #languefrançaise #etymologie #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-24_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/06.jpg
+  - medias/2026-11-23/2026-11-24_0800_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-24_0800_carro/01.jpg
+- id: 2026-11-24_1100_carro
+  jour: mardi
+  date: '2026-11-24'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton [cerveau] te *ment* pour ton bien
+    sous_titre: Les petites protections qui agissent sans te prévenir
+    slides:
+    - titre: '[Flou] du regard, *zéro* alerte'
+      texte: Quand tu croises un regard flou dans la rue, ton cerveau efface souvent le détail. Il garde l'essentiel
+        et oublie le reste, sans te demander la permission.
+    - titre: Le *silence* qui sauve ta journée
+      texte: Tu n'entends plus le frigo ni la clim après dix minutes. Ton cerveau filtre les bruits constants pour
+        garder ton attention libre pour ce qui compte vraiment.
+    - titre: Il *anticipe* avant toi
+      texte: 'Ton cerveau prépare ton corps avant même que tu décides : ton cœur accélère, tes muscles se tendent.
+        C''est une option de secours qui part toute seule.'
+    - titre: Le [mensonge] de la mémoire *polie*
+      texte: 'Tu peux réécrire un souvenir sans t''en rendre compte, pour qu''il te fasse moins mal. Les psychologues
+        parlent de mémoire reconstructive : chaque rappel retouche le film.'
+    question_fin: Lequel t'a fait le plus *réfléchir* sur toi-même ?
+  sujet: Mécanismes cérébraux de protection invisibles au quotidien
+  legende: 'Ton cerveau agit en secret, et c''est peut-être pour ton bien 🧠
+
+
+    Filtre des bruits, flou des visages, réflexes avant même ta décision : ton cerveau bosse dans l''ombre. Swipe
+    pour voir quatre mécanismes que tu vis chaque jour sans le savoir.
+
+
+    La dernière slide parle de tes souvenirs, et elle pourrait bien te surprendre 👀
+
+
+    Tu as déjà remarqué l''un de ces mécanismes chez toi ? 💬
+
+
+    💾 Enregistre ce carrousel pour relire ces mécanismes la prochaine fois que tu te sens bizarre.
+
+
+    📤 Partage-le à un ami, celui qui oublie toujours où il a posé ses clés 🔑.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #culturegenerale #curiosites #biaiscognitifs'
+  medias:
+  - medias/2026-11-23/2026-11-24_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-24_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-24_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-24_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-24_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-24_1100_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-24_1100_carro/01.jpg
+- id: 2026-11-24_1300_devin
+  jour: mardi
+  date: '2026-11-24'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 2 + 9 × 7 − 3 = ?'
+  reponse: '62 (piège : 74)'
+  legende: 'La réponse n''est pas 74 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-24_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-24_1300_devin/couverture.jpg
+- id: 2026-11-24_1400_carro
+  jour: mardi
+  date: '2026-11-24'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ce qui se passerait si une seule règle de la nature changeait (plus de nuit, pluie vers le haut, mer
+    solide)
+  contenu:
+    titre_couverture: '[SI] LA NATURE CHANGEAIT *une seule règle* ?'
+    sous_titre: Tu vas regretter d'avoir lu ça 😳
+    slides:
+    - titre: '[PLUS] DE GOUTTES *vers le haut*'
+      texte: 'Imagine la pluie qui tombe vers le ciel : tes parapluies deviendraient des *ancres* inutiles. Les
+        nuages arroseraient les oiseaux par en dessous.'
+    - titre: '[MARCHER] sur *le plafond* du monde'
+      texte: Et si la gravité changeait d'un endroit à l'autre ? Ton salon deviendrait un *terrain de jeu* où la
+        chaise refuse de toucher le sol.
+    - titre: '[LE] SILENCE de *la lumière*'
+      texte: Et si chaque photon faisait du bruit ? Les nuits d'été sonneraient comme un *concert* de cloches. Les
+        étoiles chanteraient, selon l'idée.
+    - titre: '[LES] ARBRES qui *marchent*'
+      texte: 'Imagine des racines qui se détachent du sol en une nuit : la forêt changerait de place chaque matin.
+        Tes *promenades* ne seraient jamais pareilles.'
+    - titre: '[LE] TEMPS qui *ralentit* en cuisine'
+      texte: Et si l'eau bouillante gelait avant de chauffer ? Ton café deviendrait une *sculpture* de glace fumante.
+        Ton petit-déjeuner ressemblerait à une œuvre d'art.
+    - titre: '[ET] SI TU *tombais* dans le ciel ?'
+      texte: Et si l'air devenait solide à la hauteur des nuages ? Les avions rouleraient sur des *collines* blanches.
+        Qui déciderait de tout ça ?
+    question_fin: Laquelle de ces règles *changerait* ta vie le plus ?
+  sujet: 'Et si une seule règle de la nature changeait : 6 scénarios absurdes'
+  legende: 'Et si la nature perdait une seule de ses règles ? 🌍
+
+
+    On a imaginé six scénarios où une seule loi de la nature bascule : pluie vers le haut, arbres qui marchent,
+    café gelé. Chaque slide pousse le raisonnement un cran plus loin.
+
+
+    La dernière slide change carrément de ciel 👀
+
+
+    Tu choisirais quelle règle à changer ? 💭
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces scénarios le jour où tu auras besoin d''une idée absurde.
+
+
+    📤 Partage-le à un ami, il rira avec toi de la chaise qui refuse de toucher le sol 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #sciencefun #nature'
+  medias:
+  - medias/2026-11-23/2026-11-24_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/06.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/07.jpg
+  - medias/2026-11-23/2026-11-24_1400_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-24_1400_carro/01.jpg
+- id: 2026-11-24_1700_carro
+  jour: mardi
+  date: '2026-11-24'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: Ton [goûter] de 16h était une *arme* secrète de la récré
+    sous_titre: Ce qu'on mangeait sans jamais se poser la question
+    slides:
+    - titre: Le [pain] au *chocolat* du jeudi
+      texte: Dans beaucoup de familles, le goûter, c'était une tartine de pain avec de la pâte à tartiner ou du
+        chocolat. Simple, efficace, et jamais photographiée.
+    - titre: Le *goûter* qui passait par la *cantine*
+      texte: Certains enfants apportaient une compote dans une gourde qui fuyait souvent dans le cartable. Un petit
+        désastre quotidien que personne n'oubliait.
+    - titre: Le *papier* plus précieux que l'or
+      texte: Le papier d'alu du goûter, plié et réutilisé pour un jeu de billes ou une tartine, pouvait devenir
+        une monnaie d'échange entre copains. Gratuit et sacré, à notre avis.
+    - titre: Le troc du *goûter* à la récré
+      texte: On échangeait un biscuit contre un bonbon, parfois une pomme contre un fruit sec. Selon nous, le troc
+        du goûter était une école de négociation à part entière.
+    - titre: La *boîte* à *tartines* en métal
+      texte: Beaucoup de gamins trimbalaient leur goûter dans une petite boîte métallique rectangulaire, qui sentait
+        le pain et le cartable. Une idée qu'on trouve sans doute rétro aujourd'hui.
+    - titre: Et si le *goûter* était *plus* *sain* ?
+      texte: Et si ces goûters simples, pain, fruit et eau, étaient plus équilibrés que certains paquets d'aujourd'hui
+        ? À débattre, c'est une opinion, pas une vérité absolue.
+    question_fin: Lequel de ces goûters te rend le plus *nostalgique* ?
+  sujet: Goûters d'école des années 90-2000, angle inédit
+  legende: 'Ton goûter de 16h était une arme secrète 🍞
+
+
+    Pain-chocolat maison, papier alu monnaie d''échange, troc de biscuits à la récré : on mangeait simple, mais
+    on négociait comme des pros. Swipe pour retrouver tes goûters oubliés.
+
+
+    La dernière slide pose une question que tu ne t''es jamais posée 👀
+
+
+    Quel goûter tu échangeais le plus à l''école ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ton enfance.
+
+
+    📤 Partage-le à un ami, qui a forcément échangé son goûter un jour en récré 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #gouter #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-24_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/06.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/07.jpg
+  - medias/2026-11-23/2026-11-24_1700_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-24_1700_carro/01.jpg
+- id: 2026-11-24_2000_carro
+  jour: mardi
+  date: '2026-11-24'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ce [paysage] a l'air *photoshopé*, pourtant il est bien réel
+    sous_titre: Six phénomènes qui défient ton sens du réel
+    slides:
+    - titre: Le [lac] qui reflète le ciel
+      texte: 'Sur le Salar d''Uyuni, en Bolivie, une fine couche d''eau recouvre parfois le sel. Résultat : le sol
+        disparaît et le ciel semble marcher sous tes pieds.'
+    - titre: Des *nuages* qui ondulent
+      texte: Certains nuages en forme de rouleaux, comme ceux observés dans le sud de l'Australie, peuvent sembler
+        s'étendre sur des centaines de kilomètres. On dirait une vague géante figée dans le ciel.
+    - titre: Le *soleil* qui se dédouble
+      texte: Les parhélies, ou faux soleils, apparaissent quand la lumière traverse des cristaux de glace en altitude.
+        Tu peux parfois en voir deux, voire trois, côte à côte.
+    - titre: Une *pente* qui semble inversée
+      texte: Certaines coulées de lave ou de roches semblent remonter une pente, mais l'effet vient surtout du relief
+        et d'une illusion d'optique. Ton cerveau cherche la logique et se trompe peut-être.
+    - titre: Des [arcs-en-ciel] la nuit
+      texte: La lune peut produire un arc-en-ciel, appelé arc lunaire. Il est pâle, presque blanc, et se voit surtout
+        quand la pleine lune brille derrière une averse.
+    - titre: Une *mer* qui se fend
+      texte: À marée basse, une bande de sable peut apparaître entre deux parties de l'eau sur certaines côtes.
+        Ce passage éphémère ressemble à un décor de film biblique.
+    question_fin: Lequel te semble le plus *impossible* à croire ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Non, ce n''est pas du montage 😳
+
+
+    Six phénomènes naturels qui ont l''air sortis d''un logiciel de retouche. Le plus fou : il suffit parfois d''une
+    fine couche d''eau ou de quelques cristaux de glace pour tout faire basculer.
+
+
+    La dernière slide est celle que personne ne croit avant de vérifier 👀
+
+
+    Tu connaissais lequel de ces phénomènes ? 🤔
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois qu''un paysage te paraît trop beau pour être vrai.
+
+
+    📤 Partage-le à un ami, il va forcément vouloir vérifier s''il y a un piège.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #phenomenesnaturels #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-24_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/07.jpg
+  - medias/2026-11-23/2026-11-24_2000_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-24_2000_carro/01.jpg
+- id: 2026-11-24_2100_video
+  jour: mardi
+  date: '2026-11-24'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Et si une seule règle de la nature changeait : 6 scénarios absurdes'
+  accroche: '[PLUS] DE GOUTTES *vers le haut* ?!'
+  legende: 'Et si la pluie remontait au ciel ? 🌧️
+
+
+    Si l''eau tombait vers le haut, tu sortirais quand même sans parapluie ? ☔
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #science #reels'
+  medias:
+  - medias/2026-11-23/2026-11-24_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-24_2100_video/couverture.jpg
+  source: 2026-11-24_1400_carro
