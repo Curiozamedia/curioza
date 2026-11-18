@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-17T09:11
+genere_le: 2026-11-18T08:43
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -734,3 +734,362 @@ posts:
   - medias/2026-11-23/2026-11-24_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-24_2100_video/couverture.jpg
   source: 2026-11-24_1400_carro
+- id: 2026-11-25_0800_carro
+  jour: mercredi
+  date: '2026-11-25'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si [TA MAISON] était envahie par *la gelée* ?
+    sous_titre: Quatre pièces, quatre invasions bizarres
+    slides:
+    - titre: LA [SALLE DE BAIN] en *mousse* géante
+      texte: Imagine ta baignoire qui déborde de mousse jusqu'au plafond. Une bulle de savon qui flotte comme un
+        nuage, ça ferait rêver n'importe quel gamin, non ?
+    - titre: LA [CUISINE] sous une pluie de *riz*
+      texte: Ouvre le placard, et des milliers de grains de riz s'échappent comme une avalanche. Le sol devient
+        une plage blanche qui crisse sous les pieds.
+    - titre: LE [BUREAU] transformé en *jardin de plumes*
+      texte: Ton ordinateur disparaît sous une couche de plumes d'oiseaux. Chaque feuille de papier s'envole dès
+        que quelqu'un ouvre la porte.
+    - titre: LE [SALON] rempli de *ballons rouges*
+      texte: Des milliers de ballons gonflés jusqu'au plafond. Impossible de trouver la télécommande, et tu te demandes
+        qui a commandé tout ça.
+    question_fin: Quelle pièce de ta maison tu *sacrifierais* en premier ?
+  sujet: Ta maison envahie par une matière absurde, angle inédit
+  legende: 'Ta maison, version invasion absurde 🫠
+
+
+    Gelée, mousse, riz, plumes ou ballons : chaque pièce de ta maison peut être envahie par une matière improbable.
+    Swipe pour voir quelle pièce tu perdrais en premier.
+
+
+    La dernière pièce est peut-être celle où tu passerais le plus de temps à nettoyer 👀
+
+
+    Tu choisis quelle invasion, toi, en commentaire ? 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces idées pour ton prochain délire créatif.
+
+
+    📤 Partage-le à un ami, qui rêve de vivre dans une maison pleine de ballons 🎈.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-25_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-25_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-25_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-25_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-25_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-25_0800_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-25_0800_carro/01.jpg
+- id: 2026-11-25_1100_carro
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: 'Ce village de France est [figé] depuis 1944 : *histoire vraie* à découvrir'
+    sous_titre: Lieux de France aux histoires étonnantes 🇫🇷
+    slides:
+    - titre: Oradour, *mémoire* figée
+      texte: Le village d'Oradour-sur-Glane, en Haute-Vienne, a été détruit en 1944 et n'a jamais été reconstruit
+        à l'identique. Aujourd'hui, le *village martyr* reste tel quel, comme un témoin figé.
+    - titre: Le [hameau] et ses *secrets*
+      texte: 'Dans les Alpes et le Massif central, de nombreux hameaux abandonnés semblent raconter des vies entières.
+        Une porte qui grince, un puits oublié : on a l''impression que le temps s''est arrêté.'
+    - titre: Les *cités englouties* du lac
+      texte: Quand un barrage est construit, il arrive qu'un village entier soit submergé. En période de sécheresse,
+        des clochers et des murs peuvent réapparaître à la surface de l'eau.
+    - titre: Une *île* où l'on ne meurt pas ?
+      texte: Dans la Somme, certaines îles de rivière traînent des légendes locales. Rien de confirmé, mais on peut
+        se demander pourquoi les lieux isolés font si peur. Et toi, tu y crois ?
+    - titre: Le *village* qui change de [nom]
+      texte: Plusieurs communes françaises ont changé de nom au fil des siècles, parfois à cause d'une bataille
+        ou d'une mode. Un simple panneau peut cacher une vraie histoire.
+    question_fin: Lequel de ces lieux t'a le plus *surpris* ?
+  sujet: 'Lieux de France aux histoires étonnantes : angle inédit des villes fantômes et lieux insolites'
+  legende: 'Un village entier figé dans le temps, en France 🏚️
+
+
+    Des ruines qu''on n''a jamais reconstruites, des clochers qui ressortent de l''eau, des villages qui changent
+    de nom. Swipe, la France cache des histoires bien plus étranges qu''on ne croit.
+
+
+    Les dernières slides vont te faire regarder ta carte autrement 👀
+
+
+    Tu connais un village abandonné près de chez toi ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces lieux le jour où tu prépares un road trip.
+
+
+    📤 Partage-le à un ami, celui qui rêve toujours de visiter une ville fantôme.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #histoiredefrance #lieuxinsolites #anecdotes'
+  medias:
+  - medias/2026-11-23/2026-11-25_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/06.jpg
+  - medias/2026-11-23/2026-11-25_1100_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-25_1100_carro/01.jpg
+- id: 2026-11-25_1300_devin
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 5 − 4 × 2 + 4 × 3 = ?'
+  reponse: '9 (piège : 18)'
+  legende: 'La réponse n''est pas 18 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-25_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-25_1300_devin/couverture.jpg
+- id: 2026-11-25_1400_carro
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Petites habitudes qui changent une journée (avec explication simple)
+  contenu:
+    titre_couverture: 'Ta journée se joue en [5 minutes] : les *petites habitudes* qui tout changent'
+    sous_titre: Psychologie au quotidien, avec un conseil à tester dès demain
+    slides:
+    - titre: Le [premier] geste compte
+      texte: Et si un verre d'eau au réveil changeait ton humeur ? Certains le pensent, et c'est un *petit rituel*
+        facile à tester. À toi de voir si ça te cale le matin.
+    - titre: Ton *cerveau* adore les [rails]
+      texte: 'Un geste répété chaque jour finit par sembler automatique. Pour beaucoup de gens, une habitude paraît
+        plus facile une fois installée : c''est une idée qui mérite d''être testée, pas une règle absolue.'
+    - titre: Le piège du *téléphone* au lit
+      texte: 'Poser son téléphone hors de la chambre est une idée simple. Beaucoup de gens disent dormir mieux ainsi,
+        mais chacun vit ça différemment : teste-le une semaine.'
+    - titre: Le [décor] fait la décision
+      texte: 'Un fruit posé sur la table plutôt que caché au fond du frigo peut suffire. À mon avis, on mange souvent
+        ce qu''on voit en premier : la proximité joue plus qu''on ne le pense.'
+    - titre: Une *minute* pour ranger
+      texte: Ranger une seule chose en partant du lit ou de la table peut donner le ton de la journée. Une petite
+        victoire donne parfois envie d'en faire une autre.
+    question_fin: Quelle petite habitude t'a le plus *surpris* ?
+  sujet: Petites habitudes qui changent une journée, expliquées simplement
+  legende: 'Ta journée commence peut-être par un simple verre d''eau 💧
+
+
+    Cinq petites idées du quotidien, expliquées simplement, avec un conseil à tester dès demain. Pas besoin de révolution,
+    juste de petits gestes répétés.
+
+
+    La dernière slide change la façon de poser ton téléphone... 👀
+
+
+    Quelle habitude vas-tu tester demain ? 🤔
+
+
+    💾 Enregistre ce carrousel pour les tester pendant une semaine et voir ce qui change vraiment.
+
+
+    📤 Partage-le à un ami, qui a toujours du mal à commencer sa journée du bon pied.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #habitudes #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-23/2026-11-25_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/06.jpg
+  - medias/2026-11-23/2026-11-25_1400_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-25_1400_carro/01.jpg
+- id: 2026-11-25_1700_carro
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les phrases que tous les parents disaient
+  contenu:
+    titre_couverture: Les phrases que [TOUS] tes parents *répétaient* en boucle
+    sous_titre: Tu les as forcément entendues, avoue
+    slides:
+    - titre: '*Les devoirs* d''abord'
+      texte: « Tu ne sors pas tant que tes devoirs ne sont pas faits. » Une phrase qui, à mon avis, a fait fuir
+        plus d'un goûter.
+    - titre: Le *tournevis* magique
+      texte: « Ça ne marche pas ? Tape dessus, ça va repartir. » Le réflexe de beaucoup de familles avant de penser
+        à changer la pile.
+    - titre: Pas d'*écran* avant le dîner
+      texte: « Va jouer dehors, il fait beau ! » Dehors, c'était souvent le meilleur endroit pour transformer l'ennui
+        en idée.
+    - titre: Tu *ranges* ta chambre
+      texte: « Ta chambre ressemble à un champ de bataille. » Ranger, à mon avis, était souvent le seul moyen de
+        retrouver ses chaussettes.
+    - titre: '*Mange* ton assiette, il y a des enfants'
+      texte: Un classique qui a peut-être transformé des générations de petits gourmands en experts du compromis.
+    - titre: Tu *me remercieras* un jour
+      texte: « Un jour tu comprendras. » La phrase qu'on n'a souvent pas vraiment comprise avant d'avoir des enfants,
+        ou pas.
+    question_fin: Laquelle t'a fait *lever les yeux au ciel* le plus souvent ?
+  sujet: Phrases que tous les parents disaient aux 85-05
+  legende: 'Tu les as entendues mille fois, avoue 😅
+
+
+    Devoirs, tournevis, écrans coupés, chambre rangée : on les a toutes subies. Swipe pour replonger dans la maison
+    de ton enfance.
+
+
+    Les dernières phrases sont celles qui font le plus rire les parents d''aujourd''hui 👀
+
+
+    Quelle phrase de tes parents tu répètes maintenant à tes enfants ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phrases le jour où tu les diras toi-même.
+
+
+    📤 Partage-le à un ami, il va reconnaître sa mère ou son père dans au moins deux slides.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #parents'
+  medias:
+  - medias/2026-11-23/2026-11-25_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/06.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/07.jpg
+  - medias/2026-11-23/2026-11-25_1700_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-25_1700_carro/01.jpg
+- id: 2026-11-25_2000_carro
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui exercent un vrai métier humain avec sérieux (un métier par slide)
+  contenu:
+    titre_couverture: Des [animaux] qui bossent *vraiment* comme nous
+    sous_titre: Carrière animale, 5 métiers à découvrir
+    slides:
+    - titre: Le [pompier] à quatre pattes
+      texte: Des chiens renifleurs sont souvent entraînés pour aider à repérer des personnes sous les décombres.
+        Le flair fait une bonne partie du boulot, le courage le reste. Quel *nez* de héros !
+    - titre: Le *gardien* de phare à plumes
+      texte: On pourrait presque croire que certains oiseaux marins surveillent leur territoire comme des gardiens
+        de phare. À notre avis, ils n'ont pas l'air de quitter leur poste, même sous la tempête.
+    - titre: Le [barman] du lac
+      texte: Les ours bruns guettent le saumon et attrapent la bonne prise au bon moment, comme un client qui attend
+        la meilleure vague. Patience, précision, et aucun pourboire demandé.
+    - titre: Le *contrôleur* du bois
+      texte: Les termites bâtissent des monticules ventilés, avec une aération qui intrigue bien des ingénieurs.
+        Il semble qu'ils ne lisent aucun plan, mais le résultat est impressionnant.
+    - titre: Le [chef] de la forêt
+      texte: 'Les castors bâtissent des barrages avec une belle organisation : ils coupent, transportent et réparent.
+        On se demande si leur planning est déjà bouclé.'
+    question_fin: Quel métier animal te paraît le plus *crédible* ?
+  sujet: Animaux qui exercent des métiers humains avec sérieux
+  legende: 'Ton prochain collègue a des moustaches et aucun CDI 🐾
+
+
+    Des chiens sauveteurs, des gardiens de phare à plumes, des pêcheurs à griffes... La nature a déjà ses équipes,
+    et elles ont l''air sérieuses. Swipe pour découvrir les candidats.
+
+
+    Le dernier profil a un planning de chantier digne d''un chef de projet 👀
+
+
+    Tu embaucherais lequel dans ton équipe ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces carrières animales la prochaine fois que tu râles au boulot.
+
+
+    📤 Partage-le à un ami, il rira en voyant le castor chef de chantier.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #insolite #nature'
+  medias:
+  - medias/2026-11-23/2026-11-25_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-25_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-25_2000_carro/01.jpg
+- id: 2026-11-25_2100_video
+  jour: mercredi
+  date: '2026-11-25'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Ta maison envahie par une matière absurde, angle inédit'
+  accroche: Ta cuisine sous une pluie de *riz* ? Attends la fin
+  legende: 'Ta cuisine transformée en champ de riz, t''en penses quoi ? 🍚
+
+
+    Tu préfères vivre sous une pluie de riz ou au milieu de ballons rouges ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #illustrationIA #maisonabsurde'
+  medias:
+  - medias/2026-11-23/2026-11-25_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-25_2100_video/couverture.jpg
+  source: 2026-11-25_0800_carro
