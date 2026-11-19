@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-18T08:43
+genere_le: 2026-11-19T08:53
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -1093,3 +1093,361 @@ posts:
   - medias/2026-11-23/2026-11-25_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-25_2100_video/couverture.jpg
   source: 2026-11-25_0800_carro
+- id: 2026-11-26_0800_carro
+  jour: jeudi
+  date: '2026-11-26'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les fêtes et anniversaires'
+  contenu:
+    titre_couverture: 'Le duel : [ANNIVERSAIRE] *France vs Australie*'
+    sous_titre: Qui fête le mieux ? Round spécial fêtes
+    slides:
+    - titre: Le [round] des *bougies*
+      texte: En France, on souffle les bougies et on chante souvent en mode chorale un peu gênée. En Australie,
+        le chant d'anniversaire est lui aussi très répandu, mais, selon nous, on le lance avec plus de sourires.
+    - titre: Le *cadeau* en pleine lumière
+      texte: Chez certains, on ouvre le cadeau tout de suite devant tout le monde, chez d'autres on attend la fin
+        de la fête. Le suspense, c'est peut-être une question d'habitude et de patience.
+    - titre: Le *pique-nique* d'anniversaire
+      texte: Un anniversaire en plein air, c'est possible partout. Selon nous, la fête au bord de l'eau ou dans
+        un parc est un classique qui met tout le monde d'accord.
+    - titre: Les *invités* en retard
+      texte: 'Arriver pile à l''heure, c''est parfois impoli, parfois normal. La vraie question : combien de minutes
+        de retard sont tolérées avant que l''hôte ne soupire ?'
+    - titre: La *fête* finit en barbecue
+      texte: Souffler les bougies, c'est bien. Finir la soirée autour du barbecue avec les voisins, c'est peut-être
+        encore mieux. Chez nous comme chez eux, la fête se termine souvent dehors, sous les étoiles.
+    question_fin: Lequel de ces *rituels* tu adoptes sans hésiter ?
+  sujet: 'Le duel France vs Australie : les fêtes et anniversaires'
+  legende: 'Anniversaire à la française ou à l''australienne ? 🎂
+
+
+    On compare les bougies, les cadeaux, les pique-niques et même les retards des invités. Certaines habitudes te
+    surprendront, d''autres te feront sourire.
+
+
+    La dernière slide finit en barbecue, et là, ça devient vraiment drôle 👀
+
+
+    Tu fêtes ton anniversaire comment, plutôt chic ou plutôt barbecue ? 🎉
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour de ta prochaine fête.
+
+
+    📤 Partage-le à un ami, celui qui organise toujours les anniversaires et qui doit lire ça 🎈.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #anniversaire #australie #traditionsdumonde'
+  medias:
+  - medias/2026-11-23/2026-11-26_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/06.jpg
+  - medias/2026-11-23/2026-11-26_0800_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-26_0800_carro/01.jpg
+- id: 2026-11-26_1100_carro
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: Ces [métiers] qui ont *disparu* de nos rues
+    sous_titre: Tu les as peut-être croisés sans savoir qu'ils allaient disparaître
+    slides:
+    - titre: Le [rempailleur] de chaises
+      texte: Il redonnait vie aux sièges en *paille* et en *cannage* dans des ateliers de quartier. Aujourd'hui,
+        on jette souvent la chaise plutôt que de la réparer.
+    - titre: Le *porteur d'eau* oublié
+      texte: Dans certaines campagnes, on allait encore chercher de l'eau à la fontaine publique. Le *seau* remplissait
+        la cuisine avant le robinet.
+    - titre: Le [rétameur] ambulant
+      texte: Il réparait les casseroles en cuivre et en étain sur le trottoir. On faisait *réparer* plutôt que racheter,
+        une habitude qui nous paraît aujourd'hui d'un autre temps.
+    - titre: La cabine *téléphonique* en bas de chez toi
+      texte: Avant les portables, on attendait devant une cabine pour appeler. Il fallait souvent une *pièce* ou
+        une carte pour passer son coup de fil.
+    - titre: Le *marchand de journaux* du coin
+      texte: Chaque matin, le kiosque vendait quotidiens, magazines et cartes postales. Certains ont fermé, d'autres
+        survivent, et beaucoup ont disparu.
+    - titre: Le [marchand] de glaces à vélo
+      texte: Le vendeur de *glaces* à vélo sonnait sa cloche dans les rues. Ce bruit, beaucoup d'enfants le reconnaissaient
+        les yeux fermés.
+    question_fin: Lequel t'a le plus *manqué* quand il a disparu ?
+  sujet: Métiers et commerces disparus de nos rues, 1985-2005
+  legende: 'Tu as peut-être croisé ces métiers sans savoir qu''ils allaient disparaître 🕰️
+
+
+    Rempailleur, rétameur, porteur d''eau, marchand de journaux : ces métiers faisaient partie du décor de nos rues.
+    Certains ont presque disparu sans qu''on s''en rende vraiment compte.
+
+
+    Dans les dernières slides, un vendeur que tu as forcément entendu avant de le voir 👀
+
+
+    Tu en as connu un dans ta ville ? Dis-le-nous en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour pour le retrouver quand tu veux replonger dans tes souvenirs.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui a grandi avec ces petits commerces de quartier.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #histoiredefrance'
+  medias:
+  - medias/2026-11-23/2026-11-26_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/06.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/07.jpg
+  - medias/2026-11-23/2026-11-26_1100_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-26_1100_carro/01.jpg
+- id: 2026-11-26_1300_devin
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 4 + 2 × 6 − 2 = ?'
+  reponse: '14 (piège : 34)'
+  legende: 'La réponse n''est pas 34 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-26_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-26_1300_devin/couverture.jpg
+- id: 2026-11-26_1400_carro
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ces traditions françaises ont une [origine] bien plus *bizarre* qu'on croit
+    sous_titre: Swipe, tu vas être surpris 🇫🇷
+    slides:
+    - titre: Le *gui* du 1er janvier
+      texte: Embrasser quelqu'un sous le gui à minuit ? On peut penser que la coutume vient des Gaulois, qui auraient
+        vu dans cette plante un signe sacré. Mais le lien direct entre les deux reste une hypothèse, et le baiser,
+        lui, est bien plus récent.
+    - titre: Les *dragées* du baptême
+      texte: Ces petites amandes enrobées de sucre offertes lors des baptêmes et mariages ont une origine symbolique.
+        On pense qu'elles porteraient bonheur, et que l'amande évoquait la fertilité. Une idée séduisante, mais
+        à prendre comme une piste.
+    - titre: Le *poisson d'avril* en mode [farce]
+      texte: 'Le 1er avril, on fait des blagues. Une théorie souvent citée le relie au passage au calendrier grégorien
+        en 1564, mais l''origine exacte reste débattue : c''est une hypothèse, pas une certitude.'
+    - titre: Le *muguet* du 1er mai
+      texte: Offrir du muguet le 1er mai serait lié à une tradition attribuée à Charles IX au XVIe siècle, qui en
+        aurait reçu comme porte-bonheur. Une légende plus qu'un fait prouvé, mais la fleur reste un symbole de chance.
+    question_fin: Laquelle de ces traditions t'a le plus *surpris* ?
+  sujet: Traditions françaises et leur vraie origine, surprenantes
+  legende: 'Tu fais ça tous les ans sans savoir pourquoi ? 🤔
+
+
+    Gui, dragées, poisson d''avril, muguet : des coutumes qu''on répète sans réfléchir, avec des origines souvent
+    plus anciennes ou plus étranges qu''on imagine. Swipe pour voir le fond de l''histoire.
+
+
+    La dernière slide change carrément ce qu''on pensait du 1er mai 👀
+
+
+    Tu connaissais l''origine de laquelle ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces infos à la prochaine fête de famille.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours des poissons d''avril à la machine à café.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #traditionsfrancaises #curiosites #histoiredefrance #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-26_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-26_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-26_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-26_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-26_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-26_1400_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-26_1400_carro/01.jpg
+- id: 2026-11-26_1700_carro
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : la politesse et les salutations'
+  contenu:
+    titre_couverture: 'LE DUEL [FRANCE] VS *GRÈCE* : QUI DIT BONJOUR LE MIEUX ?'
+    sous_titre: 'Bises, poignées de main, sourires : qui gagne le round de la politesse ?'
+    slides:
+    - titre: Le [bonjour] en 3 secondes
+      texte: 'En France, on se fait souvent *la bise* entre gens qu''on connaît à peine. Et le nombre de bises change
+        d''une région à l''autre : à toi de nous dire si c''est normal ou pas.'
+    - titre: Serrer la *main* ou pas ?
+      texte: 'En Grèce, une poignée de main franche peut suffire pour un premier contact, et on a l''impression
+        que le *regard* compte autant que le geste. Le vrai *bonus* : on retient vite les prénoms.'
+    - titre: Le *grand* débat du prénom
+      texte: En Grèce, on se dit souvent *Kalimera* le matin et *Kalispera* le soir, avec un sourire qui vaut une
+        présentation. Et si on se tutoie plus vite là-bas qu'en France, c'est peut-être une question de culture,
+        pas de politesse.
+    - titre: Qui gagne le *round* ?
+      texte: 'Pas de vainqueur absolu : la politesse, c''est *la façon* de dire bonjour. Peut-être que le meilleur
+        geste est celui qui fait sourire la personne en face.'
+    question_fin: Et toi, quel *salut* te met le plus *mal à l'aise* ?
+  sujet: 'Le duel France vs Grèce : la politesse et les salutations'
+  legende: 'Bise, poignée de main ou sourire : qui gagne le duel de la politesse ? 👋
+
+
+    On compare deux façons de dire bonjour, entre la France et la Grèce. Entre les bises, les poignées de main et
+    les prénoms lancés le matin, certains gestes surprennent. Swipe pour voir le round final.
+
+
+    Le dernier round change complètement la façon de voir la politesse 👀
+
+
+    Tu fais la bise ou tu serres la main ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour pour retrouver ces petites différences de salutation quand tu voyages.
+
+
+    📤 Partage-le à un ami, à quelqu''un qui fait toujours la bise à tout le monde 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #grece #politesse'
+  medias:
+  - medias/2026-11-23/2026-11-26_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-26_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-26_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-26_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-26_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-26_1700_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-26_1700_carro/01.jpg
+- id: 2026-11-26_2000_carro
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si la gravité s'inversait une minute dans des lieux du quotidien
+  contenu:
+    titre_couverture: Et si la [GRAVITÉ] s'inversait *une minute* chez toi ?
+    sous_titre: Le chaos du quotidien, version lévitation
+    slides:
+    - titre: Le [CAFÉ] remonte
+      texte: Dans la cuisine, ta tasse de café se décroche de la table et file vers le plafond. Les *miettes* suivent,
+        en procession parfaite.
+    - titre: La *salle de bain* à l'envers
+      texte: 'Le savon, la brosse à dents et la serviette s''envolent. Le robinet, lui, refuse de couler vers le
+        bas : l''eau fait une pause en l''air.'
+    - titre: Le [FRIGO] se vide vers le ciel
+      texte: Yaourts, œufs et bouteilles de lait quittent le frigo et flottent au plafond. Mieux vaut ne pas être
+        pressé pour ranger les courses.
+    - titre: Le *canapé* décolle
+      texte: 'Le salon devient un ballet : coussins, télécommande et plaid s''élèvent doucement. La vraie question
+        : qui va récupérer la télé ?'
+    - titre: La *rue* entière se soulève
+      texte: Dehors, les feuilles, les pigeons et les poussettes vides montent vers le ciel. Une minute plus tard,
+        tout retombe... ou pas ?
+    question_fin: Lequel t'aurait le plus *mal à l'aise* ?
+  sujet: Gravité inversée une minute dans le quotidien
+  legende: 'Et si la gravité lâchait une minute chez toi ? 🙃
+
+
+    Cafés, savons, frigo, canapé et même la rue : on fait tourner le quotidien à l''envers. Chaque slide transforme
+    un geste banal en scène absurde.
+
+
+    La dernière slide est celle qui fait vraiment flipper 👀
+
+
+    Tu rattraperais quoi en premier ? 😂
+
+
+    💾 Enregistre ce carrousel pour rire à la prochaine panne de courant d''imagination.
+
+
+    📤 Partage-le à un ami, qu''il vérifie bien ses poches avant de sortir 🙃.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #savoirinutile #gravite'
+  medias:
+  - medias/2026-11-23/2026-11-26_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-26_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-26_2000_carro/01.jpg
+- id: 2026-11-26_2100_video
+  jour: jeudi
+  date: '2026-11-26'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Gravité inversée une minute dans le quotidien'
+  accroche: 'Gravité [INVERSÉE] : regarde le *café* partir'
+  legende: 'Imagine ton canapé qui décolle un mardi soir 🛋️✨
+
+
+    Si ta gravité s''inversait ce matin, tu commencerais par quoi : ton café ou ton canapé ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #gravite #insolite #savoirinutile'
+  medias:
+  - medias/2026-11-23/2026-11-26_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-26_2100_video/couverture.jpg
+  source: 2026-11-26_2000_carro
