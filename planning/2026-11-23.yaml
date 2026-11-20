@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-19T08:53
+genere_le: 2026-11-20T08:43
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -1451,3 +1451,376 @@ posts:
   - medias/2026-11-23/2026-11-26_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-26_2100_video/couverture.jpg
   source: 2026-11-26_2000_carro
+- id: 2026-11-27_0800_carro
+  jour: vendredi
+  date: '2026-11-27'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Inventions nées d'un accident ou d'une erreur
+  contenu:
+    titre_couverture: Ces *inventions* nées d'une [erreur] qui ont changé le monde
+    sous_titre: Le hasard fait parfois mieux que les ingénieurs
+    slides:
+    - titre: Le *micro-ondes* par accident
+      texte: 'Selon une anecdote souvent racontée, un ingénieur travaillant sur des radars aurait remarqué que sa
+        barre de chocolat avait fondu dans sa poche. Le *hasard* a peut-être fait le reste : l''idée d''un four
+        à micro-ondes en est née.'
+    - titre: Le *Post-it* raté
+      texte: Une colle trop faible, créée par erreur, a longtemps semblé inutile. Des années plus tard, elle est
+        devenue le *petit papier* collant que tout le monde utilise.
+    - titre: La *pénicilline* oubliée
+      texte: En 1928, une boîte de cultures laissée ouverte a été contaminée par une moisissure. Ce *désordre* de
+        paillasse a donné l'un des premiers antibiotiques de l'histoire.
+    - titre: Le *caoutchouc* qui tombe du poêle
+      texte: 'Selon le récit le plus connu, Charles Goodyear aurait fait tomber du soufre et du caoutchouc sur un
+        poêle brûlant. Le mélange a durci au lieu de fondre : c''est le principe de la *vulcanisation*.'
+    - titre: Le *sirop* qui pétille
+      texte: Un sirop censé soigner les maux de tête a fini mélangé à de l'eau gazeuse. Selon l'idée la plus répandue,
+        c'était une erreur de dosage, pas une recette de génie.
+    - titre: Le *ressort* qui marche
+      texte: Un ressort tombé d'une étagère s'est mis à descendre les marches tout seul. Cette *chute* ratée est
+        devenue, dit-on, l'un des jouets les plus vendus au monde.
+    question_fin: Quelle *erreur* du quotidien pourrait devenir ta prochaine grosse idée ?
+  sujet: Inventions nées d'un accident ou d'une erreur
+  legende: 'Le hasard fait parfois mieux que les ingénieurs 🧪
+
+
+    De la barre de chocolat fondue au ressort qui marche tout seul, certaines grandes inventions sont peut-être
+    nées d''une erreur. Swipe pour voir les histoires les plus folles.
+
+
+    La dernière slide est celle que personne ne croit, on te raconte la vraie histoire 👀
+
+
+    Tu aurais trouvé l''utilité de quelle erreur ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir que les ratés peuvent valoir de l''or.
+
+
+    📤 Partage-le à un ami, lui demander s''il savait que son micro-ondes est peut-être né d''un chocolat fondu 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #inventions #histoire #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-27_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/06.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/07.jpg
+  - medias/2026-11-23/2026-11-27_0800_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-27_0800_carro/01.jpg
+- id: 2026-11-27_1100_carro
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des maisons construites dans des endroits impossibles
+  contenu:
+    titre_couverture: Des [MAISONS] *impossibles* qui défient la gravité
+    sous_titre: Tu habiterais là, toi ?
+    slides:
+    - titre: Maison [sur] l'eau
+      texte: Des maisons flottent sur des lacs et des rivières, ancrées par des pilotis ou des pontons. Dans certaines
+        villes, des maisons sur pilotis tiennent debout au-dessus de l'eau, comme au Cambodge. Et si on vivait *sur
+        l'eau* un jour ?
+    - titre: Maison dans la *falaise*
+      texte: Dans certaines régions escarpées, des habitations ont été creusées directement dans la roche. Le mur
+        devient le toit, la montagne devient le salon. Ça te donnerait envie, ou tu trouves ça trop *claustro* ?
+    - titre: Maison [sous] terre
+      texte: En Cappadoce, en Turquie, des habitations ont été taillées dans la roche tendre d'origine volcanique.
+        Selon nous, la fraîcheur de ces logements est un gros atout face à la *chaleur*.
+    - titre: Maison au [sommet] d'un arbre
+      texte: Dans une forêt, une cabane peut être suspendue entre des branches. L'arbre devient le pilier, et tu
+        dors *perché* au-dessus du sol. Charmant, non ? Ou un peu flippant ?
+    - titre: Maison sur [pilier] de *rocher*
+      texte: Des bâtiments perchés sur des rochers isolés existent, comme les célèbres monastères des Météores,
+        en Grèce. On se demande encore comment on a réussi à monter tout ça.
+    - titre: Et si ta maison [flottait] ?
+      texte: 'Imagine une maison posée sur un iceberg qui dérive lentement. Pas de voisin, juste la mer et une question
+        : et ton *jardin*, il est où ?'
+    question_fin: Laquelle de ces maisons tu *habiterais* vraiment ?
+  sujet: Maisons construites dans des endroits impossibles
+  legende: 'Ta maison, elle tient sur quoi ? 🏠
+
+
+    Sur l''eau, dans la roche, sous terre ou au sommet d''un arbre : les humains ont construit dans des endroits
+    absurdes. Swipe pour voir les plus fous.
+
+
+    La dernière slide pourrait bien te donner le vertige 👀
+
+
+    Tu choisis laquelle, toi ? 💬
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces endroits les plus fous.
+
+
+    📤 Partage-le à un ami, lui demander dans quelle maison il vivrait.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #saviezvous #architecture'
+  medias:
+  - medias/2026-11-23/2026-11-27_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/06.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/07.jpg
+  - medias/2026-11-23/2026-11-27_1100_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-27_1100_carro/01.jpg
+- id: 2026-11-27_1300_devin
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 4 + 2 × 12 − 12 = ?'
+  reponse: '16 (piège : 60)'
+  legende: 'La réponse n''est pas 60 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-27_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-27_1300_devin/couverture.jpg
+- id: 2026-11-27_1400_carro
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: 'Tu suis des [règles] invisibles sans le savoir : *politesse* secrète'
+    sous_titre: Personne ne les a écrites, beaucoup de gens les respectent sans y penser
+    slides:
+    - titre: Le [pas] de recul
+      texte: Dans un ascenseur vide, beaucoup de gens se placent au fond, le plus loin possible. Personne n'a écrit
+        cette règle, pourtant on a l'impression que *tout le monde* la suit.
+    - titre: Le *silence* du métro
+      texte: Dans un wagon à moitié vide, beaucoup évitent de s'asseoir juste à côté de quelqu'un. On dirait que
+        les sièges se remplissent en diagonale, comme une partie d'échecs muette.
+    - titre: Le [faux] regard
+      texte: Quand on croise quelqu'un dans un couloir, on détourne souvent les yeux juste après l'avoir vu. Trop
+        longtemps, ça peut paraître *gênant*. Trop court, ça peut paraître *suspect*.
+    - titre: La *queue* sans panneau
+      texte: À une caisse sans file clairement indiquée, on se range souvent derrière la dernière personne. Pas
+        de ticket, pas de chef, juste un accord silencieux.
+    - titre: Le *sourire* d'excuse
+      texte: Tu marches sur le pied de quelqu'un ? Tu souris souvent avant même de parler. Ce petit geste semble
+        dire *pardon* sans un mot.
+    question_fin: Laquelle de ces règles tu suis *sans jamais y penser* ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Personne ne t''a jamais appris ces règles, et pourtant tu les suis 🤫
+
+
+    Ascenseur, métro, file d''attente : ton corps applique des codes invisibles chaque jour. Swipe pour voir les
+    5 plus surprenants et un conseil pour mieux les repérer.
+
+
+    La dernière règle est celle que tu fais même quand tu es seul 👀
+
+
+    Tu en connais une autre qu''on ne t''a jamais écrite ? 💬
+
+
+    💾 Enregistre ce carrousel pour relire la prochaine fois que tu prends l''ascenseur.
+
+
+    📤 Partage-le à un ami, à celui qui se place toujours au fond de l''ascenseur 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #psychologie #cerveau #savoirvivre'
+  medias:
+  - medias/2026-11-23/2026-11-27_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/06.jpg
+  - medias/2026-11-23/2026-11-27_1400_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-27_1400_carro/01.jpg
+- id: 2026-11-27_1700_carro
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des métiers qui n'existent pas mais qu'on aimerait voir
+  contenu:
+    titre_couverture: Des [MÉTIERS] qui n'existent *pas* encore
+    sous_titre: Et on aimerait trop les voir au boulot
+    slides:
+    - titre: Le [GARDIEN] des chaussettes perdues
+      texte: Il surveille les chaussettes qui disparaissent dans la machine et, selon nous, les renverrait volontiers
+        *une par une* à leurs propriétaires. Il tiendrait un registre très sérieux.
+    - titre: Le *dresseur* de nuages paresseux
+      texte: 'Sa mission imaginaire : convaincre les nuages de pleuvoir là où les plantes ont soif. On l''imagine
+        négocier avec eux en leur proposant *des pauses au soleil*.'
+    - titre: Le [CHERCHEUR] de bruits oubliés
+      texte: Il partirait à la recherche du son du premier grille-pain, du craquement d'un vieux parquet ou du *bip*
+        d'un fax. Il les rangerait dans des bocaux.
+    - titre: L'*arroseur* de pensées bizarres
+      texte: Il passerait chaque matin dans les têtes endormies pour faire pousser *une idée folle* avant le café.
+        Selon nous, aucune idée ne serait jamais trop bizarre pour lui.
+    - titre: Le [DÉMÉNAGEUR] de lundis
+      texte: 'Son boulot : déplacer les lundis matin pour les coller au vendredi. Personne ne l''a jamais vu, et
+        on se demande si le *week-end* ne semble pas plus long depuis qu''il existe.'
+    - titre: Le *testeur* officiel de flaques
+      texte: Il saute dans chaque flaque pour vérifier qu'elle est assez profonde. Son rapport serait envoyé aux
+        *parapluies* du quartier, qui en tiendraient compte.
+    question_fin: Lequel de ces métiers aimerais-tu *vraiment* voir exister ?
+  sujet: Métiers imaginaires absurdes qu'on aimerait voir
+  legende: 'Ton futur boulot n''existe pas encore… mais tu le voudrais 🤔
+
+
+    On a imaginé six métiers absurdes qui rendraient la vie plus drôle : gardien de chaussettes perdues, dresseur
+    de nuages, déménageur de lundis… Chaque slide en ajoute un.
+
+
+    La dernière slide est celle qui pourrait bien te donner une vraie envie de changer de carrière 👀
+
+
+    Quel métier imaginaire te plairait le plus ? 😄
+
+
+    💾 Enregistre ce carrousel pour t''amuser la prochaine fois que tu perds une chaussette.
+
+
+    📤 Partage-le à un ami, il rêve sûrement d''un boulot de déménageur de lundis.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #metiers'
+  medias:
+  - medias/2026-11-23/2026-11-27_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/06.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/07.jpg
+  - medias/2026-11-23/2026-11-27_1700_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-27_1700_carro/01.jpg
+- id: 2026-11-27_2000_carro
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: 'Les vacances chez les grands-parents : ce qu''on y faisait'
+  contenu:
+    titre_couverture: 'Les vacances chez *mamie* : [ce qu''on y faisait] vraiment'
+    sous_titre: 'Spoiler : aucune appli n''était autorisée'
+    slides:
+    - titre: Le [tri] des *haricots*
+      texte: Chez mamie, on équeutait les haricots verts sur le pas de la porte. Pas de vidéo, juste des doigts
+        verts et des histoires qui traînaient pendant des heures.
+    - titre: Le *jardin* comme terrain de jeu
+      texte: Cabanes de fortune, cueillette de groseilles et chasse aux escargots. Le jardin était un monde entier,
+        sans écran pour le remplacer.
+    - titre: Le *téléphone fixe* du salon
+      texte: Le fil était tendu jusqu'à la cuisine, et on décrochait sans savoir qui appelait. Un appel, c'était
+        un événement qu'on attendait de tout son cœur.
+    - titre: Les *cartes* du soir
+      texte: Après le dîner, on jouait à la belote ou à un jeu de rummy en buvant du sirop. Et si les règles changeaient
+        selon qui gagnait ? Une idée qu'on peut tous défendre.
+    - titre: La *règle* de l'heure de sieste
+      texte: Silence obligatoire après le déjeuner, même si personne ne dormait. Une règle absurde qu'on respectait
+        sans jamais la discuter.
+    question_fin: Quelle règle de *mamie* t'a le plus *marqué* ?
+  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait (85-05)'
+  legende: 'Chez mamie, pas de Wi-Fi et pourtant on s''ennuyait jamais 🌾
+
+
+    Équeuter des haricots, cabanes au fond du jardin, belote après le dîner : les vacances chez les grands-parents
+    avaient leurs rituels. Swipe pour retrouver les tiens.
+
+
+    La dernière slide révèle la règle la plus stricte de toutes 👀
+
+
+    Tu passais tes vacances où, toi, à l''époque ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux les raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, ton ami a sûrement lui aussi eu sa cabane au fond du jardin de mamie.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirs #culturegenerale #vacancesdenfance'
+  medias:
+  - medias/2026-11-23/2026-11-27_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-27_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-27_2000_carro/01.jpg
+- id: 2026-11-27_2100_video
+  jour: vendredi
+  date: '2026-11-27'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Maisons construites dans des endroits impossibles'
+  accroche: Ta maison pourrait [flotter] *au-dessus des nuages* ?
+  legende: 'Des maisons impossibles qui défient la gravité, lesquelles te font rêver ? 🏡
+
+
+    Tu habiterais dans laquelle : sur l''eau, dans la falaise, sous terre, dans un arbre ou dans les nuages ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #maisonsinsolites #insolite #savoirinutile'
+  medias:
+  - medias/2026-11-23/2026-11-27_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-27_2100_video/couverture.jpg
+  source: 2026-11-27_1100_carro
