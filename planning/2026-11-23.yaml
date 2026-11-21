@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-20T08:43
+genere_le: 2026-11-21T08:19
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -1824,3 +1824,356 @@ posts:
   - medias/2026-11-23/2026-11-27_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-27_2100_video/couverture.jpg
   source: 2026-11-27_1100_carro
+- id: 2026-11-28_0800_carro
+  jour: samedi
+  date: '2026-11-28'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des paysages célèbres reconstruits en nourriture, à taille réelle
+  contenu:
+    titre_couverture: Et si on pouvait *croquer* [le paysage] ?
+    sous_titre: Quand la nature devient le buffet du dimanche
+    slides:
+    - titre: '[Montagne] en *pain d''épice*'
+      texte: Et si les falaises étaient en pain d'épice, avec des strates de chocolat en guise de roches ? Le Grand
+        Canyon version goûter, ça donne envie de creuser.
+    - titre: Un *lac de soupe* qui fume
+      texte: 'Imagine un lac immense où la vapeur monte doucement au-dessus d''une soupe de légumes. Une idée qui
+        donne faim, et qui pose une vraie question : combien de louches faudrait-il pour le remplir ?'
+    - titre: Des *dunes de sucre* glacé
+      texte: 'Un désert dont les dunes seraient en sucre glace, qui scintilleraient au soleil. Mon avis : le vent
+        aurait sûrement un goût de vacances.'
+    - titre: Une *forêt de brocolis* géants
+      texte: Des arbres en brocoli à perte de vue, avec des troncs de carotte. C'est toujours une forêt, mais elle
+        serait nettement plus saine, non ?
+    question_fin: Quel paysage tu *dévorerais* en premier ?
+  sujet: Paysages reconstruits en nourriture à taille réelle
+  legende: 'Et si les paysages célèbres se mangeaient ? 🍰
+
+
+    Montagnes de pain d''épice, lac de soupe, dunes de sucre glace : on a imaginé des décors naturels reconstruits
+    en nourriture, à taille réelle. Swipe pour voir le menu complet.
+
+
+    La dernière slide change carrément de saveur, tu vas pas la voir venir 👀
+
+
+    Tu choisis quel décor pour ton prochain pique-nique ? 🧺
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées la prochaine fois que tu as faim de paysages.
+
+
+    📤 Partage-le à un ami, pour qu''il choisisse son dessert préféré avec toi 😋.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #nourriture #imagination'
+  medias:
+  - medias/2026-11-23/2026-11-28_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-28_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-28_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-28_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-28_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-28_0800_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-28_0800_carro/01.jpg
+- id: 2026-11-28_1100_carro
+  jour: samedi
+  date: '2026-11-28'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le logement'
+  contenu:
+    titre_couverture: 'Le duel France vs Corée du Sud : [CHEZ] toi, ça se passe *comment* ?'
+    sous_titre: Le logement du quotidien, version surprenante
+    slides:
+    - titre: Le [seuil] sacré
+      texte: En Corée, on retire ses chaussures à l'entrée, et beaucoup de gens évitent même de marcher en chaussettes
+        n'importe où. Chez toi, c'est quoi la règle ?
+    - titre: Le sol qui *chauffe* en silence
+      texte: Le chauffage au sol, appelé ondol en coréen, fait partie de la tradition depuis des siècles. En France,
+        on préfère souvent le radiateur, et certains trouvent qu'il fait froid aux pieds. Et toi, tu y crois ?
+    - titre: Le *placard* qui se transforme
+      texte: 'Dans certains logements coréens, des meubles se replient le soir pour libérer la pièce. L''idée :
+        un salon le jour, une chambre la nuit. Pratique, non ?'
+    - titre: Le *balcon* devient cuisine
+      texte: Dans certains immeubles coréens, le balcon sert parfois d'espace pour les plantes, le séchage du linge
+        ou même quelques casseroles. Chez toi, le balcon, c'est plutôt une chaise et un café ?
+    - titre: L'ascenseur qui *jongle*
+      texte: Dans les grandes villes coréennes, beaucoup d'immeubles modernes ont un ascenseur et un contrôle d'accès.
+        Ici, on se demande souvent qui gère les clés chez toi ?
+    - titre: Le *tapis* qui raconte tout
+      texte: Sur un sol chauffé, le tapis et le coussin deviennent des éléments clés du confort. Certains Coréens
+        mangent assis directement au sol. Et toi, tu préfères la chaise ou le plancher ?
+    question_fin: Lequel de ces *usages* te ferait le plus hésiter à déménager à Séoul ?
+  sujet: 'Le duel France vs Corée du Sud : le logement du quotidien'
+  legende: 'Ton chez-toi, il ressemble à quoi en Corée du Sud ? 🏠
+
+
+    Chaussures à la porte, sol qui chauffe, meubles qui se replient : le logement coréen joue dans une autre cour.
+    On compare avec humour, sans jugement.
+
+
+    La dernière slide risque de te faire réviser ta façon de recevoir des amis 👀
+
+
+    Tu fais quoi de tes chaussures quand tu rentres chez toi ? 😄
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour où tu voudras comparer ton appart.
+
+
+    📤 Partage-le à un ami, il va sûrement se reconnaître dans le duel 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #coreedusud #logement #duelFranceCoree'
+  medias:
+  - medias/2026-11-23/2026-11-28_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/06.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/07.jpg
+  - medias/2026-11-23/2026-11-28_1100_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-28_1100_carro/01.jpg
+- id: 2026-11-28_1300_devin
+  jour: samedi
+  date: '2026-11-28'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 7 − 4 × 2 + 2 × 9 = ?'
+  reponse: '17 (piège : 72)'
+  legende: 'La réponse n''est pas 72 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-28_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-28_1300_devin/couverture.jpg
+- id: 2026-11-28_1400_carro
+  jour: samedi
+  date: '2026-11-28'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les biais du cerveau qui te piègent chaque jour
+  contenu:
+    titre_couverture: Ton cerveau te [MENTIR] chaque jour, et tu *ne t'en rends pas compte*
+    sous_titre: Les petits pièges mentaux qui dirigent tes choix sans demander ton avis
+    slides:
+    - titre: Le biais du [ZAPPING]
+      texte: 'Tu gardes le *premier chiffre* que tu vois, même absurde. Un prix barré à 100 € rend 40 € soudain
+        « raisonnable » : à ton avis, ton cerveau compare au lieu de calculer ?'
+    - titre: Le biais de *l'effort perdu*
+      texte: Tu finis un film nul parce que tu as déjà payé ta place. Beaucoup de gens pensent que l'argent déjà
+        dépensé les *retient* sur place. Et si lâcher prise coûtait en fait moins cher que l'erreur ?
+    - titre: Le piège du *dernier scroll*
+      texte: 'Ton pouce scrolle parce que la prochaine vidéo est peut-être la bonne. Certains chercheurs pensent
+        que l''*attente incertaine* accroche plus le cerveau que la récompense certaine. Un conseil : pose le téléphone
+        à l''autre bout de la pièce.'
+    - titre: Le biais de [CONFIRMATION]
+      texte: Tu retiens les infos qui te donnent raison et zappes les autres. Pour t'en sortir, cherche une source
+        qui *dit le contraire* avant de conclure. Ça change parfois toute l'histoire.
+    question_fin: Lequel de ces pièges t'a le plus *fait sourire jaune* ?
+  sujet: Biais cognitifs qui te piègent chaque jour, expliqués simplement
+  legende: 'Ton cerveau a des failles, et tu tombes dedans tous les jours 🧠
+
+
+    Un prix barré qui te fait acheter, un film nul que tu finis par fierté, un scroll qui ne s''arrête jamais :
+    on fait le point sur 4 biais du quotidien et un conseil concret pour chacun.
+
+
+    La dernière slide change la façon dont tu lis les infos sur ton téléphone 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les relire la prochaine fois que tu hésites sur un achat ou un film 💡.
+
+
+    📤 Partage-le à un ami, parce qu''il y a au moins un piège qui va le faire rire jaune 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-23/2026-11-28_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-28_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-28_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-28_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-28_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-28_1400_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-28_1400_carro/01.jpg
+- id: 2026-11-28_1700_carro
+  jour: samedi
+  date: '2026-11-28'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ces traditions françaises qui ont *une origine* [bizarre]
+    sous_titre: Tu les fais depuis toujours, sans savoir d'où elles viennent
+    slides:
+    - titre: Le [gui] du 1er janvier
+      texte: 'Embrasser quelqu''un sous le *gui* à la Saint-Sylvestre : on dit souvent que la plante portait bonheur
+        chez les Celtes, mais c''est une idée qui circule, pas un fait établi. Le baiser sous le gui, lui, est une
+        tradition beaucoup plus tardive.'
+    - titre: Le *sapin* vient d'ailleurs
+      texte: Décorer un arbre à Noël semble venir d'Europe du Nord et d'Allemagne, où l'on accrochait des pommes
+        et des bougies. En France, la mode s'est surtout imposée au XIXe siècle, à ce qu'on en dit.
+    - titre: Le *pain* qui tranche
+      texte: On peut se demander si la baguette a toujours eu ce format fin. Ce qui est sûr, c'est que la forme
+        actuelle est assez récente, et que le pain a longtemps été au cœur de la vie de quartier.
+    - titre: Le *poisson* d'avril, [mystère]
+      texte: Son origine exacte reste discutée. Une hypothèse relie la blague au passage au calendrier grégorien,
+        mais personne ne peut dire avec certitude qui l'a lancée la première.
+    question_fin: Laquelle de ces traditions t'a fait dire *« ah bon ? »* ?
+  sujet: Traditions françaises et leur vraie origine, surprenantes
+  legende: 'Tu fais ça tous les ans sans savoir d''où ça vient 🎄
+
+
+    Gui, sapin, baguette, poisson d''avril : ces gestes du quotidien ont des histoires bien plus folles qu''on ne
+    le croit. Certaines pistes sont solides, d''autres restent des hypothèses, et on ne tranche pas toujours.
+
+
+    La dernière slide pose une énigme que personne n''a vraiment résolue 👀
+
+
+    Tu connaissais l''origine de laquelle ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces infos avant ton prochain repas de famille.
+
+
+    📤 Partage-le à un ami, qui se croit expert en traditions de Noël.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #traditionsfrancaises #curiosites #histoiredefrance #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-28_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-28_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-28_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-28_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-28_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-28_1700_carro/06.jpg
+  couverture: medias/2026-11-23/2026-11-28_1700_carro/01.jpg
+- id: 2026-11-28_2000_carro
+  jour: samedi
+  date: '2026-11-28'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: Quand les [animaux] deviennent aussi *insupportables* que nous
+    sous_titre: Ils scrollent, font la queue et klaxonnent
+    slides:
+    - titre: LA FILE D'ATTENTE *interminable*
+      texte: Une colonie de pingouins alignée devant un guichet, sans bouger depuis des heures. On peut se demander
+        ce qu'ils attendent, mais aucun ne lâche sa place.
+    - titre: LE SCROLL *sans fin*
+      texte: Un hérisson allongé sur une branche, pouce en mouvement sur un écran, qui fait défiler sa feuille d'arbre.
+        Il rit tout seul depuis tout à l'heure.
+    - titre: LE KLAXON *en colère*
+      texte: Des oies bloquent un carrefour en pleine heure de pointe et s'engueulent à coups de cri. Le feu est
+        vert depuis un bon moment, et elles n'avancent toujours pas.
+    - titre: LE CHEF DE FILE *impatient*
+      texte: Une troupe de fourmis fait la queue au distributeur de miettes et la tension monte. Une d'elles tape
+        du pied, bras croisés, en regardant sa montre.
+    - titre: LE CAMPING *bruyant*
+      texte: Des castors qui râlent parce que le wifi de la rivière est trop lent. Ils tapent sur leur tablette
+        en secouant la queue, prêts à tout casser.
+    question_fin: Lequel de ces animaux te ressemble le plus *à l'heure de pointe* ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Et si les animaux avaient adopté nos pires habitudes ? 🦔
+
+
+    Pingouins qui font la queue, hérisson accro au scroll, oies qui klaxonnent au carrefour : le règne animal a
+    tout copié. Swipe pour voir la suite, c''est surtout drôle et un peu gênant.
+
+
+    La dernière slide tourne au chaos total dans un camping, et tu vas te reconnaître 👀
+
+
+    Quel animal fait le plus *ton* genre au quotidien ? 😂
+
+
+    💾 Enregistre ce carrousel pour te rappeler de rire la prochaine fois que tu bloques dans les bouchons.
+
+
+    📤 Partage-le à un ami, pour qu''il se reconnaisse dans au moins une des cinq scènes.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #animaux #humour #insolite'
+  medias:
+  - medias/2026-11-23/2026-11-28_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-28_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-28_2000_carro/01.jpg
+- id: 2026-11-28_2100_video
+  jour: samedi
+  date: '2026-11-28'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Paysages reconstruits en nourriture à taille réelle'
+  accroche: Des paysages qu'on peut [manger] ? Regarde jusqu'au *bout* !
+  legende: 'Le paysage était délicieux, mais la randonnée un peu collante 🍯
+
+
+    Tu partirais randonner sur une montagne en pain d''épice, ou tu préfères te baigner dans le lac de soupe ? 👀
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #foodart #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-28_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-28_2100_video/couverture.jpg
+  source: 2026-11-28_0800_carro
