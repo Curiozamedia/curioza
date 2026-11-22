@@ -9,7 +9,7 @@
 semaine: '2026-11-23'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-21T08:19
+genere_le: 2026-11-22T08:14
 posts:
 - id: 2026-11-23_0800_carro
   jour: lundi
@@ -2177,3 +2177,380 @@ posts:
   - medias/2026-11-23/2026-11-28_2100_video/reel.mp4
   couverture: medias/2026-11-23/2026-11-28_2100_video/couverture.jpg
   source: 2026-11-28_0800_carro
+- id: 2026-11-29_0800_carro
+  jour: dimanche
+  date: '2026-11-29'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ta tradition préférée a une *origine* [bizarre]
+    sous_titre: Ce que tu fais chaque année sans savoir pourquoi
+    slides:
+    - titre: Le *gui* du 1er janvier
+      texte: Embrasser quelqu'un sous une branche de gui pourrait venir d'anciennes croyances celtes et romaines
+        sur cette plante, jugée sacrée. Selon certains historiens, le baiser sous le gui serait surtout une mode
+        apparue au XVIIIe siècle. À toi de juger si ça tient la route.
+    - titre: Les *crêpes* de la Chandeleur
+      texte: Le 2 février, on mange des crêpes pour fêter la Chandeleur, dont le nom vient du latin des chandelles.
+        Certains y voient une image du soleil, mais c'est une idée, pas une certitude.
+    - titre: Le *poisson d'avril* en question
+      texte: Une piste souvent citée lie cette farce à la réforme du calendrier au XVIe siècle, quand le Nouvel
+        An passe au 1er janvier. Selon cette idée, les mystifications du 1er avril viendraient de ceux qui n'ont
+        pas suivi le changement, mais l'origine reste discutée.
+    - titre: Les *santons* de Provence
+      texte: Ces petites figurines en terre cuite de la crèche provençale se sont répandues à partir du XVIIIe siècle,
+        quand on a commencé à représenter des personnages du quotidien. Ton voisin boulanger pourrait donc se retrouver
+        dans ta crèche.
+    - titre: Le *muguet* du 1er mai
+      texte: 'Offrir du muguet le 1er mai est une tradition française qui, selon une anecdote racontée souvent,
+        remonterait à une branche offerte à Charles IX en 1561. L''histoire est jolie, mais difficile à vérifier
+        : on peut la prendre comme une légende.'
+    - titre: Le *pain* bénit du dimanche
+      texte: Le pain bénit était distribué à l'église pour partager un morceau avec la communauté, une coutume qui
+        a longtemps accompagné la messe. Aujourd'hui, on en trouve beaucoup moins, mais l'idée du partage à table
+        reste.
+    question_fin: Laquelle de ces *traditions* te paraît la plus absurde ?
+  sujet: Traditions françaises et leur vraie origine, surprenantes
+  legende: 'Tu fais ça chaque année sans savoir pourquoi 😳
+
+
+    On a fouillé l''origine de quelques traditions françaises, et certaines ont des histoires bien plus étranges
+    que prévu. Le baiser sous le gui n''est peut-être pas si ancien que tu le crois.
+
+
+    La dernière tradition vient peut-être d''une histoire de roi et de porte-bonheur 👀
+
+
+    Tu connaissais l''origine de laquelle ? 👇
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu les répètes en soirée.
+
+
+    📤 Partage-le à un ami, celui qui fait toujours semblant de tout savoir 😏.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #traditionsfrancaises #histoiredefrance #anecdotes'
+  medias:
+  - medias/2026-11-23/2026-11-29_0800_carro/01.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/02.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/03.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/04.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/05.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/06.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/07.jpg
+  - medias/2026-11-23/2026-11-29_0800_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-29_0800_carro/01.jpg
+- id: 2026-11-29_1100_carro
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le travail et les pauses'
+  contenu:
+    titre_couverture: 'Le duel France vs Danemark : [PAUSE] et *pause-café* au bureau, qui gagne ?'
+    sous_titre: Le travail et les pauses, version Curioza
+    slides:
+    - titre: Le café, c'est [sacré]
+      texte: En France, la *pause-café* peut durer un bon moment, parfois avec une discussion qui n'a rien à voir
+        avec le boulot. Au Danemark, on pense plutôt à la *fika*… mais elle vient de Suède, ne mélange pas !
+    - titre: Pause *dehors*, même en hiver
+      texte: Au Danemark, sortir prendre l'air pendant la journée semble faire partie des habitudes, même quand
+        il fait froid. Une idée qui fait sourire le Français, plutôt habitué à rester au chaud derrière son bureau.
+    - titre: Le vélo, [meilleure] *pause* ?
+      texte: Beaucoup de Danois se déplacent à vélo au quotidien. Certains y voient une façon de décompresser avant
+        et après le travail. Le Français, lui, préfère souvent sa terrasse pour souffler.
+    - titre: Le déjeuner, *à table* ou [au bureau] ?
+      texte: 'En France, le déjeuner reste un moment qu''on aime prendre assis, parfois long. Au Danemark, beaucoup
+        de gens mangent vite et rentrent tôt : une idée à discuter autour d''un café.'
+    - titre: 'Le duel *final* : qui fait [mieux] ?'
+      texte: 'Les deux pays ont leur façon de souffler : une pause qui se savoure ou une pause qui se planifie.
+        Et si le vrai gagnant savait faire les deux ?'
+    question_fin: Lequel de ces deux *rythmes* de travail te donnerait le plus *envie* de bosser ?
+  sujet: 'Le duel France vs Danemark : le travail et les pauses'
+  legende: 'Pause café ou pause vélo : qui gagne le duel ? ☕🚲
+
+
+    Entre le café qui s''éternise à la française et les pauses prises dehors, même en hiver, le duel France vs Danemark
+    est plus serré qu''on ne le pense. Swipe pour voir où chacun marque des points.
+
+
+    Le dernier slide va te faire changer d''avis sur ta propre pause 👀
+
+
+    Tu fais quelle pause au boulot, café ou dehors ? ☕
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées la prochaine fois que tu rêves de pause.
+
+
+    📤 Partage-le à un ami, à celui ou celle qui passe ses journées à guetter la prochaine pause.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #danemark #travail'
+  medias:
+  - medias/2026-11-23/2026-11-29_1100_carro/01.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/02.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/03.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/04.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/05.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/06.jpg
+  - medias/2026-11-23/2026-11-29_1100_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-29_1100_carro/01.jpg
+- id: 2026-11-29_1300_devin
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 8 + 3 × 11 − 2 = ?'
+  reponse: '39 (piège : 119)'
+  legende: 'La réponse n''est pas 119 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-29_1300_devin/reel.mp4
+  couverture: medias/2026-11-23/2026-11-29_1300_devin/couverture.jpg
+- id: 2026-11-29_1400_carro
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les valeurs à transmettre à un enfant (format qui marche chez Opulancia, formulation neuve)
+  contenu:
+    titre_couverture: 'TRANSMETTRE [valeurs] : CE QUE TON ENFANT RETIENT *vraiment*'
+    sous_titre: Psychologie et cerveau au quotidien
+    slides:
+    - titre: LE [sermon] NE MARCHE PAS
+      texte: 'À mon avis, un enfant retient surtout ce qu''il te voit faire, bien plus que tes discours. Les parents
+        qui montrent l''exemple semblent plus souvent écoutés : *l''exemple* pèse, selon moi, plus que la leçon.'
+    - titre: LA *tirelire* DES GESTES
+      texte: 'Dire merci, ranger, s''excuser : ces petits gestes s''accumulent comme des pièces. Mon idée : la répétition
+        compte souvent plus que le grand discours.'
+    - titre: L'ENNUI, UNE *valeur* OUBLIÉE
+      texte: Laisser un enfant s'ennuyer peut l'aider à inventer, patienter, se débrouiller. Beaucoup de parents
+        y voient une perte de temps, alors que l'idée naît parfois justement là.
+    - titre: PERDRE, ÇA *apprend* AUSSI
+      texte: 'Une défaite bien accompagnée peut aider à construire la résilience. Mon idée : c''est surtout la façon
+        dont l''adulte réagit qui sert de modèle, pas le score.'
+    - titre: LE [mot] QUI PROTÈGE
+      texte: Dire *je me suis trompé* aux enfants peut leur montrer que l'erreur n'est pas une honte. Et ils apprennent
+        aussi que les adultes peuvent changer d'avis.
+    - titre: 'LA VALEUR QUI DURE : *le temps*'
+      texte: Un enfant se souvient rarement du cadeau, souvent du moment partagé. Donner du temps reste, à mon sens,
+        la valeur la plus simple à transmettre et la plus oubliée.
+    question_fin: Quelle valeur tu as *reçue* sans qu'on te la dise ?
+  sujet: Les valeurs à transmettre à un enfant, vues par le cerveau
+  legende: 'Ton enfant ne retient pas tes discours, il retient tes gestes 👀
+
+
+    Imitation, ennui, défaite, erreur : quatre petits mécanismes qui, selon moi, transmettent des valeurs bien plus
+    sûrement que les grandes leçons. Chaque slide donne une piste concrète à tester ce soir.
+
+
+    Sur la dernière slide, une valeur qu''on oublie presque toujours 👀
+
+
+    Quelle valeur tu as reçue de tes parents sans qu''ils te la disent ? 💬
+
+
+    💾 Enregistre ce carrousel pour les relire quand tu te sens à court d''idées pour ton enfant.
+
+
+    📤 Partage-le à un ami, celui qui doute de sa façon d''élever ses enfants en a besoin aujourd''hui.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #parentalite #education #cerveau #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-29_1400_carro/01.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/02.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/03.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/04.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/05.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/06.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/07.jpg
+  - medias/2026-11-23/2026-11-29_1400_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-29_1400_carro/01.jpg
+- id: 2026-11-29_1700_carro
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: Les [objets] de ta chambre d'ado que tu as *forcément* eus
+    sous_titre: Version génération 85-05, sans marques
+    slides:
+    - titre: '[Le] lecteur *anti-chocs*'
+      texte: Ce petit lecteur à cassettes que tu transportais partout. Un coup de trottoir et la musique sautait.
+        Tu appuyais sur stop en croisant les doigts pour que ça reparte.
+    - titre: Le *cahier* à *couverture* en kraft
+      texte: Tu le protégeais avec du papier kraft ou une vieille affiche. Une couverture pour cacher ton emploi
+        du temps, et parfois tes petits secrets.
+    - titre: Le *tapis* de souris *oublié*
+      texte: Une surface en mousse grise, couverte de traces de doigts et de miettes. Il a sûrement vu toute ta
+        vie de bureau, sans jamais être lavé.
+    - titre: La *boîte* à *bijoux* qui chantait
+      texte: Ouvrir le couvercle lançait une petite mélodie pendant qu'une danseuse tournait. Tu la gardais pour
+        tes bracelets en élastique et tes faux colliers.
+    - titre: Les *stickers* qui *collaient* partout
+      texte: Tu les collais sur ton cahier, ton sac, ta trousse et même ton miroir. Des pochettes entières, qu'on
+        échangeait à la récré comme des trésors.
+    - titre: Le *téléphone* à *clapet* sous l'oreiller
+      texte: Pas de forfait illimité, juste quelques messages comptés. Tu le glissais sous ton oreiller la nuit,
+        en espérant qu'un message arrive avant le dodo.
+    question_fin: Lequel t'a le plus *fait replonger* dans ton adolescence ?
+  sujet: Objets de chambre d'ado que tout le monde a eus (1985-2005)
+  legende: 'Ta chambre d''ado te rappelle quelque chose ? 📼
+
+
+    Lecteur à cassettes, cahier couvert de kraft, tapis de souris jamais lavé… On a presque tous eu ces objets,
+    et certains te feront sourire en une seconde. Swipe pour replonger dans ta chambre d''ado.
+
+
+    La dernière slide est celle qui fait toujours grincer des dents 👀
+
+
+    Tu en avais combien dans ta chambre ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta jeunesse.
+
+
+    📤 Partage-le à un ami, lui demander s''il avait le même lecteur que toi.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees2000 #generation85 #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-11-23/2026-11-29_1700_carro/01.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/02.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/03.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/04.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/05.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/06.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/07.jpg
+  - medias/2026-11-23/2026-11-29_1700_carro/08.jpg
+  couverture: medias/2026-11-23/2026-11-29_1700_carro/01.jpg
+- id: 2026-11-29_2000_carro
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: Et si les [monuments] du monde fondaient en *gelée* ?
+    sous_titre: Des lieux mythiques dans des matières bizarres
+    slides:
+    - titre: Une tour en [pâte à modeler]
+      texte: Imagine une tour de *pâte à modeler* vert pomme, avec des empreintes de doigts géantes sur les escaliers.
+        Le sommet ressemble à une boulette oubliée sur une table.
+    - titre: Un pont en *glace* bleutée
+      texte: Un grand pont historique devient une arche de glace translucide. Le soleil passe à travers, et les
+        reflets dessinent des arcs-en-ciel sur l'eau qui coule dessous.
+    - titre: Un château en pièces [plastique]
+      texte: Chaque pierre devient un petit bloc coloré, avec des tenons qui dépassent sur les toits. Un château
+        de conte qui se démonte d'un coup de pied, sans aucune notice.
+    - titre: Une cathédrale en *chocolat* fondu
+      texte: 'Imagine les gargouilles qui coulent comme du chocolat chaud le long des façades. Une idée gourmande,
+        qui pose une question : combien de temps tiendrait-elle au soleil ?'
+    - titre: Une pyramide en [sable] mouillé
+      texte: 'Un monument du désert version château de plage : des seaux renversés, des tours qui s''effondrent
+        doucement. Le vent, lui, se fiche bien de l''histoire.'
+    question_fin: Lequel te donnerait le plus *envie de le goûter* ?
+  sujet: Lieux célèbres transformés en matières inattendues
+  legende: 'Et si les plus beaux monuments du monde étaient en gelée ? 🍮
+
+
+    Pâte à modeler, plastique à briques, glace, chocolat... On a imaginé des lieux célèbres en matières inattendues.
+    Certains sont appétissants, d''autres beaucoup moins.
+
+
+    La dernière slide est la plus délicate à imaginer... 👀
+
+
+    Tu choisirais quel monument en matière bizarre pour ta visite ? 🤔
+
+
+    💾 Enregistre ce carrousel pour t''en souvenir la prochaine fois que tu vois une photo de monument 📌.
+
+
+    📤 Partage-le à un ami, à celui qui rêve de voyager en pâte à modeler 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #art #imagination #insolite'
+  medias:
+  - medias/2026-11-23/2026-11-29_2000_carro/01.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/02.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/03.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/04.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/05.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/06.jpg
+  - medias/2026-11-23/2026-11-29_2000_carro/07.jpg
+  couverture: medias/2026-11-23/2026-11-29_2000_carro/01.jpg
+- id: 2026-11-29_2100_video
+  jour: dimanche
+  date: '2026-11-29'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Lieux célèbres transformés en matières inattendues'
+  accroche: Une [TOUR] en pâte à modeler, ça tient *vraiment* ?
+  legende: 'Une tour en pâte à modeler, sérieusement ? 🤯
+
+
+    Tu construirais ta maison dans quelle matière absurde ? 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #architecture #saviezvous'
+  medias:
+  - medias/2026-11-23/2026-11-29_2100_video/reel.mp4
+  couverture: medias/2026-11-23/2026-11-29_2100_video/couverture.jpg
+  source: 2026-11-29_2000_carro
