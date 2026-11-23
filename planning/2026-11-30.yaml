@@ -1,0 +1,368 @@
+# PLANNING DE LA SEMAINE — à vérifier avant publication
+# Pour chaque post, change la ligne 'statut' :
+#   a_valider -> pas encore vérifié (NE SERA PAS publié si validation_requise: true)
+#   ok        -> validé, sera publié automatiquement à l'heure prévue
+#   refuse    -> ne sera jamais publié
+# Raccourci : mets 'tout_valider: true' pour valider d'un coup tous les posts 'a_valider'.
+# Tu peux aussi modifier 'legende' ou 'heure' directement ici.
+
+semaine: '2026-11-30'
+phase: normal
+tout_valider: false
+genere_le: 2026-11-23T09:03
+posts:
+- id: 2026-11-30_0800_carro
+  jour: lundi
+  date: '2026-11-30'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des aliments géants posés au milieu de paysages naturels
+  contenu:
+    titre_couverture: Et si ton *goûter* débarquait en [XXL] au milieu de la nature ?
+    sous_titre: Le carrousel qui fait passer la faim… et le fou rire
+    slides:
+    - titre: '[Pain] de mie géant, *sur la falaise*'
+      texte: Une tranche de pain de mie de la taille d'un immeuble, posée au bord d'une falaise. Les mouettes ont
+        l'air d'hésiter à se servir.
+    - titre: Une *pomme de terre* géante dans le *désert*
+      texte: Imagine une patate énorme échouée au milieu des dunes. Le désert, lui, n'a jamais été aussi bien garni.
+    - titre: Un [fromage] troué dans la *forêt*
+      texte: Une meule de fromage géante coincée entre les sapins, avec ses trous bien placés. Les écureuils ont
+        déjà repéré l'entrée.
+    - titre: Des *cerises* géantes sur la *banquise*
+      texte: Des cerises gigantesques, rouges et brillantes, plantées sur la glace polaire. On se demande qui a
+        eu l'idée du dessert.
+    - titre: Une *pastèque* géante au bord du *lac*
+      texte: Une pastèque grande comme une maison, ouverte en deux au bord d'un lac. Les poissons, eux, font la
+        queue pour un morceau.
+    - titre: Un [gâteau] au *sommet* de la montagne
+      texte: Un gâteau au chocolat à plusieurs étages, perché sur un sommet enneigé. Une bougie géante attend qu'on
+        souffle dessus.
+    question_fin: Lequel de ces aliments géants tu *dévorerais* en premier ?
+  sujet: Aliments géants posés dans des paysages naturels, angle original
+  legende: 'Un goûter XXL qui pose des questions 🍎
+
+
+    Pain de mie sur une falaise, patate dans le désert, fromage dans la forêt… On a mis de la nourriture géante
+    dans la nature, et le résultat est franchement absurde. Swipe pour tout voir.
+
+
+    La dernière slide est la plus gourmande, et la plus folle 👀
+
+
+    Tu choisis quel aliment géant pour ton pique-nique ? 🧺
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu auras faim d''absurde 🍰.
+
+
+    📤 Partage-le à un ami, pour qu''il rigole avec toi devant une pastèque de la taille d''une maison 🍉.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #absurde #insolite #imagination'
+  medias:
+  - medias/2026-11-30/2026-11-30_0800_carro/01.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/02.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/03.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/04.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/05.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/06.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/07.jpg
+  - medias/2026-11-30/2026-11-30_0800_carro/08.jpg
+  couverture: medias/2026-11-30/2026-11-30_0800_carro/01.jpg
+- id: 2026-11-30_1100_carro
+  jour: lundi
+  date: '2026-11-30'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le supermarché'
+  contenu:
+    titre_couverture: 'Le duel France vs Belgique : [SUPERMARCHÉ] et *caddies* en guerre'
+    sous_titre: Même panier, deux façons de faire ses courses
+    slides:
+    - titre: Le [caddie] à pièce
+      texte: Dans certains magasins, il faut une pièce pour libérer un caddie. Chez nous, on trouve ça pratique.
+        Chez nos voisins, on se demande si c'est vraiment plus malin.
+    - titre: Frites *au rayon* surgelés
+      texte: Le rayon surgelés, c'est le terrain de jeu des amateurs de frites. Ici, chacun défend sa recette préférée
+        avec beaucoup de conviction, et on peut passer dix minutes devant un seul sachet.
+    - titre: Le [sac] à emporter
+      texte: 'À la caisse, la question du sac fait sourire : on le paie ou on l''apporte de chez soi ? À notre avis,
+        chaque pays a sa petite routine, et c''est ce qui rend le duel amusant.'
+    - titre: Le *frigo* en vitrine
+      texte: Les produits frais se rangent parfois dans des allées réfrigérées très visibles, parfois au fond du
+        magasin. Selon nous, c'est une question d'organisation plus que de grande vérité.
+    - titre: Le *ticket* de caisse
+      texte: Garder son ticket ou le jeter direct ? Certains le scrutent comme un trésor, d'autres le laissent au
+        fond du sac. Et toi, tu fais partie de quel camp ?
+    question_fin: Lequel de ces détails te paraît le plus *absurde* ?
+  sujet: 'Le duel France vs Belgique : le supermarché'
+  legende: 'Ton supermarché, il ressemble à quoi ? 🛒
+
+
+    Même magasin, mêmes caddies, mais des petites différences qui surprennent. Le Français et le Belge ne sont pas
+    d''accord sur tout, et c''est là que ça devient drôle.
+
+
+    La dernière slide va te faire réfléchir à ton ticket de caisse 👀
+
+
+    Tu gardes ton ticket de caisse ou tu le jettes direct ? 🧾
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu fais tes courses et que tu veux briller en soirée.
+
+
+    📤 Partage-le à un ami, celui qui fait ses courses comme un champion et qui va adorer ce duel.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #france #belgique #supermarche'
+  medias:
+  - medias/2026-11-30/2026-11-30_1100_carro/01.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/02.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/03.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/04.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/05.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/06.jpg
+  - medias/2026-11-30/2026-11-30_1100_carro/07.jpg
+  couverture: medias/2026-11-30/2026-11-30_1100_carro/01.jpg
+- id: 2026-11-30_1300_devin
+  jour: lundi
+  date: '2026-11-30'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 9 + 9 × 7 − 8 = ?'
+  reponse: '64 (piège : 118)'
+  legende: 'La réponse n''est pas 118 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-11-30_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-11-30_1300_devin/couverture.jpg
+- id: 2026-11-30_1400_carro
+  jour: lundi
+  date: '2026-11-30'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Phénomènes de la nature qui semblent truqués mais sont réels
+  contenu:
+    titre_couverture: Ça a l'air [truqué] ? Pourtant c'est *la nature* qui fait tout
+    sous_titre: Swipe, tu vas douter de tes yeux
+    slides:
+    - titre: Le sol qui *reflète* le ciel
+      texte: Sur le salar d'Uyuni, en Bolivie, une fine couche d'eau transforme le sol en miroir géant. Après la
+        pluie, le ciel semble se trouver sous tes pieds.
+    - titre: Des halos *autour du soleil*
+      texte: Le halo est ce cercle lumineux qui entoure parfois le soleil. Il est causé par la lumière qui traverse
+        des cristaux de glace en suspension dans l'air. Certains forment des anneaux presque parfaits, qu'on jurerait
+        retouchés.
+    - titre: Une *cascade* qui remonte
+      texte: En Islande, le Háifoss tombe d'environ 120 mètres. Par grand vent, la brume d'eau peut être soufflée
+        vers le haut, et on a parfois l'impression que la cascade remonte.
+    - titre: Des nuages en *forme d'ondes*
+      texte: Les nuages en rouleaux, appelés nuages en ressaut, se forment quand l'air ondule au-dessus des montagnes.
+        On dirait une vague figée dans le ciel, et pourtant c'est bien la nature qui dessine ça.
+    question_fin: Lequel te paraît le plus *faux* alors qu'il est vrai ?
+  sujet: Phénomènes naturels qui semblent truqués mais sont réels
+  legende: 'Non, ce n''est pas Photoshop 😳
+
+
+    Miroir géant, cascade qui semble remonter, nuages en vagues figées : la nature fait des trucs qu''on jurerait
+    retouchés. Swipe pour voir les 4 exemples.
+
+
+    Le dernier exemple est celui que tu vas vouloir vérifier tout de suite 👀
+
+
+    Tu savais déjà lequel de ces phénomènes existait ? 🤔
+
+
+    💾 Enregistre ce carrousel pour pour les prochaines fois que quelqu''un te dit que c''est truqué 📌.
+
+
+    📤 Partage-le à un ami, à celui qui croit tout ce qu''il voit sur les réseaux 😂.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #nature #phenomenesnaturels #saviezvous'
+  medias:
+  - medias/2026-11-30/2026-11-30_1400_carro/01.jpg
+  - medias/2026-11-30/2026-11-30_1400_carro/02.jpg
+  - medias/2026-11-30/2026-11-30_1400_carro/03.jpg
+  - medias/2026-11-30/2026-11-30_1400_carro/04.jpg
+  - medias/2026-11-30/2026-11-30_1400_carro/05.jpg
+  - medias/2026-11-30/2026-11-30_1400_carro/06.jpg
+  couverture: medias/2026-11-30/2026-11-30_1400_carro/01.jpg
+- id: 2026-11-30_1700_carro
+  jour: lundi
+  date: '2026-11-30'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des inventions totalement inutiles mais magnifiques
+  contenu:
+    titre_couverture: Des [INVENTIONS] *totalement inutiles* mais magnifiques
+    sous_titre: Le génie qui ne sert à rien
+    slides:
+    - titre: Le [parapluie] qui protège de rien
+      texte: Un parapluie aux mini-ombrelles en cristal qui se déploient *sans jamais* protéger personne. Franchement,
+        il est magnifique sous la lumière du matin, et ça suffit peut-être.
+    - titre: Une horloge qui *compte les nuages*
+      texte: Ses aiguilles tournent au rythme des formes du ciel. Elle n'indique jamais l'heure, mais elle fait
+        rêver *pendant des heures*.
+    - titre: Une chaise pour [assise] impossible
+      texte: Ses pieds flottent à deux centimètres du sol grâce à des aimants cachés. Confortable en théorie, *impossible
+        à utiliser* en pratique.
+    - titre: Un escalier qui *ne mène nulle part*
+      texte: Des marches en verre soufflé montent vers un plafond fermé, décorées de bougies. C'est absurde, mais
+        on a envie de le monter quand même.
+    - titre: Une lampe qui *éclaire le silence*
+      texte: Elle diffuse une lumière bleue qui fait briller les poussières en suspension. Inutile, mais *tellement*
+        jolie qu'on a envie de la garder pour toujours.
+    question_fin: Laquelle de ces inventions *inutiles* te ferait craquer chez toi ?
+  sujet: Inventions inutiles mais magnifiques, angle absurde
+  legende: 'Une invention inutile, c''est parfois le plus beau des cadeaux 🛠️✨
+
+
+    Parapluie qui ne protège de rien, horloge qui compte les nuages, chaise qui flotte : le génie sans utilité.
+    Swipe pour découvrir les 5 inventions les plus poétiques.
+
+
+    La dernière est si délicate qu''on se demande si elle existe vraiment 👀
+
+
+    Tu aurais posé laquelle dans ton salon, et pourquoi ? 💬
+
+
+    💾 Enregistre ce carrousel pour pour retrouver ces idées le jour où tu veux un objet qui ne sert à rien.
+
+
+    📤 Partage-le à un ami, pour qu''il rigole avec toi devant une chaise qui flotte.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #curiosites #culturegenerale #inventions #insolite #absurde'
+  medias:
+  - medias/2026-11-30/2026-11-30_1700_carro/01.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/02.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/03.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/04.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/05.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/06.jpg
+  - medias/2026-11-30/2026-11-30_1700_carro/07.jpg
+  couverture: medias/2026-11-30/2026-11-30_1700_carro/01.jpg
+- id: 2026-11-30_2000_carro
+  jour: lundi
+  date: '2026-11-30'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les règles de politesse invisibles que tout le monde suit
+  contenu:
+    titre_couverture: Tu suis des [règles] invisibles sans le savoir, et *personne* ne te les a apprises
+    sous_titre: Psychologie au quotidien, version bizarre
+    slides:
+    - titre: Le [silence] de l'ascenseur
+      texte: Dans un ascenseur, la plupart des gens fixent les numéros d'étage. Personne n'a signé ce pacte, et
+        pourtant beaucoup le respectent. On peut y voir une *norme sociale* que chacun semble suivre sans la discuter.
+    - titre: Le *faux* chemin du couloir
+      texte: Dans un couloir étroit, on se décale souvent du même côté, comme si une règle invisible traçait une
+        voie. À mon avis, c'est un petit ballet de coordination que personne n'a jamais appris en classe.
+    - titre: Le [rire] qui arrive trop tôt
+      texte: Quand quelqu'un raconte une blague qui tombe à plat, on rit quand même, souvent par politesse. Peut-être
+        que le cerveau préfère *éviter le malaise* à un silence gênant.
+    - titre: Le conseil [anti-malaise] à tester
+      texte: Au prochain ascenseur, change de place une fois, juste pour voir. Remarquer ces règles, c'est déjà
+        *reprendre le pouvoir* sur elles.
+    question_fin: Laquelle de ces règles t'a fait sourire en te reconnaissant ?
+  sujet: Règles de politesse invisibles que tout le monde suit
+  legende: 'Tu obéis à des règles que personne n''a écrites 🤫
+
+
+    Ascenseur, couloir, blague ratée : ton cerveau suit peut-être des codes invisibles au quotidien. Swipe pour
+    voir pourquoi tu fais tout ça sans réfléchir.
+
+
+    La dernière slide te propose un petit test à faire dès ta prochaine sortie 👀
+
+
+    Tu connais une règle invisible que tout le monde suit ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu te surprends à faire comme tout le monde.
+
+
+    📤 Partage-le à un ami, à celui qui se place toujours dos à la porte dans l''ascenseur 😅.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #culturegenerale #curiosites #biais'
+  medias:
+  - medias/2026-11-30/2026-11-30_2000_carro/01.jpg
+  - medias/2026-11-30/2026-11-30_2000_carro/02.jpg
+  - medias/2026-11-30/2026-11-30_2000_carro/03.jpg
+  - medias/2026-11-30/2026-11-30_2000_carro/04.jpg
+  - medias/2026-11-30/2026-11-30_2000_carro/05.jpg
+  - medias/2026-11-30/2026-11-30_2000_carro/06.jpg
+  couverture: medias/2026-11-30/2026-11-30_2000_carro/01.jpg
+- id: 2026-11-30_2100_video
+  jour: lundi
+  date: '2026-11-30'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Aliments géants posés dans des paysages naturels, angle original'
+  accroche: 'Un [PAIN] géant *sur la falaise* : tu crois ça ?'
+  legende: 'Le pain de mie géant a décidé de prendre de la hauteur 🍞⛰️
+
+
+    Tu aurais osé grimper sur la falaise pour le goûter, ou tu préfères le fromage dans la forêt ? 🧀
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #alimentsgeants #artificiel'
+  medias:
+  - medias/2026-11-30/2026-11-30_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-11-30_2100_video/couverture.jpg
+  source: 2026-11-30_0800_carro
