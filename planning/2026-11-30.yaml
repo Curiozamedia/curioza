@@ -9,7 +9,7 @@
 semaine: '2026-11-30'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-23T09:03
+genere_le: 2026-11-24T11:03
 posts:
 - id: 2026-11-30_0800_carro
   jour: lundi
@@ -366,3 +366,362 @@ posts:
   - medias/2026-11-30/2026-11-30_2100_video/reel.mp4
   couverture: medias/2026-11-30/2026-11-30_2100_video/couverture.jpg
   source: 2026-11-30_0800_carro
+- id: 2026-12-01_0800_carro
+  jour: mardi
+  date: '2026-12-01'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les phrases que tous les parents disaient
+  contenu:
+    titre_couverture: Tes parents te disaient [ça] pour une *raison* précise
+    sous_titre: Ce qu'ils voulaient vraiment dire
+    slides:
+    - titre: « Tu vas attraper froid »
+      texte: 'Et si ce n''était pas vraiment une question de température ? Peut-être était-ce le *rituel* qui te
+        forçait à mettre un manteau, même par 20 degrés. Une hypothèse : on ne savait pas toujours quoi faire d''autre.'
+    - titre: « Va jouer dehors ! »
+      texte: 'Pas de téléphone, pas de Wi-Fi, juste une porte et des *heures* de liberté. Le sens caché, à mon avis
+        : fiche-moi la paix deux heures, s''il te plaît.'
+    - titre: « Tu verras quand tu seras grand »
+      texte: La phrase qui clôturait toutes les discussions. Elle cachait peut-être une *réponse* que nos parents
+        n'avaient pas toujours eux-mêmes. Une opinion simple et un peu provocatrice.
+    - titre: « Pose ce couteau, c'est dangereux ! »
+      texte: Chaque goûter était une négociation. Derrière l'inquiétude, il y avait sans doute la *peur* de voir
+        la cuisine transformée en zone de guerre. Tu avoueras que ça arrivait souvent.
+    question_fin: Laquelle t'a fait dire *mot pour mot* à tes propres enfants ?
+  sujet: Phrases que tous les parents disaient aux 85-05, angle décodé
+  legende: 'Tu entends encore la voix de ta mère ? 📣
+
+
+    Ces phrases qu''on prenait pour des ordres cachaient peut-être autre chose. On te décode quatre répliques cultes
+    des années 80-2000. Tu vas te reconnaître.
+
+
+    La dernière phrase est celle qui fait le plus mal à admettre 👀
+
+
+    Quelle phrase de tes parents tu entends encore dans ta tête ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces phrases le jour où tu les répéteras à ton tour.
+
+
+    📤 Partage-le à un ami, qui a grandi avec les mêmes répliques à la maison.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #souvenirsdenfance #culturegenerale #generation85'
+  medias:
+  - medias/2026-11-30/2026-12-01_0800_carro/01.jpg
+  - medias/2026-11-30/2026-12-01_0800_carro/02.jpg
+  - medias/2026-11-30/2026-12-01_0800_carro/03.jpg
+  - medias/2026-11-30/2026-12-01_0800_carro/04.jpg
+  - medias/2026-11-30/2026-12-01_0800_carro/05.jpg
+  - medias/2026-11-30/2026-12-01_0800_carro/06.jpg
+  couverture: medias/2026-11-30/2026-12-01_0800_carro/01.jpg
+- id: 2026-12-01_1100_carro
+  jour: mardi
+  date: '2026-12-01'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux miniatures dans un monde à taille humaine
+  contenu:
+    titre_couverture: Et si les [animaux] devenaient *minuscules* dans NOTRE monde ?
+    sous_titre: Quand c'est toi le géant
+    slides:
+    - titre: Le [hérisson] du métro
+      texte: Un hérisson miniature attend son train sur un quai géant. Chaque *piquant* lui arrive au niveau du
+        genou d'un passager pressé.
+    - titre: Le *pigeon* en colis
+      texte: Imagine un pigeon minuscule qui pousse un carton de livraison plus grand que lui. Le facteur, lui,
+        est un *géant* qui n'a rien vu.
+    - titre: Un *escargot* au volant
+      texte: Un escargot pilote une voiture à taille humaine, le volant plus haut que sa coquille. Il avance lentement,
+        mais il a *tous* les droits de rouler.
+    - titre: Les [abeilles] de la cuisine
+      texte: Imagine une colonie d'abeilles miniatures qui s'active autour d'une cafetière géante. Elles ramassent
+        les *gouttes de café* comme des récoltes précieuses.
+    - titre: Le *chat* XXL
+      texte: 'À l''inverse, un chat gigantesque dort sur ton canapé pendant que tu n''as plus de place. Et si la
+        vraie *question* était : qui est le plus petit ?'
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux miniatures dans un monde à taille humaine
+  legende: 'Et si les animaux devenaient minuscules dans NOTRE monde ? 🐭
+
+
+    Un hérisson qui attend le métro, un escargot au volant, des abeilles qui pillent une cafetière géante. Swipe
+    pour voir ton quotidien vu d''en bas.
+
+
+    La dernière slide retourne la situation et pose une question qui pique 👀
+
+
+    Tu préfères être le géant ou la petite bête dans ce scénario ? 🐝
+
+
+    💾 Enregistre ce carrousel pour relire ces scènes quand tu as besoin de rire un coup.
+
+
+    📤 Partage-le à un ami, il rira en imaginant son chat en version XXL 😼.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #animaux #tropfort'
+  medias:
+  - medias/2026-11-30/2026-12-01_1100_carro/01.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/02.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/03.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/04.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/05.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/06.jpg
+  - medias/2026-11-30/2026-12-01_1100_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-01_1100_carro/01.jpg
+- id: 2026-12-01_1300_devin
+  jour: mardi
+  date: '2026-12-01'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 10 + 10 × 10 − 10 = ?'
+  reponse: '100 (piège : 190)'
+  legende: 'La réponse n''est pas 190 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-01_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-12-01_1300_devin/couverture.jpg
+- id: 2026-12-01_1400_carro
+  jour: mardi
+  date: '2026-12-01'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les galères technologiques d'avant (attendre, rembobiner, charger…)
+  contenu:
+    titre_couverture: Avant, la tech te faisait *patienter* [vraiment]
+    sous_titre: Tu te souviens de ces petites tortures de l'époque ?
+    slides:
+    - titre: '[Attendre] la photo, c''était *risqué*'
+      texte: Tu finissais ta pellicule, puis tu attendais des jours avant de voir le résultat. Pas de bouton pour
+        effacer une erreur.
+    - titre: Rembobiner, c'était *tout un art*
+      texte: Avec un crayon glissé dans la cassette, tu tournais la bobine à la main pour retrouver ta chanson préférée.
+        Parfois la bande se froissait.
+    - titre: Le Minitel, [patience] et tonalité
+      texte: Connexion par ligne téléphonique, bip strident, et chaque minute qui pouvait coûter cher. Le « on est
+        connecté » avait parfois une saveur de luxe.
+    - titre: Charger son walkman, *pile* après pile
+      texte: Quatre piles dans le compartiment, et la musique qui ralentissait au milieu d'une chanson. Tu savais
+        déjà quand il fallait s'arrêter.
+    - titre: Le répondeur, [suspense] garanti
+      texte: Tu entendais le clignotement, tu décrochais, et le message pouvait être une voix inconnue ou un simple
+        silence. On réécoutait souvent plusieurs fois.
+    question_fin: Laquelle de ces galères t'a le plus *fait enrager* ?
+  sujet: Galères technologiques d'avant vues par les 85-05, angle inédit
+  legende: 'Tu te souviens de la tonalité du Minitel ? 📟
+
+
+    Avant, la tech n''était pas instantanée. Pellicule, cassette, piles, répondeur : chaque geste demandait de la
+    patience. Cinq galères que la génération 85-05 a peut-être vécues.
+
+
+    La dernière slide est peut-être celle qui fait le plus soupirer nos parents 👀
+
+
+    Tu as connu laquelle, toi ? 💬
+
+
+    💾 Enregistre ce carrousel pour te rappeler ces petites galères à raconter à tes enfants.
+
+
+    📤 Partage-le à un ami, il va sans doute se reconnaître dans au moins une galère 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #annees90 #nostalgie #generation85 #culturegenerale #souvenirs'
+  medias:
+  - medias/2026-11-30/2026-12-01_1400_carro/01.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/02.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/03.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/04.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/05.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/06.jpg
+  - medias/2026-11-30/2026-12-01_1400_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-01_1400_carro/01.jpg
+- id: 2026-12-01_1700_carro
+  jour: mardi
+  date: '2026-12-01'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les objets du quotidien avaient la taille d'un immeuble (un concept, une ville différente par slide)
+  contenu:
+    titre_couverture: Et si ton [quotidien] pesait *lourd* sur la ville ?
+    sous_titre: Six villes, six objets, zéro bon sens
+    slides:
+    - titre: Une [trousse] de 40 étages
+      texte: Imagine une trousse scolaire grande comme une tour de bureaux, ouverte au milieu d'une place. Les *crayons*
+        seraient des mâts de grue et la fermeture éclair un viaduc.
+    - titre: Un *grille-pain* qui tremble
+      texte: Un grille-pain géant poserait ses deux fentes sur deux immeubles. Et la tartine, grande comme un bus
+        à impériale, *sortirait* lentement dans un bruit de moteur.
+    - titre: La [clé] qui bloque la ville
+      texte: Une clé de 200 mètres enfoncée dans la serrure d'une cathédrale. Personne ne sait si elle ouvre ou
+        *ferme* le quartier, et c'est sans doute le plus inquiétant.
+    - titre: Des *chaussettes* en guise de collines
+      texte: Une paire de chaussettes dépliée sur une vallée devient une colline douce. On se demande qui a perdu
+        la seconde, et surtout *pourquoi* elle est encore là.
+    - titre: Le [savon] qui flotte sur le port
+      texte: Un bloc de savon gros comme un paquebot flotte dans le port. Les mouettes l'utilisent comme *perchoir*
+        et la mer mousse doucement autour de lui.
+    - titre: Une *pile* de 300 mètres
+      texte: Une pile AA géante plantée au milieu d'une place alimenterait tout un quartier en silence. Mais qui
+        a décidé qu'elle serait *déchargée* juste avant le dîner ?
+    question_fin: Quel objet *géant* te ferait le plus *flipper* en bas de chez toi ?
+  sujet: 'Objets du quotidien géants : une ville différente par slide'
+  legende: 'Et si ton quotidien prenait la taille d''un immeuble ? 🏙️
+
+
+    Six villes, six objets du quotidien devenus monstrueux : une trousse, un grille-pain, une clé, des chaussettes,
+    un savon et une pile. Chaque décor change, le bon sens reste à la porte.
+
+
+    La dernière slide pose une question que personne n''ose vraiment poser 👀
+
+
+    Tu choisis quel objet géant pour ta ville ? 😄
+
+
+    💾 Enregistre ce carrousel pour les jours où tu as besoin d''un peu de folie visuelle.
+
+
+    📤 Partage-le à un ami, pour voir qui imagine la pile la plus énorme ⚡.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #imaginetonmonde'
+  medias:
+  - medias/2026-11-30/2026-12-01_1700_carro/01.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/02.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/03.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/04.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/05.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/06.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/07.jpg
+  - medias/2026-11-30/2026-12-01_1700_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-01_1700_carro/01.jpg
+- id: 2026-12-01_2000_carro
+  jour: mardi
+  date: '2026-12-01'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les biais du cerveau qui te piègent chaque jour
+  contenu:
+    titre_couverture: Ton cerveau te [MENT] chaque jour, sans prévenir
+    sous_titre: Cinq pièges *ordinaires* que tu ne vois jamais venir
+    slides:
+    - titre: Le biais du [dernier] mot
+      texte: 'Tu retiens souvent ce qui arrive en fin de liste ou de discussion. Certains vendeurs misent peut-être
+        là-dessus : ils gardent leur meilleur argument pour la fin.'
+    - titre: Le piège du *déjà-vu*
+      texte: Plus tu vois un nom, une pub ou un mot, plus tu le trouves familier. Ton cerveau confond peut-être
+        répétition et vérité.
+    - titre: Le chiffre qui t'*ancre*
+      texte: Le premier nombre que tu entends semble peser sur ton estimation, même s'il n'a rien à voir. C'est
+        sans doute pour ça qu'un prix barré te paraît si malin.
+    - titre: Tu [protèges] ce que tu possèdes
+      texte: Une fois qu'une chose est à toi, tu as peut-être tendance à la trouver plus précieuse. Ce biais de
+        possession pourrait expliquer pourquoi tu tiens à un vieux pull juste parce qu'il est dans ton placard.
+    - titre: L'effet *projecteur* sur toi
+      texte: Tu as parfois l'impression que tout le monde remarque ton erreur, ta coupe de cheveux ou ton tee-shirt.
+        En réalité, il se pourrait que personne ne pense autant à toi que tu le crois.
+    question_fin: Lequel t'a le plus *fait sourire* en te reconnaissant ?
+  sujet: Les biais du cerveau qui te piègent chaque jour
+  legende: 'Ton cerveau triche avec toi, et tu ne le sais pas 🧠
+
+
+    Cinq biais que tu subis peut-être chaque jour, expliqués simplement. Le dernier est celui qui fait le plus rire,
+    parce qu''on y pense tous.
+
+
+    Le dernier piège concerne ton miroir mental, et il est sans doute plus fréquent qu''on croit 👀
+
+
+    Tu t''es reconnu dans lequel ? Dis-le-moi en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour les relire quand tu fais un achat impulsif ou une décision stressante.
+
+
+    📤 Partage-le à un ami, il va sûrement se reconnaître dans au moins deux pièges.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biaiscognitifs #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-30/2026-12-01_2000_carro/01.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/02.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/03.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/04.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/05.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/06.jpg
+  - medias/2026-11-30/2026-12-01_2000_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-01_2000_carro/01.jpg
+- id: 2026-12-01_2100_video
+  jour: mardi
+  date: '2026-12-01'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux miniatures dans un monde à taille humaine'
+  accroche: Le [hérisson] du métro, et ce n'est que le *début*
+  legende: 'Quand la nature prend le métro, tu fais quoi ? 🦔
+
+
+    Tu préfères voyager avec le hérisson du métro ou le pigeon livreur ? Dis-moi en commentaire 👇
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animaux #insolite #reelsfrance'
+  medias:
+  - medias/2026-11-30/2026-12-01_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-12-01_2100_video/couverture.jpg
+  source: 2026-12-01_1100_carro
