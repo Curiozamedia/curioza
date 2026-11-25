@@ -9,7 +9,7 @@
 semaine: '2026-11-30'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-24T11:03
+genere_le: 2026-11-25T10:08
 posts:
 - id: 2026-11-30_0800_carro
   jour: lundi
@@ -725,3 +725,376 @@ posts:
   - medias/2026-11-30/2026-12-01_2100_video/reel.mp4
   couverture: medias/2026-11-30/2026-12-01_2100_video/couverture.jpg
   source: 2026-12-01_1100_carro
+- id: 2026-12-02_0800_carro
+  jour: mercredi
+  date: '2026-12-02'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: La météo d'une autre planète vue depuis une ville française
+  contenu:
+    titre_couverture: Et si la [météo] de Vénus débarquait sur *ta ville* ?
+    sous_titre: Six ciels venus d'ailleurs, depuis ton balcon
+    slides:
+    - titre: '[Pluie] de *diamants* sur Lyon'
+      texte: 'Et si la pluie de diamants qu''on imagine sur Neptune tombait sur Lyon ? L''idée repose sur une hypothèse
+        : la pression y transformerait peut-être le carbone en diamant. Imagine les terrasses des bords de Saône
+        en chantier de pierres précieuses.'
+    - titre: Des *nuages* de rouille à Bordeaux
+      texte: Sur Mars, la poussière de fer donne au ciel sa teinte rougeâtre. Et si cette brume orangée descendait
+        sur les quais de la Garonne un mardi matin ?
+    - titre: Le [vent] de *Jupiter* à Marseille
+      texte: Sur Jupiter, les vents sont parmi les plus violents du Système solaire, bien plus forts que nos tempêtes.
+        Un souffle pareil ferait voler les parasols du Vieux-Port, peut-être jusqu'à la Bonne Mère.
+    - titre: Un *brouillard* glacé sur Lille
+      texte: Sur Terre, la vapeur d'eau peut geler en fines particules de glace. Imagine un brouillard de glace
+        qui recouvre les toits de Lille et fait briller chaque cheminée comme un sapin.
+    - titre: Des *éclairs* violets à Nice
+      texte: Sur certaines planètes géantes, on soupçonne des éclairs bien plus puissants que sur Terre. Un orage
+        de cette trempe illuminerait la Promenade des Anglais comme un concert de néons.
+    - titre: La [neige] de *méthane* en Alsace
+      texte: Sur Titan, une lune de Saturne, on pense qu'il pourrait pleuvoir du méthane liquide. Et si les sapins
+        de Colmar se couvraient d'une neige qui ne fond jamais ?
+    question_fin: Quelle météo extraterrestre t'*enverrait* faire un tour dehors ?
+  sujet: Météo d'une autre planète vue depuis la France
+  legende: 'Et si le ciel de Vénus ou de Jupiter tombait sur ta ville ? 🪐
+
+
+    On passe en revue six ciels venus d''ailleurs, de la pluie de diamants à la neige de méthane. Chaque ville française
+    devient un décor de science-fiction.
+
+
+    La dernière slide est la plus glaçante, vraiment 👀
+
+
+    Tu choisis quelle planète pour ta ville ? 🌍
+
+
+    💾 Enregistre ce carrousel pour le jour où tu fais la conversation sur la météo de Mars 🔴.
+
+
+    📤 Partage-le à un ami, parce qu''il mérite de regarder le ciel autrement ☄️.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #espace #absurde #meteo'
+  medias:
+  - medias/2026-11-30/2026-12-02_0800_carro/01.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/02.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/03.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/04.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/05.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/06.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/07.jpg
+  - medias/2026-11-30/2026-12-02_0800_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-02_0800_carro/01.jpg
+- id: 2026-12-02_1100_carro
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : le logement'
+  contenu:
+    titre_couverture: 'Le duel France vs Irlande : [chez toi] c''est *quoi* exactement ?'
+    sous_titre: Le logement, vu des deux côtés de la mer d'Irlande
+    slides:
+    - titre: '[Frigo] : le grand écart'
+      texte: Le Français compte les centimètres de son frigo. L'Irlandais, lui, a peut-être une *cuisine* plus large,
+        mais parfois un *four* minuscule. Chacun son petit sacrifice.
+    - titre: '[Chauffage] : pull ou radiateur ?'
+      texte: 'Ici, on rallume le chauffage dès qu''il fait frisquet. Là-bas, on *enfile un pull* et on reste fidèle
+        à la bouilloire. Question : qui a le plus de *courage* en hiver ?'
+    - titre: '[Fenêtres] : la lumière se mérite'
+      texte: Le ciel gris change de couleur à longueur d'année. Un Irlandais peut trouver que *la pluie* fait partie
+        du décor. Le Français, lui, cherche le *soleil* sur son balcon.
+    - titre: '[Jardin] : la pelouse en mode *rêve*'
+      texte: Beaucoup de gens rêvent d'un petit jardin verdoyant. En France, un balcon de quelques mètres carrés
+        fait office d'*oasis*. Qui a la meilleure idée pour se détendre ?
+    - titre: '[Porte] : la couleur compte'
+      texte: En Irlande, la porte d'entrée est souvent peinte de couleurs vives, presque comme une signature. En
+        France, on garde les *volets* discrets. Et toi, tu peindrais ta porte de quelle couleur ?
+    - titre: '[Verdict] : chacun son *chez-soi*'
+      texte: 'Pas de vainqueur absolu : juste deux façons de *habiter* le quotidien. Le Français défend son balcon,
+        l''Irlandais sa porte colorée. Le vrai duel, c''est celui du bon sens.'
+    question_fin: Lequel de ces logements te donnerait le plus *envie* de rester chez toi ?
+  sujet: 'Le duel France vs Irlande : le logement du quotidien'
+  legende: 'Le duel France vs Irlande, version logement 🏠
+
+
+    Frigo minuscule contre cuisine XXL, pull contre radiateur, balcon contre jardin : le quotidien se joue dans
+    les détails. Swipe pour voir qui gagne ce duel bien chambreur.
+
+
+    La dernière slide tranche sans trancher, promis 👀
+
+
+    Tu serais team balcon ou team jardin ? 💬
+
+
+    💾 Enregistre ce carrousel pour le prochain déménagement, ou pour te moquer de ton frigo plus tard 🧊.
+
+
+    📤 Partage-le à un ami, celui qui rêve encore de sa maison à la campagne 🌿.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #france #irlande #logement'
+  medias:
+  - medias/2026-11-30/2026-12-02_1100_carro/01.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/02.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/03.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/04.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/05.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/06.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/07.jpg
+  - medias/2026-11-30/2026-12-02_1100_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-02_1100_carro/01.jpg
+- id: 2026-12-02_1300_devin
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 3 × 3 − 3 = ?'
+  reponse: '9 (piège : 15)'
+  legende: 'La réponse n''est pas 15 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-02_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-12-02_1300_devin/couverture.jpg
+- id: 2026-12-02_1400_carro
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les objets de ta chambre d'ado que tu as forcément eus (sans marques)
+  contenu:
+    titre_couverture: 'Ta chambre d''ado en *1995* : [ÉCRAN] ET CASSETTES'
+    sous_titre: Les objets que tu avais forcément, sans le savoir
+    slides:
+    - titre: Le *baladeur* qui sautait
+      texte: Tu le posais sur le lit, tu appuyais trop fort et la musique *sautait* au refrain. La cassette ou le
+        mini-CD, c'était ta vie entière.
+    - titre: Le *cahier de texte* secret
+      texte: Des dessins dans les marges, des mots codés et des pages cachées. Le journal intime version carton
+        couvert de stickers, souvent planqué sous le matelas.
+    - titre: Le *jouet électronique* qui mourait
+      texte: Une petite bestiole en plastique à nourrir, à faire dormir et à nettoyer. La voir mourir en classe,
+        c'était un drame, à coup sûr, pour toi.
+    - titre: Le *poster* sur le mur
+      texte: Un chanteur, un animal ou une voiture de rêve scotchés au mur. Trois punaises, un peu de scotch, et
+        ta chambre devenait ton identité.
+    - titre: Le *téléphone à fil* du couloir
+      texte: Tu le tirais jusqu'au placard pour parler en secret. Le fil emmêlé était la seule intimité possible,
+        et tes parents le savaient.
+    - titre: Le *radiocassette* du dimanche
+      texte: Gros, lourd, avec des piles qui s'épuisaient à une vitesse folle. Tu l'emmenais dans ta chambre pour
+        faire le DJ du dimanche.
+    question_fin: Lequel t'a fait le plus [replonger] ?
+  sujet: Objets de chambre d'ado que tout le monde a eus (1985-2005)
+  legende: 'Ta chambre d''ado en 1995, tu la reconnais ? 📼
+
+
+    Baladeur qui sautait, cahier de texte planqué, jouet électronique qui mourait en classe : des objets que tu
+    avais forcément. Swipe pour retrouver ta chambre.
+
+
+    Le dernier objet est celui que tu cachais le plus, tu vas t''en souvenir 👀
+
+
+    Quel objet de ta chambre tu gardais caché ? 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs quand tu veux replonger dans ta chambre d''ado.
+
+
+    📤 Partage-le à un ami, lui envoyer une photo de ta chambre d''ado et lui demander s''il se reconnaît.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #generation85 #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-02_1400_carro/01.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/02.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/03.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/04.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/05.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/06.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/07.jpg
+  - medias/2026-11-30/2026-12-02_1400_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-02_1400_carro/01.jpg
+- id: 2026-12-02_1700_carro
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Lieux de France aux histoires étonnantes
+  contenu:
+    titre_couverture: Les [lieux] qui cachent des *histoires* de fou en France
+    sous_titre: Six endroits bien réels qui font douter de tout
+    slides:
+    - titre: '[Oradour] et son *silence*'
+      texte: Le village d'Oradour-sur-Glane, en Haute-Vienne, est resté en ruines depuis 1944 et sert aujourd'hui
+        de mémorial. On y entre comme dans une ville figée dans le temps, et on sent que le silence pèse lourd.
+    - titre: Le village *englouti* du lac
+      texte: En France, des villages ont été noyés sous des lacs de barrage. Quand la sécheresse fait baisser le
+        niveau de l'eau, certains clochers peuvent réapparaître à la surface.
+    - titre: Une ville [sous] la terre
+      texte: Sous Paris, d'anciennes carrières de calcaire forment un immense réseau. Les *catacombes* abritent
+        les ossements de nombreux Parisiens, transférés au XVIIIe siècle depuis les cimetières saturés.
+    - titre: La maison *pendue* au rocher
+      texte: Sur la côte bretonne et ailleurs, certaines maisons ont été bâties à flanc de falaise ou de pente rocheuse.
+        Vues d'en bas, on jurerait qu'elles défient la gravité.
+    - titre: Le château des *ruines* romantiques
+      texte: Les ruines de châteaux médiévaux sont partout en France. Au XIXe siècle, les romantiques les peignaient
+        souvent pour leur côté mélancolique, et on peut penser qu'elles inspirent encore aujourd'hui.
+    - titre: Le lieu qui *n'existe* pas
+      texte: Certains lieux n'existent que sur les cartes. Pour repérer les copies, des cartographes glissent parfois
+        de fausses rues ou villes, appelées *villes fantômes* ou *fausses villes*.
+    question_fin: Quel endroit de cette liste irait dans ta *prochaine* balade ?
+  sujet: 'Lieux de France aux histoires étonnantes : villes fantômes et lieux insolites'
+  legende: 'Des villages qui dorment, des villes sous terre : la France a des secrets 🏚️
+
+
+    Entre mémoire tragique, villages engloutis et catacombes, les lieux de France ont des histoires dignes d''un
+    film. Swipe pour découvrir les six plus étonnants.
+
+
+    La dernière slide parle d''une ville qui n''existe peut-être que sur le papier, et pourtant elle figure sur
+    les cartes 👀
+
+
+    Tu connaissais lequel de ces lieux ? 🤔
+
+
+    💾 Enregistre ce carrousel pour retrouver ces lieux le jour où tu feras un road trip 🗺️.
+
+
+    📤 Partage-le à un ami, celui qui rêve de voyages insolites 🚗.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #histoiredefrance #curiosites #lieuxinsolites #france'
+  medias:
+  - medias/2026-11-30/2026-12-02_1700_carro/01.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/02.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/03.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/04.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/05.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/06.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/07.jpg
+  - medias/2026-11-30/2026-12-02_1700_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-02_1700_carro/01.jpg
+- id: 2026-12-02_2000_carro
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des objets d'autrefois réinventés en version futuriste absurde
+  contenu:
+    titre_couverture: LE [PASSÉ] VERSION *FUTUR* ABSURDE
+    sous_titre: Et si ta grand-mère avait eu un grille-pain quantique ?
+    slides:
+    - titre: LE [GRILLE-PAIN] *quantique*
+      texte: Ton vieux grille-pain ne se contente plus de griller. Il *transforme* la tartine en pur délire, et
+        on se demande encore où passe le beurre.
+    - titre: LA [CARTE POSTALE] *hologramme*
+      texte: Fini le timbre qui traîne dans un tiroir. Et si ta carte postale d'autrefois sortait en *hologramme*,
+        pour te montrer la plage en trois dimensions ?
+    - titre: LE [TOURNE-DISQUE] *anti-gravité*
+      texte: Le vinyle tourne en lévitation, au-dessus de la platine. Est-ce un *progrès* ou juste une excuse pour
+        ne plus jamais changer de face ?
+    - titre: LA [MACHINE À ÉCRIRE] *robot*
+      texte: Ta vieille machine à écrire refuse de taper seule. Elle préfère *dicter* ses vers aux *mouches* qui
+        passent, c'est plus poétique.
+    question_fin: Lequel de ces objets tu *garderais* tel quel, sans rien changer ?
+  sujet: Objets d'autrefois réinventés en version futuriste absurde
+  legende: 'Ton grille-pain du futur transforme ta tartine 🍞
+
+
+    On a pris des objets d''autrefois et on les a envoyés dans le futur, version absurde. Grille-pain quantique,
+    carte postale holographique, vinyle en lévitation : et si on les voyait un jour dans nos cuisines ?
+
+
+    La dernière slide est une machine à écrire qui dicte aux mouches, on ne sait pas trop pourquoi 👀
+
+
+    Quel objet d''autrefois tu aimerais voir revenir en version futuriste ? 💬
+
+
+    💾 Enregistre ce carrousel pour te moquer de ton grille-pain la prochaine fois que tu le sors du placard 📌.
+
+
+    📤 Partage-le à un ami, lui demander si son téléphone fixe a aussi fait une mise à jour 📞.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #futur'
+  medias:
+  - medias/2026-11-30/2026-12-02_2000_carro/01.jpg
+  - medias/2026-11-30/2026-12-02_2000_carro/02.jpg
+  - medias/2026-11-30/2026-12-02_2000_carro/03.jpg
+  - medias/2026-11-30/2026-12-02_2000_carro/04.jpg
+  - medias/2026-11-30/2026-12-02_2000_carro/05.jpg
+  - medias/2026-11-30/2026-12-02_2000_carro/06.jpg
+  couverture: medias/2026-11-30/2026-12-02_2000_carro/01.jpg
+- id: 2026-12-02_2100_video
+  jour: mercredi
+  date: '2026-12-02'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Météo d''une autre planète vue depuis la France'
+  accroche: 'La météo de Mars arrive à [Lyon] : *tu vas adorer*'
+  legende: 'Météo extraterrestre disponible en France, accroche-toi 🪐
+
+
+    Tu préfères un parapluie pour les diamants ou un bunker pour les nuages de rouille ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #culturegenerale #curiosites #espace #meteo #savoirinutile'
+  medias:
+  - medias/2026-11-30/2026-12-02_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-12-02_2100_video/couverture.jpg
+  source: 2026-12-02_0800_carro
