@@ -9,7 +9,7 @@
 semaine: '2026-11-30'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-25T10:08
+genere_le: 2026-11-26T09:38
 posts:
 - id: 2026-11-30_0800_carro
   jour: lundi
@@ -1098,3 +1098,368 @@ posts:
   - medias/2026-11-30/2026-12-02_2100_video/reel.mp4
   couverture: medias/2026-11-30/2026-12-02_2100_video/couverture.jpg
   source: 2026-12-02_0800_carro
+- id: 2026-12-03_0800_carro
+  jour: jeudi
+  date: '2026-12-03'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les valeurs à transmettre à un enfant (format qui marche chez Opulancia, formulation neuve)
+  contenu:
+    titre_couverture: Transmettre [une valeur] ne sert à rien si tu *oublies ça*
+    sous_titre: Ce que ton enfant retient vraiment de toi
+    slides:
+    - titre: '[Modèle] avant *discours*'
+      texte: 'Ton enfant copie souvent tes gestes plus que tes paroles. Beaucoup de spécialistes parlent d''apprentissage
+        par imitation : selon toi, qu''est-ce qu''il retient le plus ?'
+    - titre: '*Erreurs* montrées, valeur *gagnée*'
+      texte: 'À ton avis, un enfant qui te voit t''excuser après une erreur apprend-il la réparation ? Essaie de
+        dire tout haut : « je me suis trompé, je corrige ».'
+    - titre: Le *temps d'attente* qui forme
+      texte: Patienter est une valeur qui se transmet, selon nous, surtout par l'exemple. Quand tu attends ton tour
+        sans t'agacer devant lui, il voit la patience en action.
+    - titre: Donne-lui *le choix* du jeu
+      texte: Laisser un enfant choisir une petite chose, comme l'ordre des activités, nourrit à notre avis son autonomie.
+        Une valeur qui se construit à coups de petites décisions.
+    question_fin: Quelle valeur tu *regrettes* de ne pas avoir vue chez tes parents ?
+  sujet: Valeurs à transmettre à un enfant, angle neuf
+  legende: 'Ton enfant ne retient pas tes discours, il retient tes gestes 👀
+
+
+    Quatre idées simples pour transmettre des valeurs sans faire la leçon. Certaines surprennent, d''autres sont
+    à tester dès ce soir.
+
+
+    La dernière slide change la façon dont on parle de l''autorité 👀
+
+
+    Tu penses à quel geste de tes parents qui t''a marqué ? 💬
+
+
+    💾 Enregistre ce carrousel pour les jours où tu oublies que tu es un modèle 📌.
+
+
+    📤 Partage-le à un ami, à celui qui fait trop de discours à table 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #education #parentalite #psychologie #cerveau #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-03_0800_carro/01.jpg
+  - medias/2026-11-30/2026-12-03_0800_carro/02.jpg
+  - medias/2026-11-30/2026-12-03_0800_carro/03.jpg
+  - medias/2026-11-30/2026-12-03_0800_carro/04.jpg
+  - medias/2026-11-30/2026-12-03_0800_carro/05.jpg
+  - medias/2026-11-30/2026-12-03_0800_carro/06.jpg
+  couverture: medias/2026-11-30/2026-12-03_0800_carro/01.jpg
+- id: 2026-12-03_1100_carro
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: L'origine d'expressions françaises que tu dis tous les jours
+  contenu:
+    titre_couverture: Tu dis ça tous les jours, mais tu sais *d'où ça vient* ?
+    sous_titre: Les expressions françaises et leurs origines étonnantes
+    slides:
+    - titre: Poser un [lapin] à quelqu'un
+      texte: 'Ça veut dire donner un rendez-vous et ne pas venir. Une piste parmi d''autres : au marché, on vendait
+        parfois des lapereaux en sac, et l''idée d''un sac qu''on refile à la place d''un *gibier* prête à sourire.
+        Une hypothèse, pas une certitude.'
+    - titre: Avoir une *faim de loup*
+      texte: L'expression est ancienne et renvoie à une époque où les loups rôdaient autour des villages. On peut
+        imaginer une faim assez forte pour braver le froid et la peur. L'image, elle, est plus vieille que tes tartines.
+    - titre: Mettre les [pieds dans le plat]
+      texte: 'Dire tout haut ce qu''on devrait taire, au pire moment. Une idée répandue : l''expression viendrait
+        des repas d''autrefois, où l''on posait les plats au centre de la table. Un convive maladroit pouvait tout
+        renverser.'
+    - titre: Tomber dans les [pommes]
+      texte: S'évanouir, tout simplement. Une hypothèse la rattache aux sels ou au vinaigre qu'on faisait respirer
+        aux personnes malades, parfois posés sur une pomme. Rien n'est sûr, mais l'image reste.
+    - titre: Avoir un *poil* dans la main
+      texte: Être paresseux, ne rien vouloir faire. Une vieille expression qui imagine quelqu'un tellement mou qu'il
+        ne bouge même pas un poil. Et toi, tu en as combien dans la main aujourd'hui ?
+    question_fin: Laquelle de ces expressions tu *utilises* sans jamais y avoir réfléchi ?
+  sujet: Origine d'expressions françaises qu'on dit tous les jours
+  legende: 'Tu dis ça tous les jours sans savoir d''où ça vient 🐇
+
+
+    Des expressions qui sortent toutes seules, mais dont l''origine est bien plus étrange qu''on croit. Entre lapins,
+    loups et pommes, il y a de quoi te griller en soirée. Swipe pour tout découvrir.
+
+
+    La dernière expression vient des repas de famille, et elle te concerne directement 👀
+
+
+    Quelle expression tu vas *dire autrement* désormais ? 😏
+
+
+    💾 Enregistre ce carrousel pour la prochaine fois que tu veux briller à table.
+
+
+    📤 Partage-le à un ami, celui qui parle sans réfléchir et qui *mérite* ce carrousel.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #expressionsfrancaises #histoire #francais'
+  medias:
+  - medias/2026-11-30/2026-12-03_1100_carro/01.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/02.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/03.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/04.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/05.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/06.jpg
+  - medias/2026-11-30/2026-12-03_1100_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-03_1100_carro/01.jpg
+- id: 2026-12-03_1300_devin
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 10 × 11 − 11 = ?'
+  reponse: '102 (piège : 132)'
+  legende: 'La réponse n''est pas 132 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-03_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-12-03_1300_devin/couverture.jpg
+- id: 2026-12-03_1400_carro
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Ta salle de bain, ta cuisine, ton bureau… envahis par une seule chose absurde (ballons, sable, gelée,
+    plumes…)
+  contenu:
+    titre_couverture: Et si ta [maison] était envahie par du *sable* de plage ?
+    sous_titre: Ta salle de bain, ta cuisine, ton bureau… version absurde
+    slides:
+    - titre: Salle de bain en *mousse* géante
+      texte: Imagine ouvrir la douche et découvrir une mousse de savon qui déborde jusqu'au couloir. Le lavabo disparaît,
+        la baignoire aussi. Il ne reste que des bulles qui *tremblent* à chaque pas.
+    - titre: Cuisine remplie de *billes* colorées
+      texte: Le frigo est coincé derrière un mur de billes en plastique. Les placards ne s'ouvrent plus, la cuisinière
+        dépasse à peine. Tu cherches ton couteau, il est *quelque part* sous la vague.
+    - titre: Bureau envahi de *plumes* blanches
+      texte: Ton ordinateur ressemble à un nid d'oiseau. Chaque document est recouvert de plumes qui volent au moindre
+        souffle. Impossible de travailler sans éternuer.
+    - titre: Chambre pleine de *gelée* tremblante
+      texte: Le lit devient une masse rose qui oscille quand tu t'assois. Les murs brillent et la lampe fait des
+        reflets *bizarres*. Dormir, à ce stade, ressemble surtout à une question d'équilibre.
+    - titre: Entrée remplie de *ballons* rouges
+      texte: Tu pousses la porte et une vague de ballons rouges te tombe dessus. Le couloir est bouché jusqu'au
+        plafond. Quelqu'un a sûrement oublié la fête d'anniversaire.
+    question_fin: Laquelle de ces invasions te *ferait* le plus flipper au réveil ?
+  sujet: Ta maison envahie par une matière absurde, angle neuf
+  legende: 'Ta maison envahie par du sable, de la mousse ou de la gelée ? 🏖️
+
+
+    Cinq pièces de ta vie transformées en décor absurde. Entre les billes, les plumes et les ballons, certaines
+    invasions sont sûrement plus flippantes que d''autres.
+
+
+    La dernière slide est celle où tu ne pourras plus ouvrir la porte 👀
+
+
+    Tu choisis quelle pièce à envahir en premier ? 😂
+
+
+    💾 Enregistre ce carrousel pour te rappeler de ne jamais laisser la gelée au frigo 🍮.
+
+
+    📤 Partage-le à un ami, pour que ton pote découvre quelle invasion lui ferait le plus peur 😱.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #maisonIA'
+  medias:
+  - medias/2026-11-30/2026-12-03_1400_carro/01.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/02.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/03.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/04.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/05.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/06.jpg
+  - medias/2026-11-30/2026-12-03_1400_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-03_1400_carro/01.jpg
+- id: 2026-12-03_1700_carro
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les métiers et commerces qui ont disparu de nos rues
+  contenu:
+    titre_couverture: LES [MÉTIERS] QUI ONT DISPARU DE *TES RUES* !
+    sous_titre: Tu les as peut-être croisés sans jamais les remarquer
+    slides:
+    - titre: LE [RÉMOULEUR] DE *ROUE*
+      texte: Il passait dans les rues avec sa meule et son vélo, et aiguisait couteaux et ciseaux *sur place*. Tu
+        le voyais peut-être au coin de la rue dans ton enfance.
+    - titre: LE [VIDÉOCLUB] DU COIN
+      texte: Tu y louais une cassette le samedi soir, *carte de fidélité* glissée dans le portefeuille. Rembobiner
+        était, selon nous, un devoir citoyen.
+    - titre: LE [PORTEUR] DE PAIN *à vélo*
+      texte: Avant l'aube, il pédalait avec des baguettes coincées dans un panier d'osier. Dans certains quartiers,
+        il a disparu bien avant les autres.
+    - titre: LA [CABINE] TÉLÉPHONIQUE
+      texte: Des pièces dans la main, tu appelais maman depuis une cabine en verre. Aujourd'hui, *beaucoup de gens*
+        ne savent plus très bien à quoi elle servait.
+    - titre: LE [MARCHAND] DE *quartier*
+      texte: 'Et si la vraie question était : *qui* remplacera le petit commerçant qui connaissait ton prénom ?
+        Dis-nous celui que tu regrettes le plus.'
+    question_fin: Lequel de ces métiers te manque le *plus* ?
+  sujet: Métiers et commerces disparus de nos rues, 1985-2005
+  legende: 'Ils ont disparu sans prévenir, et pourtant tu les as sans doute tous connus 🛴
+
+
+    Un rémouleur, une cabine téléphonique, un vidéoclub : des souvenirs que tu croyais banals. Swipe pour voir pourquoi
+    ils comptent encore.
+
+
+    Le dernier exemple est celui que personne n''a vu venir 👀
+
+
+    Tu as connu lequel en vrai ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces métiers la prochaine fois que tu passes devant une vitrine
+    vide.
+
+
+    📤 Partage-le à un ami, il va sûrement reconnaître au moins deux souvenirs.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #culturegenerale #souvenirs #anciensmetiers'
+  medias:
+  - medias/2026-11-30/2026-12-03_1700_carro/01.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/02.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/03.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/04.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/05.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/06.jpg
+  - medias/2026-11-30/2026-12-03_1700_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-03_1700_carro/01.jpg
+- id: 2026-12-03_2000_carro
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des lieux célèbres du monde transformés en matière inattendue (gelée, Lego-like, glace, pâte à modeler…),
+    sans marque
+  contenu:
+    titre_couverture: Et si les [monuments] du monde étaient en *gelée* ?
+    sous_titre: Ces lieux mythiques version pâte à modeler, glace ou briques géantes
+    slides:
+    - titre: Une *tour* en [pâte à modeler]
+      texte: Imagine une tour de fer géante façonnée en pâte à modeler multicolore, avec des traces de doigts visibles
+        sur chaque arche. Un *pétrin* parisien version enfant de cinq ans, et ça ne serait pas si mal.
+    - titre: Une *cascade* de [glace] bleue
+      texte: Une chute d'eau gelée, figée en plein saut. On pourrait croire qu'elle ne coule plus depuis des siècles,
+        et le *spectacle* serait sublime, le froid aussi.
+    - titre: Un *château* en [briques] géantes
+      texte: Des milliers de petits blocs empilés pour former un château de conte, avec ses tours et ses douves.
+        Et si on se demandait combien de temps il faudrait pour le démonter ?
+    - titre: Un *Colisée* en [gelée] tremblante
+      texte: Les arcades de l'arène tremblent au moindre souffle, comme un dessert trop mou. À mon avis, un gladiateur
+        glisserait dès le premier pas.
+    - titre: Une *statue* en [sable] soufflé
+      texte: Une statue colossale, toute en sable compact, qui s'effriterait lentement sous le vent. Un chef-d'œuvre
+        éphémère, comme une idée qu'on oublie.
+    - titre: Un *pont* en [caramel] fondu
+      texte: 'Un pont suspendu couleur ambre, qui coule doucement au soleil. Une question se pose : qui oserait
+        le traverser à pied ?'
+    question_fin: Lequel de ces lieux *fondrait* le plus vite sous tes yeux ?
+  sujet: Lieux célèbres du monde transformés en matières inattendues
+  legende: 'Et si les monuments du monde n''étaient plus en pierre ? 🏛️
+
+
+    Gelée qui tremble, glace qui craque, briques qui s''emboîtent : on a transformé six lieux mythiques en matières
+    absurdes. Certaines images donnent presque envie de goûter.
+
+
+    La dernière slide change tout, et on ne peut plus rien prendre au sérieux 👀
+
+
+    Quel monument tu aurais voulu voir en pâte à modeler ? 🤔
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ces idées folles la prochaine fois que tu vois un monument.
+
+
+    📤 Partage-le à un ami, lui demander laquelle de ces matières il choisirait pour sa propre maison.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #ideesfolles'
+  medias:
+  - medias/2026-11-30/2026-12-03_2000_carro/01.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/02.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/03.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/04.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/05.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/06.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/07.jpg
+  - medias/2026-11-30/2026-12-03_2000_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-03_2000_carro/01.jpg
+- id: 2026-12-03_2100_video
+  jour: jeudi
+  date: '2026-12-03'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Ta maison envahie par une matière absurde, angle neuf'
+  accroche: Ta maison peut être envahie par [ABSURDE] en *10 secondes* ?
+  legende: 'Ta cuisine remplie de billes, ça te tente ? 🔮
+
+
+    Quelle matière absurde tu choisirais pour envahir ta maison : mousse, billes, plumes, gelée ou ballons rouges
+    ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #insolite #culturegenerale #ReelsFrance'
+  medias:
+  - medias/2026-11-30/2026-12-03_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-12-03_2100_video/couverture.jpg
+  source: 2026-12-03_1400_carro
