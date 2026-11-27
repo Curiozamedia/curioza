@@ -9,7 +9,7 @@
 semaine: '2026-11-30'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-26T09:38
+genere_le: 2026-11-27T09:49
 posts:
 - id: 2026-11-30_0800_carro
   jour: lundi
@@ -1463,3 +1463,361 @@ posts:
   - medias/2026-11-30/2026-12-03_2100_video/reel.mp4
   couverture: medias/2026-11-30/2026-12-03_2100_video/couverture.jpg
   source: 2026-12-03_1400_carro
+- id: 2026-12-04_0800_carro
+  jour: vendredi
+  date: '2026-12-04'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les fêtes et anniversaires'
+  contenu:
+    titre_couverture: 'LE DUEL *France vs Mexique* : [FÊTES] et anniversaires'
+    sous_titre: Qui fait la fête le mieux ? Round 1 de CURIOZA
+    slides:
+    - titre: Le [gâteau] ou la piñata ?
+      texte: En France, on souffle les bougies et on coupe le gâteau. Au Mexique, on peut casser une *piñata* pleine
+        de bonbons. Deux façons de fêter, aucune n'est meilleure par défaut !
+    - titre: Chanter *fort* ou chanter *ensemble* ?
+      texte: Le *Joyeux anniversaire* se chante vite, parfois faux, et tout le monde se demande quand il s'arrête.
+        Au Mexique, les *Las Mañanitas* se chantent traditionnellement à l'aube, parfois accompagnées de mariachis.
+        Réveille-toi, la fête commence !
+    - titre: Cadeaux *tout de suite* ou *à la fin* ?
+      texte: Chez nous, on ouvre les cadeaux devant tout le monde, parfois avec du papier qui vole partout. Dans
+        certaines familles mexicaines, la fête se prolonge avec les *posadas* en décembre, une tradition de Noël
+        qui se vit en groupe.
+    - titre: Un gâteau *ou* une table *XXL* ?
+      texte: 'Chez nous, la pièce montée a son charme. Au Mexique, les tables de fête sont souvent bien garnies,
+        avec tamales, guacamole et fruits frais. Notre idée : que personne ne reparte le ventre vide.'
+    - titre: Souhaiter *un vœu* ou *en faire un* ?
+      texte: Certains disent que souffler les bougies d'un seul coup porte chance. Pour nous, c'est une tradition
+        populaire, pas une science. Et toi, tu gardes ton vœu secret ou tu le racontes ?
+    question_fin: Lequel de ces rituels te donnerait le plus *envie* de fêter ton prochain anniversaire ?
+  sujet: 'Le duel France vs Mexique : les fêtes et anniversaires'
+  legende: 'Anniversaire à la française ou à la mexicaine ? 🎂
+
+
+    Piñata, mariachis à l''aube, tamales en pagaille : le duel France vs Mexique des fêtes réserve pas mal de surprises.
+    Le Français chambreur n''est pas au bout de ses surprises.
+
+
+    La dernière slide va te faire réfléchir sur les vœux et les bougies 👀
+
+
+    Tu fêtes ton anniversaire plutôt à la française ou à la mexicaine ? 🎉
+
+
+    💾 Enregistre ce carrousel pour retrouver ces idées le jour de ta prochaine fête 🎈.
+
+
+    📤 Partage-le à un ami, pour qu''il compare avec sa propre façon de fêter 🥳.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #mexique #france #anniversaire'
+  medias:
+  - medias/2026-11-30/2026-12-04_0800_carro/01.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/02.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/03.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/04.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/05.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/06.jpg
+  - medias/2026-11-30/2026-12-04_0800_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-04_0800_carro/01.jpg
+- id: 2026-12-04_1100_carro
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des animaux qui ont adopté nos pires habitudes humaines (scroller, faire la queue, râler au volant)
+  contenu:
+    titre_couverture: Quand les [animaux] deviennent *aussi relous* que nous
+    sous_titre: 'Scroll, queue, klaxon : la faune a tout copié'
+    slides:
+    - titre: Le [scroll] infini des pigeons
+      texte: Des pigeons alignés sur un fil électrique, tête baissée, comme s'ils scrollaient. Ils ne relèvent la
+        tête que pour une miette tombée. *Même attitude* que toi à 2 h du matin, non ?
+    - titre: La *file d'attente* des canards
+      texte: Des canards se rangent en file devant un étang, bec tourné vers la sortie du parc, patients et silencieux.
+        Personne n'a annoncé de bus, mais ils attendent quand même, *sans broncher*.
+    - titre: Le [klaxon] des oies
+      texte: 'Une file de bernaches bloquée sur une route de campagne : une oie tend le cou par la fenêtre et crie.
+        Les autres répondent en chœur. On dirait presque un klaxon, version bruit de fond.'
+    - titre: Les *chats* qui squattent la place
+      texte: Un chat se couche en travers d'un passage, refuse de bouger et te regarde comme si la place était à
+        lui. Il a sans doute oublié qu'il n'a pas de ticket, mais il a le sens du timing.
+    - titre: Les [râleurs] du lac
+      texte: 'Des cygnes qui sifflent à chaque canard passé trop près, plumes hérissées, en mode réclamation. Une
+        idée à creuser : et si on était tous un peu des cygnes *de mauvaise humeur* ?'
+    question_fin: Lequel de ces animaux te ressemble le *plus* ?
+  sujet: Animaux qui ont adopté nos pires habitudes humaines
+  legende: 'Les animaux ont copié nos pires habitudes 🐦
+
+
+    Scroll infini, files d''attente, klaxon en rase campagne : la faune a tout adopté. Swipe pour voir qui est le
+    plus relou.
+
+
+    La dernière slide te fera sûrement penser à quelqu''un 👀
+
+
+    Tu te reconnais dans quel animal ? 😂
+
+
+    💾 Enregistre ce carrousel pour te moquer de toi la prochaine fois que tu klaxonnes.
+
+
+    📤 Partage-le à un ami, il va enfin comprendre pourquoi il est comme un cygne 🦢.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #cultureG #curiosites #insolite #absurde #animaux'
+  medias:
+  - medias/2026-11-30/2026-12-04_1100_carro/01.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/02.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/03.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/04.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/05.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/06.jpg
+  - medias/2026-11-30/2026-12-04_1100_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-04_1100_carro/01.jpg
+- id: 2026-12-04_1300_devin
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 12 + 2 × 4 − 12 = ?'
+  reponse: '8 (piège : 44)'
+  legende: 'La réponse n''est pas 44 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-04_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-12-04_1300_devin/couverture.jpg
+- id: 2026-12-04_1400_carro
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: vie
+  concept: Les petites choses que ton cerveau fait pour te protéger sans te prévenir
+  contenu:
+    titre_couverture: Ton cerveau [TRICHE] pour te *protéger* sans te prévenir
+    sous_titre: Quatre petites magouilles intérieures que tu ne vois jamais
+    slides:
+    - titre: Il [EFFACE] ce qui dérange
+      texte: Ton cerveau oublie souvent les détails pénibles, surtout les *gênes* et les *échecs* de la veille.
+        Certains chercheurs y voient un filtre utile, mais ça reste une piste, pas une certitude.
+    - titre: Il *exagère* le danger
+      texte: Un bruit flou dans la nuit te fait sursauter plus fort que nécessaire. À ton avis, ton système d'alarme
+        préfère-t-il un faux *positif* à un risque manqué ?
+    - titre: Il te fait *croire* ce que tu veux
+      texte: Face à une info qui te dérange, beaucoup de gens cherchent d'abord ce qui la confirme. C'est confortable,
+        et d'après moi ça coûte cher quand il faut trancher.
+    - titre: Il [ÉCONOMISE] ton énergie
+      texte: Dès qu'une action se répète, ton cerveau tend à la ranger en pilote automatique. Pratique pour se brosser
+        les dents, moins pour les habitudes qui te font du tort.
+    question_fin: Lequel de ces mécanismes te met le plus *mal à l'aise* quand tu y penses ?
+  sujet: Mécanismes cérébraux qui te protègent sans prévenir
+  legende: 'Ton cerveau triche pour toi, et tu ne l''as jamais remarqué 🧠
+
+
+    Oubli sélectif, fausses alarmes, confirmation des idées et pilotage automatique : quatre petites magouilles
+    intérieures qui décident souvent à ta place. Swipe pour voir comment les repérer.
+
+
+    La dernière slide explique pourquoi tes mauvaises habitudes sont si confortables 👀
+
+
+    Lequel de ces mécanismes te ressemble le plus ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces mécanismes la prochaine fois que tu te sens bloqué.
+
+
+    📤 Partage-le à un ami, pour que ton pote comprenne enfin pourquoi il oublie toujours ses bonnes résolutions.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #psychologie #cerveau #biais #culturegenerale #curiosites'
+  medias:
+  - medias/2026-11-30/2026-12-04_1400_carro/01.jpg
+  - medias/2026-11-30/2026-12-04_1400_carro/02.jpg
+  - medias/2026-11-30/2026-12-04_1400_carro/03.jpg
+  - medias/2026-11-30/2026-12-04_1400_carro/04.jpg
+  - medias/2026-11-30/2026-12-04_1400_carro/05.jpg
+  - medias/2026-11-30/2026-12-04_1400_carro/06.jpg
+  couverture: medias/2026-11-30/2026-12-04_1400_carro/01.jpg
+- id: 2026-12-04_1700_carro
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Mots français qui viennent d'une autre langue (et pourquoi)
+  contenu:
+    titre_couverture: Ce mot que tu dis en *français* vient peut-être d'[ailleurs]
+    sous_titre: Les emprunts qui ont voyagé avant toi
+    slides:
+    - titre: Le [café] a voyagé en *Turquie*
+      texte: Le mot *café* passe par l'italien, et il pourrait venir du turc *kahve*, lui-même issu de l'arabe.
+        Une boisson qui a fait un long détour avant d'arriver dans nos tasses.
+    - titre: Le *caramel* a des racines *latines*
+      texte: Le mot vient probablement de l'espagnol *caramelo*, qui serait lié à un mot latin désignant le sucre.
+        Le bonbon a donc une étiquette linguistique bien plus ancienne que lui.
+    - titre: Le [pyjama] vient d'*Inde*
+      texte: Le mot vient du hindi-ourdou *pajama*, qui désigne un pantalon ample porté en Asie du Sud. Les Européens
+        l'ont adopté à l'époque moderne, puis l'ont transformé en tenue de nuit.
+    - titre: Le *bistrot* et les *soldats* russes ?
+      texte: 'L''origine du mot est débattue : certains y voient le russe « bystro », vite, lié aux soldats russes
+        entrés à Paris en 1814. C''est une hypothèse, pas une certitude, donc à prendre avec humour.'
+    - titre: Le *ketchup* venu de [Chine] ?
+      texte: Selon une hypothèse, le mot viendrait d'une sauce de poisson fermentée d'Asie du Sud-Est, que des marins
+        européens auraient découverte. Le nom a survécu, mais la recette a beaucoup changé au fil des voyages.
+    question_fin: Quel mot de ta vie de tous les jours a le plus de *voyages* dans son passé ?
+  sujet: Mots français venus d'autres langues, et pourquoi
+  legende: 'Tu parles une langue de voyageurs sans le savoir 🌍
+
+
+    Café, pyjama, caramel : ces mots ont traversé des déserts, des mers et des empires avant de finir dans ta bouche.
+    Certains trajets sont bien documentés, d''autres restent des hypothèses.
+
+
+    Le dernier mot est celui sur lequel les linguistes se disputent encore 👀
+
+
+    Tu connaissais lequel de ces emprunts ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver l''origine de ces mots la prochaine fois que tu les dis.
+
+
+    📤 Partage-le à un ami, qui parle un français plein de surprises.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #etymologie #francais #curiosites #saviezvous'
+  medias:
+  - medias/2026-11-30/2026-12-04_1700_carro/01.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/02.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/03.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/04.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/05.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/06.jpg
+  - medias/2026-11-30/2026-12-04_1700_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-04_1700_carro/01.jpg
+- id: 2026-12-04_2000_carro
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: pays
+  concept: 'Le duel : les transports du quotidien'
+  contenu:
+    titre_couverture: 'LE DUEL FRANCE VS ISLANDE : [TRANSPORTS] *du quotidien*, qui gagne ?'
+    sous_titre: 'Bus, voiture, vélo : deux façons de se déplacer'
+    slides:
+    - titre: LE *métro* OU LE BUS ?
+      texte: À Paris, on se serre dans le métro aux heures de pointe. En Islande, le bus semble être un bon allié
+        quand il pleut à l'horizontale, à condition d'aimer les horaires souples.
+    - titre: LE *vélo* SOUS LA PLUIE
+      texte: Chez nous, le vélo demande du courage et un bon œil sur la météo. Là-bas, on pédale face aux vents
+        violents, et on se dit que le sourire est un bon équipement d'hiver.
+    - titre: LA *voiture* TOUT-TERRAIN
+      texte: Une petite citadine suffit souvent pour traverser Paris. En Islande, beaucoup de gens préfèrent un
+        4x4 pour affronter les gravillons, les gués et les routes qui changent d'humeur.
+    - titre: LE *cheval* ISLANDAIS ?
+      texte: En Islande, le cheval islandais reste un animal très apprécié, connu pour ses allures particulières.
+        Chez nous, on le voit surtout comme un loisir. Et si on le voyait comme un moyen de transport ?
+    - titre: LE *gagnant* DU TRAJET ?
+      texte: 'Le métro est rapide, le bus est fiable, le vélo est sportif. Et toi, ton trajet idéal ressemble à
+        quoi : le tramway parisien ou la route volcanique ?'
+    question_fin: Lequel de ces trajets te paraît le plus *aventureux* ?
+  sujet: 'Le duel France vs Islande : les transports du quotidien'
+  legende: 'Le métro contre la route volcanique, qui gagne ? 🚌
+
+
+    Entre bus sous la pluie, vélo face au vent et 4x4 dans les gués, les transports révèlent deux façons très différentes
+    de se déplacer. Swipe pour voir le duel complet.
+
+
+    La dernière slide pose une question que beaucoup de gens se posent sans jamais y répondre 👀
+
+
+    Tu prendrais quel moyen de transport pour ton trajet du matin ? 💬
+
+
+    💾 Enregistre ce carrousel pour t''en souvenir la prochaine fois que tu rates ton bus 🗺️.
+
+
+    📤 Partage-le à un ami, celui qui se plaint toujours de ses transports en commun 😄.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #islande #transports #voyage'
+  medias:
+  - medias/2026-11-30/2026-12-04_2000_carro/01.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/02.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/03.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/04.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/05.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/06.jpg
+  - medias/2026-11-30/2026-12-04_2000_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-04_2000_carro/01.jpg
+- id: 2026-12-04_2100_video
+  jour: vendredi
+  date: '2026-12-04'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Animaux qui ont adopté nos pires habitudes humaines'
+  accroche: Tu fais pareil que les [pigeons] sans le savoir ?
+  legende: 'Les animaux ont aussi leurs mauvaises habitudes, et elles ressemblent étrangement aux nôtres 😅
+
+
+    Lequel te ressemble le plus : le pigeon qui avance en scrollant ou l''oie qui klaxonne dès qu''on la bouscule
+    ?
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #animaux #insolite #saviezvous'
+  medias:
+  - medias/2026-11-30/2026-12-04_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-12-04_2100_video/couverture.jpg
+  source: 2026-12-04_1100_carro
