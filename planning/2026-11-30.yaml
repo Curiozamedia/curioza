@@ -9,7 +9,7 @@
 semaine: '2026-11-30'
 phase: normal
 tout_valider: false
-genere_le: 2026-11-27T09:49
+genere_le: 2026-11-28T09:01
 posts:
 - id: 2026-11-30_0800_carro
   jour: lundi
@@ -1821,3 +1821,361 @@ posts:
   - medias/2026-11-30/2026-12-04_2100_video/reel.mp4
   couverture: medias/2026-11-30/2026-12-04_2100_video/couverture.jpg
   source: 2026-12-04_1100_carro
+- id: 2026-12-05_0800_carro
+  jour: samedi
+  date: '2026-12-05'
+  heure: 08:00
+  type: carrousel
+  statut: a_valider
+  categorie: anecdote
+  concept: Traditions françaises et leur vraie origine
+  contenu:
+    titre_couverture: Ta [tradition] a une *origine* bien plus bizarre
+    sous_titre: Les traditions françaises ont des origines que tu ne soupçonnes peut-être pas
+    slides:
+    - titre: LE [poisson] *d'avril*
+      texte: Le 1er avril, on fait une blague au passage. Certains historiens pensent que la tradition est liée
+        au changement du calendrier au XVIe siècle, quand le Nouvel An a été repoussé au 1er janvier. Mais l'origine
+        exacte reste débattue.
+    - titre: Le *gui* de Noël
+      texte: Chez les Gaulois, le gui était associé à des rites religieux, mais son lien avec Noël relève surtout
+        de la tradition moderne. Le gui de Noël mêle donc histoire et légende.
+    - titre: La [fève] de la *galette*
+      texte: L'idée d'une fève cachée dans un gâteau existait déjà dans l'Antiquité romaine, sous forme de haricot.
+        Au Moyen Âge, la galette des Rois était liée à la fête de l'Épiphanie, partagée avec les plus pauvres.
+    - titre: Le *muguet* du 1er mai
+      texte: Selon une anecdote souvent racontée, Charles IX aurait offert du muguet à sa cour en 1561. Une belle
+        histoire, mais à prendre avec prudence.
+    - titre: Le *feu* de la Saint-Jean
+      texte: Allumer des feux en plein été viendrait peut-être de vieilles pratiques agricoles, censées protéger
+        les récoltes. Le feu, lui, a survécu bien après les croyances qui l'ont fait naître.
+    question_fin: Laquelle de ces traditions t'a le plus *surpris* ?
+  sujet: Traditions françaises et leur vraie origine, surprenantes
+  legende: 'Ta tradition préférée a peut-être une origine bizarre 🤨
+
+
+    Entre une blague du 1er avril, une fève cachée dans une galette et un bouquet de muguet, on découvre que nos
+    rituels ont souvent une histoire bien plus étrange qu''on croit. Swipe pour les voir toutes.
+
+
+    Dans la dernière slide, une tradition encore plus vieille que tu ne l''imagines 👀
+
+
+    Tu connaissais laquelle de ces origines ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour retrouver ces anecdotes à la prochaine table de fête.
+
+
+    📤 Partage-le à un ami, qui adore les histoires de traditions bizarres.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #histoire #traditionsfrancaises #anecdotes #curiosites'
+  medias:
+  - medias/2026-11-30/2026-12-05_0800_carro/01.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/02.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/03.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/04.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/05.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/06.jpg
+  - medias/2026-11-30/2026-12-05_0800_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-05_0800_carro/01.jpg
+- id: 2026-12-05_1100_carro
+  jour: samedi
+  date: '2026-12-05'
+  heure: '11:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: Les goûters d'école des années 90-2000 (sans marques)
+  contenu:
+    titre_couverture: Ton *goûter* de 16h était une [arme] de négociation
+    sous_titre: Ce qu'on mangeait sans penser, version 85-05
+    slides:
+    - titre: Le [goûter] comme monnaie d'échange
+      texte: Dans la cour, un *goûter* bien garni valait parfois plus qu'un billet. On échangeait, on troquait,
+        on négociait en silence.
+    - titre: Le *papier d'alu* en or massif
+      texte: Une tartine bien emballée dans du papier d'alu, réutilisée le lendemain ? On la pliait avec soin, comme
+        un trésor qu'on ne jetait pas tout de suite.
+    - titre: Le *goûter* qui sentait la maison
+      texte: 'Pain, beurre, un peu de sucre : rien de sophistiqué. Et pourtant, ce goût simple, on le retrouve peut-être
+        encore dès qu''on ouvre une tartine.'
+    - titre: Le *cartable* plein de surprises
+      texte: Entre deux cours, on sortait une compote ou un biscuit du fond du sac. Le goûter était une surprise,
+        presque jamais une routine ennuyeuse.
+    question_fin: Quel goûter t'a le plus *manqué* en grandissant ?
+  sujet: Goûters d'école des années 90-2000, angle inédit
+  legende: 'Ton goûter de 16h était peut-être la vraie monnaie d''échange de la récré 🍪
+
+
+    Troc, papier d''alu réutilisé, cartable-mystère : on se demande comment le goûter rythmait nos journées d''école.
+    Chaque slide ravive un souvenir précis.
+
+
+    La dernière slide va te faire dire que rien n''a vraiment changé 👀
+
+
+    Tu faisais quel troc à la récré ? Dis-le en commentaire 👇
+
+
+    💾 Enregistre ce carrousel pour te replonger dans tes souvenirs de goûter quand tu en as besoin.
+
+
+    📤 Partage-le à un ami, qui a gardé un goûter mythique dans son cartable.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #annees2000 #souvenirsdenfance #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-05_1100_carro/01.jpg
+  - medias/2026-11-30/2026-12-05_1100_carro/02.jpg
+  - medias/2026-11-30/2026-12-05_1100_carro/03.jpg
+  - medias/2026-11-30/2026-12-05_1100_carro/04.jpg
+  - medias/2026-11-30/2026-12-05_1100_carro/05.jpg
+  - medias/2026-11-30/2026-12-05_1100_carro/06.jpg
+  couverture: medias/2026-11-30/2026-12-05_1100_carro/01.jpg
+- id: 2026-12-05_1300_devin
+  jour: samedi
+  date: '2026-12-05'
+  heure: '13:00'
+  type: reel_devinette
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance rythmé ou suspense (type « phonk », « slowed », compte à rebours) — dans l''app :
+    choisis un son marqué d''une flèche ↗ (tendance)'
+  categorie: devinette
+  sujet: 'Devinette : 3 + 3 × 3 − 3 = ?'
+  reponse: '9 (piège : 15)'
+  legende: 'La réponse n''est pas 15 ! 🥴
+
+
+    Prends 5 secondes, calcule de tête… et écris ta réponse en commentaire 👇
+
+
+    📤 Envoie-la à ton pote qui se croit fort en calcul.
+
+
+    👉 Abonne-toi à @curiozamedia pour le défi de demain !
+
+
+    #defi #calculmental #enigme #casse-tete #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-05_1300_devin/reel.mp4
+  couverture: medias/2026-11-30/2026-12-05_1300_devin/couverture.jpg
+- id: 2026-12-05_1400_carro
+  jour: samedi
+  date: '2026-12-05'
+  heure: '14:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Des paysages célèbres reconstruits en nourriture, à taille réelle
+  contenu:
+    titre_couverture: Et si les [paysages] du monde étaient *faits à manger* ?
+    sous_titre: Le buffet le plus absurde de la planète
+    slides:
+    - titre: Une [falaise] en pain
+      texte: Une falaise de croûte dorée, des strates de *miche* et de *seigle*. Impossible de savoir par où commencer
+        le grignotage.
+    - titre: Un [lac] de sirop
+      texte: Imagine un lac miroir couleur ambre, où chaque vague colle un peu aux doigts. Le *sirop* devient paysage.
+    - titre: Des [dunes] de sucre glace
+      texte: Un désert où le vent soulève de la *poudre blanche*. On dirait de la neige, sauf que ça se mange.
+    - titre: Une [cascade] de chocolat
+      texte: Une chute d'eau remplacée par du *chocolat* fondu, coulant sur des rochers de biscuit. Une idée qui
+        ne dort jamais, selon nous.
+    - titre: Une [forêt] de brocolis
+      texte: Les arbres sont des brocolis, les chemins sont en *carottes* coupées. La balade santé version cauchemar
+        gourmand, à notre avis.
+    question_fin: Lequel tu aurais *dévoré* en premier, et lequel t'aurait donné la nausée ?
+  sujet: Paysages reconstruits en nourriture à taille réelle
+  legende: 'Ton paysage préféré, version dessert et boulangerie 🥖
+
+
+    Falaise de pain, lac de sirop, dunes de sucre glace : on a imaginé la nature reconstruite avec la cuisine. Swipe
+    pour voyager sans jamais avoir faim de la journée.
+
+
+    La dernière slide fait passer la forêt à la salade de légumes, et c''est là que ça devient bizarre 👀
+
+
+    Tu choisis quel paysage à manger en premier ? 🍰
+
+
+    💾 Enregistre ce carrousel pour te souvenir de ce buffet absurde la prochaine fois que tu as faim.
+
+
+    📤 Partage-le à un ami, il va forcément te dire lequel il mangerait en premier 😋.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #insolite #absurde #nourriture'
+  medias:
+  - medias/2026-11-30/2026-12-05_1400_carro/01.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/02.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/03.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/04.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/05.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/06.jpg
+  - medias/2026-11-30/2026-12-05_1400_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-05_1400_carro/01.jpg
+- id: 2026-12-05_1700_carro
+  jour: samedi
+  date: '2026-12-05'
+  heure: '17:00'
+  type: carrousel
+  statut: a_valider
+  categorie: nostalgie
+  concept: 'Les vacances chez les grands-parents : ce qu''on y faisait'
+  contenu:
+    titre_couverture: 'Les vacances chez *Mamie* : [ENCORE] un été sans écran'
+    sous_titre: Ce qu'on faisait là-bas, sans jamais s'en rendre compte
+    slides:
+    - titre: Le [tri] des noix
+      texte: 'Chez mamie, on passait des heures à casser des noix, trier les haricots ou écosser les petits pois.
+        Personne ne parlait de corvée : c''était juste *le programme* de l''après-midi.'
+    - titre: Le *cahier* de recettes
+      texte: 'Une boîte à chaussures pleine de fiches écrites à la main, avec des taches de beurre. Pas de moteur
+        de recherche : la recette, c''était *le savoir de famille* gardé dans un carton.'
+    - titre: Le *jardin* comme terrain de jeu
+      texte: Entre le potager, le cabanon et le tuyau d'arrosage, on inventait des jeux qui ne coûtaient rien. Le
+        meilleur gadget, c'était *une bassine d'eau* et de l'imagination.
+    - titre: La *sieste* obligatoire
+      texte: 'Après le déjeuner, impossible d''y couper : volets mi-clos, drap frais et silence total. Personne
+        ne dormait vraiment, mais on restait *allongé en silence* jusqu''au milieu de l''après-midi.'
+    - titre: Le *vieux* poste de radio
+      texte: Chez mamie, la radio était souvent allumée dans la cuisine. Les émissions de l'après-midi rythmaient
+        les journées, sans *zapping* ni playlist personnalisée.
+    - titre: Les *pièces* du vide-grenier
+      texte: 'Les tiroirs du buffet cachaient des trésors : boutons, cartes postales, vieilles pièces. On fouillait
+        comme des archéologues, et on repartait avec *une poignée de souvenirs* sans grande valeur.'
+    question_fin: Lequel te *rappelle* le plus ton été chez mamie ?
+  sujet: 'Vacances chez les grands-parents : ce qu''on y faisait vraiment'
+  legende: 'Tu cassais des noix chez mamie, toi aussi ? 🥜
+
+
+    Entre les haricots à écosser, la radio souvent allumée et la sieste imposée, les vacances chez les grands-parents
+    avaient leurs règles bien à elles. Swipe pour retrouver les gestes que tu faisais sans y penser.
+
+
+    La dernière slide est celle que personne n''avoue avoir adorée 👀
+
+
+    Quel souvenir de chez tes grands-parents tu n''as jamais oublié ? 💬
+
+
+    💾 Enregistre ce carrousel pour retrouver ces souvenirs le jour où tu auras envie de replonger en enfance 📌.
+
+
+    📤 Partage-le à un ami, pour qu''il replonge avec toi dans les étés d''avant 🌞.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #nostalgie #annees90 #enfance #grandsparents #culturegenerale'
+  medias:
+  - medias/2026-11-30/2026-12-05_1700_carro/01.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/02.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/03.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/04.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/05.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/06.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/07.jpg
+  - medias/2026-11-30/2026-12-05_1700_carro/08.jpg
+  couverture: medias/2026-11-30/2026-12-05_1700_carro/01.jpg
+- id: 2026-12-05_2000_carro
+  jour: samedi
+  date: '2026-12-05'
+  heure: '20:00'
+  type: carrousel
+  statut: a_valider
+  categorie: absurde
+  concept: Et si les animaux de compagnie avaient la taille d'un immeuble en pleine ville (malaise drôle garanti)
+  contenu:
+    titre_couverture: Et si ton [chat] pesait *50 étages* ?
+    sous_titre: Le malaise commence au 3e étage 🐾
+    slides:
+    - titre: Le [chien] qui bloque la rue
+      texte: Un chien de la taille d'un immeuble, c'est *une tendresse hors norme* qui prend tout le trottoir. Et
+        il voudrait sortir promener son humain, lui.
+    - titre: Le *hamster* sous l'immeuble
+      texte: Un hamster géant, c'est une *roue d'entraînement* de la taille d'un stade. Les voisins du dessous entendraient
+        sûrement tout, surtout la nuit.
+    - titre: Le [poisson rouge] en plein centre
+      texte: Ton poisson rouge devenu géant nagerait dans *la fontaine de la place*. Sauf que la fontaine serait
+        bien trop petite pour lui.
+    - titre: Le *lapin* qui grignote la ville
+      texte: Un lapin de la taille d'une tour, c'est une *haie de parc* qui disparaîtrait en un bisou. Les jardiniers
+        auraient sans doute déjà préparé leur CV.
+    - titre: Le [perroquet] au sommet
+      texte: 'Un perroquet géant perché sur *le toit de la mairie* : il répéterait tout ce qu''il entend dans la
+        rue, à voix de tonnerre. Adieu les conversations privées.'
+    question_fin: Lequel t'a mis le plus *mal à l'aise* ?
+  sujet: Animaux de compagnie géants à la taille d'un immeuble en ville
+  legende: 'Imagine ton animal de compagnie à la taille d''un immeuble 🐱
+
+
+    Un chien qui bloque la rue, un hamster qui fait trembler le quartier, un poisson rouge trop grand pour sa fontaine…
+    Swipe, tu vas vite comprendre pourquoi la vie en ville serait un vrai casse-tête.
+
+
+    Le dernier exemple est celui qui fait le plus flipper les jardiniers 👀
+
+
+    Ton animal préféré, tu le verrais où dans ta ville ? 🐾
+
+
+    💾 Enregistre ce carrousel pour retrouver ces exemples la prochaine fois que ton chat dort sur ton clavier.
+
+
+    📤 Partage-le à un ami, pour qu''il panique avec toi devant le perroquet géant.
+
+
+    👉 Abonne-toi à @curiozamedia : de nouvelles curiosités chaque jour !
+
+
+    #culturegenerale #curiosites #absurde #animaux #insolite'
+  medias:
+  - medias/2026-11-30/2026-12-05_2000_carro/01.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/02.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/03.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/04.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/05.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/06.jpg
+  - medias/2026-11-30/2026-12-05_2000_carro/07.jpg
+  couverture: medias/2026-11-30/2026-12-05_2000_carro/01.jpg
+- id: 2026-12-05_2100_video
+  jour: samedi
+  date: '2026-12-05'
+  heure: '21:00'
+  type: reel_video
+  statut: a_valider
+  publication: manuelle
+  son_conseille: 'son tendance drôle ou décalé, ou un « slowed » mystérieux — dans l''app : choisis un son marqué
+    d''une flèche ↗ (tendance)'
+  categorie: absurde
+  sujet: 'Vidéo IA : Paysages reconstruits en nourriture à taille réelle'
+  accroche: Le paysage qui se mange, [rien] de moins que *la falaise*
+  legende: 'Ton Instagram ne mange pas encore de paysages ? 🍞🌄
+
+
+    Tu irais vraiment grignoter une falaise en pain, ou tu préfères la cascade de chocolat ? 🍫
+
+
+    👉 Abonne-toi à @curiozamedia pour ta dose de curiosités chaque jour.
+
+
+    #cultureG #curiosites #paysagesfous #foodart #illustrationIA'
+  medias:
+  - medias/2026-11-30/2026-12-05_2100_video/reel.mp4
+  couverture: medias/2026-11-30/2026-12-05_2100_video/couverture.jpg
+  source: 2026-12-05_1400_carro
